@@ -6,9 +6,9 @@ second purpose is to share with and learn from others. Feel free to
 
 # Biology
 
-Biology is the [study of life](https://en.wikipedia.org/wiki/Biology#History). There's
-[no agreement](https://en.wikipedia.org/wiki/Life) on what life is. For me, life is something that reduces or 
-counteracts [entropy](https://en.wikipedia.org/wiki/Introduction_to_entropy).
+Biology is the [study of life](https://en.wikipedia.org/wiki/Biology#History). The definition of life is
+[controversial](https://en.wikipedia.org/wiki/Life). For me, life is something that reduces or counteracts 
+[entropy](https://en.wikipedia.org/wiki/Introduction_to_entropy).
 
 # Big History
 
