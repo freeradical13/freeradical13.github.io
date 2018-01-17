@@ -13,12 +13,14 @@ Biology is the [study of life](https://en.wikipedia.org/wiki/Biology#History). T
 # Big History
 
 The [universe](https://en.wikipedia.org/wiki/Universe) is at least 13.7 billion years old and more than 100 billion
-[light years](https://en.wikipedia.org/wiki/Light-year) in diameter. The planet
-[Earth](https://en.wikipedia.org/wiki/Earth) (and [its solar system](https://en.wikipedia.org/wiki/Solar_System)) formed
-about 4.5 billion years ago. Earth's solar system is part of the
-[Milky Way galaxy](https://en.wikipedia.org/wiki/Milky_Way), which is at least 12 billion years old, contains 
-over 100 billion stars and 100 billion planets, and is over 100,000 light years in diameter. There are over 100 billion 
-[galaxies](https://en.wikipedia.org/wiki/Galaxy) in the universe.
+[light years](https://en.wikipedia.org/wiki/Light-year) in diameter.
+
+The planet [Earth](https://en.wikipedia.org/wiki/Earth) (and [its solar 
+system](https://en.wikipedia.org/wiki/Solar_System)) formed about 4.5 billion years ago. Earth's solar system is part 
+of the [Milky Way galaxy](https://en.wikipedia.org/wiki/Milky_Way), which is at least 12 billion years old, contains 
+over 100 billion stars and 100 billion planets, and is over 100,000 light years in diameter.
+
+There are over 100 billion [galaxies](https://en.wikipedia.org/wiki/Galaxy) in the universe.
 
 # Matter
 
