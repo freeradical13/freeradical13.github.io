@@ -32,24 +32,27 @@ the [nucleus](https://en.wikipedia.org/wiki/Atomic_nucleus), and some number of 
 the nucleus. Atoms are about 10<sup>-10</sup> meters in diameter.
 
 If an atom has an unequal number of protons and electrons, then it is an [ionized 
-atom](https://en.wikipedia.org/wiki/Ion) (either positively [cations] or negatively [anions] charged). The number of 
-protons (its [atomic number](https://en.wikipedia.org/wiki/Atomic_number)) categorizes the atom as a particular 
+atom](https://en.wikipedia.org/wiki/Ion) (either positively charged cations or negatively charged anions). The number 
+of protons (its [atomic number](https://en.wikipedia.org/wiki/Atomic_number)) categorizes the atom as a particular 
 [chemical element](https://en.wikipedia.org/wiki/Chemical_element) (e.g. carbon). The number of neutrons defines the 
 element's [isotope](https://en.wikipedia.org/wiki/Isotope) (e.g. carbon-12). There are four main [states of 
 matter](https://en.wikipedia.org/wiki/State_of_matter): solid, liquid, gas, and plasma.
 
 # Chemistry
 
-A [molecule](https://en.wikipedia.org/wiki/Molecule) is a set of two or more atoms held together by [chemical 
-bond](https://en.wikipedia.org/wiki/Chemical_bond) attraction. Protons are attracted to electrons, whereas electrons 
-are 
-repulsed to other electrons, and protons are repulsed to other protons. A chemical bond is either covalent or 
-electrovalent. A [covalent bond](https://en.wikipedia.org/wiki/Covalent_bond) occurs when two atoms share one or more 
-electrons (the electron-electron and proton-proton repulsion is offset by the attraction between the two atoms' protons 
-and electrons). An [electrovalent bond](https://en.wikipedia.org/wiki/Ionic_bonding) occurs when oppositely charged 
-ions 
+A [molecule](https://en.wikipedia.org/wiki/Molecule) is a set of two or more atoms held together by a [chemical 
+bond](https://en.wikipedia.org/wiki/Chemical_bond). Protons are attracted to electrons, whereas electrons 
+are repulsed to other electrons, and protons are repulsed to other protons.
+
+An [electrovalent bond](https://en.wikipedia.org/wiki/Ionic_bonding) occurs when oppositely charged ions 
 attract each other (usually when electrons transfer from one atom to the other, causing ionization, and thus 
-attraction). An [organic compound](https://en.wikipedia.org/wiki/Organic_compound) is a molecule that has carbon.
+attraction).
+
+A [covalent bond](https://en.wikipedia.org/wiki/Covalent_bond) occurs when two atoms share one or more 
+electrons (the electron-electron and proton-proton repulsion is offset by the attraction between the two atoms' protons 
+and electrons).
+
+An [organic compound](https://en.wikipedia.org/wiki/Organic_compound) is a molecule that has carbon.
 
 # Temperature
 
@@ -71,6 +74,11 @@ iron](https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heav
 the universe are produced by [certain stars' s-processes](https://en.wikipedia.org/wiki/S-process) and [stars' 
 explosion in a supernova or collapse into a black hole or neutron star](https://en.wikipedia.org/wiki/R-process).
 
+# History of Life
+
+Oceans formed on Earth about [4.4 billion years 
+ago](https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth).
+
 # Cells
 
 A [cell](https://en.wikipedia.org/wiki/Cell_(biology)) is a set of atoms encapsulated in a 
@@ -79,11 +87,6 @@ cell has about [35 billion atoms](http://book.bionumbers.org/what-is-the-element
 body has about [10<sup>27</sup> atoms](http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/).
 
 An [organism](https://en.wikipedia.org/wiki/Organism) is a set of one or more cells.
-
-# History of Life
-
-Oceans formed on Earth about [4.4 billion years 
-ago](https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth).
 
 # Feedback
 
