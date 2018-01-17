@@ -95,4 +95,8 @@ var elements = document.getElementsByClassName("project-name");
 if (elements.length) {
   elements[0].innerHTML = "Biology";
 }
+elements = document.getElementsByClassName("project-tagline");
+if (elements.length) {
+  elements[0].innerHTML = "";
+}
 </script>
