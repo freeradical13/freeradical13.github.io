@@ -89,6 +89,11 @@ ago](https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_develop
 
 [Ask a Question or Contribute](https://github.com/freeradical13/freeradical13.github.io/issues)
 
+<style>
+.page-header {
+    padding: 1rem;
+}
+</style>
 <script>
 document.title = "Biology";
 var elements = document.getElementsByClassName("project-name");
