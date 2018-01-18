@@ -99,9 +99,7 @@ An [organism](https://en.wikipedia.org/wiki/Organism) is a set of one or more ce
 
 # Feedback
 
-[Ask a Question or Contribute](https://github.com/freeradical13/freeradical13.github.io/issues)
-
-# References
+[Ask a Question or Contribute][issues]
 
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 
