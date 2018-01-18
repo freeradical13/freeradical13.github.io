@@ -62,7 +62,7 @@ of which combined into plasma [stars][] held together by [gravity][]. At high en
 atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar 
 nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion 
 of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature 
-continues to increase, nuclear fusion produces elements [up to iron][nucleosynthesis of heavy elements]. The remaining 
+continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
 elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosion in a supernova or 
 collapse into a black hole or neutron star][r process].
 
@@ -135,8 +135,7 @@ if (elements.length) {
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
-[nucleosynthesis of heavy elements]: 
-    https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [s process]: https://en.wikipedia.org/wiki/S-process
 [r process]: https://en.wikipedia.org/wiki/R-process
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
