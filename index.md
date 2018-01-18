@@ -2,7 +2,7 @@
 
 The main purpose of this site is to summarize what I've learned because I find the process of summarizing helpful. The
 second purpose is to share with and learn from others. Feel free to
-[correct or add things](https://github.com/freeradical13/freeradical13.github.io/issues).
+[correct or add things][issues].
 
 # Biology
 
@@ -28,10 +28,17 @@ The universe is made of [matter](https://en.wikipedia.org/wiki/Matter) which is 
 space, such as an [atom](https://en.wikipedia.org/wiki/Atoms).
 
 Atoms are made of some number of nucleons (positively charged [protons](https://en.wikipedia.org/wiki/Proton) and 
-neutrally charged [neutrons](https://en.wikipedia.org/wiki/Neutron), the sum of which is the atom's mass number) in 
-the [nucleus](https://en.wikipedia.org/wiki/Atomic_nucleus), and some number of negatively charged 
+neutrally charged [neutrons](https://en.wikipedia.org/wiki/Neutron)) in the atom's
+[nucleus](https://en.wikipedia.org/wiki/Atomic_nucleus), and some number of negatively charged 
 [electrons](https://en.wikipedia.org/wiki/Electron) in [orbitals](https://en.wikipedia.org/wiki/Atomic_orbital) around 
-the nucleus. Atoms are about 10<sup>-10</sup> meters in diameter.
+the nucleus. Protons and electrons have the same magnitude [elementary electric 
+charge](https://en.wikipedia.org/wiki/Elementary_charge), denoted 1e and -1e, respectively.
+
+Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> kilograms (kg), whereas electrons have 
+a much smaller relative mass (9.1×10<sup>−31</sup> kg), so the mass of an atom is considered the sum of the masses of 
+the protons and neutrons, the total number of which is called the atomic mass.
+
+Atoms are about 10<sup>-10</sup> meters in diameter.
 
 If an atom has an unequal number of protons and electrons, then it is an [ionized 
 atom](https://en.wikipedia.org/wiki/Ion) (either positively charged cations or negatively charged anions). The number 
@@ -93,6 +100,10 @@ An [organism](https://en.wikipedia.org/wiki/Organism) is a set of one or more ce
 # Feedback
 
 [Ask a Question or Contribute](https://github.com/freeradical13/freeradical13.github.io/issues)
+
+# References
+
+[issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 
 <style>
 .page-header {
