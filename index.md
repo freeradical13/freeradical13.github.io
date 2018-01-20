@@ -64,10 +64,14 @@ charged. Protons and electrons have the same magnitude [elementary electric char
 [nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. An atomic nucleus 
 is about 10<sup>-10</sup> meters in diameter.
 
+The number of protons is an atom's [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
+carbon). Since protons and neutrons have such a higher mass than electrons, the number of nucleons is considered the 
+atom's [atomic mass][]. The number of neutrons defines the element's [isotope][] which is represented as the element 
+name followed by its atomic mass (e.g. carbon-12). There are four main [states of matter][]: solid, liquid, gas, and 
+plasma.
+
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
-named a cation, and if negative, an anion). The number of protons is its [atomic number][] and categorizes the atom as 
-a particular [chemical element][] (e.g. carbon). The number of neutrons defines the element's [isotope][] (e.g. 
-carbon-12). There are four main [states of matter][]: solid, liquid, gas, and plasma.
+named a cation, and if negative, an anion).
 
 # Chemistry
 
@@ -132,6 +136,7 @@ if (elements.length) {
 </script>
 
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
+[atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
@@ -140,7 +145,6 @@ if (elements.length) {
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
-[chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [definition of life]: https://en.wikipedia.org/wiki/Life
@@ -153,6 +157,7 @@ if (elements.length) {
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
+[element]: https://en.wikipedia.org/wiki/Chemical_element
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
