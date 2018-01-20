@@ -24,9 +24,8 @@ The universe is made of [matter][] which is something that has [mass][] (m) and 
 
 Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 
 [1.6×10<sup>−27</sup>][scientific notation] [kilograms][] (kg), whereas electrons have a much smaller mass of about 
-9.1×10<sup>−31</sup> kg. Protons and neutrons each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m) 
-([proton radius][], [neutron radius][]), whereas electrons have a radius less than [1.0×10<sup>−22</sup>][electron 
-radius].
+9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 
+0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius less than [1.0×10<sup>−22</sup>][electron radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
@@ -61,9 +60,9 @@ charged. Protons and electrons have the same magnitude [elementary electric char
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] (positively charged [protons][] and neutrally charged [neutrons][]) 
-in the atom's [nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. 
-An atomic nucleus is about 10<sup>-10</sup> meters in diameter.
+[Atoms][] are made of some number of [nucleons][] - protons and neutrally charged [neutrons][] - in the atom's 
+[nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. An atomic nucleus 
+is about 10<sup>-10</sup> meters in diameter.
 
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
 named a cation, and if negative, an anion). The number of protons is its [atomic number][] and categorizes the atom as 
