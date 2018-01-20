@@ -5,8 +5,7 @@ second purpose is to share with and learn from others. Feel free to [correct or 
 
 # Biology
 
-Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life]. For me, 
-life is something that reduces or counteracts [entropy][].
+Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
 
 # Big History
 
