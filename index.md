@@ -10,7 +10,7 @@ life is something that reduces or counteracts [entropy][].
 
 # Big History
 
-The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in diameter.
+The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
 The planet [Earth][] (and its [solar system][]) formed about 4.5 billion years ago. Earth's solar system is part 
 of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion 
@@ -20,21 +20,54 @@ There are over 100 billion [galaxies][] in the universe.
 
 # Matter
 
-The universe is made of [matter][] which is something that has mass and takes up space, such as an [atom][].
+The universe is made of [matter][] which is something that has [mass][] (m) and takes up a position in [space][].
 
-Atoms are made of some number of nucleons (positively charged [protons][] and neutrally charged [neutrons][]) in the 
-atom's [nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. Protons and 
-electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively.
+Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 
+[1.6×10<sup>−27</sup>][scientific notation] [kilograms][] (kg), whereas electrons have a much smaller mass of about 
+9.1×10<sup>−31</sup> kg. Protons and neutrons each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m) 
+([proton radius][], [neutron radius][]), whereas electrons have a radius less than [1.0×10<sup>−22</sup>][electron 
+radius].
 
-Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> kilograms (kg), whereas electrons have 
-a much smaller relative mass (9.1×10<sup>−31</sup> kg), so the mass of an atom is considered the sum of the masses of 
-the protons and neutrons, the total number of which is called the atomic mass.
+An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
-Atoms are about 10<sup>-10</sup> meters in diameter.
+1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
+2. An object in motion will stay in motion in a straight line unless a force is applied to push or pull it.
 
-If an atom has an unequal number of protons and electrons, then it is an [ionized atom][ion] (either positively charged 
-cations or negatively charged anions). The number of protons (its [atomic number][]) categorizes the atom as a 
-particular [chemical element][] (e.g. carbon). The number of neutrons defines the element's [isotope][] (e.g. 
+Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
+a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s) or moving at 13 m/s). The [velocity][] 
+(v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s down). The 
+[acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 
+m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter is its mass multiplied by its velocity 
+(p=m×v).
+
+If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
+time (F=dp/dt); or, substituting momentum for acceleration and simplifying, its mass multiplied by its acceleration 
+(F=m×a).
+
+When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
+law] on object A.
+
+# Electric Charge
+
+[Electric charge][] is the property of some forms of matter to apply a positive or negative force on other electrically 
+charged matter. The magnitude of the force is calculated with [Coulomb's law][] which is Coulomb's constant multiplied 
+by the magnitudes of the two charges involved and divided by the square of the distance between the two [particles][], 
+meaning that the force is [inversely proportional][] to the square of the distance. This equation also implies that 
+positive charges repel other positive charges, negative charges repel other negative charges, and positive charges 
+attract negative charges.
+
+Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
+charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively.
+
+# Atoms
+
+[Atoms][] are made of some number of [nucleons][] (positively charged [protons][] and neutrally charged [neutrons][]) 
+in the atom's [nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. 
+An atomic nucleus is about 10<sup>-10</sup> meters in diameter.
+
+If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
+named a cation, and if negative, an anion). The number of protons is its [atomic number][] and categorizes the atom as 
+a particular [chemical element][] (e.g. carbon). The number of neutrons defines the element's [isotope][] (e.g. 
 carbon-12). There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 # Chemistry
@@ -99,48 +132,80 @@ if (elements.length) {
 }
 </script>
 
-[issues]: https://github.com/freeradical13/freeradical13.github.io/issues
-[biology history]: https://en.wikipedia.org/wiki/Biology#History
-[definition of life]: https://en.wikipedia.org/wiki/Life
-[entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
-[universe]: https://en.wikipedia.org/wiki/Universe
-[light years]: https://en.wikipedia.org/wiki/Light-year
-[earth]: https://en.wikipedia.org/wiki/Earth
-[solar system]: https://en.wikipedia.org/wiki/Solar_System
-[milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
-[galaxies]: https://en.wikipedia.org/wiki/Galaxy
-[matter]: https://en.wikipedia.org/wiki/Matter
-[atom]: https://en.wikipedia.org/wiki/Atoms
-[protons]: https://en.wikipedia.org/wiki/Proton
-[neutrons]: https://en.wikipedia.org/wiki/Neutron
-[nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
-[electrons]: https://en.wikipedia.org/wiki/Electron
-[orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
-[elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
+[acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
-[chemical element]: https://en.wikipedia.org/wiki/Chemical_element
-[isotope]: https://en.wikipedia.org/wiki/Isotope
-[ion]: https://en.wikipedia.org/wiki/Ion
-[states of matter]: https://en.wikipedia.org/wiki/State_of_matter
-[molecule]: https://en.wikipedia.org/wiki/Molecule
-[chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
-[electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
-[covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
-[organic compound]: https://en.wikipedia.org/wiki/Organic_compound
-[kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
-[temperature]: https://en.wikipedia.org/wiki/Temperature
-[big bang]: https://en.wikipedia.org/wiki/Big_Bang
-[stars]: https://en.wikipedia.org/wiki/Star
-[gravity]: https://en.wikipedia.org/wiki/Gravity
-[nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
-[stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
-[triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
-[heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
-[s process]: https://en.wikipedia.org/wiki/S-process
-[r process]: https://en.wikipedia.org/wiki/R-process
-[history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
-[cell]: https://en.wikipedia.org/wiki/Cell_(biology)
-[membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
+[big bang]: https://en.wikipedia.org/wiki/Big_Bang
+[biology history]: https://en.wikipedia.org/wiki/Biology#History
+[cell]: https://en.wikipedia.org/wiki/Cell_(biology)
+[chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
+[chemical element]: https://en.wikipedia.org/wiki/Chemical_element
+[coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
+[covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[definition of life]: https://en.wikipedia.org/wiki/Life
+[derivative]: https://en.wikipedia.org/wiki/Derivative#Differentiation
+[diameter]: https://en.wikipedia.org/wiki/Diameter
+[direction]: https://en.wikipedia.org/wiki/Relative_direction
+[distance]: https://en.wikipedia.org/wiki/Distance
+[earth]: https://en.wikipedia.org/wiki/Earth
+[electric charge]: https://en.wikipedia.org/wiki/Electric_charge
+[electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
+[electrons]: https://en.wikipedia.org/wiki/Electron
+[electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
+[elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
+[entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
+[force]: https://en.wikipedia.org/wiki/Force
+[force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[galaxies]: https://en.wikipedia.org/wiki/Galaxy
+[gravity]: https://en.wikipedia.org/wiki/Gravity
+[heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
+[id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
+[inertia]: https://en.wikipedia.org/wiki/Inertia
+[inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
+[ion]: https://en.wikipedia.org/wiki/Ion
+[isotope]: https://en.wikipedia.org/wiki/Isotope
+[issues]: https://github.com/freeradical13/freeradical13.github.io/issues
+[kilograms]: https://en.wikipedia.org/wiki/Kilogram
+[kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
+[light years]: https://en.wikipedia.org/wiki/Light-year
+[magnitude]: https://en.wikipedia.org/wiki/Relative_direction
+[mass]: https://en.wikipedia.org/wiki/Mass
+[matter]: https://en.wikipedia.org/wiki/Matter
+[membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[meters]: https://en.wikipedia.org/wiki/Metre
+[molecule]: https://en.wikipedia.org/wiki/Molecule
+[momentum]: https://en.wikipedia.org/wiki/Momentum
+[milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
+[neutrons]: https://en.wikipedia.org/wiki/Neutron
+[nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
+[nucleons]: https://en.wikipedia.org/wiki/Nucleon
+[nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
+[object]: https://en.wikipedia.org/wiki/Physical_body
+[orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
+[organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
+[particles]: https://en.wikipedia.org/wiki/Particle
+[proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
+[protons]: https://en.wikipedia.org/wiki/Proton
+[r process]: https://en.wikipedia.org/wiki/R-process
+[radius]: https://en.wikipedia.org/wiki/Radius
+[rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
+[s process]: https://en.wikipedia.org/wiki/S-process
+[scientific notation]: https://en.wikipedia.org/wiki/Scientific_notation
+[second]: https://en.wikipedia.org/wiki/Second
+[solar system]: https://en.wikipedia.org/wiki/Solar_System
+[space]: https://en.wikipedia.org/wiki/Space
+[speed]: https://en.wikipedia.org/wiki/Speed
+[stars]: https://en.wikipedia.org/wiki/Star
+[states of matter]: https://en.wikipedia.org/wiki/State_of_matter
+[stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[temperature]: https://en.wikipedia.org/wiki/Temperature
+[time]: https://en.wikipedia.org/wiki/Time
+[triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
+[universe]: https://en.wikipedia.org/wiki/Universe
+[velocity]: https://en.wikipedia.org/wiki/Velocity
