@@ -56,13 +56,14 @@ positive charges repel other positive charges, negative charges repel other nega
 attract negative charges.
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
-charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively.
+charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
+respectively. Neutrons have no charge.
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - protons and neutrally charged [neutrons][] - in the atom's 
-[nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. An atomic nucleus 
-is at least 10<sup>-10</sup> m in diameter.
+[Atoms][] are made of some number of [nucleons][] - protons and neutrons - in the atom's [nucleus][], and some number of 
+negatively charged [electrons][] in [orbitals][] around the nucleus. An atomic nucleus is at least 10<sup>-10</sup> m in 
+diameter.
 
 The number of protons is an atom's [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
 carbon). Since protons and neutrons have such a higher mass than electrons, the number of nucleons is considered the 
