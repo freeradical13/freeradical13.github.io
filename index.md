@@ -62,13 +62,13 @@ charged. Protons and electrons have the same magnitude [elementary electric char
 
 [Atoms][] are made of some number of [nucleons][] - protons and neutrally charged [neutrons][] - in the atom's 
 [nucleus][], and some number of negatively charged [electrons][] in [orbitals][] around the nucleus. An atomic nucleus 
-is about 10<sup>-10</sup> meters in diameter.
+is at least 10<sup>-10</sup> m in diameter.
 
 The number of protons is an atom's [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
 carbon). Since protons and neutrons have such a higher mass than electrons, the number of nucleons is considered the 
-atom's [atomic mass][]. The number of neutrons defines the element's [isotope][] which is represented as the element 
-name followed by its atomic mass (e.g. carbon-12). There are four main [states of matter][]: solid, liquid, gas, and 
-plasma.
+atom's [atomic mass number][atomic mass]. The number of neutrons defines the element's [isotope][] which is represented 
+as the element name followed by its atomic mass number (e.g. carbon-12). There are four main [states of matter][]: 
+solid, liquid, gas, and plasma.
 
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
 named a cation, and if negative, an anion).
