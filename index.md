@@ -3,10 +3,6 @@
 The main purpose of this site is to summarize what I've learned because I find the process of summarizing helpful. The
 second purpose is to share with and learn from others. Feel free to [correct or add things][issues].
 
-# Biology
-
-Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
-
 # Big History
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
@@ -99,6 +95,10 @@ of [helium into carbon and oxygen][triple alpha process] and some neon and heavi
 continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
 elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosion in a supernova or 
 collapse into a black hole or neutron star][r process].
+
+# Biology
+
+Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
 
 # History of Life
 
