@@ -20,7 +20,8 @@ The universe is made of [matter][] which is something that has [mass][] (m) and 
 Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 
 [1.6×10<sup>−27</sup>][scientific notation] [kilograms][] (kg), whereas electrons have a much smaller mass of about 
 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 
-0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius less than [1.0×10<sup>−22</sup>][electron radius].
+0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron 
+radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
@@ -31,8 +32,8 @@ Matter has a [speed][] of movement which is the [rate][] at which its position i
 a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s) or moving at 13 m/s). The [velocity][] 
 (v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s down). The 
 [acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 
-m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter is its mass multiplied by its velocity 
-(p=m×v).
+m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "quantity of motion", is its mass 
+multiplied by its velocity (p=m×v).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (F=dp/dt); or, substituting momentum for acceleration and simplifying, its mass multiplied by its acceleration 
@@ -57,10 +58,10 @@ respectively. Neutrons have no charge.
 # Atoms
 
 [Atoms][] are made of some number of [nucleons][] - protons and neutrons - in the atom's [nucleus][], and some number of 
-[electrons][] in [orbitals][] around the nucleus. An atomic nucleus is at least 10<sup>-10</sup> m in diameter.
+[electrons][] in [orbitals][] around the nucleus. An [atomic nucleus][atoms] is at least 10<sup>-10</sup> m in diameter.
 
-The number of protons is an atom's [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
-carbon). The number of nucleons is considered the atom's [atomic mass number][atomic mass]. The number of neutrons 
+The number of protons is considered the [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
+carbon). The number of nucleons is considered the [atomic mass number][atomic mass]. The number of neutrons 
 defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. 
 carbon-12). There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
@@ -69,14 +70,13 @@ named a cation, and if negative, an anion).
 
 # Chemistry
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][]. Protons are attracted to electrons, 
-whereas electrons are repulsed to other electrons, and protons are repulsed to other protons.
+A [molecule][] is a set of two or more atoms held together by a [chemical bond][].
 
-An [electrovalent bond][] occurs when oppositely charged ions attract each other (usually when electrons transfer from 
+A [covalent bond][] occurs when two atoms share one or more electrons (the electron-electron and proton-proton 
+repulsion is offset by the attraction between the two atoms' protons and electrons).
+
+An [ionic bond][] occurs when oppositely charged ions attract each other (usually when electrons transfer from 
 one atom to the other, causing ionization, and thus attraction).
-
-A [covalent bond][] occurs when two atoms share one or more electrons (the electron-electron and proton-proton repulsion 
-is offset by the attraction between the two atoms' protons and electrons).
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -141,6 +141,7 @@ if (elements.length) {
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
+[biology numbers]: http://bionumbers.hms.harvard.edu/
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
