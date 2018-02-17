@@ -47,11 +47,11 @@ law] on object A.
 
 [Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
 positive or negative force on other electrically charged matter. The magnitude of the force 
-(F=k<sub>e</sub>×(q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>) is calculated with [Coulomb's law][] which is [Coulomb's 
-constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) 
-and divided by the square of the distance between the two [particles][] (r<sup>2</sup>). This equation means that 
-positive charges repel other positive charges, negative charges repel other negative charges, and positive charges 
-attract negative charges (and vice versa).
+(F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)) is calculated with [Coulomb's law][] which is 
+[Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and 
+q<sub>2</sub>) and divided by the square of the distance between the two [particles][] (r<sup>2</sup>). This equation 
+means that positive charges repel other positive charges, negative charges repel other negative charges, and positive 
+charges attract negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
@@ -61,8 +61,7 @@ respectively. Neutrons have no charge.
 
 [Energy][] (E) is the property that must be transferred to an object in order to perform work on, or to heat, it. 
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
-through the [mass-energy equivalence][https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence] equation 
-(E=m×c<sup>2</sup>).
+through the [mass-energy equivalence][] equation (E=m×c<sup>2</sup>).
 
 # Temperature
 
