@@ -36,7 +36,8 @@ m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "q
 multiplied by its velocity (p=m×v).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
-time (F=dp/dt); or, substituting momentum for acceleration and simplifying, its mass multiplied by its acceleration 
+time (F=<span class="italics">d</span>p/<span class="italics">d</span>t); or, substituting momentum for acceleration 
+and simplifying, its mass multiplied by its acceleration 
 (F=m×a).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
@@ -120,6 +121,10 @@ An [organism][] is a set of one or more cells.
 .page-header {
     padding: 1rem;
 }
+
+.italics {
+    font-style: italic;
+}
 </style>
 <script>
 document.title = "Biology";
@@ -147,7 +152,7 @@ if (elements.length) {
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [definition of life]: https://en.wikipedia.org/wiki/Life
-[derivative]: https://en.wikipedia.org/wiki/Derivative#Differentiation
+[derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
