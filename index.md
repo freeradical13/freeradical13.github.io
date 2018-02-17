@@ -25,7 +25,7 @@ radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
-1. An object at rest will stay at rest unless a [force][] (F), measured in [Newtons][] (N), is applied to push or pull 
+1. An object at rest will stay at rest unless a [force][] (F), measured in [newtons][] (N), is applied to push or pull 
 it, and
 2. An object in motion will stay in motion in a straight line unless a force is applied to push or pull it.
 
@@ -45,16 +45,29 @@ law] on object A.
 
 # Electric Charge
 
-[Electric charge][] is the property of some forms of matter to apply a positive or negative force on other electrically 
-charged matter. The magnitude of the force (F=k<sub>e</sub>×(q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>) is calculated 
-with [Coulomb's law][] which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges 
-involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two [particles][] 
-(r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel 
-other negative charges, and positive charges attract negative charges (and vice versa).
+[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
+positive or negative force on other electrically charged matter. The magnitude of the force 
+(F=k<sub>e</sub>×(q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>) is calculated with [Coulomb's law][] which is [Coulomb's 
+constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) 
+and divided by the square of the distance between the two [particles][] (r<sup>2</sup>). This equation means that 
+positive charges repel other positive charges, negative charges repel other negative charges, and positive charges 
+attract negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
 respectively. Neutrons have no charge.
+
+# Energy
+
+[Energy][] (E) is the property that must be transferred to an object in order to perform work on, or to heat, it. 
+Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
+through the [mass-energy equivalence][https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence] equation 
+(E=m×c<sup>2</sup>).
+
+# Temperature
+
+[Kinetic energy][] is the energy possessed due to motion. [Temperature][] is a measure of the average kinetic energy of 
+a set of particles.
 
 # Atoms
 
@@ -91,11 +104,6 @@ An [ionic bond][] occurs when oppositely charged ions attract each other (usuall
 one atom to the other, causing ionization, and thus attraction).
 
 An [organic compound][] is a molecule that has carbon.
-
-# Temperature
-
-[Kinetic energy][] is the energy possessed due to motion. [Temperature][] is a measure of the average kinetic energy of 
-a set of particles.
 
 # Biology
 
@@ -159,11 +167,13 @@ if (elements.length) {
 [distance]: https://en.wikipedia.org/wiki/Distance
 [earth]: https://en.wikipedia.org/wiki/Earth
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
+[electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [element]: https://en.wikipedia.org/wiki/Chemical_element
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
+[energy]: https://en.wikipedia.org/wiki/Energy
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
@@ -183,6 +193,7 @@ if (elements.length) {
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
+[mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [matter]: https://en.wikipedia.org/wiki/Matter
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [meters]: https://en.wikipedia.org/wiki/Metre
