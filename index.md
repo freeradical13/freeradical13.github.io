@@ -25,7 +25,8 @@ radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
-1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
+1. An object at rest will stay at rest unless a [force][] (F), measured in [Newtons][] (N), is applied to push or pull 
+it, and
 2. An object in motion will stay in motion in a straight line unless a force is applied to push or pull it.
 
 Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
@@ -190,6 +191,7 @@ if (elements.length) {
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
+[newtons]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
