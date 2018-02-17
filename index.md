@@ -37,8 +37,7 @@ multiplied by its velocity (p=m×v).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (F=<span class="italics">d</span>p/<span class="italics">d</span>t); or, substituting momentum for acceleration 
-and simplifying, its mass multiplied by its acceleration 
-(F=m×a).
+and simplifying, its mass multiplied by its acceleration (F=m×a).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
@@ -46,11 +45,11 @@ law] on object A.
 # Electric Charge
 
 [Electric charge][] is the property of some forms of matter to apply a positive or negative force on other electrically 
-charged matter. The magnitude of the force is calculated with [Coulomb's law][] which is Coulomb's constant multiplied 
-by the magnitudes of the two charges involved and divided by the square of the distance between the two [particles][], 
-meaning that the force is [inversely proportional][] to the square of the distance. This equation also implies that 
-positive charges repel other positive charges, negative charges repel other negative charges, and positive charges 
-attract negative charges.
+charged matter. The magnitude of the force (F=k<sub>e</sub>×(q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>) is calculated 
+with [Coulomb's law][] which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges 
+involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two [particles][] 
+(r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel 
+other negative charges, and positive charges attract negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
@@ -149,6 +148,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
+[coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [definition of life]: https://en.wikipedia.org/wiki/Life
