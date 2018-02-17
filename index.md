@@ -29,7 +29,7 @@ An [object][] is a collection of matter. An object has an [inertia][], meaning:
 2. An object in motion will stay in motion in a straight line unless a force is applied to push or pull it.
 
 Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
-a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s) or moving at 13 m/s). The [velocity][] 
+a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s). The [velocity][] 
 (v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s down). The 
 [acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 
 m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "quantity of motion", is its mass 
@@ -68,6 +68,17 @@ carbon-12). There are four main [states of matter][]: solid, liquid, gas, and pl
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
 named a cation, and if negative, an anion).
 
+# Big History (Continued)
+
+After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
+of which combined into plasma [stars][] held together by [gravity][]. At high enough temperatures inside stars, 
+hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce 
+[helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows 
+for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star 
+temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
+elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosion in a supernova 
+or collapse into a black hole or neutron star][r process].
+
 # Chemistry
 
 A [molecule][] is a set of two or more atoms held together by a [chemical bond][].
@@ -84,17 +95,6 @@ An [organic compound][] is a molecule that has carbon.
 
 [Kinetic energy][] is the energy possessed due to motion. [Temperature][] is a measure of the average kinetic energy of 
 a set of particles.
-
-# Big History (Continued)
-
-After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
-of which combined into plasma [stars][] held together by [gravity][]. At high enough temperatures inside stars, hydrogen 
-atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar 
-nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion 
-of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature 
-continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
-elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosion in a supernova or 
-collapse into a black hole or neutron star][r process].
 
 # Biology
 
