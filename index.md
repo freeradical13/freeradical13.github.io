@@ -57,6 +57,10 @@ Examples of electrically charged matter are protons, which are positively charge
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
 respectively. Neutrons have no charge.
 
+[Electromagnetic radiation][] represents waves of an electromagnetic field traveling (radiating) through space. The 
+maximum speed of this radiation occurs in a [vacuum][] (space without matter) at the [speed of light][] (c), or 
+approximately 3×10<sup>8</sup> m/s.
+
 # Energy
 
 [Energy][] (E) is the property that must be transferred to an object in order to perform work on, or to heat, it. 
@@ -167,6 +171,7 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
+[electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
@@ -221,6 +226,7 @@ if (elements.length) {
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [space]: https://en.wikipedia.org/wiki/Space
 [speed]: https://en.wikipedia.org/wiki/Speed
+[speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [stars]: https://en.wikipedia.org/wiki/Star
 [states of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
@@ -228,4 +234,5 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [universe]: https://en.wikipedia.org/wiki/Universe
+[vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
