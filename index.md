@@ -60,9 +60,9 @@ respectively. Neutrons have no charge.
 [Electromagnetic radiation][] represents [waves][] of an electromagnetic field traveling (radiating) through space. 
 A wave represents something that repeats over time at a [frequency][] which is how often it repeats per unit 
 time (e.g. once per second). If the unit of time is one second, the unit of frequency is Hertz (Hz). [Wavelength][] 
-is the distance distance the waves covers over one period. The maximum speed of electromagntic radiation occurs in 
-space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
-light is also the maximum speed that any matter can move.
+is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without 
+matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is also 
+the maximum speed that any matter can move.
 
 [Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m.
 
