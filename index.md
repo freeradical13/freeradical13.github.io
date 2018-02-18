@@ -58,13 +58,15 @@ charged. Protons and electrons have the same magnitude [elementary electric char
 respectively. Neutrons have no charge.
 
 [Electromagnetic radiation][] represents [waves][] of an electromagnetic field traveling (radiating) through space. 
-A wave represents something that repeats over time at a [frequency][] which is how often it repeats per unit 
-time (e.g. once per second). If the unit of time is one second, the unit of frequency is Hertz (Hz). [Wavelength][] 
-is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without 
-matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is also 
-the maximum speed that any matter can move.
+A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit 
+time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). 
+[Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in 
+space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
+light is also the maximum speed that any matter can move.
 
-[Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m.
+[Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m. 
+[Infrared][] rediation represents electromagnetic radiation with wavelengths longer than light, and [ultraviolet][] for 
+wavelengths shorter than light.
 
 # Energy
 
@@ -191,8 +193,10 @@ if (elements.length) {
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[hertz]: https://en.wikipedia.org/wiki/Hertz
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
+[infrared]: https://en.wikipedia.org/wiki/Infrared
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
@@ -240,6 +244,7 @@ if (elements.length) {
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
+[ultraviolet]: https://en.wikipedia.org/wiki/Ultraviolet
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
