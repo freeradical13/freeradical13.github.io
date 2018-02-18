@@ -64,9 +64,7 @@ time (e.g. one cycle per second). If the unit of time is one second, the unit of
 space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
 light is also the maximum speed that any matter can move.
 
-[Visible Light][light] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m. 
-[Infrared][] rediation represents electromagnetic radiation with wavelengths longer than light, and [ultraviolet][] for 
-wavelengths shorter than light.
+[Visible Light][light] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m.
 
 # Energy
 
@@ -196,7 +194,6 @@ if (elements.length) {
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
-[infrared]: https://en.wikipedia.org/wiki/Infrared
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
@@ -244,7 +241,6 @@ if (elements.length) {
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
-[ultraviolet]: https://en.wikipedia.org/wiki/Ultraviolet
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
