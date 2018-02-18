@@ -64,7 +64,7 @@ time (e.g. one cycle per second). If the unit of time is one second, the unit of
 space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
 light is also the maximum speed that any matter can move.
 
-[Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m. 
+[Visible Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m. 
 [Infrared][] rediation represents electromagnetic radiation with wavelengths longer than light, and [ultraviolet][] for 
 wavelengths shorter than light.
 
