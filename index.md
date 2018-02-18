@@ -57,9 +57,14 @@ Examples of electrically charged matter are protons, which are positively charge
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
 respectively. Neutrons have no charge.
 
-[Electromagnetic radiation][] represents waves of an electromagnetic field traveling (radiating) through space. The 
-maximum speed of this radiation occurs in a [vacuum][] (space without matter) at the [speed of light][] (c), or 
-approximately 3×10<sup>8</sup> m/s.
+[Electromagnetic radiation][] represents [waves][] of an electromagnetic field traveling (radiating) through space. 
+A wave represents something that repeats over time at a [frequency][] which is how often it repeats per unit 
+time (e.g. once per second). If the unit of time is one second, the unit of frequency is Hertz (Hz). [Wavelength][] 
+is the distance distance the waves covers over one period. The maximum speed of electromagntic radiation occurs in 
+space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
+light is also the maximum speed that any matter can move.
+
+[Light][] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m.
 
 # Energy
 
@@ -182,6 +187,7 @@ if (elements.length) {
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[frequency]: https://en.wikipedia.org/wiki/Frequency
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
@@ -236,3 +242,5 @@ if (elements.length) {
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
+[wavelength]: https://en.wikipedia.org/wiki/Wavelength
+[waves]: https://en.wikipedia.org/wiki/Wave
