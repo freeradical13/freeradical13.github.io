@@ -1,7 +1,8 @@
 # Purpose
 
 The purpose of this site is to explore biology and the things that make up biology. Feel free to [correct or suggest 
-things][issues].
+things][issues]. You may follow updates to this page using [an RSS 
+feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom).
 
 # Big History
 
