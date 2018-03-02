@@ -7,9 +7,9 @@ second purpose is to share with and learn from others. Feel free to [correct or 
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-The planet [Earth][] (and its [solar system][]) formed about 4.5 billion years ago. Earth's solar system is part 
-of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion 
-planets, and is over 100,000 light years in diameter.
+We live on the [planet][] [Earth][] which is part of a [solar system][] with a [star][] at its center. Earth and its 
+star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 
+billion years old, contains over 100 billion stars and 100 billion planets, and is over 100,000 light years in diameter.
 
 There are over 100 billion [galaxies][] in the universe.
 
@@ -93,7 +93,7 @@ named a cation, and if negative, an anion).
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
-of which combined into plasma [stars][] held together by [gravity][]. At high enough temperatures inside stars, 
+of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, 
 hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce 
 [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows 
 for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star 
@@ -223,6 +223,7 @@ if (elements.length) {
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
 [particles]: https://en.wikipedia.org/wiki/Particle
+[planet]: https://en.wikipedia.org/wiki/Planet
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r process]: https://en.wikipedia.org/wiki/R-process
@@ -235,7 +236,7 @@ if (elements.length) {
 [space]: https://en.wikipedia.org/wiki/Space
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
-[stars]: https://en.wikipedia.org/wiki/Star
+[star]: https://en.wikipedia.org/wiki/Star
 [states of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [temperature]: https://en.wikipedia.org/wiki/Temperature
