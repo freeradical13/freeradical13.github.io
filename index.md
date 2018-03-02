@@ -1,7 +1,7 @@
 # Purpose
 
-The main purpose of this site is to summarize what I've learned because I find the process of summarizing helpful. The
-second purpose is to share with and learn from others. Feel free to [correct or add things][issues].
+The purpose of this site is to explore biology and the things that make up biology. Feel free to [correct or suggest 
+things][issues].
 
 # Big History
 
