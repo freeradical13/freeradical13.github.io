@@ -135,11 +135,15 @@ An [organism][] is a set of one or more cells.
 
 <style>
 .page-header {
-    padding: 1rem;
+  padding: 1rem;
+}
+
+.project-tagline {
+  display: none;
 }
 
 .italics {
-    font-style: italic;
+  font-style: italic;
 }
 </style>
 <script>
