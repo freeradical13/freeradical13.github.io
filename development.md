@@ -20,7 +20,7 @@ Install:
 
 Run:
 
-    grip --export index.md index.html
+    grip --export index.md
 
 Automated Linux script:
 
