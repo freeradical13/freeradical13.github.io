@@ -31,16 +31,20 @@ An [object][] is a collection of matter. An object has an [inertia][], meaning:
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
 Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
-a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s). The [velocity][] 
-(v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s down). The 
-[acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 
-m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "quantity of motion", is its mass 
-multiplied by its velocity (<code>p=m×v</code>).
+a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
+
+The [velocity][] (v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s 
+down).
+
+The [acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 
+13 m/s over 1 second, or 13 m/s<sup>2</sup>).
+
+The [momentum][] (p) of matter, or "quantity of motion", is its mass multiplied by its velocity (<code>p=m×v</code>).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
 acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the 
-measured in [newton][] (N).
+[newton][] (N).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
