@@ -151,7 +151,7 @@ An [organism][] is a set of one or more cells.
 }
 </style>
 <script>
-document.title = "Biology";
+//document.title = "Biology";
 var elements = document.getElementsByClassName("project-name");
 if (elements.length) {
   elements[0].innerHTML = "Biology";
