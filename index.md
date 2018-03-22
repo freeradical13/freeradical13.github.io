@@ -143,8 +143,8 @@ An [organism][] is a set of one or more cells.
 
 # Methodology/Meta
 
-* Every time I "context switch" into this subject, I re-read the entire page. This, along with the process of writing
-  itself, seems to maximize retention.
+* Every time I "context switch" into this subject, I re-read the entire page before starting. This, along with the 
+process of writing itself, seems to maximize retention.
 
 <style>
 .page-header {
