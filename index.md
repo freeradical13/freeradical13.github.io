@@ -74,8 +74,8 @@ direction of its motion for one meter. Energy is either [kinetic energy][] if an
 cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored 
 energy.
 
-Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
-through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
+Energy can [neither be created nor destroyed][conservation of energy], but only transformed. Mass can be converted to 
+energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Temperature
 
@@ -173,6 +173,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
+[conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
