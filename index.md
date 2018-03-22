@@ -27,9 +27,8 @@ radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
-1. An object at rest will stay at rest unless a [force][] (F), measured in [newtons][] (N), is applied to push or pull 
-it, and
-2. An object in motion will stay in motion in a straight line unless a force is applied to push or pull it.
+1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
+2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
 Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
 a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s). The [velocity][] 
@@ -40,7 +39,8 @@ multiplied by its velocity (<code>p=m×v</code>).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
-acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>).
+acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the 
+measured in [newton][] (N).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
@@ -225,7 +225,7 @@ if (elements.length) {
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
-[newtons]: https://en.wikipedia.org/wiki/Newton_(unit)
+[newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
