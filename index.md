@@ -141,6 +141,11 @@ An [organism][] is a set of one or more cells.
 
 [Ask a Question or Contribute][issues]
 
+# Methodology/Meta
+
+* Every time I "context switch" into this subject, I re-read the entire page. This, along with the process of writing
+  itself, seems to maximize retention.
+
 <style>
 .page-header {
   padding: 1rem;
