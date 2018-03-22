@@ -55,6 +55,9 @@ time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</c
 acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the 
 [newton][] (N).
 
+When objects touch each other, the perpendicular force their surfaces apply is called the [normal force][] 
+(F<sub>n</sub>), and any parallel forces are called [frictional forces][] (F<sub>f</sub>).
+
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
 
@@ -91,6 +94,9 @@ Energy can [neither be created nor destroyed][conservation of energy], but only 
 energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Temperature
+
+[Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in Pascals or 
+N/m<sup>2</sup>. A system under pressure has potential energy.
 
 [Temperature][] is a measure of the average kinetic energy of a set of objects.
 
@@ -216,6 +222,7 @@ if (elements.length) {
 [force]: https://en.wikipedia.org/wiki/Force
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [frequency]: https://en.wikipedia.org/wiki/Frequency
+[frictional forces]: https://en.wikipedia.org/wiki/Friction
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [geometry]: https://www.youtube.com/watch?v=WqzK3UAXaHs&list=PL26812DF9846578C3
 [gravity]: https://en.wikipedia.org/wiki/Gravity
@@ -247,6 +254,7 @@ if (elements.length) {
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
+[normal force]: https://en.wikipedia.org/wiki/Normal_force
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
@@ -256,6 +264,7 @@ if (elements.length) {
 [organism]: https://en.wikipedia.org/wiki/Organism
 [planets]: https://en.wikipedia.org/wiki/Planet
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
+[pressure]: https://en.wikipedia.org/wiki/Pressure
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r process]: https://en.wikipedia.org/wiki/R-process
