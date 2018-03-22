@@ -98,12 +98,17 @@ energy and vice versa through the [mass-energy equivalence][] equation (<code>E=
 [Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in Pascals or 
 N/m<sup>2</sup>. A system under pressure has potential energy.
 
+[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The 
+mass of air in the Earth's atmosphere [decreases expontentially altitude][earth air pressure] so the atmospheric 
+pressure reduces expontentially as an object rises above [sea level][].
+
 [Temperature][] is a measure of the average kinetic energy of a set of objects.
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - protons and neutrons - in the atom's [nucleus][], and some number of 
-[electrons][] in [orbitals][] around the nucleus. An [atomic nucleus][atoms] is at least 10<sup>-10</sup> m in diameter.
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's 
+[nucleus][], and some number of [electrons][] in [orbitals][] around the nucleus. An [atomic nucleus][atoms] is at least 
+10<sup>-10</sup> m in diameter.
 
 The number of protons is considered the [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
 carbon). The number of nucleons is considered the [atomic mass number][atomic mass]. The number of neutrons 
@@ -187,7 +192,10 @@ if (elements.length) {
 </script>
 
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
+[air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.youtube.com/watch?v=kpCJyQ2usJ4&list=PL7AF1C14AF1B05894
+[altitude]: https://en.wikipedia.org/wiki/Altitude
+[atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
 [atoms]: https://en.wikipedia.org/wiki/Atoms
@@ -208,6 +216,7 @@ if (elements.length) {
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
 [earth]: https://en.wikipedia.org/wiki/Earth
+[earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
@@ -216,6 +225,7 @@ if (elements.length) {
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [element]: https://en.wikipedia.org/wiki/Chemical_element
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
+[elevation]: https://en.wikipedia.org/wiki/Elevation
 [energy]: https://en.wikipedia.org/wiki/Energy
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
@@ -272,6 +282,7 @@ if (elements.length) {
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [s process]: https://en.wikipedia.org/wiki/S-process
 [scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
+[sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [space]: https://en.wikipedia.org/wiki/Space
