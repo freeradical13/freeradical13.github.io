@@ -18,9 +18,9 @@ There are over 100 billion [galaxies][] in the universe.
 # Basics
 
 1. This page assumes basic knowledge of [math][], [algebra][], and [scientific notation][].
-1. A word or phrase followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the 
-parentheses (in this example, "m") which represents that word or phrase in equations. In this example, in the equation 
-<code>F=m×a</code>, m represents mass.
+1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the 
+parentheses (in this example, "m") which represents that measurement in equations. In this example, in the equation 
+<code>F=m×a</code>, mass is represented by the letter "m".
 
 # Matter
 
@@ -273,6 +273,7 @@ if (elements.length) {
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
+[unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
