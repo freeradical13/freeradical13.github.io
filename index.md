@@ -45,9 +45,10 @@ The [velocity][] (v) of an object is a description of both its speed and its [di
 m/s down).
 
 The [acceleration][] (a) of an object is the rate at which its velocity changes over a period of time (e.g. 
-accelerating at 13 m/s over 1 second, or 13 m/s<sup>2</sup>).
+accelerating at 13 m/s over 1 second, or 13 m/s<sup>2</sup> down).
 
-The [momentum][] (p) of an object, or "quantity of motion", is its mass multiplied by its velocity (<code>p=m×v</code>).
+The [momentum][] (p) of an object, or its "quantity of motion", is its mass multiplied by its velocity 
+(<code>p=m×v</code>).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
@@ -60,12 +61,12 @@ law] on object A.
 # Electric Charge
 
 [Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
-positive or negative force on other electrically charged matter. The magnitude of the force 
-(<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) is calculated with [Coulomb's law][] which 
-is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and 
-q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation 
-means that positive charges repel other positive charges, negative charges repel other negative charges, and positive 
-charges attract negative charges (and vice versa).
+positive or negative force on other electrically charged matter. The magnitude of the force is calculated with 
+[Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's 
+constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) 
+and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive 
+charges repel other positive charges, negative charges repel other negative charges, and positive charges attract 
+negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
