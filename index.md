@@ -70,7 +70,7 @@ light is the maximum speed that any matter can move.
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
 in [joules][] (J). One joule can be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
-direction of its motion for one meter. Energy is either kinetic energy if an object is in motion (in most simple 
+direction of its motion for one meter. Energy is either [kinetic energy][] if an object is in motion (in most simple 
 cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored 
 energy.
 
