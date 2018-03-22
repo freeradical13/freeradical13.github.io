@@ -55,8 +55,8 @@ time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</c
 acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the 
 [newton][] (N).
 
-When objects touch each other, the perpendicular force their surfaces apply is called the [normal force][] 
-(F<sub>n</sub>), and any parallel forces are called [frictional forces][] (F<sub>f</sub>).
+When objects touch each other, the [perpendicular][] force their surfaces apply is called the [normal force][] 
+(F<sub>n</sub>), and any [parallel][] forces are called [frictional forces][] (F<sub>f</sub>).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
@@ -86,23 +86,40 @@ light is the maximum speed that any matter can move.
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
 in [joules][] (J). One joule can be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
-direction of its motion for one meter. Energy is either [kinetic energy][] if an object is in motion (in most simple 
-cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored 
-energy.
+direction of its motion for one meter.
+
+Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as 
+<code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored energy.
 
 Energy can [neither be created nor destroyed][conservation of energy], but only transformed. Mass can be converted to 
 energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Temperature
 
-[Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in Pascals or 
-N/m<sup>2</sup>. A system under pressure has potential energy.
+[Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] 
+(Pa) or N/m<sup>2</sup>. A system under pressure has potential energy.
 
 [Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The 
-mass of air in the Earth's atmosphere [decreases expontentially altitude][earth air pressure] so the atmospheric 
+mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric 
 pressure reduces expontentially as an object rises above [sea level][].
 
-[Temperature][] is a measure of the average kinetic energy of a set of objects.
+Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent 
+to 101,325 Pa.
+
+[Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest 
+state at which an object has minimal movement; however, practically, almost all objects have some movement (or 
+[vibration][]) and thus some non-absolute zero temperature.
+
+Temperature is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or 
+in absolute terms on the scale of [Kelvin][] (K).
+
+Roughly, the scale of celsius is defined to be relative to 0°C when water freezes at 1 atm, 100°C when water boils at 1 
+atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined to be relative to 32°F when water freezes at 1 
+atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. The scale of Kelvin defines 0 as absolute 
+zero, water freezes at 273.15K at 1 atm, and water boils at 373.15K at 1 atm.
+
+The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
+331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
 
 # Atoms
 
@@ -191,10 +208,12 @@ if (elements.length) {
 }
 </script>
 
+[absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.youtube.com/watch?v=kpCJyQ2usJ4&list=PL7AF1C14AF1B05894
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
@@ -205,12 +224,14 @@ if (elements.length) {
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
+[celsius]: https://en.wikipedia.org/wiki/Celsius
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [definition of life]: https://en.wikipedia.org/wiki/Life
+[degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
@@ -228,6 +249,7 @@ if (elements.length) {
 [elevation]: https://en.wikipedia.org/wiki/Elevation
 [energy]: https://en.wikipedia.org/wiki/Energy
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
@@ -247,6 +269,7 @@ if (elements.length) {
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
+[kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [light]: https://en.wikipedia.org/wiki/Light
@@ -272,6 +295,9 @@ if (elements.length) {
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
+[parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [planets]: https://en.wikipedia.org/wiki/Planet
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
@@ -293,11 +319,13 @@ if (elements.length) {
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
+[temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [velocity]: https://en.wikipedia.org/wiki/Velocity
+[vibration]: https://en.wikipedia.org/wiki/Vibration
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [waves]: https://en.wikipedia.org/wiki/Wave
