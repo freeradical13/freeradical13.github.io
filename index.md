@@ -39,8 +39,8 @@ m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "q
 multiplied by its velocity (p=m×v).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
-time (F=<span class="italics">d</span>p/<span class="italics">d</span>t); or, substituting momentum for acceleration 
-and simplifying, its mass multiplied by its acceleration (F=m×a).
+time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
+acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>).
 
 When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
 law] on object A.
@@ -49,8 +49,8 @@ law] on object A.
 
 [Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
 positive or negative force on other electrically charged matter. The magnitude of the force 
-(F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)) is calculated with [Coulomb's law][] which is 
-[Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and 
+(<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) is calculated with [Coulomb's law][] which 
+is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and 
 q<sub>2</sub>) and divided by the square of the distance between the two [particles][] (r<sup>2</sup>). This equation 
 means that positive charges repel other positive charges, negative charges repel other negative charges, and positive 
 charges attract negative charges (and vice versa).
@@ -76,7 +76,7 @@ its motion for one meter.
 <code>(m×v<sup>2</sup>)/2</code>.
 
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
-through the [mass-energy equivalence][] equation (E=m×c<sup>2</sup>).
+through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Temperature
 
