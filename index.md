@@ -68,16 +68,18 @@ light is the maximum speed that any matter can move.
 
 # Energy
 
-[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is measured in 
-joules (J).
+[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
+in [joules][] (J). One joule can be defined as J=N×m or a force of one Newton acting on an object in the direction of 
+its motion for one meter.
+
+[Kinetic energy][] is the energy possessed due to motion, and in most cases may be expressed by `(m×v<sup>2</sup>)/2`.
 
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
 through the [mass-energy equivalence][] equation (E=m×c<sup>2</sup>).
 
 # Temperature
 
-[Kinetic energy][] is the energy possessed due to motion. [Temperature][] is a measure of the average kinetic energy of 
-a set of particles.
+[Temperature][] is a measure of the average kinetic energy of a set of particles.
 
 # Atoms
 
@@ -205,6 +207,7 @@ if (elements.length) {
 [ion]: https://en.wikipedia.org/wiki/Ion
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
+[joules]: https://en.wikipedia.org/wiki/Joule
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [light]: https://en.wikipedia.org/wiki/Light
