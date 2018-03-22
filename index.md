@@ -124,8 +124,9 @@ The [lowest recorded surface temperature][temperature comparison] on Earth is 18
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler 
 object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they reach 
-[thermal equilibrium][]. All matter not at absolute zero also emits some of its energy as heat through [thermal 
-radiation][].
+[thermal equilibrium][].
+
+All matter emits some of its energy as heat through [thermal radiation][].
 
 # Atoms
 
