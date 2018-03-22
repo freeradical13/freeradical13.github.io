@@ -33,13 +33,13 @@ An [object][] is a collection of matter. An object has an [inertia][], meaning:
 Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
 a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
 
-The [velocity][] (v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s 
-down).
+The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 
+m/s down).
 
-The [acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 
-13 m/s over 1 second, or 13 m/s<sup>2</sup>).
+The [acceleration][] (a) of an object is the rate at which its velocity changes over a period of time (e.g. 
+accelerating at 13 m/s over 1 second, or 13 m/s<sup>2</sup>).
 
-The [momentum][] (p) of matter, or "quantity of motion", is its mass multiplied by its velocity (<code>p=m×v</code>).
+The [momentum][] (p) of an object, or "quantity of motion", is its mass multiplied by its velocity (<code>p=m×v</code>).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
