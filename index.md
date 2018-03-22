@@ -70,10 +70,9 @@ light is the maximum speed that any matter can move.
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
 in [joules][] (J). One joule can be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
-direction of its motion for one meter.
-
-[Kinetic energy][] is the energy possessed due to motion, and in most cases may be expressed as 
-<code>(m×v<sup>2</sup>)/2</code>.
+direction of its motion for one meter. Energy is either kinetic energy if an object is in motion (in most simple 
+cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored 
+energy.
 
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
 through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
@@ -235,6 +234,7 @@ if (elements.length) {
 [organism]: https://en.wikipedia.org/wiki/Organism
 [particles]: https://en.wikipedia.org/wiki/Particle
 [planets]: https://en.wikipedia.org/wiki/Planet
+[potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r process]: https://en.wikipedia.org/wiki/R-process
