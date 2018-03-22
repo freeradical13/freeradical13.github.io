@@ -15,12 +15,19 @@ diameter.
 
 There are over 100 billion [galaxies][] in the universe.
 
+# Basics
+
+1. This page assumes basic knowledge of [math][], [algebra][], and [scientific notation][].
+1. A word or phrase followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the 
+parentheses (in this example, "m") which represents that word or phrase in equations. In this example, in the equation 
+<code>F=m×a</code>, m represents mass.
+
 # Matter
 
 The universe is made of [matter][] which is something that has [mass][] (m) and takes up a position in [space][].
 
 Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 
-[1.6×10<sup>−27</sup>][scientific notation] [kilograms][] (kg), whereas electrons have a much smaller mass of about 
+1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 
 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 
 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron 
 radius].
@@ -30,8 +37,9 @@ An [object][] is a collection of matter. An object has an [inertia][], meaning:
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
-Matter has a [speed][] of movement which is the [rate][] at which its position in space changes over a [distance][] over 
-a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
+The [speed][] of an object is a description of its movement which is the [rate][] at which its position in space 
+changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 
+m/s).
 
 The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 
 m/s down).
@@ -172,6 +180,7 @@ if (elements.length) {
 </script>
 
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
+[algebra]: https://www.youtube.com/watch?v=kpCJyQ2usJ4&list=PL7AF1C14AF1B05894
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
 [atoms]: https://en.wikipedia.org/wiki/Atoms
@@ -226,6 +235,7 @@ if (elements.length) {
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
+[math]: https://www.youtube.com/watch?v=jxA8MffVmPs&list=PL50D1D09ABE9CE271
 [matter]: https://en.wikipedia.org/wiki/Matter
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [meters]: https://en.wikipedia.org/wiki/Metre
@@ -250,7 +260,7 @@ if (elements.length) {
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [s process]: https://en.wikipedia.org/wiki/S-process
-[scientific notation]: https://en.wikipedia.org/wiki/Scientific_notation
+[scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [space]: https://en.wikipedia.org/wiki/Space
