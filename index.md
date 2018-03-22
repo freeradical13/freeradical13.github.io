@@ -110,8 +110,8 @@ to 101,325 Pa.
 state at which an object has minimal movement; however, practically, it can be assumed that all objects have some 
 movement (or [vibration][]) and thus some non-absolute zero temperature.
 
-Temperature is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or 
-in absolute terms on the scale of [Kelvin][] (K).
+Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or 
+[Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
 Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 
 atm, and absolute zero as -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
@@ -121,6 +121,11 @@ its [triple point][]. A degree change in Celsius is equal in magnitude to a degr
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
+
+If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler 
+object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they reach 
+[thermal equilibrium][]. All matter not at absolute zero also emits some of its energy as heat through [thermal 
+radiation][].
 
 # Atoms
 
@@ -321,6 +326,10 @@ if (elements.length) {
 [sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
+[thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
+[thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
+[thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
+[thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
