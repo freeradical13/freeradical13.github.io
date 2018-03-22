@@ -1,3 +1,3 @@
 #!/bin/sh
-grip --export index.md && \
+pandoc -f markdown index.md -s -o index.html && \
   xdg-open index.html

@@ -8,9 +8,10 @@ feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/in
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-We live on the [planet][] [Earth][] which is part of a [solar system][] with a [star][] at its center. Earth and its 
-star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 
-billion years old, contains over 100 billion stars and 100 billion planets, and is over 100,000 light years in diameter.
+We live on [Earth][] which is part of a [solar system][] with a [star][] at its center called the [Sun][]. Earth and 
+its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 
+12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in 
+diameter.
 
 There are over 100 billion [galaxies][] in the universe.
 
@@ -63,13 +64,13 @@ A wave represents something that repeats over time at a [frequency][] which is h
 time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). 
 [Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in 
 space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
-light is also the maximum speed that any matter can move.
-
-[Visible Light][light] is electromagnetic radiation with a wavelength between 4×10<sup>−7</sup> to 7×10<sup>−7</sup> m.
+light is the maximum speed that any matter can move.
 
 # Energy
 
-[Energy][] (E) is the property that must be transferred to an object in order to perform work on, or to heat, it. 
+[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is measured in 
+joules (J).
+
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
 through the [mass-energy equivalence][] equation (E=m×c<sup>2</sup>).
 
@@ -228,7 +229,7 @@ if (elements.length) {
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
 [particles]: https://en.wikipedia.org/wiki/Particle
-[planet]: https://en.wikipedia.org/wiki/Planet
+[planets]: https://en.wikipedia.org/wiki/Planet
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r process]: https://en.wikipedia.org/wiki/R-process
@@ -244,6 +245,7 @@ if (elements.length) {
 [star]: https://en.wikipedia.org/wiki/Star
 [states of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
