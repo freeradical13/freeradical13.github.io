@@ -117,7 +117,7 @@ Roughly, the scale of celsius is defined with 0°C being when water freezes at 1
 atm, and absolute zero as -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
 at 1 atm, 212°F when water boils at 1 atm, and absolute zero as -459.67°F. Originally, the Kelvin scale was defined 
 relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches 
-its [triple point][]. A degree change in Celsius is equal in magnitude to a degree change in Kelvin.
+its [triple point][].
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
