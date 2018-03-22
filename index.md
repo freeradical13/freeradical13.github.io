@@ -11,7 +11,7 @@ The [universe][] is at least 13.7 billion years old and more than 100 billion [l
 We live on [Earth][] which is part of a [solar system][] with a [star][] at its center called the [Sun][]. Earth and 
 its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 
 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in 
-diameter.
+diameter (or about 0.0001% of the size of the universe).
 
 There are over 100 billion [galaxies][] in the universe.
 
