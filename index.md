@@ -72,7 +72,8 @@ light is the maximum speed that any matter can move.
 in [joules][] (J). One joule can be defined as J=N×m or a force of one Newton acting on an object in the direction of 
 its motion for one meter.
 
-[Kinetic energy][] is the energy possessed due to motion, and in most cases may be expressed by `(m×v<sup>2</sup>)/2`.
+[Kinetic energy][] is the energy possessed due to motion, and in most cases may be expressed as 
+<code>(m×v<sup>2</sup>)/2</code>.
 
 Energy can neither be created nor destroyed, but only transformed. Mass can be converted to energy and vice versa 
 through the [mass-energy equivalence][] equation (E=m×c<sup>2</sup>).
