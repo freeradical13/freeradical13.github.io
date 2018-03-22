@@ -36,7 +36,7 @@ a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s)
 (v) of matter is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s down). The 
 [acceleration][] (a) of matter is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 
 m/s over 1 second, or 13 m/s<sup>2</sup>). The [momentum][] (p) of matter, or "quantity of motion", is its mass 
-multiplied by its velocity (p=m×v).
+multiplied by its velocity (<code>p=m×v</code>).
 
 If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
 time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
@@ -69,8 +69,8 @@ light is the maximum speed that any matter can move.
 # Energy
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
-in [joules][] (J). One joule can be defined as J=N×m or a force of one Newton acting on an object in the direction of 
-its motion for one meter.
+in [joules][] (J). One joule can be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
+direction of its motion for one meter.
 
 [Kinetic energy][] is the energy possessed due to motion, and in most cases may be expressed as 
 <code>(m×v<sup>2</sup>)/2</code>.
@@ -206,6 +206,7 @@ if (elements.length) {
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
+[ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
