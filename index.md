@@ -51,7 +51,7 @@ law] on object A.
 positive or negative force on other electrically charged matter. The magnitude of the force 
 (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) is calculated with [Coulomb's law][] which 
 is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and 
-q<sub>2</sub>) and divided by the square of the distance between the two [particles][] (r<sup>2</sup>). This equation 
+q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation 
 means that positive charges repel other positive charges, negative charges repel other negative charges, and positive 
 charges attract negative charges (and vice versa).
 
@@ -79,7 +79,7 @@ through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code
 
 # Temperature
 
-[Temperature][] is a measure of the average kinetic energy of a set of particles.
+[Temperature][] is a measure of the average kinetic energy of a set of objects.
 
 # Atoms
 
@@ -232,7 +232,6 @@ if (elements.length) {
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
-[particles]: https://en.wikipedia.org/wiki/Particle
 [planets]: https://en.wikipedia.org/wiki/Planet
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
