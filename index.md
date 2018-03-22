@@ -17,7 +17,7 @@ There are over 100 billion [galaxies][] in the universe.
 
 # Basics
 
-1. This page assumes basic knowledge of [math][], [algebra][], and [scientific notation][].
+1. This page assumes basic knowledge of [math][], [algebra][], [geometry][], and [scientific notation][].
 1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the 
 parentheses (in this example, "m") which represents that measurement in equations. In this example, in the equation 
 <code>F=m×a</code>, mass is represented by the letter "m".
@@ -152,8 +152,8 @@ An [organism][] is a set of one or more cells.
 
 # Methodology/Meta
 
-* Every time I "context switch" into this subject, I re-read the entire page before starting. This, along with the 
-process of writing itself, seems to maximize retention.
+* Every time I "context switch" into this subject, I re-read the entire page before re-starting. Along with the process 
+of writing itself, this seems to maximize retention.
 
 <style>
 .page-header {
@@ -217,6 +217,7 @@ if (elements.length) {
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
+[geometry]: https://www.youtube.com/watch?v=WqzK3UAXaHs&list=PL26812DF9846578C3
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
