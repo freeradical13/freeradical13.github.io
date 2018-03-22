@@ -94,7 +94,7 @@ Energy is either [kinetic energy][] if an object is in motion (in most simple ca
 Energy can [neither be created nor destroyed][conservation of energy], but only transformed. Mass can be converted to 
 energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
-# Temperature
+# Pressure and Temperature
 
 [Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] 
 (Pa) or N/m<sup>2</sup>. A system under pressure has potential energy.
@@ -107,16 +107,17 @@ Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on
 to 101,325 Pa.
 
 [Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest 
-state at which an object has minimal movement; however, practically, almost all objects have some movement (or 
-[vibration][]) and thus some non-absolute zero temperature.
+state at which an object has minimal movement; however, practically, it can be assumed that all objects have some 
+movement (or [vibration][]) and thus some non-absolute zero temperature.
 
 Temperature is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or 
 in absolute terms on the scale of [Kelvin][] (K).
 
-Roughly, the scale of celsius is defined to be relative to 0°C when water freezes at 1 atm, 100°C when water boils at 1 
-atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined to be relative to 32°F when water freezes at 1 
-atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. The scale of Kelvin defines 0 as absolute 
-zero, water freezes at 273.15K at 1 atm, and water boils at 373.15K at 1 atm.
+Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 
+atm, and absolute zero as -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
+at 1 atm, 212°F when water boils at 1 atm, and absolute zero as -459.67°F. Originally, the Kelvin scale was defined 
+relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches 
+its [triple point][]. A degree change in Celsius is equal in magnitude to a degree change in Kelvin.
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
@@ -322,6 +323,7 @@ if (elements.length) {
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
+[triple point]: https://en.wikipedia.org/wiki/Triple_point
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
