@@ -157,6 +157,8 @@ called groups, with 18 numbered and 6 named groups:
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
+Atoms tend to combine in such a way that each atom has [8 electrons][octet rule] in its valence shell.
+
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
@@ -319,6 +321,7 @@ if (elements.length) {
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [object]: https://en.wikipedia.org/wiki/Physical_body
+[octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
