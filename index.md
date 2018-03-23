@@ -144,7 +144,7 @@ named a cation, and if negative, an anion).
 
 ## Element Properties
 
-[![32-column periodic table](images/32-column_periodic_table-a.png.png)][periodic table]
+[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table]
 
 # Big History (Continued)
 
