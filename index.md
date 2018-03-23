@@ -142,6 +142,10 @@ carbon-12). There are four main [states of matter][]: solid, liquid, gas, and pl
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
 named a cation, and if negative, an anion).
 
+## Element Properties
+
+[![32-column periodic table](images/32-column_periodic_table-a.png.png)][periodic table]
+
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
@@ -304,6 +308,7 @@ if (elements.length) {
 [organism]: https://en.wikipedia.org/wiki/Organism
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[periodic table]: https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [planets]: https://en.wikipedia.org/wiki/Planet
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
