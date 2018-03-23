@@ -157,7 +157,7 @@ called groups, with 18 numbered and 6 named groups:
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-[![periodic table with shells](images/Periodic_Table_of_Elements_showing_Electron_Shells.png)][ptsi]
+[![periodic table with shells](images/Periodic_Table_of_Elements_showing_Electron_Shells.jpg)][ptsi]
 
 Atoms tend to bond in such a way that each atom has [8 electrons][octet rule] in its valence shell.
 
