@@ -134,17 +134,28 @@ All matter emits some of its energy as heat through [thermal radiation][].
 [nucleus][], and some number of [electrons][] in [orbitals][] around the nucleus. An [atomic nucleus][atoms] is at least 
 10<sup>-10</sup> m in diameter.
 
-The number of protons is considered the [atomic number][] and categorizes the atom as a particular [element][] (e.g. 
-carbon). The number of nucleons is considered the [atomic mass number][atomic mass]. The number of neutrons 
+The number of protons is considered the [atomic number][] and categorizes the atom as a particular [chemical element][] 
+(e.g. carbon). The number of nucleons is considered the [atomic mass number][atomic mass]. The number of neutrons 
 defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. 
 carbon-12). There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
 named a cation, and if negative, an anion).
 
-## Element Properties
+## Chemical Element Properties
 
-[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table]
+The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The 
+elements are ordered by atomic number (number of protons) from left to right. Rows are called periods and columns are 
+called groups, with 18 numbered and 6 named groups:
+
+* Group #1: [Alkali metals][]
+* Group #2: [Alkaline earth metals][]
+* Group #15: [Pnictogens][]
+* Group #16: [Chalcogens][]
+* Group #17: [Halogens][]
+* Group #18: [Noble gases][]
+
+[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
 # Big History (Continued)
 
@@ -223,6 +234,8 @@ if (elements.length) {
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.youtube.com/watch?v=kpCJyQ2usJ4&list=PL7AF1C14AF1B05894
+[alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
+[alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
@@ -236,6 +249,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
+[chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
@@ -269,6 +283,7 @@ if (elements.length) {
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [geometry]: https://www.youtube.com/watch?v=WqzK3UAXaHs&list=PL26812DF9846578C3
 [gravity]: https://en.wikipedia.org/wiki/Gravity
+[halogens]: https://en.wikipedia.org/wiki/Halogen
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
@@ -298,6 +313,7 @@ if (elements.length) {
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
+[noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
@@ -308,9 +324,11 @@ if (elements.length) {
 [organism]: https://en.wikipedia.org/wiki/Organism
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
-[periodic table]: https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png
+[periodic table]: https://en.wikipedia.org/wiki/Periodic_table
+[periodic table image]: https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [planets]: https://en.wikipedia.org/wiki/Planet
+[pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
