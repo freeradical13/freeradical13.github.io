@@ -157,7 +157,7 @@ called groups, with 18 numbered and 6 named groups:
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-Atoms tend to combine in such a way that each atom has [8 electrons][octet rule] in its valence shell.
+Atoms tend to bond in such a way that each atom has [8 electrons][octet rule] in its valence shell.
 
 # Big History (Continued)
 
