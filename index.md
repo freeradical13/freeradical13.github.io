@@ -157,6 +157,8 @@ called groups, with 18 numbered and 6 named groups:
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
+[![periodic table with shells](images/Periodic_Table_of_Elements_showing_Electron_Shells.png)][ptsi]
+
 Atoms tend to bond in such a way that each atom has [8 electrons][octet rule] in its valence shell.
 
 # Big History (Continued)
@@ -336,6 +338,7 @@ if (elements.length) {
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[ptsi]: https://commons.wikimedia.org/wiki/File:Periodic_Table_of_Elements_showing_Electron_Shells.svg
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
