@@ -42,10 +42,10 @@ changes over a [distance][] over a period of [time][] ([e.g.][for example] movin
 m/s).
 
 The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 
-m/s down).
+m/s _down_).
 
 The [acceleration][] (a) of an object is the rate at which its velocity changes over a period of time (e.g. 
-accelerating at 13 m/s over 1 second, or 13 m/s<sup>2</sup> down).
+accelerating at 13 m/s over 1 second down, or 13 m/s<sup>2</sup> down).
 
 The [momentum][] (p) of an object, or its "quantity of motion", is its mass multiplied by its velocity 
 (<code>p=m×v</code>).
@@ -64,40 +64,41 @@ law] on object A.
 # Electric Charge
 
 [Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
-positive or negative force on other electrically charged matter. The magnitude of the force is calculated with 
-[Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's 
-constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) 
-and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive 
-charges repel other positive charges, negative charges repel other negative charges, and positive charges attract 
-negative charges (and vice versa).
+positive or negative force on other electrically charged matter, proportional to the distance between them. The 
+magnitude of the force is calculated with [Coulomb's law][] 
+(<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] 
+(k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided 
+by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel 
+other positive charges, negative charges repel other negative charges, and positive charges attract negative charges 
+(and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
 charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
-respectively. Neutrons have no charge.
+respectively. Neutrons have no charge (electrically neutral).
 
-[Electromagnetic radiation][] represents [waves][] of an electromagnetic field traveling (radiating) through space. 
-A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit 
-time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). 
-[Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in 
-space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of 
-light is the maximum speed that any matter can move.
+An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) 
+through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a 
+cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] 
+(Hz). [Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation 
+occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The 
+speed of light is the maximum speed that any matter may move.
 
 # Energy
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
-in [joules][] (J). One joule can be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
+in [joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
 direction of its motion for one meter.
 
 Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as 
-<code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which can be thought of as stored energy.
+<code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which may be thought of as stored energy.
 
-Energy can [neither be created nor destroyed][conservation of energy], but only transformed. Mass can be converted to 
+Energy may [neither be created nor destroyed][conservation of energy], but only transformed. Mass may be converted to 
 energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Pressure and Temperature
 
-[Pressure][] (P) is the normal force per unit area (A) or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] 
-(Pa) or N/m<sup>2</sup>. A system under pressure has potential energy.
+[Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often 
+measured in [Pascals][] (Pa) or N/m<sup>2</sup>. An object under pressure has potential energy.
 
 [Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The 
 mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric 
@@ -107,26 +108,26 @@ Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on
 to 101,325 Pa.
 
 [Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest 
-state at which an object has minimal movement; however, practically, it can be assumed that all objects have some 
-movement (or [vibration][]) and thus some non-absolute zero temperature.
+state at which an object has minimal movement; however, practically, it may be assumed that all objects have some 
+movement (or [vibration][]) and thus some non-zero temperature.
 
 Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or 
 [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
 Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 
-atm, and absolute zero as -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
-at 1 atm, 212°F when water boils at 1 atm, and absolute zero as -459.67°F. Originally, the Kelvin scale was defined 
+atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
+at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined 
 relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches 
-its [triple point][].
+its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler 
-object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they reach 
-[thermal equilibrium][].
+object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at 
+least their touching surfaces) reach [thermal equilibrium][].
 
-All matter emits some of its energy as heat through [thermal radiation][].
+All matter continuously emits some of its energy as heat through [thermal radiation][].
 
 # Atoms
 
@@ -135,31 +136,76 @@ All matter emits some of its energy as heat through [thermal radiation][].
 10<sup>-10</sup> m in diameter.
 
 The number of protons is considered the [atomic number][] and categorizes the atom as a particular [chemical element][] 
-(e.g. carbon). The number of nucleons is considered the [atomic mass number][atomic mass]. The number of neutrons 
-defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. 
-carbon-12). There are four main [states of matter][]: solid, liquid, gas, and plasma.
+(e.g. carbon which has 6 protons). The number of nucleons is considered the [atomic mass number][atomic mass] (because 
+electrons are so much relatively lighter as to contribute insignificantly to mass). The number of neutrons defines the 
+element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so 
+the number of neutrons may be deduced from the isotope name by subtracting the number of protons. There are four main 
+[states of matter][]: solid, liquid, gas, and plasma.
 
-If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if positive, then it's 
-named a cation, and if negative, an anion).
+If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons [positively 
+charged], then it's called a cation, and if more electrons [negatively charged], an anion).
 
-## Chemical Element Properties
+## Table of Elements
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The 
-elements are ordered by atomic number (number of protons) from left to right. Rows are called periods and columns are 
-called groups, with 18 numbered and 6 named groups:
+elements are ordered by atomic number (number of protons) from left to right.
 
-* Group #1: [Alkali metals][]
-* Group #2: [Alkaline earth metals][]
+Rows are called periods and a new period is started when an element starts a new orbital (ionized elements complicate 
+this picture - for example, the Lithium cation - but the table is primarily conceptual). The outermost electron orbital 
+is called the [valence orbital][]. The valence orbital of the first period (encompassing just Hydrogen and Helium) may 
+not have more than 2 electrons and the valence orbital of all other elements may not have more than 8 electrons 
+(although inner orbitals sometimes have more). This is very important because the primary determinant of an element's 
+behavior is its electron configuration of its valence orbital. Atoms tend to bond together or chemically react in such 
+a way that each atom's valence orbital wants to be "full" - 2 electrons for period 1 and 8 electrons for the other 
+periods (the [octet rule][]). This means that columns have generally similar behavior since columns are generally 
+grouped by the number of electrons in the valence orbital. There are 18 numbered and 6 named groups:
+
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous 
+period's full valance orbital. Hydrogen is an exception because if it loses/shares its electron, it does not drop to 
+a full valance orbital but simply has an empty valence orbital.
+* Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the 
+previous period's full valence orbital.
 * Group #15: [Pnictogens][]
-* Group #16: [Chalcogens][]
-* Group #17: [Halogens][]
-* Group #18: [Noble gases][]
+* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their valance 
+orbitals.
+* Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their 
+valence orbitals.
+* Group #18: [Noble gases][] - Not chemically active ([inert][]) because the valence orbital is full.
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-[![periodic table with shells](images/Periodic_Table_of_Elements_showing_Electron_Shells.jpg)][ptsi]
+[Ionization energy][] is the amount of energy needed to remove an electron from an element. The ionization energy 
+decreases from top to bottom because valence electrons are farther from the nuclear protons (to which they're 
+attracted) and thus the electrons are easier to peel off; however, ionization energy increases from left to right 
+because elements want to fill their valence orbitals.
 
-Atoms tend to bond in such a way that each atom has [8 electrons][octet rule] in its valence shell.
+The diameter of an atom increases from top to bottom as electron orbitals are added; however, within a period, moving 
+left to right, the diameter of an atom decreases as the additional protons draw in the electrons.
+
+Electron orbitals are broken down into accumulating subshells. These subshells are represented by the orbital number, 
+followed by the subshell name, followed by the number of electrons in that subshell in a superscript. For example, 
+neutral Hydrogen is 1s<sup>1</sup>. The names of the subshells in order are:
+
+* s: At most 2 electrons.
+* p: At most 6 electrons.
+* d: At most 6 electrons.
+* f
+
+Examples:
+
+<pre>
+Hydrogen:  1s<sup>1</sup>
+Hydrogen:  1s<sup>2</sup>
+Lithium:   1s<sup>2</sup> 2s<sup>1</sup>
+Beryllium: 1s<sup>2</sup> 2s<sup>2</sup>
+Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
+Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
+Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
+Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
+Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
+Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>
+Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> [...]
+</pre>
 
 # Big History (Continued)
 
@@ -221,7 +267,24 @@ of writing itself, this seems to maximize retention.
 .italics {
   font-style: italic;
 }
+
+img {
+  max-width: 100%;
+}
+
+code {
+  font-size: larger;
+  border: 1px dashed;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+pre {
+  font-size: larger;
+}
 </style>
+
 <script>
 //document.title = "Biology";
 var elements = document.getElementsByClassName("project-name");
@@ -255,6 +318,7 @@ if (elements.length) {
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
+[chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -273,7 +337,6 @@ if (elements.length) {
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
-[element]: https://en.wikipedia.org/wiki/Chemical_element
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elevation]: https://en.wikipedia.org/wiki/Elevation
 [energy]: https://en.wikipedia.org/wiki/Energy
@@ -292,6 +355,7 @@ if (elements.length) {
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
+[inert]: https://en.wikipedia.org/wiki/Inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
@@ -338,7 +402,6 @@ if (elements.length) {
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
-[ptsi]: https://commons.wikimedia.org/wiki/File:Periodic_Table_of_Elements_showing_Electron_Shells.svg
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
@@ -366,7 +429,8 @@ if (elements.length) {
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
+[valence orbital]: https://en.wikipedia.org/wiki/Valence_orbital
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
-[waves]: https://en.wikipedia.org/wiki/Wave
+[wave]: https://en.wikipedia.org/wiki/Wave
