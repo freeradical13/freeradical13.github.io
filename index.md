@@ -132,18 +132,20 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 # Atoms
 
 [Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's 
-[nucleus][], and some number of [electrons][] in [orbitals][] around the nucleus. An [atomic nucleus][atoms] is at least 
-10<sup>-10</sup> m in diameter.
+[nucleus][], and some number of [electrons][] orbiting the nucleus in [orbitals][] (sometimes known as 
+[shells][electron shells]). As electrons accumulate, those in higher orbitals have higher energy (known as [energy 
+levels][]). An [atomic nucleus][atoms] is at least 10<sup>-10</sup> m in diameter.
 
-The number of protons is considered the [atomic number][] and categorizes the atom as a particular [chemical element][] 
-(e.g. carbon which has 6 protons). The number of nucleons is considered the [atomic mass number][atomic mass] (because 
-electrons are so much relatively lighter as to contribute insignificantly to mass). The number of neutrons defines the 
-element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so 
-the number of neutrons may be deduced from the isotope name by subtracting the number of protons. There are four main 
-[states of matter][]: solid, liquid, gas, and plasma.
+The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical 
+element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). The number of nucleons is 
+considered the [atomic mass number][atomic mass] (because electrons are so much relatively lighter than the nucleons). 
+The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its 
+atomic mass number (e.g. carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the 
+number of protons. There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
-If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons [positively 
-charged], then it's called a cation, and if more electrons [negatively charged], an anion).
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons 
+and electrons, then it is [ionized][ion] (if more protons [positively charged], then it's called a cation, and if more 
+electrons [negatively charged], an anion).
 
 ## Table of Elements
 
@@ -156,9 +158,10 @@ electron orbital is called the [valence orbital][]. The valence orbital of the f
 and Helium) may not have more than 2 electrons and the valence orbital of all other elements may not have more than 8 
 electrons (although inner orbitals sometimes have more). This is very important because the primary determinant of an 
 element's behavior is its electron configuration of its valence orbital. Atoms tend to bond together or chemically react 
-in such a way that each atom's valence orbital wants to be "full" - 2 electrons for period 1 and 8 electrons for the 
-other periods (the [octet rule][]). This means that columns have generally similar behavior since columns are generally 
-grouped by the number of electrons in the valence orbital. There are 18 numbered and 6 named groups:
+in such a way that each atom's valence orbital wants to be "full" as that is the most stable configuration - 2 
+electrons for period 1 and 8 electrons for all other periods (the [octet rule][]). This means that columns have 
+generally similar behavior since columns are generally grouped by the number of electrons in the valence orbital. There 
+are 18 numbered and 6 named groups:
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
@@ -172,30 +175,20 @@ previous period's full valence orbital.
 orbitals.
 * Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their 
 valence orbitals.
-* Group #18: [Noble gases][] - Not chemically active ([inert][]) because the valence orbital is full.
+* Group #18: [Noble gases][] - Not chemically reactive ([inert][]) because the valence orbital is full.
 
-[Cationization energy][] is the amount of energy needed to remove an electron from an element (and form a cation). The 
-cationization energy decreases from top to bottom because valence electrons are farther from the nuclear protons (to 
-which they're attracted) and thus the electrons are easier to peel off; however, cationization energy increases from 
-left to right because elements want to fill their valence orbitals.
+Each period has a maximum number of electrons (<code>2×Period<sup>2</sup></code>) before the next period starts. Each 
+period is broken down into accumulating orbitals called [subshell orbitals][electron subshells] and each subshell 
+orbital has a maximum number of electrons before the next subshell orbital starts. These subshell orbitals are 
+represented by the period number, followed by the subshell orbital letter, followed by the number of electrons in that 
+subshell orbital in a superscript. The subshell orbitals are:
 
-[Electronegativity][] is the tendency of an atom to attract electrons to itself in its valence orbital. It follows from 
-the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to 
-bottom because the valence orbital is farther away from the positively charged nucleus.
+* s: At most 2 electrons for groups 1 and 2 (or 18 for Helium).
+* p: Starting at period 2, at most 6 electrons for groups 13-18.
+* d: Starting at period 4, at most 10 electrons for groups 3-12.
+* f: Starting at period 6, at most 14 electrons for in between groups 3 and 4.
 
-The diameter of an atom increases from top to bottom as electron orbitals are added; however, within a period, moving 
-left to right, the diameter of an atom decreases as the additional protons draw in the electrons.
-
-Electron orbitals are broken down into accumulating subshells. These subshells are represented by the orbital number, 
-followed by the subshell name, followed by the number of electrons in that subshell in a superscript. For example, 
-neutral Hydrogen is 1s<sup>1</sup>. The subshells are:
-
-* s: At most 2 electrons from groups 1 and 2 (or group 18 for Helium).
-* p: At most 6 electrons from groups 13-18.
-* d: Starting at period 4, at most 10 electrons from groups 3-12.
-* f: Starting at period 6, at most 14 electrons from between groups 3 and 4.
-
-Examples:
+Neutral examples for the first 11 elements:
 
 <pre>
 Hydrogen:  1s<sup>1</sup>
@@ -211,6 +204,28 @@ Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>
 Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> [...]
 </pre>
 
+The size of an atom increases from top to bottom as electron orbitals are added; however, within a period, moving 
+left to right, the size of an atom decreases as the additional protons draw in the electrons.
+
+[Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element 
+(and form a cation). The lower the ionization energy, the more the element is chemically reactive. Energy is required to 
+remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization energy 
+is lowest on the left of the table because those elements want to lose electron(s) to achieve a full valence orbital, 
+and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons 
+add more pull to the electrons (making the atom smaller and the protons have more pull on the valence electron). 
+Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're 
+attracted) and thus the electrons are easier to peel off.
+
+[Electron affinity][] (or anionization energy) is the amount of  energy released when an electron is added to an 
+incomplete valence orbital (e.g. an incomplete s valence orbital, an incomplete p valence orbital, etc.), or the amount 
+of energy spent adding an electron to create a new orbital (e.g. when its previous valence orbital was already 
+complete). In the former case, energy is released because any time an electron drops into a new orbital, it releases 
+electromagnetic radiation energy. In the latter case, energy is needed to create the new orbital energy level. Electron 
+affinity increases from left to right, except for elements with a complete valence orbital.
+
+An atom with a high electron affinity has a high electronegativity, and one with a low electron affinity has a low 
+electronegativity.
+
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
@@ -224,9 +239,15 @@ or collapses into a black hole or neutron star][r process].
 
 # Chemistry
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][].
+A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more 
+[stable][molecule stability].
 
 A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence orbitals.
+
+[Electronegativity][] is the tendency of an atom to attract electrons to its valence orbital. It follows from the octet 
+rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom 
+because the valence orbital is farther away from the positively charged nucleus. Electropositivity is the opposite of 
+electronegativity.
 
 An [ionic bond][] occurs when one atom transfers an electron to another. This transfer causes ionization of both 
 atoms which may then cause attraction.
@@ -317,7 +338,6 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
-[cationization energy]: https://en.wikipedia.org/wiki/Ionization_energy
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
@@ -338,13 +358,17 @@ if (elements.length) {
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
+[electron affinity]: https://www.khanacademy.org/v/electron-affinity
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
+[electron shells]: https://en.wikipedia.org/wiki/Electron_shell
+[electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
 [electronegativity]: https://en.wikipedia.org/wiki/Electronegativity
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elevation]: https://en.wikipedia.org/wiki/Elevation
 [energy]: https://en.wikipedia.org/wiki/Energy
+[energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
@@ -365,6 +389,8 @@ if (elements.length) {
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
+[ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
+[ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
@@ -381,6 +407,7 @@ if (elements.length) {
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [meters]: https://en.wikipedia.org/wiki/Metre
 [molecule]: https://en.wikipedia.org/wiki/Molecule
+[molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
