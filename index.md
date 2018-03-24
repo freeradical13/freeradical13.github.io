@@ -160,6 +160,8 @@ in such a way that each atom's valence orbital wants to be "full" - 2 electrons 
 other periods (the [octet rule][]). This means that columns have generally similar behavior since columns are generally 
 grouped by the number of electrons in the valence orbital. There are 18 numbered and 6 named groups:
 
+[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
+
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous 
 period's full valance orbital. Hydrogen is an exception because if it loses/shares its electron, it does not drop to 
 a full valance orbital but simply has an empty valence orbital.
@@ -172,11 +174,9 @@ orbitals.
 valence orbitals.
 * Group #18: [Noble gases][] - Not chemically active ([inert][]) because the valence orbital is full.
 
-[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
-
-[Ionization energy][] is the amount of energy needed to remove an electron from an element. The ionization energy 
+[Catonization energy][] is the amount of energy needed to remove an electron from an element. The cationization energy 
 decreases from top to bottom because valence electrons are farther from the nuclear protons (to which they're 
-attracted) and thus the electrons are easier to peel off; however, ionization energy increases from left to right 
+attracted) and thus the electrons are easier to peel off; however, cationization energy increases from left to right 
 because elements want to fill their valence orbitals.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to itself in its valence orbital. It follows from 
@@ -219,7 +219,7 @@ hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and ne
 [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows 
 for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star 
 temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
-elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova 
+elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova 
 or collapses into a black hole or neutron star][r process].
 
 # Chemistry
@@ -228,8 +228,8 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 
 A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence orbitals.
 
-An [ionic bond][] occurs when one atom transfer an electron to another. This transfer causes ionization of both 
-atoms which then causes attraction.
+An [ionic bond][] occurs when one atom transfers an electron to another. This transfer causes ionization of both 
+atoms which may then cause attraction.
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -317,6 +317,7 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
+[cationization energy]: https://en.wikipedia.org/wiki/Ionization_energy
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
@@ -364,7 +365,6 @@ if (elements.length) {
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
-[ionization energy]: https://en.wikipedia.org/wiki/Ionization_energy
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
