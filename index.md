@@ -174,10 +174,10 @@ orbitals.
 valence orbitals.
 * Group #18: [Noble gases][] - Not chemically active ([inert][]) because the valence orbital is full.
 
-[Cationization energy][] is the amount of energy needed to remove an electron from an element. The cationization energy 
-decreases from top to bottom because valence electrons are farther from the nuclear protons (to which they're 
-attracted) and thus the electrons are easier to peel off; however, cationization energy increases from left to right 
-because elements want to fill their valence orbitals.
+[Cationization energy][] is the amount of energy needed to remove an electron from an element (and form a cation). The 
+cationization energy decreases from top to bottom because valence electrons are farther from the nuclear protons (to 
+which they're attracted) and thus the electrons are easier to peel off; however, cationization energy increases from 
+left to right because elements want to fill their valence orbitals.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to itself in its valence orbital. It follows from 
 the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to 
