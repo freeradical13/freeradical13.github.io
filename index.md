@@ -150,14 +150,14 @@ charged], then it's called a cation, and if more electrons [negatively charged],
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The 
 elements are ordered by atomic number (number of protons) from left to right.
 
-Rows are called periods and a new period is started when an element starts a new orbital (ionized elements complicate 
-this picture - for example, the Lithium cation - but the table is primarily conceptual). The outermost electron orbital 
-is called the [valence orbital][]. The valence orbital of the first period (encompassing just Hydrogen and Helium) may 
-not have more than 2 electrons and the valence orbital of all other elements may not have more than 8 electrons 
-(although inner orbitals sometimes have more). This is very important because the primary determinant of an element's 
-behavior is its electron configuration of its valence orbital. Atoms tend to bond together or chemically react in such 
-a way that each atom's valence orbital wants to be "full" - 2 electrons for period 1 and 8 electrons for the other 
-periods (the [octet rule][]). This means that columns have generally similar behavior since columns are generally 
+Rows are called periods and a new period is started when an element starts a new electron orbital (ionized elements 
+complicate this picture - for example, the Lithium cation - but the table is primarily conceptual). The outermost 
+electron orbital is called the [valence orbital][]. The valence orbital of the first period (encompassing just Hydrogen 
+and Helium) may not have more than 2 electrons and the valence orbital of all other elements may not have more than 8 
+electrons (although inner orbitals sometimes have more). This is very important because the primary determinant of an 
+element's behavior is its electron configuration of its valence orbital. Atoms tend to bond together or chemically react 
+in such a way that each atom's valence orbital wants to be "full" - 2 electrons for period 1 and 8 electrons for the 
+other periods (the [octet rule][]). This means that columns have generally similar behavior since columns are generally 
 grouped by the number of electrons in the valence orbital. There are 18 numbered and 6 named groups:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous 
@@ -179,17 +179,21 @@ decreases from top to bottom because valence electrons are farther from the nucl
 attracted) and thus the electrons are easier to peel off; however, ionization energy increases from left to right 
 because elements want to fill their valence orbitals.
 
+[Electronegativity][] is the tendency of an atom to attract electrons to itself in its valence orbital. It follows from 
+the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to 
+bottom because the valence orbital is farther away from the positively charged nucleus.
+
 The diameter of an atom increases from top to bottom as electron orbitals are added; however, within a period, moving 
 left to right, the diameter of an atom decreases as the additional protons draw in the electrons.
 
 Electron orbitals are broken down into accumulating subshells. These subshells are represented by the orbital number, 
 followed by the subshell name, followed by the number of electrons in that subshell in a superscript. For example, 
-neutral Hydrogen is 1s<sup>1</sup>. The names of the subshells in order are:
+neutral Hydrogen is 1s<sup>1</sup>. The subshells are:
 
-* s: At most 2 electrons.
-* p: At most 6 electrons.
-* d: At most 6 electrons.
-* f
+* s: At most 2 electrons from groups 1 and 2 (or group 18 for Helium).
+* p: At most 6 electrons from groups 13-18.
+* d: Starting at period 4, at most 10 electrons from groups 3-12.
+* f: Starting at period 6, at most 14 electrons from between groups 3 and 4.
 
 Examples:
 
@@ -215,18 +219,17 @@ hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and ne
 [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows 
 for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star 
 temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
-elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosion in a supernova 
-or collapse into a black hole or neutron star][r process].
+elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova 
+or collapses into a black hole or neutron star][r process].
 
 # Chemistry
 
 A [molecule][] is a set of two or more atoms held together by a [chemical bond][].
 
-A [covalent bond][] occurs when two atoms share one or more electrons (the electron-electron and proton-proton 
-repulsion is offset by the attraction between the two atoms' protons and electrons).
+A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence orbitals.
 
-An [ionic bond][] occurs when oppositely charged ions attract each other (usually when electrons transfer from 
-one atom to the other, causing ionization, and thus attraction).
+An [ionic bond][] occurs when one atom transfer an electron to another. This transfer causes ionization of both 
+atoms which then causes attraction.
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -335,6 +338,7 @@ if (elements.length) {
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
+[electronegativity]: https://en.wikipedia.org/wiki/Electronegativity
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
@@ -355,11 +359,12 @@ if (elements.length) {
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
-[inert]: https://en.wikipedia.org/wiki/Inert
+[inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
+[ionization energy]: https://en.wikipedia.org/wiki/Ionization_energy
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
@@ -429,7 +434,7 @@ if (elements.length) {
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
-[valence orbital]: https://en.wikipedia.org/wiki/Valence_orbital
+[valence orbital]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
