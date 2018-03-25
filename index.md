@@ -42,7 +42,7 @@ When an object A exerts a force on another object B, then object B exerts an [eq
 
 # Electric Charge
 
-[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of the force is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
+[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of the force (named the electrostatic force) is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively. Neutrons have no charge (electrically neutral).
 
@@ -90,11 +90,15 @@ There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
-## Periodic Table of Elements
+# Chemistry
+
+## The Periodic Table of Elements
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
+
+The reason for grouping elements in such a way is mostly to do with electron configurations and the chemical reactivity those configurations cause.
 
 Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell is broken down into [orbitals][electron subshells] which have a distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. The orbital names are:
 
@@ -115,19 +119,23 @@ Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>
 Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
 Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
 Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
-Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
-Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
-Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
+Florgine:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
+Neon:      1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
+Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
 [...]
 </pre>
 
-Each orbital above s is further broken down such that [no more than two electrons share the same distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital having 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
+Instead of writing the full details of long electron configurations, a common practice is to start with the closest noble gas in a higher period in brackets followed by the rest of the element's shell configuration. For example, Sodium (element #11) may be written as [Ne] 3s<sup>1</sup>.
 
-The outermost electron shell is called the [valence shell][]; however, the electrons that tend to cause an atom to chemically react are those electrons with the highest energy - the [valence electrons][] - which are not always in the valence shell.
+When d and f orbitals are filled, they backfill the previous shell. For example, Scandium's (element #21) electron configuration is [Ar] 4s<sup>2</sup> 3d<sup>1</sup>.
+
+Each orbital above s is further broken down such that [no more than two electrons share the same spatial distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital has 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
+
+The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies - the [valence electrons][] - which are usually those in the valence shell.
 
 Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
 
-Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns, otherwise known as groups, have generally similar behavior since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups:
+Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns, otherwise known as groups, have generally similar behaviors since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the previous period's full set of valence electrons.
@@ -147,19 +155,20 @@ The size of an atom increases from top to bottom as electron shells are added; h
 
 Electron affinity increases from left to right, except for elements with a complete set of valence electrons.
 
+Most elements are [metals][] (although only two are named metal groups), are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, are highly electrically conductive, malleable, and generally solid at standard temperature. [Nonmetals][] are the opposite of metals, mostly on the right side of the table (with the exception of Hydrogen), are not very electrically conductive, have high electron affinity, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon). There are a handful of [Metalloids][] which have properties of both and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
+
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
 
-# Chemistry
+# Chemistry (Continued)
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability].
+A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability]. Types of bonds:
 
-A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
+1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause attraction of the oppositely charged ions.
+1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell. It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus. Electropositivity is the opposite of electronegativity.
-
-An [ionic bond][] occurs when one atom transfers an electron to another. This transfer causes ionization of both atoms which may then cause attraction.
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -311,6 +320,8 @@ if (elements.length) {
 [math]: https://www.youtube.com/watch?v=jxA8MffVmPs&list=PL50D1D09ABE9CE271
 [matter]: https://en.wikipedia.org/wiki/Matter
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[metals]: https://en.wikipedia.org/wiki/Metal
+[metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
@@ -320,6 +331,7 @@ if (elements.length) {
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
+[nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
