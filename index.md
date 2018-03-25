@@ -96,7 +96,7 @@ The number of protons is considered the [atomic number][] and categorizes the at
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
-[![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
+[![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
@@ -153,9 +153,13 @@ The size of an atom increases from top to bottom as electron shells are added; h
 1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it releases electromagnetic radiation energy in the form of a photon. Or,
 1. The amount of energy spent adding an electron to create a new subshell or adding an electron to a subshell which only has a single electron in each of its orbital pairs (e.g. Nitrogen). Energy is needed to overcome the last subshell's stability.
 
-Electron affinity increases from left to right, except for elements with a complete set of valence electrons.
+Generally, electron affinity increases from left to right (except for those with stable last subshells) because right-most elements want additional electrons to achieve stability.
 
-Most elements are [metals][] (although only two are named metal groups), are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, are highly electrically conductive, malleable, and generally solid at standard temperature. [Nonmetals][] are the opposite of metals, mostly on the right side of the table (with the exception of Hydrogen), are not very electrically conductive, have high electron affinity, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon). There are a handful of [Metalloids][] which have properties of both and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
+Most elements are [metals][] (although only two are named metal groups): they are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, low electron affinity, are highly electrically conductive, malleable, and generally solid at standard temperature.
+
+[Nonmetals][] are the opposite of metals: they are on the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
+
+There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
 # Big History (Continued)
 
