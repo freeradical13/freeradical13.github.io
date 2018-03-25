@@ -98,7 +98,7 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behavior patterns they may cause (described later).
+The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
 Rows are called periods and describe a new electron shell which accumulates on top of any previous periods' shells. This outermost shell is known as the [valence shell][] which generally contains the [valence electrons][] that may be reactive (ionized elements complicate this picture since they contain one less electron and effectively drop down a shell - for example, the Lithium cation - but the table is a conceptual starting point from neutral atoms).
 
@@ -116,20 +116,20 @@ Examples of electron configurations for the first 11 neutral elements:
 
 <pre>
 Hydrogen:  1s<sup>1</sup>
-Hydrogen:  1s<sup>2</sup>
+Helium:    1s<sup>2</sup>
 Lithium:   1s<sup>2</sup> 2s<sup>1</sup>
 Beryllium: 1s<sup>2</sup> 2s<sup>2</sup>
 Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>
 Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
 Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
 Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
-Florgine:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
+Florine:   1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
 Neon:      1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
 Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
 [...]
 </pre>
 
-Instead of writing the full details of long electron configurations, a common practice is to start with the closest group 18 element in the previous period in [brackets] followed by the rest of the element's electron configuration. For example, Sodium (element #11) may be written as [Ne] 3s<sup>1</sup>.
+Instead of writing the full details of long electron configurations, a common practice is to start with the previous group 18 element in [brackets] followed by the rest of the element's electron configuration. For example, Sodium (element #11) may be written as [Ne] 3s<sup>1</sup>.
 
 When d and f orbitals are filled, they backfill the previous shell. For example, Scandium's (element #21) electron configuration is [Ar] 4s<sup>2</sup> 3d<sup>1</sup>.
 
@@ -137,7 +137,7 @@ The valence electrons that tend to cause an atom to chemically react are those e
 
 Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
-* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its shell.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
 * Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their set of valance electrons.
@@ -146,12 +146,12 @@ Generally, atoms tend to be chemically reactive when their valence electrons do 
 
 The size of an atom increases from top to bottom as electron shells are added; however, moving left to right, the size of an atom decreases as the additional protons draw in the electrons.
 
-[Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element (and form a cation). The lower the ionization energy, the more the element is chemically reactive. Energy is required to remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
+[Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element (and form a cation). Energy is required to remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
 
 [Electron affinity][] (or anionization energy) is either:
 
-1. The amount of energy released when an electron is added to an incomplete set of valence electrons (e.g. an incomplete s orbital, an incomplete p orbital, etc.). Energy is released because any time an electron drops into a new orbital, it releases electromagnetic radiation energy in the form of a photon. Or,
-1. The amount of energy spent adding an electron to create a new orbital (or add an electron to an orbital which only has a single electron in each of its orbital pairs [e.g. Nitrogen]). Energy is needed to create the new orbital energy level.
+1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it releases electromagnetic radiation energy in the form of a photon. Or,
+1. The amount of energy spent adding an electron to create a new subshell or adding an electron to a subshell which only has a single electron in each of its orbital pairs (e.g. Nitrogen). Energy is needed to overcome the last subshell's stability.
 
 Electron affinity increases from left to right, except for elements with a complete set of valence electrons.
 
