@@ -19,7 +19,7 @@ There are over 100 billion [galaxies][] in the universe.
 
 The universe is made of [matter][] which is something that has [mass][] (m) and takes up a position in [space][].
 
-Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius].
+Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
@@ -58,7 +58,7 @@ Energy may [neither be created nor destroyed][conservation of energy], but only 
 
 # Pressure and Temperature
 
-[Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] (Pa) or N/m<sup>2</sup>. An object under pressure has potential energy.
+[Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] (Pa) (in N/m<sup>2</sup>). An object under pressure has potential energy.
 
 [Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric pressure reduces expontentially as an object rises above [sea level][].
 
