@@ -80,7 +80,13 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 [Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [electron shells][] subdivided into [orbitals][].
 
-The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). The number of nucleons is considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses). The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. There are four main [states of matter][]: solid, liquid, gas, and plasma.
+The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons).
+
+The number of nucleons is considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses).
+
+The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons.
+
+There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
@@ -90,7 +96,7 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next electron shell starts. Each shell is broken down into [orbitals][electron subshells] which have a distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. The orbital names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell is broken down into [orbitals][electron subshells] which have a distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. The orbital names are:
 
 * s: At most 2 electrons for groups 1 and 2 (or group 18 for Helium).
 * p: Starting at period 2, at most 6 electrons for groups 13-18.
@@ -105,13 +111,13 @@ Hydrogen:  1s<sup>1</sup>
 Hydrogen:  1s<sup>2</sup>
 Lithium:   1s<sup>2</sup> 2s<sup>1</sup>
 Beryllium: 1s<sup>2</sup> 2s<sup>2</sup>
-Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
-Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
-Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
-Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
-Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
-Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>
-Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> [...]
+Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>
+Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
+Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
+Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
+Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
+Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
+Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
 </pre>
 
 Each orbital above s is further broken down such that [no more than two electrons share the same distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital having 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
