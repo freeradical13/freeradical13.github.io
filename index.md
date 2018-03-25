@@ -70,7 +70,7 @@ Temperature or heat is either measured in [degrees][] (°) of change on the scal
 
 Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
 
-The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
+The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
@@ -78,9 +78,9 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [electron shells][] subdivided into [orbitals][].
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [shells][electron shells]. Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
 
-The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons).
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
 The number of nucleons is considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses).
 
@@ -88,7 +88,7 @@ The number of neutrons defines the element's [isotope][] which is represented as
 
 There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
+The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
 
 # Chemistry
 
@@ -98,14 +98,14 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-The reason for grouping elements in such a way is mostly to do with electron configurations and the chemical reactivity those configurations cause.
+The reason for describing elements in such a way is mostly to do with electron configurations and the chemical reactivity and bonding those configurations may cause.
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell is broken down into [orbitals][electron subshells] which have a distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. The orbital names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. [Electron configurations][] are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
 
-* s: At most 2 electrons for groups 1 and 2 (or group 18 for Helium).
-* p: Starting at period 2, at most 6 electrons for groups 13-18.
-* d: Starting at period 4, at most 10 electrons for groups 3-12.
-* f: Starting at period 6, at most 14 electrons in between groups 3 and 4.
+* s: For groups 1 and 2 (or group 18 for Helium) only, at most 2 electrons.
+* p: Starting at period 2, for groups 13-18, at most 6 electrons.
+* d: Starting at period 4, for groups 3-12, at most 10 electrons.
+* f: Starting at period 6, in between groups 3 and 4, at most 14 electrons.
 * [...]
 
 Examples of electron configurations for the first 11 neutral elements:
@@ -125,20 +125,18 @@ Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
 [...]
 </pre>
 
-Instead of writing the full details of long electron configurations, a common practice is to start with the closest noble gas in a higher period in brackets followed by the rest of the element's shell configuration. For example, Sodium (element #11) may be written as [Ne] 3s<sup>1</sup>.
+Instead of writing the full details of long electron configurations, a common practice is to start with the closest group 18 element in the previous period in [brackets] followed by the rest of the element's electron configuration. For example, Sodium (element #11) may be written as [Ne] 3s<sup>1</sup>.
 
 When d and f orbitals are filled, they backfill the previous shell. For example, Scandium's (element #21) electron configuration is [Ar] 4s<sup>2</sup> 3d<sup>1</sup>.
 
-Each orbital above s is further broken down such that [no more than two electrons share the same spatial distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital has 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
-
-The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies or are the farthest from the nucleus - the [valence electrons][] - which are usually those in the valence shell (farthest out), but sometimes those in d orbitals, because even though those backfill the previous shell, they may have higher energies than, for example, s orbital electrons.
+The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) - also known as the [valence electrons][] - which are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
 Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
 
-Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns, otherwise known as groups, have generally similar behaviors since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that columns, otherwise known as groups, have generally similar behaviors since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
-* Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
-* Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the previous period's full set of valence electrons.
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
+* Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
 * Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their set of valance electrons.
 * Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their set of of valence electrons.
@@ -274,6 +272,7 @@ if (elements.length) {
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
+[electron configurations]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electron shells]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
