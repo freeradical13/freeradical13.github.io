@@ -131,7 +131,7 @@ When d and f orbitals are filled, they backfill the previous shell. For example,
 
 Each orbital above s is further broken down such that [no more than two electrons share the same spatial distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital has 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
 
-The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies - the [valence electrons][] - which are usually those in the valence shell.
+The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies or are the farthest from the nucleus - the [valence electrons][] - which are usually those in the valence shell (farthest out), but sometimes those in d orbitals, because even though those backfill the previous shell, they may have higher energies than, for example, s orbital electrons.
 
 Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
 
