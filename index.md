@@ -98,14 +98,18 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-The reason for describing elements in such a way is mostly to do with electron configurations and the chemical reactivity and bonding those configurations may cause.
+The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behavior patterns they may cause (described later).
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. [Electron configurations][] are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
+Rows are called periods and describe a new electron shell which accumulates on top of any previous periods' shells. This outermost shell is known as the [valence shell][] which generally contains the [valence electrons][] that may be reactive (ionized elements complicate this picture since they contain one less electron and effectively drop down a shell - for example, the Lithium cation - but the table is a conceptual starting point from neutral atoms).
+
+Columns are called groups and generally group by the number of valence electrons, and thus generally group by similar behavior.
+
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
 
 * s: For groups 1 and 2 (or group 18 for Helium) only, at most 2 electrons.
-* p: Starting at period 2, for groups 13-18, at most 6 electrons.
-* d: Starting at period 4, for groups 3-12, at most 10 electrons.
-* f: Starting at period 6, in between groups 3 and 4, at most 14 electrons.
+* p: Starting at period 2, for groups 13-18 only, at most 6 electrons.
+* d: Starting at period 4, for groups 3-12 only, at most 10 electrons.
+* f: Starting at period 6, in between groups 3 and 4 only, at most 14 electrons.
 * [...]
 
 Examples of electron configurations for the first 11 neutral elements:
@@ -129,11 +133,9 @@ Instead of writing the full details of long electron configurations, a common pr
 
 When d and f orbitals are filled, they backfill the previous shell. For example, Scandium's (element #21) electron configuration is [Ar] 4s<sup>2</sup> 3d<sup>1</sup>.
 
-The outermost electron shell is called the [valence shell][]. The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) - also known as the [valence electrons][] - which are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
+The valence electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
-Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
-
-Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that columns, otherwise known as groups, have generally similar behaviors since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
@@ -272,7 +274,7 @@ if (elements.length) {
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
-[electron configurations]: https://en.wikipedia.org/wiki/Electron_configuration
+[electron configuration]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electron shells]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
