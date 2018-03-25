@@ -118,6 +118,7 @@ Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
 Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
 Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
 Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
+[...]
 </pre>
 
 Each orbital above s is further broken down such that [no more than two electrons share the same distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital having 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
@@ -126,7 +127,7 @@ The outermost electron shell is called the [valence shell][]; however, the elect
 
 Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
 
-Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns have generally similar behavior since columns are generally grouped by the number of electrons in the valence shell. There are 18 numbered and 6 named groups:
+Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns, otherwise known as groups, have generally similar behavior since groups are generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the previous period's full set of valence electrons.
