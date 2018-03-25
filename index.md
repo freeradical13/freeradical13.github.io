@@ -97,8 +97,7 @@ The number of protons is considered the [atomic number][] and categorizes the at
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
 [![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
-
-<div style="text-align: right; font-size: xx-small;">[Based on a Wikipedia image by Sandbh][periodic table image original]</div>
+<div style="text-align: right; font-size: xx-small;"><a href="https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png">Based on a Wikipedia image by Sandbh</a></div>
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
@@ -353,7 +352,6 @@ if (elements.length) {
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
-[periodic table image original]: https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [planets]: https://en.wikipedia.org/wiki/Planet
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
