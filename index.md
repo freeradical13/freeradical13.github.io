@@ -1,164 +1,96 @@
 # Biology Basics
 
-The purpose of this site is to explore biology and the things that make up biology. Feel free to [correct or suggest 
-things][issues]. You may follow updates to this page using [an RSS 
-feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom).
+The purpose of this site is to explore biology and the things that make up biology. Feel free to [suggest corrections or additions][issues]. You may follow updates to this page using [an RSS feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom).
 
 # Big History
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-We live on [Earth][] which is part of a [solar system][] with a [star][] at its center called the [Sun][]. Earth and 
-its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 
-12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in 
-diameter (or about 0.0001% of the size of the universe).
+We live on [Earth][] which is part of a [solar system][] with a [star][] at its center called the [Sun][]. Earth and its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
 
 There are over 100 billion [galaxies][] in the universe.
 
 # Basics
 
 1. This page assumes basic knowledge of [math][], [algebra][], [geometry][], and [scientific notation][].
-1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the 
-parentheses (in this example, "m") which represents that measurement in equations. In this example, in the equation 
-<code>F=m×a</code>, mass is represented by the letter "m".
+1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the parentheses (in this example, "m") which represents that measurement in equations. In this example, in the equation <code>F=m×a</code>, mass is represented by the letter "m".
 
 # Matter
 
 The universe is made of [matter][] which is something that has [mass][] (m) and takes up a position in [space][].
 
-Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 
-1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 
-9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 
-0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron 
-radius].
+Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius].
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
-The [speed][] of an object is a description of its movement which is the [rate][] at which its position in space 
-changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 
-m/s).
+The [speed][] of an object is a description of its movement which is the [rate][] at which its position in space changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
 
-The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 
-m/s _down_).
+The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s _down_).
 
-The [acceleration][] (a) of an object is the rate at which its velocity changes over a period of time (e.g. 
-accelerating at 13 m/s over 1 second down, or 13 m/s<sup>2</sup> down).
+The [acceleration][] (a) of an object is the rate at which its velocity changes over a period of time (e.g. accelerating at 13 m/s over 1 second down, or 13 m/s<sup>2</sup> down).
 
-The [momentum][] (p) of an object, or its "quantity of motion", is its mass multiplied by its velocity 
-(<code>p=m×v</code>).
+The [momentum][] (p) of an object, or its "quantity of motion", is its mass multiplied by its velocity (<code>p=m×v</code>).
 
-If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over 
-time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for 
-acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the 
-[newton][] (N).
+If the mass of an object is constant, the force acting on it is the [rate of change][derivative] of its momentum over time (<code>F=<span class="italics">d</span>p/<span class="italics">d</span>t</code>); or, substituting momentum for acceleration and simplifying, its mass multiplied by its acceleration (<code>F=m×a</code>). The unit of force is the [newton][] (N).
 
-When objects touch each other, the [perpendicular][] force their surfaces apply is called the [normal force][] 
-(F<sub>n</sub>), and any [parallel][] forces are called [frictional forces][] (F<sub>f</sub>).
+When objects touch each other, the [perpendicular][] force their surfaces apply is called the [normal force][] (F<sub>n</sub>), and any [parallel][] forces are called [frictional forces][] (F<sub>f</sub>).
 
-When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third 
-law] on object A.
+When an object A exerts a force on another object B, then object B exerts an [equal and opposite force][force third law] on object A.
 
 # Electric Charge
 
-[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a 
-positive or negative force on other electrically charged matter, proportional to the distance between them. The 
-magnitude of the force is calculated with [Coulomb's law][] 
-(<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] 
-(k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided 
-by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel 
-other positive charges, negative charges repel other negative charges, and positive charges attract negative charges 
-(and vice versa).
+[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of the force is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
 
-Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively 
-charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, 
-respectively. Neutrons have no charge (electrically neutral).
+Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively. Neutrons have no charge (electrically neutral).
 
-An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) 
-through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a 
-cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] 
-(Hz). [Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation 
-occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The 
-speed of light is the maximum speed that any matter may move.
+An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is the maximum speed that any matter may move.
 
 # Energy
 
-[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured 
-in [joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the 
-direction of its motion for one meter.
+[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured in [joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the direction of its motion for one meter.
 
-Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as 
-<code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which may be thought of as stored energy.
+Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which may be thought of as stored energy.
 
-Energy may [neither be created nor destroyed][conservation of energy], but only transformed. Mass may be converted to 
-energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
+Energy may [neither be created nor destroyed][conservation of energy], but only transformed. Mass may be converted to energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
 
 # Pressure and Temperature
 
-[Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often 
-measured in [Pascals][] (Pa) or N/m<sup>2</sup>. An object under pressure has potential energy.
+[Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] (Pa) or N/m<sup>2</sup>. An object under pressure has potential energy.
 
-[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The 
-mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric 
-pressure reduces expontentially as an object rises above [sea level][].
+[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric pressure reduces expontentially as an object rises above [sea level][].
 
-Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent 
-to 101,325 Pa.
+Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent to 101,325 Pa.
 
-[Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest 
-state at which an object has minimal movement; however, practically, it may be assumed that all objects have some 
-movement (or [vibration][]) and thus some non-zero temperature.
+[Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest state at which an object has minimal movement; however, practically, it may be assumed that all objects have some movement (or [vibration][]) and thus some non-zero temperature.
 
-Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or 
-[Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
+Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
-Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 
-atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes 
-at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined 
-relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches 
-its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
+Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
 
-The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 
-331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
+The [lowest recorded surface temperature][temperature comparison] on Earth is 184K / -89.2°C / -128.6°F, the highest 331K / 58°C / 136.4°F, and the average 288K / 15°C / 59°F.
 
-If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler 
-object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at 
-least their touching surfaces) reach [thermal equilibrium][].
+If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
 All matter continuously emits some of its energy as heat through [thermal radiation][].
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's 
-[nucleus][], and some number of [electrons][] orbiting the nucleus in [electron shells][] subdivided into [orbitals][].
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [electron shells][] subdivided into [orbitals][].
 
-The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical 
-element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). The number of nucleons is 
-considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because 
-they're so much relatively lighter than the nucleons' masses). The number of neutrons defines the element's [isotope][] 
-which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so the number of neutrons 
-may be deduced from the isotope name by subtracting the number of protons. There are four main [states of matter][]: 
-solid, liquid, gas, and plasma.
+The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). The number of nucleons is considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses). The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons 
-and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more 
-electrons - negatively charged - an anion).
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
 ## Periodic Table of Elements
 
-The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The 
-elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going 
-down.
+The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
 [![32-column periodic table](images/32-column_periodic_table-a.png)][periodic table image]
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the 
-next electron shell starts. Each shell is broken down into [orbitals][electron subshells] which have a 
-distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by 
-the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. 
-The orbital names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next electron shell starts. Each shell is broken down into [orbitals][electron subshells] which have a distinct [energy level][] and a maximum number of electrons before the next orbital starts. Orbitals are represented by the shell number, followed by the orbital name, followed by the number of electrons in that orbital in a superscript. The orbital names are:
 
 * s: At most 2 electrons for groups 1 and 2 (or group 18 for Helium).
 * p: Starting at period 2, at most 6 electrons for groups 13-18.
@@ -182,86 +114,45 @@ Magnesium: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>
 Aluminum:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> [...]
 </pre>
 
-Each orbital above s is further broken down such that [no more than two electrons share the same distribution within 
-the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and 
-p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital having 6 electrons). It's 
-normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed 
-later).
+Each orbital above s is further broken down such that [no more than two electrons share the same distribution within the orbital][orbitalmax2e]. For example, the p orbital is broken down into p<sub>z</sub>, p<sub>x</sub>, and p<sub>y</sub>, each with up to 2 electrons (and thus if they're all full, the p orbital having 6 electrons). It's normally not needed to break down orbitals to this level but has some implications with electron affinity (discussed later).
 
-The outermost electron shell is called the [valence shell][]; however, the electrons that tend to cause an atom to 
-chemically react are those electrons with the highest energy - the [valence electrons][] - which are not always in the 
-valence shell.
+The outermost electron shell is called the [valence shell][]; however, the electrons that tend to cause an atom to chemically react are those electrons with the highest energy - the [valence electrons][] - which are not always in the valence shell.
 
-Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized 
-elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
+Rows in the periodic table are called periods and a new period is started when an element starts a new shell (ionized elements complicate this picture - for example, the Lithium cation - but the table is primarily conceptual).
 
-Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is 
-unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be 
-stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a 
-full and stable set of valence electrons. This is very important and means that columns have generally similar behavior 
-since columns are generally grouped by the number of electrons in the valence shell. There are 18 numbered and 6 named 
-groups:
+Atoms tend to be chemically reactive when their valence electrons do not complete their orbital and thus the atom is unstable. For example, the p orbital needs 6 electrons (and the previously filled s orbital of 2 electrons) to be stable, thus leading to the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is very important and means that columns have generally similar behavior since columns are generally grouped by the number of electrons in the valence shell. There are 18 numbered and 6 named groups:
 
-* Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous 
-period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since 
-that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
-* Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the 
-previous period's full set of valence electrons.
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose/share an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its 1s orbital.
+* Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose/share two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
-* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their set 
-of valance electrons.
-* Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their set of of valence 
-electrons.
-* Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is 
-full.
+* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their set of valance electrons.
+* Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their set of of valence electrons.
+* Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is full.
 
-The size of an atom increases from top to bottom as electron shells are added; however, moving left to right, the size 
-of an atom decreases as the additional protons draw in the electrons.
+The size of an atom increases from top to bottom as electron shells are added; however, moving left to right, the size of an atom decreases as the additional protons draw in the electrons.
 
-[Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element 
-(and form a cation). The lower the ionization energy, the more the element is chemically reactive. Energy is required 
-to remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization 
-energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set 
-of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] 
-as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence 
-electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
+[Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element (and form a cation). The lower the ionization energy, the more the element is chemically reactive. Energy is required to remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
 
 [Electron affinity][] (or anionization energy) is either:
 
-1. The amount of energy released when an electron is added to an incomplete set of valence electrons (e.g. an incomplete 
-s orbital, an incomplete p orbital, etc.). Energy is released because any time an electron drops into a new orbital, it 
-releases electromagnetic radiation energy in the form of a photon. Or,
-1. The amount of energy spent adding an electron to create a new orbital (or add an electron to an orbital which only 
-has a single electron in each of its orbital pairs [e.g. Nitrogen]). Energy is needed to create the new orbital energy 
-level.
+1. The amount of energy released when an electron is added to an incomplete set of valence electrons (e.g. an incomplete s orbital, an incomplete p orbital, etc.). Energy is released because any time an electron drops into a new orbital, it releases electromagnetic radiation energy in the form of a photon. Or,
+1. The amount of energy spent adding an electron to create a new orbital (or add an electron to an orbital which only has a single electron in each of its orbital pairs [e.g. Nitrogen]). Energy is needed to create the new orbital energy level.
 
 Electron affinity increases from left to right, except for elements with a complete set of valence electrons.
 
 # Big History (Continued)
 
-After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some 
-of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, 
-hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce 
-[helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows 
-for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star 
-temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining 
-elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova 
-or collapses into a black hole or neutron star][r process].
+After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
 
 # Chemistry
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more 
-[stable][molecule stability].
+A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability].
 
 A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
-[Electronegativity][] is the tendency of an atom to attract electrons to its valence shell. It follows from the octet 
-rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom 
-because the valence shell is farther away from the positively charged nucleus. Electropositivity is the opposite of 
-electronegativity.
+[Electronegativity][] is the tendency of an atom to attract electrons to its valence shell. It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus. Electropositivity is the opposite of electronegativity.
 
-An [ionic bond][] occurs when one atom transfers an electron to another. This transfer causes ionization of both 
-atoms which may then cause attraction.
+An [ionic bond][] occurs when one atom transfers an electron to another. This transfer causes ionization of both atoms which may then cause attraction.
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -275,9 +166,7 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans].
 
 # Cells
 
-A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. 
-coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in 
-human body].
+A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 An [organism][] is a set of one or more cells.
 
@@ -287,8 +176,7 @@ An [organism][] is a set of one or more cells.
 
 # Methodology/Meta
 
-* Every time I "context switch" into this subject, I re-read the entire page before re-starting. Along with the process 
-of writing itself, this seems to maximize retention.
+* Every time I "context switch" into this subject, I re-read the entire page before re-starting. Along with the process of writing itself, this seems to maximize retention.
 
 <style>
 .page-header {
