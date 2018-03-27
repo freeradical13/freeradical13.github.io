@@ -97,6 +97,7 @@ The number of protons is considered the [atomic number][] and categorizes the at
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
 [![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
+
 <div style="margin-top: 0; padding-top: 0; text-align: right; font-size: xx-small;"><a href="https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png">Based on an image by Sandbh</a></div>
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
@@ -116,17 +117,17 @@ Each electron shell in an atom has a maximum number of electrons (<code>2×Shell
 Examples of electron configurations for the first 11 neutral elements:
 
 <pre>
-Hydrogen:  1s<sup>1</sup>
-Helium:    1s<sup>2</sup>
-Lithium:   1s<sup>2</sup> 2s<sup>1</sup>
-Beryllium: 1s<sup>2</sup> 2s<sup>2</sup>
-Boron:     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>
-Carbon:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
-Nitrogen:  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
-Oxygen:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
-Florine:   1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
-Neon:      1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
-Sodium:    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
+Hydrogen (1):  1s<sup>1</sup>
+Helium (2):    1s<sup>2</sup>
+Lithium (3):   1s<sup>2</sup> 2s<sup>1</sup>
+Beryllium (4): 1s<sup>2</sup> 2s<sup>2</sup>
+Boron (5):     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>
+Carbon (6):    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
+Nitrogen (7):  1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
+Oxygen (8):    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
+Florine (9):   1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>
+Neon (10):     1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>
+Sodium (11):   1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>
 [...]
 </pre>
 
@@ -136,13 +137,13 @@ When d and f orbitals are filled, they backfill the previous shell. For example,
 
 The valence electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
-Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
-* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to share its electron to complete its shell.
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to want another electron to complete its shell.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
-* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain/share two electrons to fill their set of valance electrons.
-* Group #17: [Halogens][] - Highly reactive because they want to gain/share an electron to fill their set of of valence electrons.
+* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain two electrons or share two electrons to fill their set of valance electrons.
+* Group #17: [Halogens][] - Highly reactive because they want to gain an electron or share a pair of electrons to fill their set of of valence electrons.
 * Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is full.
 
 The size of an atom increases from top to bottom as electron shells are added; however, moving left to right, the size of an atom decreases as the additional protons draw in the electrons.
