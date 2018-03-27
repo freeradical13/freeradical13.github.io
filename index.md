@@ -142,7 +142,7 @@ Generally, atoms tend to be chemically reactive when their valence electrons do 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to want another electron to complete its shell.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
-* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain two electrons or share two electrons to fill their set of valance electrons.
+* Group #16: [Chalcogens][] - Somewhat reactive because they want to gain two electrons or share pairs of electrons to fill their set of valance electrons.
 * Group #17: [Halogens][] - Highly reactive because they want to gain an electron or share a pair of electrons to fill their set of of valence electrons.
 * Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is full.
 
@@ -175,6 +175,10 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell. It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus. Electropositivity is the opposite of electronegativity.
+
+In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
+
+[![Periodic trends](images/Periodic_trends.png)][periodic trends image]
 
 An [organic compound][] is a molecule that has carbon.
 
@@ -353,6 +357,7 @@ if (elements.length) {
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
+[periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [planets]: https://en.wikipedia.org/wiki/Planet
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
