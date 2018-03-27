@@ -178,7 +178,7 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
-[![Periodic trends](images/Periodic_trends.png)][periodic trends image]
+[![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
 
 An [organic compound][] is a molecule that has carbon.
 
