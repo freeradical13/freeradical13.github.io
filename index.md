@@ -6,20 +6,20 @@ The purpose of this site is to explore biology and the things that make up biolo
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-We live on [Earth][] which is part of a [solar system][] with a [star][] at its center called the [Sun][]. Earth and its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
+We live on [Earth][] which is part of a [solar system][] with a [star][] called the [Sun][]. Earth and its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
 
 There are over 100 billion [galaxies][] in the universe.
 
 # Basics
 
 1. This page assumes basic knowledge of [math][], [algebra][], [geometry][], and [scientific notation][].
-1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a variable in the parentheses (in this example, "m") which represents that measurement in equations. In this example, in the equation <code>F=m×a</code>, mass is represented by the letter "m".
+1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a letter (in this example, "m") which represents that measurement in equations. For example, in the equation <code>F=m×a</code>, mass is represented by the letter "m".
 
 # Matter
 
 The universe is made of [matter][] which is something that has [mass][] (m) and takes up a position in [space][].
 
-Examples of matter are [protons][], [electrons][], and [neutrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
+Examples of matter are [protons][], [neutrons][], and [electrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
 
 An [object][] is a collection of matter. An object has an [inertia][], meaning:
 
@@ -169,7 +169,7 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 # Chemistry (Continued)
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability]. Types of bonds:
+A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability] with that bond. Types of bonds:
 
 1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause attraction of the oppositely charged ions.
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
@@ -179,6 +179,8 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
+
+## Organic Chemistry
 
 An [organic compound][] is a molecule that has carbon.
 
