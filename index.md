@@ -46,7 +46,7 @@ When an object A exerts a force on another object B, then object B exerts an [eq
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively. Neutrons have no charge (electrically neutral).
 
-An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance the wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is the maximum speed that any matter may move.
+An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is the maximum speed that any matter may move.
 
 # Energy
 
@@ -60,7 +60,7 @@ Energy may [neither be created nor destroyed][conservation of energy], but only 
 
 [Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] (Pa) (in N/m<sup>2</sup>). An object under pressure has potential energy.
 
-[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric pressure reduces expontentially as an object rises above [sea level][].
+[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric pressure decreases expontentially as an object rises above [sea level][].
 
 Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent to 101,325 Pa.
 
@@ -82,13 +82,15 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
-The number of nucleons is considered the [atomic mass number][atomic mass] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses).
-
-The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons.
+The number of nucleons is considered the [atomic mass number][] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses).
 
 There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
+
+[Atomic mass][] (m<sub>a</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Atomic weight][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope weights of an element on Earth.
+
+The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope is abbreviated with the atomic mass number in a superscript to the left of the element letter; for example, <sup>14</sup>C.
 
 # Chemistry
 
@@ -146,7 +148,7 @@ Generally, atoms tend to be chemically reactive when their valence electrons do 
 * Group #17: [Halogens][] - Highly reactive because they want to gain an electron or share a pair of electrons to fill their set of of valence electrons.
 * Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is full.
 
-The size of an atom increases from top to bottom as electron shells are added; however, moving left to right, the size of an atom decreases as the additional protons draw in the electrons.
+The radius of an atom increases from top to bottom as electron shells are added; however, moving left to right, the radius of an atom decreases as the additional protons draw in the electrons.
 
 [Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element (and form a cation). Energy is required to remove the electron because the electron is attracted to its proton(s). Following from the octet rule, ionization energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
 
@@ -179,6 +181,8 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
+
+The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an isotope <sup>m<sub>a</sub></sup>E equals <code>m<sub>a</sub> grams</code>.
 
 ## Organic Chemistry
 
@@ -258,7 +262,9 @@ if (elements.length) {
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
+[atomic mass number]: https://en.wikipedia.org/wiki/Mass_number
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
+[atomic weight]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
@@ -336,6 +342,7 @@ if (elements.length) {
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
+[mole]: https://en.wikipedia.org/wiki/Mole_(unit)
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
@@ -380,6 +387,7 @@ if (elements.length) {
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [star]: https://en.wikipedia.org/wiki/Star
 [states of matter]: https://en.wikipedia.org/wiki/State_of_matter
+[standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
@@ -391,6 +399,7 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
+[unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
