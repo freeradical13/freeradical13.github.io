@@ -82,13 +82,13 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
 
-The number of nucleons is considered the [atomic mass number][] (an atom's electrons' masses generally aren't considered because they're so much relatively lighter than the nucleons' masses).
+The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
 There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
-The number of protons is considered the [atomic number][] and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
+The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
 
-[Atomic mass][] (m<sub>a</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Atomic weight][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope weights of an element on Earth.
+[Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Atomic weight][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope weights of an element on Earth.
 
 The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope is abbreviated with the atomic mass number in a superscript to the left of the element letter; for example, <sup>14</sup>C.
 
@@ -182,7 +182,7 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
 
-The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an isotope <sup>m<sub>a</sub></sup>E equals <code>m<sub>a</sub> grams</code>.
+The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an isotope is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
 
 ## Organic Chemistry
 
