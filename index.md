@@ -80,17 +80,15 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 [Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [shells][electron shells]. Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion] (if more protons - positively charged - then it's called a cation, and if more electrons - negatively charged - an anion).
-
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
-
-There are four main [states of matter][]: solid, liquid, gas, and plasma.
 
 The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
 
-[Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Atomic weight][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope weights of an element on Earth.
-
 The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope is abbreviated with the atomic mass number in a superscript to the left of the element letter; for example, <sup>14</sup>C.
+
+[Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
+
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup>. If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>.
 
 # Chemistry
 
@@ -101,6 +99,10 @@ The [periodic table][] is a way to organize and understand the chemical elements
 [![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
 
 <div style="margin-top: 0; padding-top: 0; text-align: right; font-size: xx-small;"><a href="https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png">Based on an image by Sandbh</a></div>
+
+Within each block, the atomic number is at the top, followed by the element's abbreviation, followed by the element name:
+
+[![periodic table element](images/periodic_table_element.png)][periodic table element]
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
@@ -182,7 +184,7 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
 
-The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an isotope is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
+The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
 
 ## Organic Chemistry
 
@@ -386,7 +388,6 @@ if (elements.length) {
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [star]: https://en.wikipedia.org/wiki/Star
-[states of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [sun]: https://en.wikipedia.org/wiki/Sun
