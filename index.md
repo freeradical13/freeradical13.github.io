@@ -88,7 +88,7 @@ The number of neutrons defines the element's [isotope][] which is represented as
 
 [Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup>. If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral ion, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup> (where E is the element symbol, discussed below). If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral element, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
 
 # Chemistry
 
@@ -96,7 +96,7 @@ If an atom has an equal number of protons and electrons, then it is neutral. If 
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
-Within each square, the atomic number is at the top, followed by the element's abbreviation, followed by the element name:
+Within each square, the atomic number is at the top, followed by the element's symbol, followed by the element name:
 
 ![periodic table element](images/periodic_table_element.png)
 
@@ -167,6 +167,8 @@ Most elements are [metals][] (although only two are named metal groups): they ar
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
+When an element is anionized, the suffix of its name changes to -ide. For example, the Chlorine anion is named Chloride.
+
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
@@ -177,6 +179,8 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 
 1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause attraction of the oppositely charged ions.
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
+
+The [molecular formula][] of a molecule describes each element in the molecule with the number of atoms of each element is a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
@@ -266,7 +270,6 @@ if (elements.length) {
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic mass number]: https://en.wikipedia.org/wiki/Mass_number
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
-[atomic weight]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
@@ -347,6 +350,7 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
+[molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
@@ -382,6 +386,7 @@ if (elements.length) {
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
+[relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [s process]: https://en.wikipedia.org/wiki/S-process
 [scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
