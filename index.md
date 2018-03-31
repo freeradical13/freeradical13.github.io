@@ -102,7 +102,7 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 Within each block, the atomic number is at the top, followed by the element's abbreviation, followed by the element name:
 
-[![periodic table element](images/periodic_table_element.png)][periodic table element]
+![periodic table element](images/periodic_table_element.png)
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
