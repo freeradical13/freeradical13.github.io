@@ -184,7 +184,8 @@ A molecule may be describe in many ways:
 
 1. The [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. A name such as Water which represents H<sub>2</sub>O.
-1. An [emperical formula][] is the molecular formula which the ratios of elements reduced to the simplest form. For example, two molecules of water have a molecular formula of H<sub>4</sub>O<sub>2</sub>, but the emperical formula is H<sub>2</sub>O.
+1. An [emperical formula][] is the molecular formula which the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the emperical formula is CH.
+1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
@@ -277,6 +278,7 @@ if (elements.length) {
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
+[benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
@@ -403,6 +405,7 @@ if (elements.length) {
 [star]: https://en.wikipedia.org/wiki/Star
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
