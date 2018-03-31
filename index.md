@@ -88,7 +88,7 @@ The number of neutrons defines the element's [isotope][] which is represented as
 
 [Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup>. If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>.
+If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup>. If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral ion, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
 
 # Chemistry
 
@@ -96,13 +96,13 @@ If an atom has an equal number of protons and electrons, then it is neutral. If 
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
+Within each square, the atomic number is at the top, followed by the element's abbreviation, followed by the element name:
+
+![periodic table element](images/periodic_table_element.png)
+
 [![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
 
 <div style="margin-top: 0; padding-top: 0; text-align: right; font-size: xx-small;"><a href="https://en.wikipedia.org/wiki/File:32-column_periodic_table-a.png">Based on an image by Sandbh</a></div>
-
-Within each block, the atomic number is at the top, followed by the element's abbreviation, followed by the element name:
-
-![periodic table element](images/periodic_table_element.png)
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
@@ -156,12 +156,12 @@ The radius of an atom increases from top to bottom as electron shells are added;
 
 [Electron affinity][] (or anionization energy) is either:
 
-1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it releases electromagnetic radiation energy in the form of a photon. Or,
+1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it causes the release of electromagnetic radiation energy in the form of a [photon][]. Or,
 1. The amount of energy spent adding an electron to create a new subshell or adding an electron to a subshell which only has a single electron in each of its orbital pairs (e.g. Nitrogen). Energy is needed to overcome the last subshell's stability.
 
 Generally, electron affinity increases from left to right (except for those with stable last subshells) because right-most elements want additional electrons to achieve stability.
 
-Most elements are [metals][] (although only two are named metal groups): they are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, low electron affinity, are highly electrically conductive, malleable, and generally solid at standard temperature.
+Most elements are [metals][] (although only two are named metal groups): they are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
 [Nonmetals][] are the opposite of metals: they are on the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
 
@@ -169,7 +169,7 @@ There are a handful of [Metalloids][] which have properties of both metals and n
 
 # Big History (Continued)
 
-After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
+After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
 
 # Chemistry (Continued)
 
@@ -178,13 +178,13 @@ A [molecule][] is a set of two or more atoms held together by a [chemical bond][
 1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause attraction of the oppositely charged ions.
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
-[Electronegativity][] is the tendency of an atom to attract electrons to its valence shell. It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus. Electropositivity is the opposite of electronegativity.
+[Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
 
-The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u</code>. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
+The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u = 1 mol</code>. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
 
 ## Organic Chemistry
 
@@ -288,9 +288,11 @@ if (elements.length) {
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
+[ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
+[electrically conductive]: https://en.wikipedia.org/wiki/Electrical_conductor
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
@@ -370,6 +372,7 @@ if (elements.length) {
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
+[photon]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
