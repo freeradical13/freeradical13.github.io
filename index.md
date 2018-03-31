@@ -177,15 +177,16 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability] with that bond. Types of bonds:
 
-1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions.
+1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lost an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond, forming NaCl (otherwise known as table salt).
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
 A molecule may be describe in many ways:
 
-1. The [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
+1. A [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. A name such as Water which represents H<sub>2</sub>O.
-1. An [emperical formula][] is the molecular formula which the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the emperical formula is CH.
+1. An [emperical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the emperical formula is CH.
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
+1. A compound name with a set of element names (with any cation first). If an element name is followed by roman numerals in parentheses, that represents the net charge of that ion.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
