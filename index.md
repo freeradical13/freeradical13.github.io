@@ -177,10 +177,14 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability] with that bond. Types of bonds:
 
-1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause attraction of the oppositely charged ions.
+1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions.
 1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
 
-The [molecular formula][] of a molecule describes each element in the molecule with the number of atoms of each element is a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
+A molecule may be describe in many ways:
+
+1. The [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
+1. A name such as Water which represents H<sub>2</sub>O.
+1. An [emperical formula][] is the molecular formula which the ratios of elements reduced to the simplest form. For example, two molecules of water have a molecular formula of H<sub>4</sub>O<sub>2</sub>, but the emperical formula is H<sub>2</sub>O.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
@@ -308,6 +312,7 @@ if (elements.length) {
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elevation]: https://en.wikipedia.org/wiki/Elevation
+[emperical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
