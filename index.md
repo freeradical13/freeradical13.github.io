@@ -167,32 +167,37 @@ Most elements are [metals][] (although only two are named metal groups): they ar
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
-When an element is anionized, the suffix of its name changes to -ide. For example, the Chlorine anion is named Chloride.
-
 # Big History (Continued)
 
 After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
 
 # Chemistry (Continued)
 
-A [molecule][] is a set of two or more atoms held together by a [chemical bond][] because the molecule is more [stable][molecule stability] with that bond. Types of bonds:
+A [molecule][] or [chemical compound][] is a set of two or more atoms held together by a [chemical bond][] because the atoms are more [stable][molecule stability] with that bond.
 
-1. An [ionic bond][] occurs when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lost an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond, forming NaCl (otherwise known as table salt).
-1. A [covalent bond][] occurs when atoms share one or more pairs of electrons in their valence shells.
+Types of chemical bonds:
 
-A molecule may be describe in many ways:
+1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element.
+1. An [ionic compound][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond, forming NaCl (otherwise known as table salt).
+1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
+
+A [chemical substance][] is a set of two or more molecules or compounds of the same type (i.e. "pure").
+
+A molecule or compound may be described in many ways:
 
 1. A [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
-1. A name such as Water which represents H<sub>2</sub>O.
-1. An [emperical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the emperical formula is CH.
+1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
-1. A compound name with a set of element names (with any cation first). If an element name is followed by roman numerals in parentheses, that represents the net charge of that ion.
+1. A compound name with a set of element names (with any cation first). If an element name is followed by roman numerals in parentheses, that represents the net positive charge of that cation.
+1. A [trivial][trivial name] or [retained name][] such as Water which represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
 [![Periodic trends](images/Periodic_trends.jpg)][periodic trends image]
+
+When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
 The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u = 1 mol</code>. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
 
@@ -287,7 +292,9 @@ if (elements.length) {
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
+[chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
+[chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -315,7 +322,7 @@ if (elements.length) {
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elevation]: https://en.wikipedia.org/wiki/Elevation
-[emperical formula]: https://en.wikipedia.org/wiki/Empirical_formula
+[empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
@@ -335,9 +342,11 @@ if (elements.length) {
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
+[intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
+[ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [isotope]: https://en.wikipedia.org/wiki/Isotope
@@ -354,6 +363,7 @@ if (elements.length) {
 [math]: https://www.youtube.com/watch?v=jxA8MffVmPs&list=PL50D1D09ABE9CE271
 [matter]: https://en.wikipedia.org/wiki/Matter
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
@@ -395,6 +405,7 @@ if (elements.length) {
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
+[retained name]: https://en.wikipedia.org/wiki/Retained_name
 [s process]: https://en.wikipedia.org/wiki/S-process
 [scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
@@ -417,6 +428,7 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
+[trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
