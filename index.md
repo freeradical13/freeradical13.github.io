@@ -178,7 +178,7 @@ A [molecule][] or [chemical compound][] is a set of two or more atoms held toget
 Types of chemical bonds:
 
 1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element.
-1. An [ionic compound][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond, forming NaCl (otherwise known as table salt).
+1. An [ionic compound][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
 A [chemical substance][] is a set of two or more molecules or compounds of the same type (i.e. "pure").
@@ -188,7 +188,7 @@ A molecule or compound may be described in many ways:
 1. A [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
-1. A compound name with a set of element names (with any cation first). If an element name is followed by roman numerals in parentheses, that represents the net positive charge of that cation.
+1. An ionic compound name with a set of element names with any cation first; for example, Sodium Chloride. If the cation is more than one electron away from the neutral atom, then it's followed by roman numerals in parentheses ([type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide which is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atoms needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
 1. A [trivial][trivial name] or [retained name][] such as Water which represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
@@ -429,6 +429,8 @@ if (elements.length) {
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
+[type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
+[type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
 [unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
