@@ -12,8 +12,7 @@ There are over 100 billion [galaxies][] in the universe.
 
 # Basics
 
-1. This page assumes basic knowledge of [math][], [algebra][], [geometry][], and [scientific notation][].
-1. A [unit of measurement][] followed by a letter in parentheses - for example, "mass (m)" - defines a letter (in this example, "m") which represents that measurement in equations. For example, in the equation <code>F=m×a</code>, mass is represented by the letter "m".
+This page assumes basic knowledge of [math][], [algebra][], [geometry][], and [scientific notation][].
 
 # Matter
 
@@ -78,17 +77,17 @@ All matter continuously emits some of its energy as heat through [thermal radiat
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and some number of [electrons][] orbiting the nucleus in [shells][electron shells]. Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and zero or more [electrons][] orbiting the nucleus in [shells][electron shells]. Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
-The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
+The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. Carbon is the chemical element class for any atom which has 6 protons). Chemical elements and their reactions are the basis of chemistry.
 
-The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope is abbreviated with the atomic mass number in a superscript to the left of the element letter; for example, <sup>14</sup>C.
+The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope may be abbreviated with the atomic mass number in a superscript to the left of the element symbol; for example, <sup>14</sup>C for Carbon-14.
 
 [Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
 
-If an atom has an equal number of protons and electrons, then it is neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively charged, called a cation, and symbolized as E<sup>+</sup> (where E is the element symbol, discussed below). If an atom has more electrons than protons, then it's negatively charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral element, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
+If an atom has an equal number of protons and electrons, then it is electrically neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively electrically charged, called a cation, and symbolized as E<sup>+</sup> (where E is the element symbol, discussed below). If an atom has more electrons than protons, then it's negatively electrically charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral element, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
 
 # Chemistry
 
@@ -139,11 +138,11 @@ Instead of writing the full details of long electron configurations, a common pr
 
 When d and f orbitals are filled, they backfill the previous shell. For example, Scandium's (element #21) electron configuration is [Ar] 4s<sup>2</sup> 3d<sup>1</sup>.
 
-The valence electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
+The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
 Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
-* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons. Hydrogen is more complicated - it doesn't want to lose an electron since that will leave an empty valence shell, but it tends to want another electron to complete its shell.
+* Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
 * Group #15: [Pnictogens][]
 * Group #16: [Chalcogens][] - Somewhat reactive because they want to gain two electrons or share pairs of electrons to fill their set of valance electrons.
@@ -161,9 +160,9 @@ The radius of an atom increases from top to bottom as electron shells are added;
 
 Generally, electron affinity increases from left to right (except for those with stable last subshells) because right-most elements want additional electrons to achieve stability.
 
-Most elements are [metals][] (although only two are named metal groups): they are on the left side of the periodic table (excepting Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
+Most elements are [metals][] (although only two are named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
-[Nonmetals][] are the opposite of metals: they are on the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
+[Nonmetals][] are the opposite of metals: they are toward the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
@@ -175,15 +174,15 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 # Chemistry (Continued)
 
-A [molecule][] or [chemical compound][] is a set of two or more atoms held together by a [chemical bond][] because the atoms are more [stable][molecule stability] with that bond.
+[Molecules][] and [chemical compounds][] are sets of two or more atoms held together by a [chemical bond][] because the atoms are more [stable][molecule stability] with that bond.
 
 Types of chemical bonds:
 
 1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element.
-1. An [ionic compound][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
+1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
-A [chemical substance][] is a set of two or more molecules or compounds of the same type (i.e. "pure").
+A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A subtance cannot be separated through physical means other than breaking chemical bonds. Whereas, a [mixture][] is not pure and may be separated through physical means. Therefore, matter is either a substance or a mixture.
 
 A molecule or compound may be described in many ways:
 
@@ -202,6 +201,10 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
 The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u = 1 mol</code>. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
+
+## Chemical Reactions
+
+A [chemical reaction][] is any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with the 
 
 ## Organic Chemistry
 
@@ -294,8 +297,10 @@ if (elements.length) {
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
-[chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
+[chemical compounds]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
+[chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
+[chemical reaction]: https://en.wikipedia.org/wiki/Chemical_reaction
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
@@ -369,10 +374,11 @@ if (elements.length) {
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
+[mixture]: https://en.wikipedia.org/wiki/Mixture
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
 [molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
-[molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
+[molecules]: https://en.wikipedia.org/wiki/Molecule
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
@@ -409,6 +415,7 @@ if (elements.length) {
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [s process]: https://en.wikipedia.org/wiki/S-process
+[salt]: http://goldbook.iupac.org/html/S/S05447.html
 [scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
