@@ -204,7 +204,7 @@ The number of atoms in an object is usually measured in terms of 1 [mole][] (mol
 
 ## Chemical Reactions
 
-A [chemical reaction][] is any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with [reagents][] on the left-hand side of the equation, and the [product(s)][[chemical reaction product]] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of hydrochloric acid with sodium is:
+A [chemical reaction][] is any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with [reagents][] on the left-hand side of the equation, and the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of hydrochloric acid with sodium is:
 
 <code>2 HCl + 2 Na → 2 NaCl + H<sub>2</sub></code>
 
