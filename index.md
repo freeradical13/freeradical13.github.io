@@ -97,7 +97,7 @@ The [periodic table][] is a way to organize and understand the chemical elements
 
 Within each square, the atomic number is at the top, followed by the element's symbol, followed by the element name:
 
-![periodic table element](images/periodic_table_element.png)
+[![periodic table element](images/periodic_table_element.png)](images/periodic_table_element.png)
 
 [![32-column periodic table](images/32-column_periodic_table-a_modified.png)][periodic table image]
 
@@ -182,7 +182,11 @@ Types of chemical bonds:
 1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
-A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A subtance cannot be separated through physical means other than breaking chemical bonds. A [mixture][] is not pure and may be separated through physical means. Therefore, matter is either a substance or a mixture.
+A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the venn diagram by the location of the bond arrows):
+
+[![substance terms](images/substance_terms.png)](images/substance_terms.png)
+
+A [mixture][] is not pure and may be separated through physical means. Therefore, an object is either a substance, a mixture, or a combination of both.
 
 A molecule or compound may be described in many ways:
 
