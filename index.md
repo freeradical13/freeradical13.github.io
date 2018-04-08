@@ -208,9 +208,17 @@ The number of atoms in an object is usually measured in terms of 1 [mole][] (mol
 
 ## Chemical Reactions
 
-A [chemical reaction][] is any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with [reagents][] on the left-hand side of the equation, and the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of hydrochloric acid with sodium is:
+A [chemical reaction][] occurs any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
 
-<code>2 HCl + 2 Na → 2 NaCl + H<sub>2</sub></code>
+<code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
+
+Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
+
+A coefficient to the left of a substance represents the number of atoms of that substance in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
+
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example, a bicarbonate anion plus a hydrogen cation yields carbonic acid:
+
+<code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
 ## Organic Chemistry
 
@@ -306,6 +314,7 @@ if (elements.length) {
 [chemical compounds]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
+[chemical equilibrium]: https://en.wikipedia.org/wiki/Chemical_equilibrium
 [chemical reaction]: https://en.wikipedia.org/wiki/Chemical_reaction
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
@@ -422,6 +431,7 @@ if (elements.length) {
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
+[reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
@@ -431,9 +441,11 @@ if (elements.length) {
 [space]: https://en.wikipedia.org/wiki/Space
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
+[spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [star]: https://en.wikipedia.org/wiki/Star
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [sun]: https://en.wikipedia.org/wiki/Sun
 [temperature]: https://en.wikipedia.org/wiki/Temperature
