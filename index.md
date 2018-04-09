@@ -220,6 +220,12 @@ Chemical reactions may also be [reversible][reversible reaction] and go in both 
 
 <code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
+Given a balanced chemical equation and the relationship of moles to atomic weights, and a mass of one substance, composition stoichiometry may be used to determine the mass of other substances in the equation. [For example][example composition stoichiometry], in the following equation:
+
+<code>Fe<sub>2</sub>O<sub>3</sub> + 2Al → Al<sub>2</sub>O<sub>3</sub> + 2Fe</code>
+
+If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each molecule is about 160u, 1 mole is about 160g, so 85g divided by 160g/mol is 0.53 mols. Therefore, <code>2×0.53 = 1.06 mols</code> of Al would be needed. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed.
+
 ## Organic Chemistry
 
 An [organic compound][] is a molecule that has carbon.
@@ -349,6 +355,7 @@ if (elements.length) {
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[example composition stoichiometry]: https://www.youtube.com/watch?v=SjQG3rKSZUQ
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
