@@ -208,15 +208,15 @@ The number of atoms in an object is usually measured in terms of 1 [mole][] (mol
 
 ## Chemical Reactions
 
-A [chemical reaction][] occurs any time a bond is created or broken. A [chemical equation][] desribes a chemical reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
+A [chemical reaction][] occurs any time a bond is created or broken. A [chemical equation][] describes a reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
 Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
 
-A coefficient to the left of a substance represents the number of atoms of that substance in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
+A coefficient to the left of a substance represents the number of atoms (or moles) of that substance in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
 
-Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example, a bicarbonate anion plus a hydrogen cation yields carbonic acid:
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example, a bicarbonate anion plus a hydrogen cation yields carbonic acid in equilibrium:
 
 <code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
@@ -224,11 +224,11 @@ Given a balanced chemical equation and the relationship of moles to atomic weigh
 
 <code>Fe<sub>2</sub>O<sub>3</sub> + 2Al → Al<sub>2</sub>O<sub>3</sub> + 2Fe</code>
 
-If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each molecule is about 160u, 1 mole is about 160g, so 85g divided by 160g/mol is 0.53 mols. Therefore, <code>2×0.53 = 1.06 mols</code> of Al would be needed. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed.
+If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each compound is about 160u, 1 mole is about 160g, so 85g divided by 160g/mol is 0.53 mols. Therefore, <code>2×0.53 = 1.06 mols</code> of Al would be needed. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
 
 ## Organic Chemistry
 
-An [organic compound][] is a molecule that has carbon.
+An [organic compound][] is a compound that has carbon.
 
 # Biology
 
