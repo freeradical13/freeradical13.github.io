@@ -186,6 +186,8 @@ A [chemical substance][] is a set of one or more elements, molecules or compound
 
 [![substance terms](images/substance_terms.png)](images/substance_terms.png)
 
+A single instance of a pure substance is a [molecular entity][]. A set of two or more instances of a molecular entity (in other words, its class) is a [chemical species][].
+
 A [mixture][] is not pure and may be separated through physical means. Therefore, an object is either a substance, a mixture, or a combination of both.
 
 A molecule or compound may be described in many ways:
@@ -204,7 +206,7 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
-The amount of a substance (e.g. atoms, molecules, etc.) is usually measured in terms of a [mole][] (mol). A mole is just a constant equal to 6.022140857×10<sup>23</sup>, also known as the [Avogadro constant][]. Moles are a way to convert between the amount of a substance and grams. <code>12g of <sup>12</sup>C = ~6.022×10<sup>23</sup> <sup>12</sup>C atoms = 1 mol <sup>12</sup>C atoms</code>. Since 1u is 1/12<sup>th</sup> of the mass of one <sup>12</sup>C atom, then <code>1g = 1 mol u</code>. In other words, a substance is ~6.022×10<sup>23</sup> nucleons per gram. Therefore, <code>1 mol element <sup>m<sub>A</sub></sup>E = m<sub>A</sub> grams</code>.
+The amount of a substance (e.g. atoms, molecules, etc.) is usually measured in terms of a [mole][] (mol). A mole is just a constant equal to 6.022140857×10<sup>23</sup>, also known as the [Avogadro constant][]. Moles are a way to convert between the amount of a substance and grams. <code>12g of <sup>12</sup>C = ~6.022×10<sup>23</sup> <sup>12</sup>C atoms = 1 mol <sup>12</sup>C atoms</code>. Since 1u is 1/12<sup>th</sup> of the mass of one <sup>12</sup>C atom, then <code>1g = 1 mol u</code>. In other words, a substance is ~6.022×10<sup>23</sup> nucleons per gram. Therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E = m<sub>A</sub> grams</code>.
 
 ## Chemical Reactions
 
@@ -324,6 +326,7 @@ if (elements.length) {
 [chemical equilibrium]: https://en.wikipedia.org/wiki/Chemical_equilibrium
 [chemical reaction]: https://en.wikipedia.org/wiki/Chemical_reaction
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
+[chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
@@ -400,6 +403,7 @@ if (elements.length) {
 [meters]: https://en.wikipedia.org/wiki/Metre
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
+[molecular entity]: http://goldbook.iupac.org/html/M/M03986.html
 [molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [molecules]: https://en.wikipedia.org/wiki/Molecule
