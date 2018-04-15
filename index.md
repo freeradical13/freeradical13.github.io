@@ -204,7 +204,7 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
-The number of atoms in an object is usually measured in terms of 1 [mole][] (mol), or Avogadro's constant, which is 6.022140857×10<sup>23</sup>. Moles are a way to convert between grams and number of atoms, and <code>12g of <sup>12</sup>C = 6.022140857×10<sup>23</sup> atoms</code>. Since 1u is 1/12 the mass of one <sup>12</sup>C atom, then <code>1g = 6.022140857×10<sup>23</sup> u = 1 mol</code>; in other words, 1 mol has ~6.02×10<sup>23</sup> nucleons per gram. Therefore, in general, the mass of 1 mol of an element E is <code>m<sub>A</sub> grams</code> where m<sub>A</sub> is the atomic mass number of the isotope <sup>m<sub>A</sub></sup>E.
+The amount of a substance (e.g. atoms, molecules, etc.) is usually measured in terms of a [mole][] (mol). A mole is just a constant equal to 6.022140857×10<sup>23</sup>, also known as the [Avogadro constant][]. Moles are a way to convert between the amount of a substance and grams. <code>12g of <sup>12</sup>C = ~6.022×10<sup>23</sup> <sup>12</sup>C atoms = 1 mol <sup>12</sup>C atoms</code>. Since 1u is 1/12<sup>th</sup> of the mass of one <sup>12</sup>C atom, then <code>1g = 1 mol u</code>. In other words, a substance is ~6.022×10<sup>23</sup> nucleons per gram. Therefore, <code>1 mol element <sup>m<sub>A</sub></sup>E = m<sub>A</sub> grams</code>.
 
 ## Chemical Reactions
 
@@ -309,6 +309,7 @@ if (elements.length) {
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
+[avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
