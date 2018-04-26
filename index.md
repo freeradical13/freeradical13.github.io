@@ -20,7 +20,7 @@ The universe is made of [matter][] which is something that has [mass][] (m) and 
 
 Examples of matter are [protons][], [neutrons][], and [electrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
 
-An [object][] is a collection of matter. An object has an [inertia][], meaning:
+An [object][] (or [entity][] or [particle][]) is a collection of matter. An object has an [inertia][], meaning:
 
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
@@ -71,9 +71,9 @@ Roughly, the scale of celsius is defined with 0°C being when water freezes at 1
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
-If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
+All matter above absolute zero temperature continuously emits some of its kinetic energy as [photons][] of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of the incoming electromagnetic radiation.
 
-All matter continuously emits some of its energy as heat through [thermal radiation][].
+If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
 # Atoms
 
@@ -95,7 +95,7 @@ If an atom has an equal number of protons and electrons, then it is electrically
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
 
-Within each square, the atomic number is at the top, followed by the element's symbol, followed by the element name:
+Within each square, the atomic number is at the top, followed by the element's symbol, followed by the element name, followed by its standard atomic weight (A<sub>r,std</sub>):
 
 [![periodic table element](images/periodic_table_element.png)](images/periodic_table_element.png)
 
@@ -155,7 +155,7 @@ The radius of an atom increases from top to bottom as electron shells are added;
 
 [Electron affinity][] (or anionization energy) is either:
 
-1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it causes the release of electromagnetic radiation energy in the form of a [photon][]. Or,
+1. The amount of energy released when an electron is added to an incomplete set of valence electrons. Energy is released because any time an electron drops into a new orbital, it causes the release of electromagnetic radiation energy in the form of a photon. Or,
 1. The amount of energy spent adding an electron to create a new subshell or adding an electron to a subshell which only has a single electron in each of its orbital pairs (e.g. Nitrogen). Energy is needed to overcome the last subshell's stability.
 
 Generally, electron affinity increases from left to right (except for those with stable last subshells) because right-most elements want additional electrons to achieve stability.
@@ -182,21 +182,21 @@ Types of chemical bonds:
 1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
-A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the venn diagram by the location of the bond arrows):
+A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the [venn diagram][] by the location of the bond arrows):
 
 [![substance terms](images/substance_terms.png)](images/substance_terms.png)
 
-A single instance of a pure substance is a [molecular entity][]. A set of two or more instances of a molecular entity (in other words, its class) is a [chemical species][].
+A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture.
 
-A [mixture][] is not pure and may be separated through physical means. Therefore, an object is either a substance, a mixture, or a combination of both.
+A [molecular entity][] is a single instance of a part of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
 
-A molecule or compound may be described in many ways:
+A substance may be described in many ways, all of which may represent either an entity or a species:
 
-1. A [molecular formula][] describes each element in the molecule with the number of atoms of each element in a subscript (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
+1. A [molecular formula][] describes the number of atoms of each element in each molecule in a subscript to the right of the element symbol (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
+1. A [trivial][trivial name] or [retained name][]; for example, Water represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
 1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
-1. A [trivial][trivial name] or [retained name][]; for example, Water represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
@@ -206,19 +206,26 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
-The amount of a substance (e.g. atoms, molecules, etc.) is usually measured in terms of a [mole][] (mol). A mole is just a constant equal to 6.022140857×10<sup>23</sup>, also known as the [Avogadro constant][]. Moles are a way to convert between the amount of a substance and grams. <code>12g of <sup>12</sup>C = ~6.022×10<sup>23</sup> <sup>12</sup>C atoms = 1 mol <sup>12</sup>C atoms</code>. Since 1u is 1/12<sup>th</sup> of the mass of one <sup>12</sup>C atom, then <code>1g = 1 mol u</code>. In other words, a substance is ~6.022×10<sup>23</sup> nucleons per gram. Therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E = m<sub>A</sub> grams</code>.
+There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>. Since 1u is 1/12<sup>th</sup> the mass of one <sup>12</sup>C atom, then <code>1 mol 1u = 1g</code>; therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E ~= m<sub>A</sub> grams</code>. If a substance doesn't refer to a particular isotope, then standard atomic weight (A<sub>r,std</sub>) is generally used instead of m<sub>A</sub>. For example, A<sub>r,std</sub> of H is 1.008, and A<sub>r,std</sub> of O is 15.999, so <code>1 mol H<sub>2</sub>O ~= (1.008×2)g + 15.999g ~= 18.015g</code>. The [molar mass][] (M) of a substance is simply this relationship in terms of g/mol, so M(H<sub>2</sub>O) ~= 18.015 g/mol. [Molecular mass][] is simply the sum of atomic masses of a molecule, so in the previous example, the molecular mass of water is 18.015u.
+
+In general, matter exists in one of [four states][state of matter]:
+
+* [Solid][]: Matter which has fixed volume and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
+* [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
+* [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
+* [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
 
 ## Chemical Reactions
 
-A [chemical reaction][] occurs any time a bond is created or broken. A [chemical equation][] describes a reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
+A [chemical reaction][] occurs any time a chemical bond is created or broken. A [chemical equation][] describes a reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields (→) the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
 Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
 
-A coefficient to the left of a substance represents the number of atoms (or moles) of that substance in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
+A coefficient to the left of a substance represents the number of substances or moles of that species in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
 
-Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example, a bicarbonate anion plus a hydrogen cation yields carbonic acid in equilibrium:
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example:
 
 <code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
@@ -226,7 +233,7 @@ Given a balanced chemical equation and the relationship of moles to atomic weigh
 
 <code>Fe<sub>2</sub>O<sub>3</sub> + 2Al → Al<sub>2</sub>O<sub>3</sub> + 2Fe</code>
 
-If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each compound is about 160u, 1 mole is about 160g, so 85g divided by 160g/mol is 0.53 mols. Therefore, <code>2×0.53 = 1.06 mols</code> of Al would be needed. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
+If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those molecules is about 160u, Fe<sub>2</sub>O<sub>3</sub> is about 160g/mol, so first convert 85g to moles using [dimensional analysis][] by multiplying by 1mol/160g to cancel the g, and therefore, 85g divided by 160g/mol is 0.53 mols. Since there are two moles of Al for every 1 mole of Fe<sub>2</sub>O<sub>3</sub>, <code>2×0.53 = 1.06 mols</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
 
 ## Organic Chemistry
 
@@ -299,7 +306,7 @@ if (elements.length) {
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
-[algebra]: https://www.youtube.com/watch?v=kpCJyQ2usJ4&list=PL7AF1C14AF1B05894
+[algebra]: https://www.khanacademy.org/math/algebra
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -316,6 +323,7 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
+[black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
@@ -336,6 +344,7 @@ if (elements.length) {
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
+[dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
 [ductile]: https://en.wikipedia.org/wiki/Ductility
@@ -354,12 +363,15 @@ if (elements.length) {
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
+[elementary entity]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [elevation]: https://en.wikipedia.org/wiki/Elevation
+[emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
+[entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
-[example composition stoichiometry]: https://www.youtube.com/watch?v=SjQG3rKSZUQ
+[example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
@@ -367,7 +379,8 @@ if (elements.length) {
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
-[geometry]: https://www.youtube.com/watch?v=WqzK3UAXaHs&list=PL26812DF9846578C3
+[gas]: https://en.wikipedia.org/wiki/Gas
+[geometry]: https://www.khanacademy.org/math/geometry
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
@@ -391,10 +404,11 @@ if (elements.length) {
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[liquid]: https://en.wikipedia.org/wiki/Liquid
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
-[math]: https://www.youtube.com/watch?v=jxA8MffVmPs&list=PL50D1D09ABE9CE271
+[math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
@@ -402,9 +416,12 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [mixture]: https://en.wikipedia.org/wiki/Mixture
+[molar mass]: https://en.wikipedia.org/wiki/Molar_mass
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
+[mole definition]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [molecular entity]: http://goldbook.iupac.org/html/M/M03986.html
 [molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
+[molecular mass]: https://en.wikipedia.org/wiki/Molecular_mass
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [molecules]: https://en.wikipedia.org/wiki/Molecule
 [momentum]: https://en.wikipedia.org/wiki/Momentum
@@ -425,13 +442,15 @@ if (elements.length) {
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[particle]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
-[photon]: https://en.wikipedia.org/wiki/Photon
+[photons]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
+[plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
@@ -446,16 +465,18 @@ if (elements.length) {
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
-[scientific notation]: https://www.youtube.com/watch?v=trdbaV4TaAo
+[scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
+[solid]: https://en.wikipedia.org/wiki/Solid
 [space]: https://en.wikipedia.org/wiki/Space
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [star]: https://en.wikipedia.org/wiki/Star
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
+[state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
@@ -481,6 +502,7 @@ if (elements.length) {
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [velocity]: https://en.wikipedia.org/wiki/Velocity
+[venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
