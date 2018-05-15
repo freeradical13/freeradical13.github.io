@@ -71,7 +71,7 @@ Roughly, the scale of celsius is defined with 0°C being when water freezes at 1
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
-All matter above absolute zero temperature continuously emits some of its kinetic energy as [photons][] of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of the incoming electromagnetic radiation.
+All matter above absolute zero temperature continuously emits some of its kinetic energy as [photons][] of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
@@ -81,11 +81,11 @@ If two objects touch with a path permeable to heat, then, all else being equal, 
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
-The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. Carbon is the chemical element class for any atom which has 6 protons; an atom is an instance of the chemical element). Chemical elements and their reactions are the basis of chemistry.
+The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. Carbon is the chemical element class for any atom which has 6 protons; an atom is an instance of the chemical element). The atomic number of a chemical element is sometimes placed in a subscript to the left of the element symbol; for example, <sub>6</sub>C, although this is redundant because the symbol implies Z. Chemical elements and their reactions are the basis of chemistry.
 
 The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope may be abbreviated with the atomic mass number in a superscript to the left of the element symbol; for example, <sup>14</sup>C for Carbon-14.
 
-[Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12</code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is a ratio of the average mass of atoms of an element in some sample to 1u. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
+[Atomic mass][] (m<sub>A</sub>) is measured in [unified atomic mass units][] (u or amu), also known as daltons (Da) and 1u is approximately the mass of a nucleon. For various reasons, 1u is defined more strictly as <code>1/12<sup>th</sup></code> of the mass of a Carbon-12 atom. [Relative atomic mass][] (A<sub>r</sub>) is the [weighted average mass][weighted arithmetic mean] of a set of atoms. [Standard atomic weight][] (A<sub>r,std</sub>) is A<sub>r</sub> on Earth, reflecting the weighted average of isotope masses of an element on Earth.
 
 If an atom has an equal number of protons and electrons, then it is electrically neutral. If an atom has an unequal number of protons and electrons, then it is [ionized][ion]. If an atom has more protons than electrons, then it's positively electrically charged, called a cation, and symbolized as E<sup>+</sup> (where E is the element symbol, discussed below). If an atom has more electrons than protons, then it's negatively electrically charged, called an anion, and symbolized as E<sup>-</sup>. If the ion is more than one electron away from the neutral element, then the <sup>+</sup> or <sup>-</sup> is preceded by that number, e.g. E<sup>2+</sup>.
 
@@ -109,7 +109,7 @@ Rows are called periods and describe a new electron shell which accumulates on t
 
 Columns are called groups and generally group by the number of valence electrons, and thus generally group by similar behavior.
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. A full orbital is called an [electron pair][]. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
 
 * s: For groups 1 and 2 (or group 18 for Helium) only, at most 2 electrons.
 * p: Starting at period 2, for groups 13-18 only, at most 6 electrons.
@@ -186,7 +186,7 @@ A [chemical substance][] is a set of one or more elements, molecules or compound
 
 [![substance terms](images/substance_terms.png)](images/substance_terms.png)
 
-A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture.
+A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture. A mixture is [homogenous][homogenous mixture] if its substances have the same proportions throughout (e.g. air), or otherwise [heterogenous][heterogenous mixture].
 
 A [molecular entity][] is a single instance of a part of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
 
@@ -199,6 +199,8 @@ A substance may be described in many ways, all of which may represent either an 
 1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
+
+When atoms of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] (δ<sup>+</sup> or δ<sup>-</sup>, respectively), creating a dipole.
 
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
@@ -214,6 +216,12 @@ In general, matter exists in one of [four states][state of matter]:
 * [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
 * [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
 * [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
+
+## Acids and Bases
+
+A [hydron][] is a cationic Hydrogen with 0 electrons (H<sup>+</sup>). [Protium][] is the most common isotope of Hydrogen with zero neutrons (<sup>1</sup>H). A protium which is also a hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton.
+
+A [solution][] is a homogenous mixture with a [solute][] dissolved into a [solvent][]. A solvent is usually a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution]. A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
 
 ## Chemical Reactions
 
@@ -310,6 +318,7 @@ if (elements.length) {
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
@@ -332,10 +341,12 @@ if (elements.length) {
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
 [chemical equilibrium]: https://en.wikipedia.org/wiki/Chemical_equilibrium
+[chemical polarity]: https://en.wikipedia.org/wiki/Chemical_polarity
 [chemical reaction]: https://en.wikipedia.org/wiki/Chemical_reaction
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
+[colloids]: https://en.wikipedia.org/wiki/Colloid
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -356,6 +367,7 @@ if (elements.length) {
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
 [electron configuration]: https://en.wikipedia.org/wiki/Electron_configuration
+[electron pair]: https://en.wikipedia.org/wiki/Electron_pair
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electron shells]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
@@ -367,6 +379,7 @@ if (elements.length) {
 [elevation]: https://en.wikipedia.org/wiki/Elevation
 [emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
+[emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entity]: https://en.wikipedia.org/wiki/Entity
@@ -385,7 +398,10 @@ if (elements.length) {
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
+[heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
+[homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
@@ -454,6 +470,7 @@ if (elements.length) {
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r process]: https://en.wikipedia.org/wiki/R-process
@@ -470,6 +487,8 @@ if (elements.length) {
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
+[solution]: https://en.wikipedia.org/wiki/Solution
+[solvent]: https://en.wikipedia.org/wiki/Solvent
 [space]: https://en.wikipedia.org/wiki/Space
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
@@ -481,6 +500,7 @@ if (elements.length) {
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [sun]: https://en.wikipedia.org/wiki/Sun
+[suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
@@ -506,3 +526,4 @@ if (elements.length) {
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
+[weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
