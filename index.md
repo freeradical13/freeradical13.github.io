@@ -140,7 +140,7 @@ When d and f orbitals are filled, they backfill the previous shell. For example,
 
 The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
-Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable. For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable (high energy). For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable (low energy) set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
@@ -176,10 +176,10 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 [Molecules][] and [chemical compounds][] are sets of two or more atoms held together by a [chemical bond][] because the atoms are more [stable][molecule stability] with that bond.
 
-Types of chemical bonds:
+Types of chemical bonds based on [intramolecular forces][]:
 
-1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element.
-1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
+1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element. Covalent bonds generally form between a metal and a non-metal.
+1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt). Ionic bonds generally form between two non-metals.
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
 A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the [venn diagram][] by the location of the bond arrows):
@@ -200,7 +200,13 @@ A substance may be described in many ways, all of which may represent either an 
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
-When atoms of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] (δ<sup>+</sup> or δ<sup>-</sup>, respectively), creating a dipole.
+When atoms of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and positive positive charges on the opposite ends of the Hydrogens.
+
+[Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
+
+1. [Dipole-dipole forces][] occur when the opposite partial charges of the dipoles of two molecules attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
+1. [Van der Waals forces][]
+  1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
 
 In summary, although with various exceptions, the broad trends of atomic size, ionization energy, electron affinity and metallic character may be visualized as:
 
@@ -356,6 +362,7 @@ if (elements.length) {
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
+[dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
 [ductile]: https://en.wikipedia.org/wiki/Ductility
@@ -395,6 +402,7 @@ if (elements.length) {
 [gas]: https://en.wikipedia.org/wiki/Gas
 [geometry]: https://www.khanacademy.org/math/geometry
 [gravity]: https://en.wikipedia.org/wiki/Gravity
+[greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
@@ -406,6 +414,8 @@ if (elements.length) {
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
+[intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
+[intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
@@ -421,6 +431,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
+[london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
@@ -521,6 +532,7 @@ if (elements.length) {
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
+[van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
