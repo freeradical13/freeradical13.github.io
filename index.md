@@ -204,7 +204,9 @@ A substance may be described in many ways, all of which may represent either an 
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule.
 1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
 
-When atoms of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and positive positive charges on the opposite ends of the Hydrogens.
+When substances of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and partial positive charges on the opposite ends of the Hydrogens:
+
+[![Polar water molecule](images/Dipoli_acqua.png)][polar water molecule]
 
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
@@ -479,6 +481,7 @@ if (elements.length) {
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
+[polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
