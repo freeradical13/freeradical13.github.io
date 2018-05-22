@@ -6,7 +6,7 @@ The purpose of this site is to explore biology and the things that make up biolo
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-We live on [Earth][] which is part of a [solar system][] with a [star][] called the [Sun][]. Earth and its star formed about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
+We live on [Earth][] which is part of a [solar system][] with a [star][] called the [Sun][]. Earth and its star coalesced about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
 
 There are over 100 billion [galaxies][] in the universe.
 
@@ -77,7 +77,7 @@ If two objects touch with a path permeable to heat, then, all else being equal, 
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and zero or more [electrons][] orbiting the nucleus in [shells][electron shells]. Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and zero or more [electrons][] orbiting the nucleus in [shells][electron shells] (discussed later). Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
@@ -109,7 +109,7 @@ Rows are called periods and describe a new electron shell which accumulates on t
 
 Columns are called groups and generally group by the number of valence electrons, and thus generally group by similar behavior.
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. A full orbital is called an [electron pair][]. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct [energy level][] and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. A full orbital is called an [electron pair][]. A [lone pair][] of electrons is an electron pair that is not shared with another atom. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
 
 * s: For groups 1 and 2 (or group 18 for Helium) only, at most 2 electrons.
 * p: Starting at period 2, for groups 13-18 only, at most 6 electrons.
@@ -149,7 +149,7 @@ Generally, atoms tend to be chemically reactive when their valence electrons do 
 * Group #17: [Halogens][] - Highly reactive because they want to gain an electron or share a pair of electrons to fill their set of of valence electrons.
 * Group #18: [Noble gases][] - Generally not chemically reactive ([inert][]) because the set of valence electrons is full.
 
-The radius of an atom increases from top to bottom as electron shells are added; however, moving left to right, the radius of an atom decreases as the additional protons draw in the electrons.
+The radius of an atom increases from top to bottom as electron shells are added; however, moving left to right, the radius of an atom decreases as the additional protons draw in the additional electrons.
 
 [Ionization energy][] (or cationization energy) is the amount of energy needed to remove an electron from an element (and form a cation). Energy is required to remove the electron because the electron is attracted to its element's proton(s). Following from the octet rule, ionization energy is lowest on the left of the table because those elements want to lose electron(s) to achieve a full set of valence electrons, and [ionization energy generally increases from left to right][ionization energy increases right] as additional protons add more pull to the electrons. Ionization energy decreases from top to bottom because valence electrons are farther from the protons (to which they're attracted) and thus the electrons are easier to peel off.
 
@@ -162,7 +162,7 @@ Generally, electron affinity increases from left to right (except for those with
 
 [Electronegativity][] is the tendency of an atom to attract electrons to its valence shell (closely related to electron affinity). It follows from the octet rule that atoms increase in electronegativity from left to right. Electronegativity decreases from top to bottom because the valence shell is farther away from the positively charged nucleus and thus there's less pull to bring in additional electrons. Electropositivity is the opposite of electronegativity.
 
-Most elements are [metals][] (although only two are named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
+Most elements are [metals][] (although there are only two named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
 [Nonmetals][] are the opposite of metals: they are toward the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
 
@@ -192,9 +192,9 @@ A [chemical substance][] is a set of one or more elements, molecules or compound
 
 [![substance terms](images/substance_terms.png)](images/substance_terms.png)
 
-A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture. A mixture is [homogenous][homogenous mixture] if its substances have the same proportions throughout (e.g. air), or otherwise [heterogenous][heterogenous mixture].
+A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture. A mixture is [homogenous][homogenous mixture] if its substances have the same proportions throughout (e.g. air), or otherwise [heterogeneous][heterogeneous mixture].
 
-A [molecular entity][] is a single instance of a part of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
+A [molecular entity][] is a single instance of a part or whole of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
 
 A substance may be described in many ways, all of which may represent either an entity or a species:
 
@@ -210,9 +210,9 @@ When substances of different electronegativities are bonded, electrons will tend
 
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
-1. [Dipole-dipole forces][] occur when the opposite partial charges of the dipoles of two molecules attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
+1. [Dipole-dipole forces][] occur when the opposite partial charges of the [dipoles][] of two molecules attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
 1. [Van der Waals forces][]
-  1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
+    1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
 
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
@@ -220,16 +220,10 @@ There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of 
 
 In general, matter exists in one of [four states][state of matter]:
 
-* [Solid][]: Matter which has fixed volume and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
+* [Solid][]: Matter which has fixed [volume][] and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
 * [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
 * [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
 * [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
-
-## Acids and Bases
-
-A [hydron][] is a cationic Hydrogen with 0 electrons (H<sup>+</sup>). [Protium][] is the most common isotope of Hydrogen with zero neutrons (<sup>1</sup>H). A protium which is also a hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton.
-
-A [solution][] is a homogenous mixture with a [solute][] dissolved into a [solvent][]. A solvent is usually a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution]. A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
 
 ## Chemical Reactions
 
@@ -250,6 +244,20 @@ Given a balanced chemical equation and the relationship of moles to atomic weigh
 <code>Fe<sub>2</sub>O<sub>3</sub> + 2Al → Al<sub>2</sub>O<sub>3</sub> + 2Fe</code>
 
 If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those molecules is about 160u, Fe<sub>2</sub>O<sub>3</sub> is about 160g/mol, so first convert 85g to moles using [dimensional analysis][] by multiplying by 1mol/160g to cancel the g, and therefore, 85g divided by 160g/mol is 0.53 mols. Since there are two moles of Al for every 1 mole of Fe<sub>2</sub>O<sub>3</sub>, <code>2×0.53 = 1.06 mols</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
+
+## Acids and Bases
+
+[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium which is also a hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton.
+
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][]. A solvent is usually a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution] (in equations, sometimes denoted with (aq)). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
+
+The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B.
+
+[Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
+
+There are multiple ways to define acids and bases:
+
+1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydrons and/or hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
 
 ## Organic Chemistry
 
@@ -327,6 +335,7 @@ if (elements.length) {
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
+[arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
@@ -355,6 +364,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [colloids]: https://en.wikipedia.org/wiki/Colloid
+[concentration]: https://en.wikipedia.org/wiki/Concentration
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -362,8 +372,10 @@ if (elements.length) {
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
+[deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
+[dipole]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
@@ -394,6 +406,7 @@ if (elements.length) {
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
+[example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
@@ -412,6 +425,8 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
+[hydronium]: https://en.wikipedia.org/wiki/Hydronium
+[hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
@@ -434,6 +449,7 @@ if (elements.length) {
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
+[lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
@@ -501,6 +517,7 @@ if (elements.length) {
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
+[solute]: https://en.wikipedia.org/wiki/Solution
 [solution]: https://en.wikipedia.org/wiki/Solution
 [solvent]: https://en.wikipedia.org/wiki/Solvent
 [space]: https://en.wikipedia.org/wiki/Space
@@ -539,6 +556,7 @@ if (elements.length) {
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
+[volume]: https://en.wikipedia.org/wiki/Volume
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
