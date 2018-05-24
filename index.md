@@ -1,6 +1,6 @@
 # Biology Basics
 
-The purpose of this site is to explore biology and the things that make up biology. Feel free to [suggest corrections or additions][issues]. You may follow updates to this page using [an RSS feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom).
+The purpose of this site is to explore biology and the things that make up biology. Feel free to [suggest corrections or additions][issues]. You may follow updates to this page using [this RSS feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom) and [some RSS reader](https://download.cnet.com/browsers-newsreaders/).
 
 # Big History
 
