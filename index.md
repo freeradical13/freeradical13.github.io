@@ -257,7 +257,10 @@ The amount of a substance is usually measured in mass, moles or volume (e.g. 1g 
 
 There are multiple ways to define acids and bases:
 
-1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydrons and/or hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton. For example, water is [amphoteric][] meaning it can be either an acid or a base. A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌). A conjugate acid is the resulting substance that accepted protons, and a conjugate base is the resulting substance that donated protons.
+
+The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general.
 
 ## Organic Chemistry
 
@@ -334,6 +337,7 @@ if (elements.length) {
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
@@ -350,6 +354,7 @@ if (elements.length) {
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
+[brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
