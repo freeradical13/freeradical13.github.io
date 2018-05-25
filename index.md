@@ -216,14 +216,20 @@ When substances of different electronegativities are bonded, electrons will tend
 
 When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
-There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>. Since 1u is 1/12<sup>th</sup> the mass of one <sup>12</sup>C atom, then <code>1 mol 1u = 1g</code>; therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E ~= m<sub>A</sub> grams</code>. If a substance doesn't refer to a particular isotope, then standard atomic weight (A<sub>r,std</sub>) is generally used instead of m<sub>A</sub>. For example, A<sub>r,std</sub> of H is 1.008, and A<sub>r,std</sub> of O is 15.999, so <code>1 mol H<sub>2</sub>O ~= (1.008×2)g + 15.999g ~= 18.015g</code>. The [molar mass][] (M) of a substance is simply this relationship in terms of g/mol, so M(H<sub>2</sub>O) ~= 18.015 g/mol. [Molecular mass][] is simply the sum of atomic masses of a molecule, so in the previous example, the molecular mass of water is 18.015u.
-
 In general, matter exists in one of [four states][state of matter]:
 
 * [Solid][]: Matter which has fixed [volume][] and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
 * [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
 * [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
 * [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
+
+## Moles
+
+A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
+
+Since 1u is 1/12<sup>th</sup> the mass of one <sup>12</sup>C atom, then <code>1 mol 1u = 1g</code>; therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E ~= m<sub>A</sub> grams</code>. If a substance doesn't refer to a particular isotope, then standard atomic weight (A<sub>r,std</sub>) is generally used instead of m<sub>A</sub>. [Molecular mass][] is simply the sum of atomic masses of a molecule.
+
+For example, A<sub>r,std</sub> of H is 1.008, and A<sub>r,std</sub> of O is 15.999, so <code>1 mol H<sub>2</sub>O ~= (1.008×2)g + 15.999g ~= 18.015g</code>. The [molar mass][] (M) of a substance is simply this relationship in terms of g/mol, so M(H<sub>2</sub>O) ~= 18.015 g/mol.
 
 ## Chemical Reactions
 
@@ -249,9 +255,13 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 [Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium which is also a hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton.
 
-A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][]. A solvent is usually a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution] (in equations, sometimes denoted with (aq)). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution] (in equations, sometimes denoted with (aq)). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B.
+
+A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>.
+
+[Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent. [1 litre of water][water L kg] is approximately 1 kg under standard conditions.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
@@ -453,6 +463,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
+[litre]: https://en.wikipedia.org/wiki/Litre
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
@@ -466,7 +477,9 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [mixture]: https://en.wikipedia.org/wiki/Mixture
+[molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
 [molar mass]: https://en.wikipedia.org/wiki/Molar_mass
+[molarity]: https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/a/molarity
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
 [mole definition]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [molecular entity]: http://goldbook.iupac.org/html/M/M03986.html
@@ -562,6 +575,7 @@ if (elements.length) {
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [volume]: https://en.wikipedia.org/wiki/Volume
+[water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
