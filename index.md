@@ -261,6 +261,8 @@ A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
+In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature.
+
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
 There are multiple ways to define acids and bases:
@@ -425,6 +427,7 @@ if (elements.length) {
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
