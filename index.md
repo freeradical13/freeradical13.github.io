@@ -253,24 +253,28 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 ## Acids and Bases
 
-[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium which is also a hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton.
+[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium hydron (<sup>1</sup>H<sup>+</sup>) is sometimes just called a proton since it's just a proton with no neutrons nor electrons.
 
-A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution] (in equations, sometimes denoted with (aq)). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as [aqueous][aqueous solution] (in equations, sometimes denoted with <code>(aq)</code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
 
-The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B.
+A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [1 litre of water][water L kg] is approximately 1 kg under standard conditions.
 
-A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>.
-
-[Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent. [1 litre of water][water L kg] is approximately 1 kg under standard conditions.
+The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
 There are multiple ways to define acids and bases:
 
-1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
-1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton. For example, water is [amphoteric][] meaning it can be either an acid or a base. A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌). A conjugate acid is the resulting substance that accepted protons, and a conjugate base is the resulting substance that donated protons.
+1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protium hydrons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a protium hydron. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a protium hydron. For example, water is [amphoteric][] meaning it can be either an acid or a base. A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌). A conjugate acid is the resulting substance that accepted protium hydrons, and a conjugate base is the resulting substance that donated protium hydrons.
 
-The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general.
+A substance that is basic is also sometimes referred to as [alkaline or an alkali][alkali].
+
+The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general and therefore "acid" generally refers to the latter.
+
+A small proportion of water molecules in liquid water will tend to [autoionize][autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>).
+
+The [pH scale][] is a simplified way to compare how acidic/basic mixtures are. It's observed that the equilibrium molar concentration of protium hydrons (or, alternatively, hydronium) in pure water under standard conditions is approximately 10<sup>-7</sup> M and this is considered neutral. The pH scale converts this concentration into a simple number with the formula <code>-log<sub>10</sub>[E]</code>, meaning that the pH of pure water under standard conditions is <code>-log 10<sup>-7</sup> = 7</code>. As the molarity of protium hydrons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
 
 ## Organic Chemistry
 
@@ -344,6 +348,7 @@ if (elements.length) {
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.khanacademy.org/math/algebra
+[alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -372,7 +377,7 @@ if (elements.length) {
 [chemical compounds]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
-[chemical equilibrium]: https://en.wikipedia.org/wiki/Chemical_equilibrium
+[chemical equilibrium]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [chemical polarity]: https://en.wikipedia.org/wiki/Chemical_polarity
 [chemical reaction]: https://en.wikipedia.org/wiki/Chemical_reaction
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
@@ -511,6 +516,7 @@ if (elements.length) {
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
+[ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [photons]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
@@ -575,6 +581,7 @@ if (elements.length) {
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [volume]: https://en.wikipedia.org/wiki/Volume
+[water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
