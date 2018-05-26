@@ -261,7 +261,7 @@ A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
-In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature.
+In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
