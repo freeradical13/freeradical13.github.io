@@ -239,9 +239,9 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
 
-A coefficient to the left of a substance represents the number of substances or moles of that species in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
+A coefficient to the left of a substance represents the number of substances or moles of that substance in the chemical reaction. A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.
 
-Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), until reaching [chemical equilibrium][] when the rates of reactions in both directions are equal. For example:
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching [chemical equilibrium][] where the rates of reactions in both directions are equal. ([Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure). For example:
 
 <code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
@@ -261,7 +261,7 @@ A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
-In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
+In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub> [or k<sub>c</sub> for concentration]) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
@@ -468,6 +468,7 @@ if (elements.length) {
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
+[le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
