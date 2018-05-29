@@ -208,6 +208,8 @@ When substances of different electronegativities are bonded, electrons will tend
 
 [![Polar water molecule](images/Dipoli_acqua.png)][polar water molecule]
 
+[Oxidation states][] are a conceptualizatized simplification of covalent bonds as ionic bonds. Oxidation states assume full hogging of electrons in a polar molecule. For example, in water, Oxygen would have an oxidation state of -2 since it hogs both Hydrogens' electrons, and each Hydrogen would have an oxidation state of +1. The atom losing the electrons are said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms.
+
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
 1. [Dipole-dipole forces][] occur when the opposite partial charges of the [dipoles][] of two molecules attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
@@ -241,7 +243,7 @@ Reactions that don't require input energy are called [spontaneous][spontaneous r
 
 A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.  A stoichiometric coefficient to the left of a substance represents the number of substances or moles of that substance in the chemical reaction.
 
-Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching [chemical equilibrium][] where the rates of reactions in both directions are equal. For example:
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching dynamic [chemical equilibrium][] where the rates of reactions in both directions are equal. For example:
 
 <code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
 
@@ -253,7 +255,7 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
 
-[Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure. If the concentration of one reagent or product increases, the reaction will favor that side; otherwise, it will the other side. If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of te side that's less likely to react).
+[Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic). If the concentration of one reagent or product increases, the reaction will favor that side; otherwise, it will favor the other side. If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of te side that's less likely to react).
 
 ## Acids and Bases
 
@@ -272,15 +274,19 @@ In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the 
 There are multiple ways to define acids and bases:
 
 1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protium hydrons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
-1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a protium hydron. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a protium hydron. For example, water is [amphoteric][] meaning it can be either an acid or a base. A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌). A conjugate acid is the resulting substance that accepted protium hydrons, and a conjugate base is the resulting substance that donated protium hydrons.
+1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a protium hydron. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a protium hydron. A [conjugate acid][] is the product that accepted protium hydrons (because it can then give that protium hydron back in the reverse direction), and a conjugate base is the product that donated protium hydrons. For example, water is [amphoteric][] meaning it can be either an acid or a base.
+
+A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌).
 
 A substance that is basic is also sometimes referred to as [alkaline or an alkali][alkali].
 
 The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general and therefore "acid" generally refers to the latter.
 
-A small proportion of water molecules in liquid water will tend to [autoionize][autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>).
+A small proportion of water molecules in liquid water will tend to [autoionize][water autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>).
 
 The [pH scale][] is a simplified way to compare how acidic/basic mixtures are. It's observed that the equilibrium molar concentration of protium hydrons (or, alternatively, hydronium) in pure water under standard conditions is approximately 10<sup>-7</sup> M and this is considered neutral. The pH scale converts this concentration into a simple number with the formula <code>-log<sub>10</sub>[E]</code>, meaning that the pH of pure water under standard conditions is <code>-log 10<sup>-7</sup> = 7</code>. As the molarity of protium hydrons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
+
+Similarly, pOH is <code>-log [OH-]</code>, and <code>[k<sub>w</sub>][water equilibrium constant] = [H<sub>3</sub>O<sup>+</sup>]×[OH<sup>-</sup>] = 10<sup>-14</sup></code>. In another form, <code>pH + pOH = 14</code>. These formula can be used to calculate pH for an equation with a base.
 
 ## Organic Chemistry
 
@@ -391,6 +397,7 @@ if (elements.length) {
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [concentration]: https://en.wikipedia.org/wiki/Concentration
+[conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -519,6 +526,7 @@ if (elements.length) {
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organism]: https://en.wikipedia.org/wiki/Organism
+[oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particle]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -592,6 +600,7 @@ if (elements.length) {
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
+[water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
 [water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
