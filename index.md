@@ -77,7 +77,7 @@ If two objects touch with a path permeable to heat, then, all else being equal, 
 
 # Atoms
 
-[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and zero or more [electrons][] orbiting the nucleus in [shells][electron shells] (discussed later). Shells are subdivided into [subshells][electron subshells]. Subshells are subdivided into [orbitals][].
+[Atoms][] are made of some number of [nucleons][] - at least one proton and zero or more neutrons - in the atom's [nucleus][], and zero or more [electrons][] orbiting the nucleus in [electron shells][]. Electron shells are also called energy levels because the shell number represents the relative potential energy of electrons in that shell. As electrons are in shells farther from the nuclear proton(s), their potential energies increases because of the additional potential electrostatic force. Therefore, an electron moving to a shell closer to the nucleus must lose energy (e.g. heat) and an electron moving to a shell farther away must absorb energy (e.g. light). Shells are subdivided into [subshells][electron subshells], and subshells are subdivided into [orbitals][] (discussed later).
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
