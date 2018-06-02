@@ -205,7 +205,7 @@ A substance may be described in many ways, all of which may represent either an 
 1. A [molecular formula][] describes the number of atoms of each element in each molecule in a subscript to the right of the element symbol (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
 1. A [trivial][trivial name] or [retained name][]; for example, Water represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
-1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule. For example, a covalent bond may be represented with a long dash (–) such as H–O–H.
+1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule. For example, a covalent bond is represented with a long dash (–) such as <code>H–O–H</code> for H<sub>2</sub>O. As another example, a double covalent bond is represented with a double dash (=) such as <code>O=C=O</code> for CO<sub>2</sub>.
 1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
 
 When substances of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and partial positive charges on the opposite ends of the Hydrogens:
@@ -306,7 +306,7 @@ A [buffer][] is a substance that minimizes changes to pH by accepting protons wh
 
 ## Organic Chemistry
 
-An [organic compound][] is a compound that has carbon.
+An [organic compound][] is a compound that has carbon and organic chemistry is the study of carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms.
 
 # Biology
 
