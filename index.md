@@ -312,6 +312,31 @@ Although substance structures are often described by molecular, empirical, or tw
 
 [Isomers][isomer] are substances that have the some molecular formula but different structures.
 
+[Structural isomers][structural isomer] differ in their covalent arrangements. For example, butane (C<sub>4</sub>H<sub>8</sub>) is:
+
+<pre>
+  H H H H
+  | | | |
+H–C–C–C–C–H
+  | | | |
+  H H H H
+</pre>
+
+Whereas isobutane (also C<sub>4</sub>H<sub>8</sub>) is:
+
+<pre>
+  H–C–H
+  H | H
+  | | |
+H–C–C–C–H
+  | | |
+  H H H
+</pre>
+
+[Geometric isomers][geometric isomer] have the same covalent arrangements but differ in spatial arrangements.
+
+[Enantiomers][enantiomer] are geometric isomers that are mirror images of each other and this can have functional implications.
+
 ## Organic Chemistry
 
 An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms. The ultimate source of all Carbon for organisms is CO<sub>2</sub> (taken from the air by [plants][]).
