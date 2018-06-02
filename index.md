@@ -304,9 +304,19 @@ The [pH scale][] is a way to describe how acidic or basic a mixture is, and it's
 
 A [buffer][] is a substance that minimizes changes to pH by accepting protons when in excess and donating protons when in deficit. Generally, a buffer is a molecule with both an acid and a base, and its equilibrium constant controls its behavior in buffering the mixture. For example, carbonic acid yields a bicarbonate ion and a proton: <code>H<sub>2</sub>CO<sub>3</sub> ⇌ HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup></code>.
 
+## Three-Dimensional Structure
+
+The size and structure of a substance is key to the way it functions because of the implied likelihoods of the structure on chemical reactions with other substances. A commonly used phrase is that structure implies function.
+
+Although substance structures are often described by molecular, empirical, or two-dimensional formulas for simplicity, actual substance structures are three-dimensional.
+
+[Isomers][isomer] are substances that have the some molecular formula but different structures.
+
 ## Organic Chemistry
 
-An [organic compound][] is a compound that has carbon and organic chemistry is the study of carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms.
+An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms. The ultimate source of all Carbon for organisms is CO<sub>2</sub> (taken from the air by [plants][]).
+
+A [hydrocarbon][] is a molecule composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
 
 # Biology
 
