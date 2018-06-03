@@ -271,7 +271,7 @@ Relative to other substances, water has a high specific heat, meaning that it wi
 
 Water's polarity makes it a common solvent.
 
-Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water.
+Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water and thus increase their [solubility][] in water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water and thus decrease their solubility in water.
 
 ## Acids and Bases
 
@@ -310,9 +310,9 @@ The size and structure of a substance is key to the way it functions because of 
 
 Although substance structures are often described by molecular, empirical, or two-dimensional formulas for simplicity, actual substance structures are three-dimensional.
 
-[Isomers][isomer] are substances that have the some molecular formula but different structures.
+[Isomers][] are substances that have the some molecular formula but different structures.
 
-[Structural isomers][structural isomer] differ in their covalent arrangements. For example, butane (C<sub>4</sub>H<sub>8</sub>) is:
+[Structural isomers][] differ in their covalent arrangements. For example, butane (C<sub>4</sub>H<sub>8</sub>) is:
 
 <pre>
   H H H H
@@ -326,22 +326,85 @@ Whereas isobutane (also C<sub>4</sub>H<sub>8</sub>) is:
 
 <pre>
   H–C–H
-  H | H
-  | | |
+  H ⎪ H
+  | ⎪ |
 H–C–C–C–H
   | | |
   H H H
 </pre>
 
-[Geometric isomers][geometric isomer] have the same covalent arrangements but differ in spatial arrangements.
+[Geometric isomers][] have the same covalent arrangements but differ in spatial arrangements.
 
-[Enantiomers][enantiomer] are geometric isomers that are mirror images of each other and this can have functional implications.
+[Enantiomers][] are geometric isomers that are mirror images of each other and this can have functional implications.
 
 ## Organic Chemistry
 
 An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms. The ultimate source of all Carbon for organisms is CO<sub>2</sub> (taken from the air by [plants][]).
 
-A [hydrocarbon][] is a molecule composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
+A [hydrocarbon][] is one of the simplest organic molecule and is composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
+
+Carbons are often chained together (with single or double covalent bonds) to create a "backbone" or "skeleton" from which the rest of the molecule builds off of.
+
+It is common to omit Carbons and Hydrogens in structural formulas for simplicity. For example, the structural formula for Cyclohexane (C<sub>6</sub>H<sub>12</sub>) is a ring:
+
+<pre>
+  H   H
+   \ /
+H   C   H
+ \ / \ /
+  C   C
+ /⎪   ⎪\
+H ⎪   ⎪ H
+H ⎪   ⎪ H
+ \⎪   ⎪/
+  C   C
+ / \ / \
+H   C   H
+   / \
+  H   H
+</pre>
+
+This can be simplified into a simple hexagon where each vertex is an implied Carbon atom with two Hydrogens:
+
+<span class="formula">
+  <span class="symbol">⬡</span>
+</span>
+
+Similarly for structures with double covalent bonds, the ring can be simplified with double lines. For example, the structural formula for Benzene (C<sub>6</sub>H<sub>6</sub>) is a ring:
+
+<pre>
+    H
+    |
+    C
+   / ⑊
+H–C   C–H
+  ║   ║
+  ║   ║
+  ║   ║
+  ║   ║
+H–C   C–H
+   \ ⫽
+    C
+    |
+    H
+</pre>
+
+This can be simplified into the following hexagon with three double bonds where each vertex is an implied Carbon atom with one Hydrogen:
+
+<span class="formula">
+  <span class="symbol">⌬</span>
+</span>
+
+## Functional Groups
+
+The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic:
+
+1. Hydroxyl: Also called Alcohols and names are usually suffixed with -ol.
+1. Carbonyl: Also called Aldehydes or Ketones.
+1. Carboxyl: Also called Carboxylic Acids.
+1. Amino: Also called Amines.
+1. Sulfhydryl: Also called Thiols.
+1. Phosphate: Also called Organic Phosphates.
 
 # Biology
 
@@ -392,6 +455,10 @@ code {
 
 pre {
   font-size: larger;
+}
+
+span.formula span.symbol {
+  font-size: xx-large;
 }
 </style>
 
