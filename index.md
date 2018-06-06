@@ -455,6 +455,23 @@ code {
 
 pre {
   font-size: larger;
+  border: 1px dashed;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  display: inline-block;
+}
+
+span.formula {
+  display: inline-block;
+  unicode-bidi: embed;
+  font-family: monospace;
+  white-space: pre;
+  font-size: larger;
+  border: 1px dashed;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 span.formula span.symbol {
@@ -573,6 +590,7 @@ if (elements.length) {
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
+[functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gas]: https://en.wikipedia.org/wiki/Gas
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
