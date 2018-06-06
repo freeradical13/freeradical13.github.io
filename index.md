@@ -443,8 +443,8 @@ img {
 
 code, pre, span.formula {
   background-color: #F3F6FA;
-  color: #000000;
-  border: 1px dashed #000000;
+  color: #000000 !important;
+  border: 1px dashed #000000 !important;
 }
 
 code {
