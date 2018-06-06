@@ -500,6 +500,8 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
+[buffer]: https://en.wikipedia.org/wiki/Buffer_solution
+[calorie]: https://en.wikipedia.org/wiki/Calorie
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
@@ -514,7 +516,9 @@ if (elements.length) {
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
+[cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
+[cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
@@ -527,8 +531,8 @@ if (elements.length) {
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
-[dipole]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
+[dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [distance]: https://en.wikipedia.org/wiki/Distance
 [ductile]: https://en.wikipedia.org/wiki/Ductility
@@ -553,6 +557,7 @@ if (elements.length) {
 [emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
+[enantiomers]: https://en.wikipedia.org/wiki/Enantiomer
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
@@ -570,17 +575,22 @@ if (elements.length) {
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gas]: https://en.wikipedia.org/wiki/Gas
+[geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [halogens]: https://en.wikipedia.org/wiki/Halogen
+[heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[hydrocarbon]: https://en.wikipedia.org/wiki/Hydrocarbon
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
+[hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
+[hydrophobic]: https://en.wikipedia.org/wiki/Hydrophobic
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
@@ -594,6 +604,7 @@ if (elements.length) {
 [ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
+[isomers]: https://en.wikipedia.org/wiki/Isomer
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [joules]: https://en.wikipedia.org/wiki/Joule
@@ -656,6 +667,7 @@ if (elements.length) {
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [photons]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
+[plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
@@ -678,10 +690,12 @@ if (elements.length) {
 [second]: https://en.wikipedia.org/wiki/Second
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
+[solubility]: https://en.wikipedia.org/wiki/Solubility
 [solute]: https://en.wikipedia.org/wiki/Solution
 [solution]: https://en.wikipedia.org/wiki/Solution
 [solvent]: https://en.wikipedia.org/wiki/Solvent
 [space]: https://en.wikipedia.org/wiki/Space
+[specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
 [speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
@@ -691,6 +705,8 @@ if (elements.length) {
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
+[structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
+[surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [temperature]: https://en.wikipedia.org/wiki/Temperature
