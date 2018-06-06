@@ -366,9 +366,7 @@ H   C   H
 
 This can be simplified into a simple hexagon where each vertex is an implied Carbon atom with two Hydrogens:
 
-<span class="formula">
-  <span class="symbol">⬡</span>
-</span>
+<span class="formula"><span class="symbol">⬡</span></span>
 
 Similarly for structures with double covalent bonds, the ring can be simplified with double lines. For example, the structural formula for Benzene (C<sub>6</sub>H<sub>6</sub>) is a ring:
 
@@ -391,9 +389,7 @@ H–C   C–H
 
 This can be simplified into the following hexagon with three double bonds where each vertex is an implied Carbon atom with one Hydrogen:
 
-<span class="formula">
-  <span class="symbol">⌬</span>
-</span>
+<span class="formula"><span class="symbol">⌬</span></span>
 
 ## Functional Groups
 
