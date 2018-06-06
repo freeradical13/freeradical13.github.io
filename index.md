@@ -441,9 +441,14 @@ img {
   max-width: 100%;
 }
 
+code, pre, span.formula {
+  background-color: #F3F6FA;
+  color: #000000;
+  border: 1px dashed #000000;
+}
+
 code {
   font-size: larger;
-  border: 1px dashed;
   padding: 2px;
   padding-left: 5px;
   padding-right: 5px;
@@ -451,7 +456,6 @@ code {
 
 pre {
   font-size: larger;
-  border: 1px dashed;
   padding: 2px;
   padding-left: 5px;
   padding-right: 5px;
@@ -464,7 +468,6 @@ span.formula {
   font-family: monospace;
   white-space: pre;
   font-size: larger;
-  border: 1px dashed;
   padding: 2px;
   padding-left: 5px;
   padding-right: 5px;
