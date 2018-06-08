@@ -339,9 +339,9 @@ H–C–C–C–H
 
 ## Organic Chemistry
 
-An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms. The ultimate source of all Carbon for organisms is CO<sub>2</sub> (taken from the air by [plants][]).
+An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms.
 
-A [hydrocarbon][] is one of the simplest organic molecule and is composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
+[Hydrocarbons][] are some of the simplest organic molecules and are composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
 
 Carbons are often chained together (with single or double covalent bonds) to create a "backbone" or "skeleton" from which the rest of the molecule builds off of.
 
@@ -393,9 +393,9 @@ This can be simplified into the following hexagon with three double bonds where 
 
 ## Functional Groups
 
-The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic:
+The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
 
-1. Hydroxyl: Also called Alcohols and names are usually suffixed with -ol.
+1. Hydroxyl: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
 1. Carbonyl: Also called Aldehydes or Ketones.
 1. Carboxyl: Also called Carboxylic Acids.
 1. Amino: Also called Amines.
@@ -603,7 +603,7 @@ if (elements.length) {
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
-[hydrocarbon]: https://en.wikipedia.org/wiki/Hydrocarbon
+[hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
@@ -629,6 +629,7 @@ if (elements.length) {
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
+[life]: https://en.wikipedia.org/wiki/Life
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
