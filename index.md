@@ -395,7 +395,16 @@ This can be simplified into the following hexagon with three double bonds where 
 
 The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
 
-1. Hydroxyl: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+1. Hydroxyl: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+
+    For example, Ethanol is the drug in alcoholic beverages:
+    
+    <pre>
+      H H
+      | |
+    H–C–C–O–H 
+      | |
+      H H</pre>
 1. Carbonyl: Also called Aldehydes or Ketones.
 1. Carboxyl: Also called Carboxylic Acids.
 1. Amino: Also called Amines.
