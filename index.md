@@ -395,9 +395,9 @@ This can be simplified into the following hexagon with three double bonds where 
 
 The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
 
-1. Hydroxyl: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+1. [Hydroxyl][]: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
 
-    For example, Ethanol is the drug in alcoholic beverages:
+    For example, [Ethanol][] is the drug in alcoholic beverages:
     
     <pre>
       H H
@@ -405,11 +405,11 @@ The parts of an organic molecule that are most commonly involved in chemical rea
     H–C–C–O–H 
       | |
       H H</pre>
-1. Carbonyl: Also called Aldehydes or Ketones.
-1. Carboxyl: Also called Carboxylic Acids.
-1. Amino: Also called Amines.
-1. Sulfhydryl: Also called Thiols.
-1. Phosphate: Also called Organic Phosphates.
+1. [Carbonyl][]: Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
+1. [Carboxyl][]: A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
+1. [Amino][]: Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
+1. [Sulfhydryl][]: Also called Thiols.
+1. [Phosphate][]: Also called Organic Phosphates.
 
 # Biology
 
@@ -507,6 +507,7 @@ if (elements.length) {
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[amino]: https://en.wikipedia.org/wiki/Amino
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
@@ -527,6 +528,8 @@ if (elements.length) {
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
+[carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
@@ -618,6 +621,7 @@ if (elements.length) {
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
 [hydrophobic]: https://en.wikipedia.org/wiki/Hydrophobic
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
+[hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
@@ -692,6 +696,7 @@ if (elements.length) {
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
+[phosphate]: https://en.wikipedia.org/wiki/
 [photons]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
@@ -733,6 +738,7 @@ if (elements.length) {
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
+[sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
