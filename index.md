@@ -6,7 +6,7 @@ The purpose of this site is to explore biology and the things that make up biolo
 
 The [universe][] is at least 13.7 billion years old and more than 100 billion [light years][] in [diameter][].
 
-We live on [Earth][] which is part of a [solar system][] with a [star][] called the [Sun][]. Earth and its star coalesced about 4.5 billion years ago. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
+We live on [Earth][] which is part of a [solar system][] with a [star][] called the [Sun][]. Earth and its star coalesced about [4.5 billion years ago][earth age]. Earth's solar system is part of the [Milky Way galaxy][], which is at least 12 billion years old, contains over 100 billion stars and 100 billion [planets][], and is over 100,000 light years in diameter (or about 0.0001% of the size of the universe).
 
 There are over 100 billion [galaxies][] in the universe.
 
@@ -20,12 +20,12 @@ The universe is made of [matter][] which is something that has [mass][] (m) and 
 
 Examples of matter are [protons][], [neutrons][], and [electrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
 
-An [object][] (or [entity][] or [particle][]) is a collection of matter. An object has an [inertia][], meaning:
+An [object][] (or [entity][]) is a collection of matter. An object has an [inertia][], meaning:
 
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
-The [speed][] of an object is a description of its movement which is the [rate][] at which its position in space changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
+The [speed][] of an object is a description of its movement and is the [rate][] at which its position in space changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
 
 The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s _down_).
 
@@ -41,15 +41,17 @@ When an object A exerts a force on another object B, then object B exerts an [eq
 
 # Electric Charge
 
-[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of the force (named the electrostatic force) is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
+[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of this force (named the electrostatic force) is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively. Neutrons have no charge (electrically neutral).
 
-An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats (a cycle) per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle. The maximum speed of electromagntic radiation occurs in space without matter (a [vacuum][]) at the [speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. The speed of light is the maximum speed that any matter may move.
+An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
+
+The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see.
 
 # Energy
 
-[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured in [joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the direction of its motion for one meter.
+[Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured in [Joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the direction of its motion for one meter.
 
 Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which may be thought of as stored energy.
 
@@ -73,17 +75,17 @@ The [lowest recorded surface temperature][temperature comparison] on Earth is <c
 
 The [specific heat][] is the amount of heat that must be absorbed or lost for 1g to change its temperature by 1°C.
 
-All matter above absolute zero temperature continuously emits some of its kinetic energy as [photons][] of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
+All matter above absolute zero temperature continuously emits some of its kinetic energy as photons of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
 # Atoms
 
-[Atoms][] are made of at least one proton and zero or more neutrons in the atom's [nucleus][] (thus both protons and neutrons may be called [nucleons][]), and zero or more [electrons][] orbiting the nucleus in [electron shells][]. Electron shells are also called [energy levels][energy level] because the shell number represents the relative potential energy of electrons in that shell. As electrons are in shells farther from the nuclear proton(s), their potential energies increases because of the additional potential electrostatic force. Therefore, an electron moving to a shell closer to the nucleus must lose energy (e.g. heat) and an electron moving to a shell farther away must absorb energy (e.g. light). Shells are subdivided into [subshells][electron subshells], and subshells are subdivided into [orbitals][] (discussed later).
+[Atoms][] are made of at least one proton and zero or more neutrons in the atom's [nucleus][] (thus both protons and neutrons may be called [nucleons][]), and zero or more [electrons][] orbiting the nucleus in [electron shells][]. Electron shells are also called [energy levels][energy level] because the shell number represents the relative potential energy of electrons in that shell. As electrons are in shells farther from the nuclear proton(s), their potential energies increase because of the additional potential electrostatic force. Therefore, an electron moving to a shell closer to the nucleus must lose energy (e.g. heat) and an electron moving to a shell farther away must absorb energy (e.g. light). Shells are subdivided into [subshells][electron subshells], and subshells are subdivided into [orbitals][] (discussed later).
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
-The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. Carbon is the chemical element class for any atom which has 6 protons; an atom is an instance of the chemical element). The atomic number of a chemical element is sometimes placed in a subscript to the left of the element symbol; for example, <sub>6</sub>C, although this is redundant because the symbol implies Z. Chemical elements and their reactions are the basis of chemistry.
+The number of protons is considered the [atomic number][] (Z) and categorizes the atom in a class called a [chemical element][] (e.g. Carbon is the chemical element class for any atom which has 6 protons; an atom is an instance of the chemical element). The atomic number of a chemical element is sometimes placed in a subscript to the left of the element symbol; for example, <sub>6</sub>C, although this is redundant because the symbol C implies Z. Chemical elements and their reactions are the basis of chemistry.
 
 The number of neutrons defines the element's [isotope][] which is represented as the element name followed by its atomic mass number (e.g. Carbon-14), so the number of neutrons may be deduced from the isotope name by subtracting the number of protons. An isotope may be abbreviated with the atomic mass number in a superscript to the left of the element symbol; for example, <sup>14</sup>C for Carbon-14.
 
@@ -109,11 +111,11 @@ Within each square, the atomic number is at the top, followed by the element's s
 
 The main reason for describing elements in such a way has to do with [electron configuration][] patterns and the behaviors they may cause (described later).
 
-Rows are called periods and describe a new electron shell which accumulates on top of any previous periods' shells. This outermost shell is known as the [valence shell][] which generally contains the [valence electrons][] that may be reactive (ionized elements complicate this picture since they contain one less electron and effectively drop down a shell - for example, the Lithium cation - but the table is a conceptual starting point from neutral atoms).
+Rows are called periods and describe a new electron shell which accumulates on top of any previous periods' shells. This outermost shell is known as the [valence shell][] which generally contains the [valence electrons][] that may be reactive (some ionized elements complicate this picture since they contain one less electron and effectively drop down a shell - for example, the Lithium cation - but the table is a conceptual starting point from neutral atoms).
 
 Columns are called groups and generally group by the number of valence electrons, and thus generally group by similar behavior.
 
-Each electron shell in an atom has a maximum number of electrons (<code>2×Shell_Number<sup>2</sup></code>) before the next shell starts. Each shell has a distinct energy level and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. Additional electrons fill empty orbitals in a sub-shell before pairing up with an electron in an existing orbital. A full orbital is called an [electron pair][]. A [lone pair][] of electrons is an electron pair that is not shared with another atom. Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
+Each electron shell in an atom has a maximum number of electrons (<code>2×ShellNumber<sup>2</sup></code>) before the next shell starts. Each shell has a distinct energy level and is broken down into subshells which have a maximum number of electrons before the next subshell starts. Each subshell is broken down into orbitals of [up to 2 electrons][orbitalmax2e] each. Additional electrons fill empty orbitals in a sub-shell before pairing up with an electron in an existing orbital. A full orbital is called an [electron pair][]. A [lone pair][] of electrons is a filled valence orbital of two electrons that are not shared with another atom (sometimes noted with a <code>:</code>). Electron configurations are represented by the accumulation of subshells up to the total number of electrons, with each subshell described by the shell number, followed by the subshell name, followed by the number of electrons in that subshell in a superscript. The subshell names are:
 
 * s: For groups 1 and 2 (or group 18 for Helium) only, at most 2 electrons.
 * p: Starting at period 2, for groups 13-18 only, at most 6 electrons.
@@ -144,7 +146,7 @@ When d and f orbitals are filled, they backfill the previous shell. For example,
 
 The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
-Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable (high energy). For example, Hydrogen is unstable because it wants one more electron to complete its shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable (low energy) set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable (high energy). For example, Hydrogen is unstable because it wants one more electron to complete its valence shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable (low energy) set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
@@ -259,7 +261,7 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
 
-[Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic). If the concentration of one reagent or product increases, the reaction will favor that side; otherwise, it will favor the other side. If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of te side that's less likely to react).
+[Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic). If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of the side that's less likely to react).
 
 ## Water
 
@@ -277,20 +279,20 @@ Substances that are ionic or polar are [hydrophilic][] meaning that they have a 
 
 [Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
 
-A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code>(aq)</code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] (and [emulsions][] which are colloids of liquids) are heterogenous mixtures that don't settle.
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] which are colloids of liquids).
 
 A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [1 litre of water][water L kg] is approximately 1 kg under standard conditions (e.g. 25°C).
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
-In a reversible chemical reaction such as <code>aA + bB c cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub> [or k<sub>c</sub> for concentration]) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
+In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub> [or k<sub>c</sub> for concentration]) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
 There are multiple ways to define acids and bases:
 
 1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton (or indirectly, a substance that dissociates into hydroxide ions which then accepts the protons). A [conjugate acid][] is the product that accepted protons (because it can then give that proton back in the reverse direction), and a conjugate base is the product that donated protons. For example, water is [amphoteric][] meaning it can be either an acid or a base.
-1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → N<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → Na<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
 
 The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general and therefore "acid" generally refers to the Brønsted-Lowry definition.
 
@@ -339,7 +341,7 @@ H–C–C–C–H
 
 ## Organic Chemistry
 
-An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called organisms.
+An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called [organisms][].
 
 [Hydrocarbons][] are some of the simplest organic molecules and are composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
 
@@ -376,10 +378,7 @@ Similarly for structures with double covalent bonds, the ring can be simplified 
     C
    / ⑊
 H–C   C–H
-  ║   ║
-  ║   ║
-  ║   ║
-  ║   ║
+  ║   ⎪
 H–C   C–H
    \ ⫽
     C
@@ -423,7 +422,7 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans].
 
 A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
-An [organism][] is a set of one or more cells.
+An organism is a set of one or more cells.
 
 # Feedback
 
@@ -565,6 +564,7 @@ if (elements.length) {
 [distance]: https://en.wikipedia.org/wiki/Distance
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
+[earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electrically conductive]: https://en.wikipedia.org/wiki/Electrical_conductor
@@ -592,12 +592,14 @@ if (elements.length) {
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
+[ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
+[force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
@@ -652,8 +654,10 @@ if (elements.length) {
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
+[massless]: https://en.wikipedia.org/wiki/Massless_particle
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
+[maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
@@ -686,10 +690,10 @@ if (elements.length) {
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
-[organism]: https://en.wikipedia.org/wiki/Organism
+[organisms]: https://en.wikipedia.org/wiki/Organism
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
-[particle]: https://en.wikipedia.org/wiki/Particle
+[particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
@@ -697,7 +701,7 @@ if (elements.length) {
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phosphate]: https://en.wikipedia.org/wiki/
-[photons]: https://en.wikipedia.org/wiki/Photon
+[photon]: https://en.wikipedia.org/wiki/Photon
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
@@ -729,7 +733,6 @@ if (elements.length) {
 [space]: https://en.wikipedia.org/wiki/Space
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
-[speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [star]: https://en.wikipedia.org/wiki/Star
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
@@ -766,6 +769,7 @@ if (elements.length) {
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
+[visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
@@ -773,3 +777,10 @@ if (elements.length) {
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
+
+
+Bond breaking between phosphate groups releases energy for DNA primase
+Bond making typically releases energy because it brings atoms together into a more stable arrangement
+Bond breaking puts them into less stable arrangement typically requires energy
+If releasing energy, overall exothermic
+Holding like negative charges held together is potential energy
