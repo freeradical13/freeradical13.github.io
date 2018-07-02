@@ -293,8 +293,9 @@ There are multiple ways to define acids and bases:
 
 1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton (or indirectly, a substance that dissociates into hydroxide ions which then accepts the protons). A [conjugate acid][] is the product that accepted protons (because it can then give that proton back in the reverse direction), and a conjugate base is the product that donated protons. For example, water is [amphoteric][] meaning it can be either an acid or a base.
 1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → Na<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. A [Lewis acid][lewis acids and bases] is a substance that has an empty electron orbital. A [Lewis base][lewis acids and bases] is a substance that has a lone pair of electrons.
 
-The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry definition is more general and therefore "acid" generally refers to the Brønsted-Lowry definition.
+The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry and Lewis definitions are more general. Unless otherwise noted, "acid" generally refers to the Brønsted-Lowry definition.
 
 A substance that is basic is also sometimes referred to as [alkaline or an alkali][alkali].
 
@@ -430,7 +431,7 @@ An organism is a set of one or more cells.
 
 # Methodology/Meta
 
-* Every time I "context switch" into this subject, I re-read the entire page before re-starting. Along with the process of writing itself, this seems to maximize retention.
+* Every time I "context switch" into this after some time away, I re-read the entire page before re-starting. Along with the process of writing itself, this seems to maximize retention.
 
 <style>
 .page-header {
@@ -644,6 +645,7 @@ if (elements.length) {
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
+[lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
@@ -777,10 +779,3 @@ if (elements.length) {
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
-
-
-Bond breaking between phosphate groups releases energy for DNA primase
-Bond making typically releases energy because it brings atoms together into a more stable arrangement
-Bond breaking puts them into less stable arrangement typically requires energy
-If releasing energy, overall exothermic
-Holding like negative charges held together is potential energy
