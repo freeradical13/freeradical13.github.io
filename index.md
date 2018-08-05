@@ -190,7 +190,7 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 Types of chemical bonds based on [intramolecular forces][]:
 
-1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element. Covalent bonds generally form between a metal and a non-metal.
+1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element. Covalent bonds generally form between a metal and a non-metal. The strongest form of covalent bond is a [sigma bond][] (σ bond). Another, weaker form of covalent bond is a [pi bond][] (π bond).
 1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt). Ionic bonds generally form between two non-metals.
 1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
 
@@ -208,6 +208,10 @@ A substance may be described in many ways, all of which may represent either an 
 1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
 1. A [trivial][trivial name] or [retained name][]; for example, Water represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
 1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule. For example, a covalent bond is represented with a long dash (–) such as <code>H–O–H</code> for H<sub>2</sub>O. As another example, a double covalent bond is represented with a double dash (=) such as <code>O=C=O</code> for CO<sub>2</sub>.
+    1. [Wedge-hash or wedge-dash diagrams][wedge-dash diagrams]: The filled wedge is projected toward the viewer (in front of the page). The dashed line is projected away from the viewer (behind the page).
+    1. [Fischer projections][]
+    1. [Unspecified stereochemistry][]: Wavy single bonds are unknown or unspecified stereochemistry.
+    1. [Skeletal formulas][]
 1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
 
 When substances of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and partial positive charges on the opposite ends of the Hydrogens:
@@ -338,7 +342,7 @@ H–C–C–C–H
 
 [Geometric isomers][] have the same covalent arrangements but differ in spatial arrangements.
 
-[Enantiomers][] are geometric isomers that are mirror images of each other and this can have functional implications.
+A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers and this can have functional implications. One form is prefixed with l- or (-) ([levorotatory][] or left-handed), and the other is prefixed with d- or (+) ([dextrorotatory][] or right-handed). [R and S configurations][] can describe substances with multiple chiral carbons.
 
 ## Organic Chemistry
 
@@ -395,7 +399,7 @@ This can be simplified into the following hexagon with three double bonds where 
 
 The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
 
-1. [Hydroxyl][]: Hydrogen covalently bonded to an Oxygen (<code>H–O</code>) which is covalently bonded to the compound. When discussing funcional groups, a convention is sometimes used which describes their molecular formulas without bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
 
     For example, [Ethanol][] is the drug in alcoholic beverages:
     
@@ -544,6 +548,7 @@ if (elements.length) {
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
+[chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
@@ -557,6 +562,7 @@ if (elements.length) {
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
+[dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
@@ -586,7 +592,7 @@ if (elements.length) {
 [emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
-[enantiomers]: https://en.wikipedia.org/wiki/Enantiomer
+[enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
@@ -598,6 +604,7 @@ if (elements.length) {
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
+[fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
@@ -645,6 +652,7 @@ if (elements.length) {
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
+[levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
 [light]: https://en.wikipedia.org/wiki/Light
@@ -704,6 +712,7 @@ if (elements.length) {
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phosphate]: https://en.wikipedia.org/wiki/
 [photon]: https://en.wikipedia.org/wiki/Photon
+[pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
@@ -714,6 +723,7 @@ if (elements.length) {
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
@@ -726,6 +736,8 @@ if (elements.length) {
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
+[sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
+[skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
 [solubility]: https://en.wikipedia.org/wiki/Solubility
@@ -764,6 +776,7 @@ if (elements.length) {
 [unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
+[unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
@@ -778,4 +791,5 @@ if (elements.length) {
 [water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
+[wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean

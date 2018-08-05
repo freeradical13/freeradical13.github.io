@@ -31,7 +31,7 @@ A decimal represents a number using powers of 10 based on the position of each d
 
 ## Exponents
 
-* <code>a<sup>0</sup> = 0</code>
+* <code>a<sup>0</sup> = 1</code> (unless <code>a</code> is 0, in which case the result is undefined)
 * <code>a<sup>-x</sup> = 1 / a<sup>x</sup></code>
 * <code>(a<sup>x</sup>)(a<sup>y</sup>) = a<sup>x+y</sup></code>
 * <code>(a<sup>x</sup>) / (a<sup>y</sup>) = a<sup>x-y</sup> = 1 / a<sup>y-x</sup></code>
@@ -48,15 +48,15 @@ A decimal represents a number using powers of 10 based on the position of each d
 * <code>√a / √b = √(a / b)</code>
 * <code>∜a = √(√a)</code>
 * The square root of a negative number is not a real number.
-* For odd order roots, there is exactly one root for every number n, even when n is negative.
-* For even order roots, there are exactly two roots for every positive number n and no roots for any negative number n.
+* For odd order roots, there is exactly one root for every number, even if it's negative.
+* For even order roots, there are exactly two roots for every positive number and no roots for any negative number.
 
 ## Algebra
 
 * An algebraic expression consists of one or more terms. A term without a variable is a constant term. A number that is multiplied by variables is called the coefficient of a term.
 * A polynomial is an expression in which each term is either a constant term or a product of a coefficient and one or more variables with positive integer exponents.
 * Terms that have the same set of variables with the same exponents are called like terms and may be added together by coefficients.
-* The degree of a term is the sum of the exponents of its variables.
+* The degree of a term is the sum of the exponents of its variables (after combining like terms).
 * To multiply two algebraic expressions, each term of the first expression is multiplied by each term of the second expression and the results are added.
 * <code>ca + cb = c(a + b)</code>
 * <code>ca − cb = c(a − b)</code>
@@ -72,7 +72,7 @@ A decimal represents a number using powers of 10 based on the position of each d
 * An equation is a statement of equality or inequality between two expressions.
 * A non-zero constant may be added to both sides.
 * Both sides may be multiplied or divided by the same non-zero constant. For non-equalities, if the constant is negative, the direction of the equality flips.
-* The triangle equality shows that <code>|r+s| <= |r|+|s|</code>
+* The triangle equality shows that <code>|a+b| <= |a|+|b|</code>
 * A linear equation has a maximum degree of 1 and none of the terms have more than one variable.
 * A quadratic equation is of the form <code>ax<sup>2</sup> + bx + c = 0</code> and has 0, 1, or 2 solutions.
 * Quadratic formula: <code>x = (-b ± √(b<sup>2</sup> - 4ac)) / 2a</code>
@@ -125,26 +125,6 @@ A decimal represents a number using powers of 10 based on the position of each d
 * A circular cylinder has two circle bases in parallel and a lateral surface made of all line segments that join points on the two circles. An axis is the hypothetical line segment joining the two centers.
 * A right circular cylinder's axis is perpendicular to its bases. The volume is <code>πr<sup>2</sup>h</code>. The surface area is <code>2πr<sup>2</sup> + 2πrh</code>
 
-## Data Analysis
-
-* In data analysis, a variable is a characteristic that varies for a set of data. Variables are either numerical (quantitative) or nonnumerical (categorical).
-* The distribution of data indicates how frequently different values appear in the data.
-* The frequency (or count) indicates the number of times different values appear in the data.
-* A frequency distribution represents all values and their frequencies.
-* The relative frequency if the frequency divided by the total. A relative frequency distribution represents all relative frequencies.
-* Different values may be put into equal sized groups (or classes or intervals) and graphed in a histogram.
-* A scatterplot graphs the relationship between numerical variables.
-* Central tendencies indicate the "center" of values. The arithmetic mean (or average) is the sum of values divided by the number of values.
-* The number of times a value occurs is also called the weight of the value.
-* The median is the middle number in the list of values after it has been sorted. If the number of values is even, the middle two numbers are averaged.
-* The mode of a list of values is the value with the highest frequency or weight.
-* Quartiles are numbers that divide a list of ordered values. The three quartiles are the first, second and third quartiles where the first and third are medians after splitting the data in two, and the second quartile is the total median. 99 percentile numbers split the data into 100 roughly equal groups.
-* Measures of dispersion indicate the degree of spread of the data.
-* The range is the difference between the largest and smallest values. The interquartile range is the difference between the first and third quartiles.
-* A boxplot (or box-and-whiskers plot) shows a box from the first to second quartile, a box from the second to third quartile, and whiskers to the lowest and greatest values.
-* Standard deviation (or population standard deviation) measures how much each value differs from the mean and takes a type of average of these differences.
-* A sample standard deviation is used when a subset of all data is used where the sum of squared differences is divided by <code>n - 1</code> instead.
-
 ## Sets
 
 * The inclusion-exclusion principle states that the number of elements in the union of two sets equals the sum of their individual numbers of elements minus the number of elements in their intersection: <code>|A ∪ B| = |A| + |B| + |A ∩ B|</code>
@@ -167,6 +147,34 @@ For a random experiment with a finite number of possible outcomes, if each out c
 * If E and F are not mututally exclusive, <code>P(E or F) = P(E) + P(F) - P(E and F)</code>
 * E and F are independent if either event does not affect the occurrence of the other. If E and F are independent, <code>P(E and F) = P(E)P(F)</code>
 * If E and F are not independent, <code>P(E and F) = P(E)P(F|E)</code>
+
+## Data Analysis
+
+* In data analysis, a variable is a characteristic that varies for a set of data. Variables are either numerical (quantitative) or nonnumerical (categorical).
+* The distribution of data indicates how frequently different values appear in the data.
+* The frequency (or count) indicates the number of times different values appear in the data.
+* A frequency distribution represents all values and their frequencies.
+* The relative frequency if the frequency divided by the total. A relative frequency distribution represents all relative frequencies.
+* Different values may be put into equal sized groups (or classes or intervals) and graphed in a histogram.
+* A scatterplot graphs the relationship between numerical variables.
+* Central tendencies indicate the "center" of values. The arithmetic mean (or average) is the sum of values divided by the number of values.
+* The number of times a value occurs is also called the weight of the value.
+* The median is the middle number in the list of values after it has been sorted. If the number of values is even, the middle two numbers are averaged.
+* The mode of a list of values is the value with the highest frequency or weight.
+* Quartiles are numbers that divide a list of ordered values. The three quartiles are the first, second and third quartiles where the first and third are medians after splitting the data in two, and the second quartile is the total median. 99 percentile numbers split the data into 100 roughly equal groups.
+* Measures of dispersion indicate the degree of spread of the data.
+* The range is the difference between the largest and smallest values. The interquartile range is the difference between the first and third quartiles.
+* A boxplot (or box-and-whiskers plot) shows a box from the first to second quartile, a box from the second to third quartile, and whiskers to the lowest and greatest values.
+* Standard deviation (or population standard deviation) measures how much each value differs from the mean and takes a type of average of these differences.
+* A sample standard deviation is used when a subset of all data is used where the sum of squared differences is divided by <code>n - 1</code> instead.
+* The sum of the areas of a relative frequency histogram is 1. A curve modeling the tops of the bars is called a distribution, density, or frequency curve.
+* A random variable is the result of a random experiment, representing a randomly chosen value from a distribution. A discrete random variable consists of discrete points. A uniform distribution has equal likelihoods for all values.
+* A probability distribution is a calculation of the probability of each value for all possible values.
+* The mean, or expected value, of a distribution is <code>Value<sub>1</sub>×P(Value<sub>1</sub>) + ... + Value<sub>n</sub>×P(Value<sub>n</sub>)</code>
+* Many data sets approximate a normal distribution which is bell shaped and may be said to be approximately normally distributed. In a normal distribution, the mean, median, and mode are all nearly equal, the data are grouped symmetrically around the mean, about 2/3 of the data are within 1 standard deviation of the mean, and most of the data are within 2 standard deviations of the mean.
+* A continuous probability distribution represents the region below the distribution curve. A random variable in such a distribution is called a continuous random variable.
+* The standard normal distribution has a mean of 0 and standard deviation of 1.
+* To standardize values with a different standard deviation <code>d</code> to a standard normal distribution, divide each value by <code>d</code>
 
 [math]: https://www.ets.org/s/gre/pdf/gre_math_review.pdf
 [multiplication]: https://www.khanacademy.org/math/arithmetic-home/arithmetic/arith-review-multiply-divide/arith-review-mult-intro/a/intro-multiplication
