@@ -81,7 +81,7 @@ If two objects touch with a path permeable to heat, then, all else being equal, 
 
 # Atoms
 
-[Atoms][] are made of at least one proton and zero or more neutrons in the atom's [nucleus][] (thus both protons and neutrons may be called [nucleons][]), and zero or more [electrons][] orbiting the nucleus in [electron shells][]. Electron shells are also called [energy levels][energy level] because the shell number represents the relative potential energy of electrons in that shell. As electrons are in shells farther from the nuclear proton(s), their potential energies increase because of the additional potential electrostatic force. Therefore, an electron moving to a shell closer to the nucleus must lose energy (e.g. heat) and an electron moving to a shell farther away must absorb energy (e.g. light). Shells are subdivided into [subshells][electron subshells], and subshells are subdivided into [orbitals][] (discussed later).
+[Atoms][] are made of at least one proton and zero or more neutrons in the atom's [nucleus][] (both protons and neutrons may be called [nucleons][]), and zero or more [electrons][] orbiting the nucleus in [electron shells][]. Electron shells are also called [energy levels][energy level] because the shell number represents the relative potential energy of electrons in that shell. As electrons are in shells farther from the nuclear proton(s), their potential energies increase because of the additional potential electrostatic force. Therefore, an electron moving to a shell closer to the nucleus must lose energy (e.g. heat) and an electron moving to a shell farther away must absorb energy (e.g. light). Shells are subdivided into [subshells][electron subshells], and subshells are subdivided into [orbitals][] (discussed later).
 
 The number of nucleons is considered the [atomic mass number][] (A) since an atom's electrons' masses are so much relatively lighter than the nucleons' masses.
 
@@ -99,7 +99,7 @@ If an atom has an equal number of protons and electrons, then it is electrically
 
 There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about 96% of a human's mass, with another 21 required in small amounts (mostly Calcium, Phosophorous, Potassium, Sulfur, Sodium, Chlorine, and Magnesium) ([Campbell & Reece, 2002, pg. 27][campbell & reece, 2002]).
 
-The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number (number of protons) from left to right, and starting again at the left when going down.
+The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number Z from left to right, and starting again at the left when going down.
 
 Within each square, the atomic number is at the top, followed by the element's symbol, followed by the element name, followed by its standard atomic weight (A<sub>r,std</sub>):
 
@@ -170,7 +170,7 @@ Generally, electron affinity increases from left to right (except for those with
 
 Most elements are [metals][] (although there are only two named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
-[Nonmetals][] are the opposite of metals: they are toward the right side of the table (with the exception of Hydrogen), have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
+[Nonmetals][] are the opposite of metals: they are toward the right side of the table, have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
@@ -186,13 +186,11 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 # Chemistry (Continued)
 
-[Molecules][] and [chemical compounds][] are sets of two or more atoms held together by a [chemical bond][] because the atoms are more [stable][molecule stability] with that bond.
+Two or more atoms may be held together by [chemical bond][](s). The major types of bonds are:
 
-Types of chemical bonds based on [intramolecular forces][]:
-
-1. A molecule exists when a [covalent bond][] occurs where atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a compound if it's made of more than one type of element. Covalent bonds generally form between a metal and a non-metal. The strongest form of covalent bond is a [sigma bond][] (σ bond). Another, weaker form of covalent bond is a [pi bond][] (π bond).
-1. An [ionic compound][] or [salt][] exists when an [ionic bond][] occurs where one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt). Ionic bonds generally form between two non-metals.
-1. An [intermetallic compound][] exists when a [metallic bond][] occurs where a set of cations share a sea of free electrons.
+1. A [covalent bond][] defines a [molecule][] and occurs when atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a [chemical compound][] if it's made of more than one type of element. The strongest form of a covalent bond is a [sigma bond][] (σ bond). Another, weaker form of a covalent bond is a [pi bond][] (π bond).
+1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
+1. A [metallic bond][] amongst positively charged metal cations in a sea of shared electrons.
 
 A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the [venn diagram][] by the location of the bond arrows):
 
@@ -539,7 +537,7 @@ if (elements.length) {
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
-[chemical compounds]: https://en.wikipedia.org/wiki/Chemical_compound
+[chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
 [chemical equation]: https://en.wikipedia.org/wiki/Chemical_equation
 [chemical equilibrium]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
@@ -682,8 +680,8 @@ if (elements.length) {
 [molecular entity]: http://goldbook.iupac.org/html/M/M03986.html
 [molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
 [molecular mass]: https://en.wikipedia.org/wiki/Molecular_mass
+[molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
-[molecules]: https://en.wikipedia.org/wiki/Molecule
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description

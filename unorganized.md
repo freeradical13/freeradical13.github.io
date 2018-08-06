@@ -1,6 +1,10 @@
 # Unorganized
 
-A [polymer][] is a molecule made of repeating parts ([monomers][]). The process of creating polymers from monomers is called [polymerization][]. A homopolymer is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
+A [polymer][] is a molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A homopolymer is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
+
+A [macromolecule][] is a large molecule, often a large polymer. The most common biological macromolecules are carbohydrates, lipids, proteins, and nucleic acids. Lipids are not polymers because they aren't made of monomers connected by covalent bonds.
+
+Polymers are assembled through a process called [dehydration synthesis][] (or [condensation][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
 
 The electronegativities between Hydrogen and Carbon are close enough that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar].
 
@@ -99,10 +103,13 @@ https://en.wikipedia.org/wiki/Alkyl#Nomenclature
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
+[dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [hydride]: https://en.wikipedia.org/wiki/Hydride
 [hydrocarbons non-polar]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
+[hydrolysis]: https://en.wikipedia.org/wiki/Hydrolysis
+[macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl group]: https://en.wikipedia.org/wiki/Methyl_group
 [monomers]: https://en.wikipedia.org/wiki/Monomer
