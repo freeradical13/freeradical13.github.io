@@ -346,9 +346,9 @@ A [chiral][] substance may have one of two, mirror-image configurations, each of
 
 An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called [organisms][].
 
-[Hydrocarbons][] are some of the simplest organic molecules and are composed of only Carbon and Hydrogen atoms. The bonds in hydrocarbons are non-polar so hydrocarbons are hydrophobic.
+[Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore hydrophobic.
 
-Carbons are often chained together (with single or double covalent bonds) to create a "backbone" or "skeleton" from which the rest of the molecule builds off of.
+Hydrocarbons are often chained together (with single or double covalent bonds) to create a linear [backbone chain][] (or main chain) from which the rest of the molecule builds off of. These other parts of the molecule are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning root).
 
 It is common to omit Carbons and Hydrogens in structural formulas for simplicity. For example, the structural formula for Cyclohexane (C<sub>6</sub>H<sub>12</sub>) is a ring:
 
@@ -410,7 +410,7 @@ The parts of an organic molecule that are most commonly involved in chemical rea
 1. [Carbonyl][]: Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
 1. [Carboxyl][]: A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
 1. [Amino][]: Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
-1. [Sulfhydryl][]: Also called Thiols.
+1. [Sulfhydryl][] (<code>R-SH</code>): Also called Thiols.
 1. [Phosphate][]: Also called Organic Phosphates.
 
 # Biology
@@ -522,6 +522,7 @@ if (elements.length) {
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
+[backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
@@ -624,6 +625,7 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
+[hydrocarbons non-polar]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
@@ -734,6 +736,7 @@ if (elements.length) {
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
+[side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [solar system]: https://en.wikipedia.org/wiki/Solar_System

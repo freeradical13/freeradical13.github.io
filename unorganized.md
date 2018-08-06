@@ -6,8 +6,6 @@ A [macromolecule][] is a large molecule, often a large polymer. The most common 
 
 Polymers are assembled through a process called [dehydration synthesis][] (or [condensation][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
 
-The electronegativities between Hydrogen and Carbon are close enough that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar].
-
 A [saturated hydrocarbon][] has no double or triple bonds (i.e. saturated with the maximum number of Hydrogens). An [unsaturated hydrocarbon][] has double or triple bonds between Carbons.
 
 An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
@@ -107,7 +105,6 @@ https://en.wikipedia.org/wiki/Alkyl#Nomenclature
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [hydride]: https://en.wikipedia.org/wiki/Hydride
-[hydrocarbons non-polar]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
 [hydrolysis]: https://en.wikipedia.org/wiki/Hydrolysis
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [methane]: https://en.wikipedia.org/wiki/Methane
