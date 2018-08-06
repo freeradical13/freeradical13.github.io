@@ -205,8 +205,8 @@ A substance may be described in many ways, all of which may represent either an 
 1. A [molecular formula][] describes the number of atoms of each element in each molecule in a subscript to the right of the element symbol (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
 1. An [empirical formula][] is the molecular formula with the ratios of elements reduced to the simplest form. For example, a molecule of [Benzene][] has a molecular formula of C<sub>6</sub>H<sub>6</sub>, but the empirical formula is CH.
 1. A [trivial][trivial name] or [retained name][]; for example, Water represents H<sub>2</sub>O (in the case of water, the molecular and empirical formulas are the same).
-1. Various [structural formulas][] that describe the two-dimensional or three-dimensional structure of the molecule. For example, a covalent bond is represented with a long dash (–) such as <code>H–O–H</code> for H<sub>2</sub>O. As another example, a double covalent bond is represented with a double dash (=) such as <code>O=C=O</code> for CO<sub>2</sub>.
-    1. [Wedge-hash or wedge-dash diagrams][wedge-dash diagrams]: The filled wedge is projected toward the viewer (in front of the page). The dashed line is projected away from the viewer (behind the page).
+1. Various [structural formulas][] that describe the two-dimensional (2D) or three-dimensional (3D) structure of the molecule. The study of 3D structures is called [stereochemistry][]. For example, a covalent bond is represented with a long dash (–) such as <code>H–O–H</code> for H<sub>2</sub>O. As another example, a double covalent bond is represented with a double dash (=) such as <code>O=C=O</code> for CO<sub>2</sub>.
+    1. [Wedge-hash diagrams][wedge-dash diagrams] (or wedge-dash diagrams or Natta projections): The filled wedge is projected toward the viewer (in front of the page). The dashed wedge is projected away from the viewer (behind the page).
     1. [Fischer projections][]
     1. [Unspecified stereochemistry][]: Wavy single bonds are unknown or unspecified stereochemistry.
     1. [Skeletal formulas][]
@@ -750,6 +750,7 @@ if (elements.length) {
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
