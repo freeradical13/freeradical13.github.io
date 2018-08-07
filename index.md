@@ -97,7 +97,7 @@ If an atom has an equal number of protons and electrons, then it is electrically
 
 ## The Periodic Table of Elements
 
-There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about 96% of a human's mass, with another 21 required in small amounts (mostly Calcium, Phosophorous, Potassium, Sulfur, Sodium, Chlorine, and Magnesium) ([Campbell & Reece, 2002, pg. 27][campbell & reece, 2002]).
+There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about 96% of a human's mass, with another 21 required in small amounts (mostly Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chlorine, and Magnesium) ([Campbell & Reece, 2002, pg. 27][campbell & reece, 2002]).
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number Z from left to right, and starting again at the left when going down.
 
@@ -397,15 +397,11 @@ The longest linear covalently bonded chain of Hydrocarbons may be called a [back
 
 ## Naming Organic Compounds
 
-An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
+An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix]. An [alkyl][] is an alkane without one Hydrogen.
 
 An [alkene][] (or olefin) is an unsaturated alkane with at least one C=C double bond. An [alkyne][] is an unsaturated alkane with at least one C≡C triple bond. The [position of the double or triple bond][unsaturated hydrocarbon] is written at the start of the name or before the -ene or -yne suffix. If there are more than one such bonds, the positions are comma separated (e.g. 2,4-pentadiene). A substance that's both an alkene and alkyne has the suffix -enyne.
 
-An [alkyl][] is an alkane without one Hydrogen.
-
-The number of carbon atoms may be thought of as the size of the alkane. Any smaller alkanes that branch off are called side chains.
-
-The number of Carbons in the skeleton of an alkane give it the [prefix][alkane prefixes]:
+The number of Carbons in a backbone chain may be thought of as the size of the alkane and gives it a [prefix][alkane prefixes]:
 
 * 1: Meth-
 * 2: Eth-
@@ -456,23 +452,23 @@ Cyclic alkanes are prefixed with cyclo-.
 
 ## Functional Groups
 
-The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
+The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. There are 6 common functional groups, all of which are hydrophilic.
 
-1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. For example, for Hydroxyls, <code>–OH</code> or <code>HO–</code>. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
 
     For example, [Ethanol][] is the drug in alcoholic beverages:
     
     <pre>
       H H
       | |
-    H–C–C–O–H 
+    H–C–C–O–H
       | |
       H H</pre>
-1. [Carbonyl][]: Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
-1. [Carboxyl][]: A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
-1. [Amino][]: Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
-1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (sulfer bonded to a Hydrogen -similar to a hydroxyl) which is covalently bonded to the compound. Also called [thiols][].
-1. [Phosphate][]: Also called Organic Phosphates.
+1. [Carbonyl][] (<code>R–O</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
+1. [Carboxyl][] (<code>HO–R–O</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
+1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
+1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][].
+1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][].
 
 # Biology
 
@@ -772,6 +768,7 @@ if (elements.length) {
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organisms]: https://en.wikipedia.org/wiki/Organism
+[organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
