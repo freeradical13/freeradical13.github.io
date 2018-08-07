@@ -348,7 +348,7 @@ An [organic compound][] is a compound that has Carbon and organic chemistry is t
 
 [Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore hydrophobic.
 
-Hydrocarbons are often chained together (with single or double covalent bonds) to create a linear [backbone chain][] (or main chain) from which the rest of the molecule builds off of. These other parts of the molecule are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning root).
+A [saturated hydrocarbon][] has no double or triple bonds (i.e. it's saturated with the maximum number of Hydrogens). An [unsaturated hydrocarbon][] has double or triple bonds between Carbons.
 
 It is common to omit Carbons and Hydrogens in structural formulas for simplicity. For example, the structural formula for Cyclohexane (C<sub>6</sub>H<sub>12</sub>) is a ring:
 
@@ -393,6 +393,67 @@ This can be simplified into the following hexagon with three double bonds where 
 
 <span class="formula"><span class="symbol">⌬</span></span>
 
+The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning "root" because they may be the root of functional groups, discussed later).
+
+## Naming Organic Compounds
+
+An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
+
+An [alkene][] (or olefin) is an unsaturated alkane with at least one C=C double bond. An [alkyne][] is an unsaturated alkane with at least one C≡C triple bond. The [position of the double or triple bond][unsaturated hydrocarbon] is written at the start of the name or before the -ene or -yne suffix. If there are more than one such bonds, the positions are comma separated (e.g. 2,4-pentadiene). A substance that's both an alkene and alkyne has the suffix -enyne.
+
+An [alkyl][] is an alkane without one Hydrogen.
+
+The number of carbon atoms may be thought of as the size of the alkane. Any smaller alkanes that branch off are called side chains.
+
+The number of Carbons in the skeleton of an alkane give it the [prefix][alkane prefixes]:
+
+* 1: Meth-
+* 2: Eth-
+* 3: Prop-
+* 4: But-
+* 5: Pent-
+* 6: Hex-
+* 7: Hept-
+* 8: Oct-
+* 9: Non-
+* 10: Dec-
+* 11: Undec-
+* 12: Dodec-
+* 13: Tridec-
+* 14: Tetradec-
+* 15: Pentadec-
+* 16: Hexadec-
+* 17: Heptadec-
+* 18: Octadec-
+* 20: Eicos-
+* 22: Docos-
+* 23: Tricosa-
+* 24: Tetracos-
+* 26: Hexacos-
+* 28: Octacos-
+* 30: Triacont-
+* 32: Dotriacont-
+* 33: Tritriacont-
+* 34: Tetratriacont-
+* 35: Pentatriacont-
+* 40: Tetracont-
+* 50: Pentacont-
+* 60: Hexacont-
+* 70: Heptacont-
+* 80: Octacont-
+* 90: Nonacont-
+* 100: Hect-
+
+Cyclic alkanes are prefixed with cyclo-.
+
+[Naming an organic compound][]:
+
+* An alkane with branched groups is prefixed with the position of the Carbon where the branch occurs, followed by a prefix for the branched group, followed by the name of the alkane chain.
+* If there are multiple branches, the number prefix is a comma-separated list and the branch prefix is prefixed with di-, tri-, tetra-, etc. for the number of groups.
+* If the multiple branches are different types of groups, they're ordered in alphabetical order.
+* For alkenes and alkynes, the position(s) of the double or triple bonds are a comma separated list infixed in the name, and a prefix of di-, tri- etcs before the final prefix.
+* Prefix cis- or trans- if needing to describe the isomerism.
+
 ## Functional Groups
 
 The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. There are 6 common functional groups, all of which are hydrophilic.
@@ -410,7 +471,7 @@ The parts of an organic molecule that are most commonly involved in chemical rea
 1. [Carbonyl][]: Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
 1. [Carboxyl][]: A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
 1. [Amino][]: Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
-1. [Sulfhydryl][] (<code>R-SH</code>): Also called Thiols.
+1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (sulfer bonded to a Hydrogen -similar to a hydroxyl) which is covalently bonded to the compound. Also called [thiols][].
 1. [Phosphate][]: Also called Organic Phosphates.
 
 # Biology
@@ -508,6 +569,12 @@ if (elements.length) {
 [alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
+[alkane]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
+[alkane prefixes]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
+[alkane suffix]: https://en.wikipedia.org/wiki/-ane
+[alkene]: https://en.wikipedia.org/wiki/Alkene
+[alkyl]: https://en.wikipedia.org/wiki/Alkyl
+[alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amino]: https://en.wikipedia.org/wiki/Amino
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
@@ -531,6 +598,7 @@ if (elements.length) {
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
@@ -673,6 +741,7 @@ if (elements.length) {
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
+[methane]: https://en.wikipedia.org/wiki/Methane
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
 [molar mass]: https://en.wikipedia.org/wiki/Molar_mass
@@ -686,6 +755,8 @@ if (elements.length) {
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
+[natural gas]: https://en.wikipedia.org/wiki/Natural_gas
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
@@ -733,6 +804,7 @@ if (elements.length) {
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
+[saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
@@ -767,6 +839,7 @@ if (elements.length) {
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
+[thiols]: https://en.wikipedia.org/wiki/Thiol
 [time]: https://en.wikipedia.org/wiki/Time
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
@@ -778,6 +851,7 @@ if (elements.length) {
 [unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
+[unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
