@@ -399,6 +399,8 @@ The longest linear covalently bonded chain of Hydrocarbons may be called a [back
 
 ## Naming Organic Compounds
 
+A [moiety][] is a named part of a molecule which is a common pattern of atoms that may be found in many other molecules.
+
 An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
 
 An [alkyl][] is an alkane without one Hydrogen and has the suffix -yl.
@@ -456,7 +458,7 @@ An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (
 
 ## Functional Groups
 
-The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
+The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
 1. [Hydroxyl][] (<code>R–COH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol. This functional group is hydrophilic.
 
@@ -751,6 +753,7 @@ if (elements.length) {
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [mixture]: https://en.wikipedia.org/wiki/Mixture
+[moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
 [molar mass]: https://en.wikipedia.org/wiki/Molar_mass
 [molarity]: https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/a/molarity
