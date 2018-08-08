@@ -14,18 +14,13 @@ A [hydride][] is a Hydrogen anion (H<sup>-</sup>). A [tetrahydride][] is a group
 
 [Ammonia][] is NH<sub>3</sub>. It has three covalent bonds with Hydrogen which leaves one lone electron pair (because there are 5 total valence electrons: 2s<sup>2</sup> + 2s<sup>3</sup>). This lone electron pair makes it a base because it can accept protons. Ammonia is also polar because Nitrogen is much more electronegative than Hydrogen, but also because the shape of Ammonia is pyramidal. If it was planar, the dipoles would cancel out, but the lone pair pushes the other Hydrogens out into a pyramidal structure.
 
-Hydrocarbons are either [aliphatic][] or [aromatic][] (also known as arenes or aryls). Only aromatics have stable cyclic arrangements, so most aliphatics are acyclic.
-
 # TODO
 
 https://en.wikipedia.org/wiki/Alkyl#Nomenclature
 
 # References
 
-[aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
-[aromatic]: https://en.wikipedia.org/wiki/Aromatic_hydrocarbon
-[backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [butane]: https://en.wikipedia.org/wiki/Butane
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer

@@ -346,7 +346,9 @@ A [chiral][] substance may have one of two, mirror-image configurations, each of
 
 An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called [organisms][].
 
-[Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore hydrophobic.
+[Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough (2.2 and 2.55, respectively, on the [Pauling scale][]) that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore generally hydrophobic.
+
+Hydrocarbons are either [aliphatic][] (also known as non-aromatic), or [aromatic][] (also known as arenes). Only aromatics have stable cyclic arrangements, so most aliphatics are [acyclic][].
 
 A [saturated hydrocarbon][] has no double or triple bonds (i.e. it's saturated with the maximum number of Hydrogens). An [unsaturated hydrocarbon][] has double or triple bonds between Carbons.
 
@@ -393,11 +395,13 @@ This can be simplified into the following hexagon with three double bonds where 
 
 <span class="formula"><span class="symbol">⌬</span></span>
 
-The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning "root" because they may be the root of functional groups, discussed later).
+The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning root or remainder).
 
 ## Naming Organic Compounds
 
-An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix]. An [alkyl][] is an alkane without one Hydrogen.
+An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
+
+An [alkyl][] is an alkane without one Hydrogen and has the suffix -yl.
 
 An [alkene][] (or olefin) is an unsaturated alkane with at least one C=C double bond. An [alkyne][] is an unsaturated alkane with at least one C≡C triple bond. The [position of the double or triple bond][unsaturated hydrocarbon] is written at the start of the name or before the -ene or -yne suffix. If there are more than one such bonds, the positions are comma separated (e.g. 2,4-pentadiene). A substance that's both an alkene and alkyne has the suffix -enyne.
 
@@ -440,7 +444,7 @@ The number of Carbons in a backbone chain may be thought of as the size of the a
 * 90: Nonacont-
 * 100: Hect-
 
-Cyclic alkanes are prefixed with cyclo-.
+An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (a Benzene minus one Hydrogen).
 
 [Naming an organic compound][]:
 
@@ -452,9 +456,9 @@ Cyclic alkanes are prefixed with cyclo-.
 
 ## Functional Groups
 
-The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. There are 6 common functional groups, all of which are hydrophilic.
+The parts of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
-1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol.
+1. [Hydroxyl][] (<code>R–COH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol. This functional group is hydrophilic.
 
     For example, [Ethanol][] is the drug in alcoholic beverages:
     
@@ -464,11 +468,13 @@ The parts of an organic molecule that are most commonly involved in chemical rea
     H–C–C–O–H
       | |
       H H</pre>
-1. [Carbonyl][] (<code>R–O</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to the compound. If the group is at the end of the Carbon skeleton, the group is called an aldehyde; otherwise, it's called a ketone.
-1. [Carboxyl][] (<code>HO–R–O</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl.
-1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids.
-1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][].
-1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][].
+1. [Carbonyl][] (<code>R–CO</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to any two other atoms.
+1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
+1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
+1. [Amino][] (<code>R–CNH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
+1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
+1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
+1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): A methyl group (<code>CH<sub>3</sub></code>) covalently bonded to a Carbon which is double-covalently bonded to an Oxygen and covalently bonded to the remainder.
 
 # Biology
 
@@ -560,8 +566,12 @@ if (elements.length) {
 
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
+[acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
+[acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
+[acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.khanacademy.org/math/algebra
+[aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
@@ -575,7 +585,9 @@ if (elements.length) {
 [amino]: https://en.wikipedia.org/wiki/Amino
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
+[aromatic]: https://en.wikipedia.org/wiki/Aromatic_hydrocarbon
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
+[aryl]: https://en.wikipedia.org/wiki/Aryl
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
@@ -689,7 +701,7 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
-[hydrocarbons non-polar]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
+[hydrocarbons non-polar]: http://goldbook.iupac.org/html/F/F02555.html
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
@@ -773,11 +785,13 @@ if (elements.length) {
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
+[phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
 [phosphate]: https://en.wikipedia.org/wiki/
 [photon]: https://en.wikipedia.org/wiki/Photon
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
@@ -826,6 +840,7 @@ if (elements.length) {
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
+[substituents]: https://en.wikipedia.org/wiki/Substituent
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
