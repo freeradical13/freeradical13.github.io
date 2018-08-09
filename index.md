@@ -279,7 +279,7 @@ Substances that are ionic or polar are [hydrophilic][] meaning that they have a 
 
 ## Acids and Bases
 
-[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
+[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A [hydride][] is an anionic Hydrogen. A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
 
 A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] which are colloids of liquids).
 
@@ -342,6 +342,12 @@ H–C–C–C–H
 
 A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers and this can have functional implications. One form is prefixed with l- or (-) ([levorotatory][] or left-handed), and the other is prefixed with d- or (+) ([dextrorotatory][] or right-handed). [R and S configurations][] can describe substances with multiple chiral carbons.
 
+## Common Molecules
+
+[Ammonia][] is NH<sub>3</sub>. It has three covalent bonds with Hydrogen which leaves one lone electron pair (because there are 5 total valence electrons: 2s<sup>2</sup> + 2s<sup>3</sup>). This lone electron pair makes it a base because it can accept protons. Ammonia is also polar because Nitrogen is much more electronegative than Hydrogen, but also because the shape of Ammonia is pyramidal. If it was planar, the dipoles would cancel out, but the lone pair pushes the other Hydrogens out into a pyramidal structure.
+
+A [tetrahydride][] is a group 14 element (e.g. C, Si, Ge, Sn, Pb, etc.) which is saturated with hydrogens (e.g. CH<sub>4</sub>). Tetrahydrides are considered non-polar.
+
 ## Organic Chemistry
 
 An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called [organisms][].
@@ -397,7 +403,7 @@ This can be simplified into the following hexagon with three double bonds where 
 
 The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning root or remainder).
 
-## Naming Organic Compounds
+### Naming Organic Compounds
 
 A [moiety][] is a named part of a molecule which is a common pattern of atoms that may be found in many other molecules.
 
@@ -456,7 +462,7 @@ An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (
 * For alkenes and alkynes, the position(s) of the double or triple bonds are a comma separated list infixed in the name, and a prefix of di-, tri- etcs before the final prefix.
 * Prefix cis- or trans- if needing to describe the isomerism.
 
-## Functional Groups
+### Functional Groups
 
 The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
@@ -478,7 +484,9 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
 
-## Macromolecules
+If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
+
+### Macromolecules
 
 A [polymer][] is a molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
@@ -597,6 +605,7 @@ if (elements.length) {
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amino]: https://en.wikipedia.org/wiki/Amino
+[ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [aromatic]: https://en.wikipedia.org/wiki/Aromatic_hydrocarbon
@@ -640,6 +649,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
+[cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
@@ -721,6 +731,7 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
+[hydride]: https://en.wikipedia.org/wiki/Hydride
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
 [hydrocarbons non-polar]: http://goldbook.iupac.org/html/F/F02555.html
 [hydrolysis]: https://en.wikipedia.org/wiki/Hydrolysis
@@ -876,6 +887,7 @@ if (elements.length) {
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
+[tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
