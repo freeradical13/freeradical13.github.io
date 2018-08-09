@@ -317,7 +317,7 @@ Although substance structures are often described by molecular, empirical, or tw
 
 [Isomers][] are substances that have the some molecular formula but different structures.
 
-[Structural isomers][] differ in their covalent arrangements. For example, butane (C<sub>4</sub>H<sub>8</sub>) is:
+[Structural isomers][] differ in their covalent arrangements. For example, [butane][] (C<sub>4</sub>H<sub>8</sub>) is:
 
 <pre>
   H H H H
@@ -478,15 +478,27 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
 
+## Macromolecules
+
+A [polymer][] is a molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
+
+A [macromolecule][] is a large molecule, often a large polymer. The most common biological macromolecules are carbohydrates, lipids, proteins, and nucleic acids. Lipids are not polymers because they aren't made of monomers connected by covalent bonds.
+
+Polymers are assembled through a process called [dehydration synthesis][] (or [condensation][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
+
 # Biology
 
 Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
 
-# History of Life
+## Biomolecules
+
+A [biomolecule][] is a molecule that's related to some biological process, often a macromolecule but also smaller molecules.
+
+## History of Life
 
 Oceans formed on Earth about [4.4 billion years ago][history of oceans].
 
-# Cells
+## Cells
 
 A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
@@ -604,9 +616,11 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
+[biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
+[butane]: https://en.wikipedia.org/wiki/Butane
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
@@ -630,18 +644,22 @@ if (elements.length) {
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [concentration]: https://en.wikipedia.org/wiki/Concentration
+[condensation]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
+[copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
+[dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
+[dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
@@ -702,8 +720,10 @@ if (elements.length) {
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
 [hydrocarbons non-polar]: http://goldbook.iupac.org/html/F/F02555.html
+[hydrolysis]: https://en.wikipedia.org/wiki/Hydrolysis
 [hydron]: https://en.wikipedia.org/wiki/Hydron_(chemistry)
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
@@ -739,6 +759,7 @@ if (elements.length) {
 [litre]: https://en.wikipedia.org/wiki/Litre
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
+[macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
@@ -765,6 +786,7 @@ if (elements.length) {
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
+[monomers]: https://en.wikipedia.org/wiki/Monomer
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
@@ -779,6 +801,7 @@ if (elements.length) {
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
+[oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
@@ -803,6 +826,8 @@ if (elements.length) {
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
+[polymer]: https://en.wikipedia.org/wiki/Polymer
+[polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
@@ -850,6 +875,7 @@ if (elements.length) {
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
+[tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
@@ -857,6 +883,7 @@ if (elements.length) {
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [time]: https://en.wikipedia.org/wiki/Time
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
+[trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
