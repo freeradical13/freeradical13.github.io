@@ -250,6 +250,8 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
 
+A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
+
 A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.  A stoichiometric coefficient to the left of a substance represents the number of substances or moles of that substance in the chemical reaction.
 
 Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching dynamic [chemical equilibrium][] where the rates of reactions in both directions are equal. For example:
@@ -695,6 +697,7 @@ if (elements.length) {
 [electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
 [electronegativity]: https://en.wikipedia.org/wiki/Electronegativity
 [electrons]: https://en.wikipedia.org/wiki/Electron
+[electrophile]: https://en.wikipedia.org/wiki/Electrophile
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elementary entity]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
@@ -815,6 +818,7 @@ if (elements.length) {
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
+[nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
