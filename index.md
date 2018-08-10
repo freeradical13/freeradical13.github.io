@@ -189,6 +189,7 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 Two or more atoms may be held together by [chemical bond][](s). The major types of bonds are:
 
 1. A [covalent bond][] defines a [molecule][] and occurs when atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a [chemical compound][] if it's made of more than one type of element. The strongest form of a covalent bond is a [sigma bond][] (σ bond). Another, weaker form of a covalent bond is a [pi bond][] (π bond).
+1. A [coordinate covalent bond][] (or dative bond) defines a covalent bond in which one atom donates both electrons to the bond. Such bonds are part of a coordination complex. An example is a metal cation which has a coordinate covalent bond to an atom with a lone pair (also called a [ligand][]).
 1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. A [metallic bond][] amongst positively charged metal cations in a sea of shared electrons.
 
@@ -243,7 +244,7 @@ For example, A<sub>r,std</sub> of H is 1.008, and A<sub>r,std</sub> of O is 15.9
 
 ## Chemical Reactions
 
-A [chemical reaction][] occurs any time a chemical bond is created or broken. A [chemical equation][] describes a reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields (→) the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation. For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
+A [chemical reaction][] occurs any time a chemical bond is created or broken. A [chemical equation][] describes a reaction with [reagents][] (or reactants) on the left-hand side of the equation which yields (→) the [product(s)][chemical reaction product] of the chemical reaction on the right-hand side of the equation (an [adduct][] is a type of product where there are no products other than the adduct product). For example, the chemical equation for the reaction of molecular hydrogen and molecular oxygen plus input energy (E) yields water and output energy E':
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
@@ -294,10 +295,10 @@ In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the 
 There are multiple ways to define acids and bases:
 
 1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton (or indirectly, a substance that dissociates into hydroxide ions which then accepts the protons). A [conjugate acid][] is the product that accepted protons (because it can then give that proton back in the reverse direction), and a conjugate base is the product that donated protons. For example, water is [amphoteric][] meaning it can be either an acid or a base.
+1. A [Lewis acid][lewis acids and bases] is a substance that has an empty electron orbital and may accept an electron pair. For example, <code>H<sup>+</sup></code> has an empty electron orbital. A [Lewis base][lewis acids and bases] is a substance that has a lone pair of electrons not involved in bonding that it may donate.
 1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → Na<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
-1. A [Lewis acid][lewis acids and bases] is a substance that has an empty electron orbital. A [Lewis base][lewis acids and bases] is a substance that has a lone pair of electrons.
 
-The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry and Lewis definitions are more general. Unless otherwise noted, "acid" generally refers to the Brønsted-Lowry definition.
+The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry and Lewis definitions are more general.
 
 A substance that is basic is also sometimes referred to as [alkaline or an alkali][alkali].
 
@@ -480,7 +481,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
 1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl (<code>CH<sub>3</sub></code>) and the remainder.
 1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
-1. [Amino][] (<code>R–CNH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called Amines. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
+1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
 
@@ -591,6 +592,7 @@ if (elements.length) {
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
+[adduct]: https://en.wikipedia.org/wiki/Adduct
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [algebra]: https://www.khanacademy.org/math/algebra
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
@@ -604,6 +606,7 @@ if (elements.length) {
 [alkyl]: https://en.wikipedia.org/wiki/Alkyl
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
@@ -657,6 +660,8 @@ if (elements.length) {
 [condensation]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
+[coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
+[coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -764,6 +769,7 @@ if (elements.length) {
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
+[ligand]: https://en.wikipedia.org/wiki/Ligand
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [liquid]: https://en.wikipedia.org/wiki/Liquid
