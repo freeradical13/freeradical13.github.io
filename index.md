@@ -404,7 +404,7 @@ This can be simplified into the following hexagon with three double bonds where 
 
 <span class="formula"><span class="symbol">⌬</span></span>
 
-The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches) and may be represented with the letter R (meaning root or remainder).
+The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches). Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
 
 ### Naming Organic Compounds
 
@@ -486,6 +486,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
+1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with an acyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
 
@@ -713,6 +714,8 @@ if (elements.length) {
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
+[ester]: https://en.wikipedia.org/wiki/Ester
+[ester suffix]: https://en.wikipedia.org/wiki/-oate
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
