@@ -201,6 +201,8 @@ A [mixture][] is a combination of different substances which cannot be separated
 
 A [molecular entity][] is a single instance of a part or whole of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
 
+A [free radical][] is a substance with at least one unpaired valence electron (e.g. a halogen), making it highly chemically reactive.
+
 A substance may be described in many ways, all of which may represent either an entity or a species:
 
 1. A [molecular formula][] describes the number of atoms of each element in each molecule in a subscript to the right of the element symbol (or 1 if the subscript is omitted). For example, the molecule H<sub>2</sub>O represents two Hydrogen atoms bonded with one Oxygen atom.
@@ -725,6 +727,7 @@ if (elements.length) {
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
