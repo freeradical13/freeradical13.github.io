@@ -357,7 +357,7 @@ An [organic compound][] is a compound that has Carbon and organic chemistry is t
 
 [Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough (2.2 and 2.55, respectively, on the [Pauling scale][]) that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore generally hydrophobic.
 
-Hydrocarbons are either [aliphatic][] (also known as non-aromatic), or [aromatic][] (also known as arenes). Only aromatics have stable cyclic arrangements, so most aliphatics are [acyclic][].
+Hydrocarbons are either [aromatic][] (also known as arenes) or [aliphatic][] (also known as non-aromatic). Aromatics have cyclic (in alternating single and double covalent bonds), planar arrangements (such as Benzene) and thus are very stable and unreactive, whereas most aliphatics are [acyclic][] and less stable. Only some aromatic substances have pleasant smells.
 
 A [saturated hydrocarbon][] has no double or triple bonds (i.e. it's saturated with the maximum number of Hydrogens). An [unsaturated hydrocarbon][] has double or triple bonds between Carbons.
 
@@ -495,7 +495,7 @@ A [polymer][] is a molecule made of repeating parts called [monomers][] connecte
 
 A [macromolecule][] is a large molecule, often a large polymer. The most common biological macromolecules are carbohydrates, lipids, proteins, and nucleic acids. Lipids are not polymers because they aren't made of monomers connected by covalent bonds.
 
-Polymers are assembled through a process called [dehydration synthesis][] (or [condensation][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
+Polymers are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
 
 # Biology
 
@@ -613,7 +613,7 @@ if (elements.length) {
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
-[aromatic]: https://en.wikipedia.org/wiki/Aromatic_hydrocarbon
+[aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
@@ -659,7 +659,7 @@ if (elements.length) {
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [concentration]: https://en.wikipedia.org/wiki/Concentration
-[condensation]: https://en.wikipedia.org/wiki/Condensation_reaction
+[condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
