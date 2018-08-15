@@ -496,22 +496,22 @@ The moieties of an organic molecule that are most commonly involved in chemical 
       | |
       H H</pre>
 1. [Carbonyl][] (<code>R–CO</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to any two other atoms.
-1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
+1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the carbonyl/acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
 1. [Methyl][] (<code>R–CH<sub>3</sub></code>): A Carbon single bonded to three Hydrogens. Adding such a functional group makes the molecule methylated.
 1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl and the remainder.
-1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
+1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
-1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
-1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with an acyl that bonds the two. Usually suffixed with [-oate][ester suffix].
+1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
+1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with a Carbonyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
 
 ### Macromolecules
 
-A [polymer][] is a molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
+A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
+Polymers are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break).
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
@@ -525,10 +525,9 @@ A [biomolecule][] is a molecule that's related to some biological process, often
 
 [Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix]. There are four different categories of carbohydrates:
 
-1. [Monosaccharides][]: Also called simple sugarsff.
-1. [Disaccharides][]: Also called sugars.
-1. [Oligosaccharides][]
-1. [Polysaccharides][]
+1. [Monosaccharides][]: A single sugar molecule with a Carbonyl and multiple Hydroxyl groups. Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose. In aqueous solution, sugars usually form rings.
+1. [Disaccharides][]: Two monosaccharides covalently donded. Also called double sugars. The covalent bond is called a glycosidic linkage.
+1. [Polysaccharides][]: Carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
 ## History of Life
 
