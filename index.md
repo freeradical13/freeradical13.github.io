@@ -343,9 +343,23 @@ H–C–C–C–H
   H H H
 </pre>
 
-[Geometric isomers][] have the same covalent arrangements but differ in spatial arrangements.
+[Geometric isomers][] (or cis-trans isomers) have the same covalent arrangements but differ in spatial arrangements. For example, the following two molecules are geometric isomers of each other. If the Xs are on the same side, it's a cis isomer, and if they're on opposite sides, a trans isomer:
 
-A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers and this can have functional implications. One form is prefixed with l- or (-) ([levorotatory][] or left-handed), and the other is prefixed with d- or (+) ([dextrorotatory][] or right-handed). [R and S configurations][] can describe substances with multiple chiral carbons.
+<pre>
+H     H
+ \   /
+  C=C
+ /   \
+X     X
+
+H     X
+ \   /
+  C=C
+ /   \
+X     H
+</pre>
+
+A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designed L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][v]). [R and S configurations][] can describe substances with multiple chiral carbons.
 
 ## Common Molecules
 
@@ -508,9 +522,9 @@ A [biomolecule][] is a molecule that's related to some biological process, often
 
 ## Carbohydrates
 
-[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which will not be used here. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix]. There are four different categories of carbohydrates:
+[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix]. There are four different categories of carbohydrates:
 
-1. [Monosaccharides][]: Also called simple sugars.
+1. [Monosaccharides][]: Also called simple sugarsff.
 1. [Disaccharides][]: Also called sugars.
 1. [Oligosaccharides][]
 1. [Polysaccharides][]
@@ -908,7 +922,7 @@ if (elements.length) {
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [substituents]: https://en.wikipedia.org/wiki/Substituent
-[subcrose]: https://en.wikipedia.org/wiki/Sucrose
+[sucrose]: https://en.wikipedia.org/wiki/Sucrose
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
