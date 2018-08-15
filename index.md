@@ -359,7 +359,7 @@ H     X
 X     H
 </pre>
 
-A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designed L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][v]). [R and S configurations][] can describe substances with multiple chiral carbons.
+A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designed L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
 
 ## Common Molecules
 
@@ -485,7 +485,7 @@ An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (
 
 The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
-1. [Hydroxyl][] (<code>R–COH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with -ol. This functional group is hydrophilic.
+1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with [-ol][alcohol suffix]. This functional group is hydrophilic.
 
     For example, [Ethanol][] is the drug in alcoholic beverages:
     
@@ -497,11 +497,12 @@ The moieties of an organic molecule that are most commonly involved in chemical 
       H H</pre>
 1. [Carbonyl][] (<code>R–CO</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to any two other atoms.
 1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
-1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl (<code>CH<sub>3</sub></code>) and the remainder.
-1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
+1. [Methyl][] (<code>R–CH<sub>3</sub></code>): A Carbon single bonded to three Hydrogens. Adding such a functional group makes the molecule methylated.
+1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl and the remainder.
+1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
-1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic and anionic.
+1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
 1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with an acyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
@@ -620,6 +621,7 @@ if (elements.length) {
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
+[alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [algebra]: https://www.khanacademy.org/math/algebra
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
@@ -822,6 +824,7 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
+[methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
