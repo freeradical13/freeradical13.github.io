@@ -487,7 +487,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both a Carbonyl and Hydroxyl. Also called Carboxylic Acids. The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
-1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic.
+1. [Phosphate][]: A Phosphorus double-covalently bonded to an Oxygen and three carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][]. This functional group is hydrophilic and anionic.
 1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with an acyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
@@ -496,17 +496,24 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 A [polymer][] is a molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-A [macromolecule][] is a large molecule, often a large polymer. The most common biological macromolecules are carbohydrates, lipids, proteins, and nucleic acids. Lipids are not polymers because they aren't made of monomers connected by covalent bonds.
-
 Polymers are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogensis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction.
+
+A [macromolecule][] is a large molecule, often a large polymer.
 
 # Biology
 
 Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
 
-## Biomolecules
-
 A [biomolecule][] is a molecule that's related to some biological process, often a macromolecule but also smaller molecules.
+
+## Carbohydrates
+
+[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which will not be used here. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix]. There are four different categories of carbohydrates:
+
+1. [Monosaccharides][]: Also called simple sugars.
+1. [Disaccharides][]: Also called sugars.
+1. [Oligosaccharides][]
+1. [Polysaccharides][]
 
 ## History of Life
 
@@ -639,6 +646,7 @@ if (elements.length) {
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
@@ -683,6 +691,7 @@ if (elements.length) {
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
+[disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
 [distance]: https://en.wikipedia.org/wiki/Distance
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
@@ -813,6 +822,7 @@ if (elements.length) {
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [monomers]: https://en.wikipedia.org/wiki/Monomer
+[monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
@@ -829,6 +839,7 @@ if (elements.length) {
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
+[oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
@@ -855,6 +866,7 @@ if (elements.length) {
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
+[polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
@@ -896,6 +908,8 @@ if (elements.length) {
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [substituents]: https://en.wikipedia.org/wiki/Substituent
+[subcrose]: https://en.wikipedia.org/wiki/Sucrose
+[sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun

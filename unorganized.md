@@ -1,5 +1,6 @@
 # Unorganized
 
+Digestion uses hydrolysis to break down consumed polymers into monomers.
 
 # TODO
 
