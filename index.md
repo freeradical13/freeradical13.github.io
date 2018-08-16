@@ -400,7 +400,9 @@ H   C   H
 
 This can be simplified into a simple hexagon where each vertex is an implied Carbon atom with two Hydrogens:
 
-<pre><span class="symbol">⬡</span></pre>
+<pre>
+<span class="symbol">⬡</span>
+</pre>
 
 Similarly for structures with double covalent bonds, the ring can be simplified with double lines. For example, the structural formula for Benzene (C<sub>6</sub>H<sub>6</sub>) is a ring:
 
@@ -420,7 +422,9 @@ H–C   C–H
 
 This can be simplified into the following hexagon with three double bonds where each vertex is an implied Carbon atom with one Hydrogen:
 
-<pre><span class="symbol">⌬</span></pre>
+<pre>
+<span class="symbol">⌬</span>
+</pre>
 
 ### Naming Organic Compounds
 
@@ -652,9 +656,21 @@ A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fa
 
 ### Phospholipids
 
-A [phospholipid][] is made of a [Diglyceride][] and the third Hydroxyl of the Glycerol is bonded to a Phosphate group which has a negative charge. Another polar molecule such as Choline is sometimes bonded to the Phosphate. This forms a molecule which has a hydrophobic "tail" made of the fatty acids and a hyrophilic "head" made of the Phosphate.
+[Phospholipids][] are lipids made of a [Diglyceride][] and the third Hydroxyl of the Glycerol is bonded to a Phosphate group which has a negative charge. Another polar molecule such as Choline is sometimes bonded to the Phosphate. This forms a molecule which has a hydrophobic "tail" made of the fatty acids and a hyrophilic "head" made of the Phosphate.
 
 When added to water, phospholipids form a bilayer with two hydrophilic sides opposite each other and then hydrophilic fatty acids in between.
+
+### Steroids
+
+[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups:
+
+<pre>
+      /\ /\
+     |  |__|
+ /\ / \/
+|  |  |
+ \/ ⑊/
+</pre>
 
 ## History of Life
 
@@ -1059,6 +1075,7 @@ if (elements.length) {
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
+[steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
