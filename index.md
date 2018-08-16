@@ -634,17 +634,19 @@ Structural polysaccharides are used by organisms to build strong structural mate
 A [fatty acid][] is an aliphatic hydrocarbon (either saturated or unsaturated) with a Carboxyl and with a 16- to 18 Carbon (most commonly) backbone:
 
 <pre>
-OH   O     OH   O
-  \ ⫽        \ ⫽
-   C          C
-   ⎪          ║
- H–C–H   or   C 
-   ⎪          ║
+OH   O       OH   O
+  \ ⫽          \ ⫽
+   C            C
+    \           ⎪
+   H–C–H        C 
+    /          ⫽ 
  H–C–H        C
  [...]      [...]
    ⎪         / \
    H        H   H
 </pre>
+
+A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature).
 
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
