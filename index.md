@@ -420,17 +420,19 @@ This can be simplified into the following hexagon with three double bonds where 
 
 <pre><span class="symbol">⌬</span></pre>
 
-The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches). Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
-
 ### Naming Organic Compounds
+
+The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. Any other smaller branches (in place of Hydrogens for the branch points) are called [side chains][], [substituents][], or pendant chains. Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
 
 A [moiety][] is a named part of a molecule which is a common pattern of atoms that may be found in many other molecules.
 
-An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain alkane has the suffix [-ane][alkane suffix].
+The [-yl][radical suffix] suffix is used for free radicals or moieties (with an unpaired valence electron) that can be side chains substituting for a single Hydrogen on a backbone. The [-ylidene][radical suffix] suffix is the same but when substituting two Hydrogens on the backbone for a double bond. The [-ylidyne][radical suffix] is when substituting three Hydrogens on the backbone for a triple bond.
 
-An [alkyl][] is an alkane without one Hydrogen and has the suffix -yl.
+An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain (non-branched) alkane has the suffix [-ane][alkane suffix].
 
 An [alkene][] (or olefin) is an unsaturated alkane with at least one C=C double bond. An [alkyne][] is an unsaturated alkane with at least one C≡C triple bond. The [position of the double or triple bond][unsaturated hydrocarbon] is written at the start of the name or before the -ene or -yne suffix. If there are more than one such bonds, the positions are comma separated (e.g. 2,4-pentadiene). A substance that's both an alkene and alkyne has the suffix -enyne.
+
+An [alkyl][] is an alkane without one Hydrogen.
 
 The number of Carbons in a backbone chain may be thought of as the size of the alkane and gives it a [prefix][alkane prefixes]:
 
@@ -483,7 +485,7 @@ An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (
 
 ### Functional Groups
 
-The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][] (or [substituents][]). When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
+The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
 1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with [-ol][alcohol suffix]. This functional group is hydrophilic.
 
@@ -952,6 +954,7 @@ if (elements.length) {
 [protons]: https://en.wikipedia.org/wiki/Proton
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
 [r process]: https://en.wikipedia.org/wiki/R-process
+[radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [reagents]: https://en.wikipedia.org/wiki/Reagent
