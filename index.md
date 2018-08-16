@@ -549,7 +549,7 @@ HO–C–H
    H
 </pre>
 
-In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. There are two ring isomers of Glucose depending on where the Hydroxyl is. The <span class="edgeon">emphasized edges</span> indicate that we're looking at the ring edge-on, and the other non-ring bonds lie above or below the plane of the ring. The α-Glucose ring is:
+In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. The <span class="edgeon">emphasized edges</span> indicate that we're looking at the ring edge-on, and the other non-ring bonds lie above or below the plane of the ring. There are two ring isomers of Glucose depending on where the Hydroxyl is. The α-Glucose ring is:
 
 <pre>
     CH<sub>2</sub>OH
@@ -587,9 +587,9 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 
 [Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
-Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
+Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
 
-Structural polysaccharides are used by organisms to build strong structural material. For example, Cellulose is a structural polysaccharide made of Glucose monomers.
+Structural polysaccharides are used by organisms to build strong structural material. Cellulose and Chitin are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form microfibrils.
 
 ## History of Life
 
