@@ -611,13 +611,13 @@ Structural polysaccharides are used by organisms to build strong structural mate
 
 ## Lipids
 
-[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents.
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic).
 
 ### Glycerides
 
-[Glycerides][] (or fats) are lipids made with an ester bond between Glycerol and one or more fatty acids.
+[Glycerides][] are lipids with an ester bond between Glycerol and one or more fatty acids. The ester bond is made with dehydration synthesis.
 
-[Glycerol][] (or glycerine or glycerin) is a hydrocarbon with a 3 Carbon backbone and 3 Hydroxyls:
+[Glycerol][] (or glycerine or glycerin) is an alcohol with a 3 Carbon backbone and 3 Hydroxyls:
 
 <pre>
    H
@@ -645,6 +645,8 @@ OH   O     OH   O
    ⎪         / \
    H        H   H
 </pre>
+
+A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
 ## History of Life
 
@@ -863,6 +865,7 @@ if (elements.length) {
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
+[fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
@@ -1067,6 +1070,7 @@ if (elements.length) {
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [time]: https://en.wikipedia.org/wiki/Time
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
+[triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
