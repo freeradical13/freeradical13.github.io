@@ -541,7 +541,7 @@ A [biomolecule][] is a molecule that's related to some biological process, often
 
 ## Carbohydrates
 
-[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix].
+[Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix].
 
 ### Monosaccharides
 
@@ -608,6 +608,43 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
 
 Structural polysaccharides are used by organisms to build strong structural material. Cellulose and Chitin are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form microfibrils.
+
+## Lipids
+
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents.
+
+### Glycerides
+
+[Glycerides][] (or fats) are lipids made with an ester bond between Glycerol and one or more fatty acids.
+
+[Glycerol][] (or glycerine or glycerin) is a hydrocarbon with a 3 Carbon backbone and 3 Hydroxyls:
+
+<pre>
+   H
+   ⎪
+ H–C–OH
+   ⎪
+ H–C–OH
+   ⎪
+ H–C–OH
+   ⎪
+   H
+</pre>
+
+A [fatty acid][] is an aliphatic hydrocarbon (either saturated or unsaturated) with a Carboxyl and with a 16- to 18 Carbon (most commonly) backbone:
+
+<pre>
+OH   O     OH   O
+  \ ⫽        \ ⫽
+   C          C
+   ⎪          ║
+ H–C–H   or   C 
+   ⎪          ║
+ H–C–H        C
+ [...]      [...]
+   ⎪         / \
+   H        H   H
+</pre>
 
 ## History of Life
 
@@ -826,6 +863,7 @@ if (elements.length) {
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
+[fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
@@ -840,6 +878,8 @@ if (elements.length) {
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [glucose]: https://en.wikipedia.org/wiki/Glucose
+[glycerides]: https://en.wikipedia.org/wiki/Glyceride
+[glycerol]: https://en.wikipedia.org/wiki/Glycerol
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
@@ -887,6 +927,7 @@ if (elements.length) {
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
