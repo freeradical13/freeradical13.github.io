@@ -219,7 +219,9 @@ When substances of different electronegativities are bonded, electrons will tend
 
 [![Polar water molecule](images/Dipoli_acqua.png)][polar water molecule]
 
-[Oxidation states][] are a conceptualizatized simplification of covalent bonds as ionic bonds. Oxidation states assume full hogging of electrons in a polar molecule. For example, in water, Oxygen would have an oxidation state of -2 since it hogs both Hydrogens' electrons, and each Hydrogen would have an oxidation state of +1. The atom losing the electrons are said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms.
+[Oxidation states][] are a conceptualizatized simplification of covalent bonds as ionic bonds. Oxidation states assume full hogging of electrons in a polar molecule. For example, in water, Oxygen would have an oxidation state of -2 since it hogs both Hydrogens' electrons, and each Hydrogen would have an oxidation state of +1.
+
+Reduction is the process of gaining electrons. Oxidation is the process of losing electrons. The atom losing the electrons is said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms. This is called a [redox][] (reduction and oxidation) reaction because both occur.
 
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
@@ -974,6 +976,7 @@ if (elements.length) {
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [reagents]: https://en.wikipedia.org/wiki/Reagent
+[redox]: https://en.wikipedia.org/wiki/Redox
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
