@@ -650,6 +650,12 @@ A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty 
 
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
+### Phospholipids
+
+A [phospholipid][] is made of a [Diglyceride][] and the third Hydroxyl of the Glycerol is bonded to a Phosphate group which has a negative charge. Another polar molecule such as Choline is sometimes bonded to the Phosphate. This forms a molecule which has a hydrophobic "tail" made of the fatty acids and a hyrophilic "head" made of the Phosphate.
+
+When added to water, phospholipids form a bilayer with two hydrophilic sides opposite each other and then hydrophilic fatty acids in between.
+
 ## History of Life
 
 Oceans formed on Earth about [4.4 billion years ago][history of oceans].
@@ -822,6 +828,7 @@ if (elements.length) {
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
+[diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
@@ -1000,7 +1007,8 @@ if (elements.length) {
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
-[phosphate]: https://en.wikipedia.org/wiki/
+[phosphate]: https://en.wikipedia.org/wiki/Phosphate
+[phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [photon]: https://en.wikipedia.org/wiki/Photon
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
