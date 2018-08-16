@@ -349,14 +349,14 @@ H–C–C–C–H
 H     H
  \   /
   C=C
- /   \
-X     X
+ <span class="emphasis">/</span>   <span class="emphasis">\</span>
+<span class="emphasis">X</span>     <span class="emphasis">X</span>
 
-H     X
- \   /
+H     <span class="emphasis">X</span>
+ \   <span class="emphasis">/</span>
   C=C
- /   \
-X     H
+ <span class="emphasis">/</span>   \
+<span class="emphasis">X</span>     H
 </pre>
 
 A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designed L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
@@ -398,7 +398,7 @@ H   C   H
 
 This can be simplified into a simple hexagon where each vertex is an implied Carbon atom with two Hydrogens:
 
-<span class="formula"><span class="symbol">⬡</span></span>
+<pre><span class="symbol">⬡</span></pre>
 
 Similarly for structures with double covalent bonds, the ring can be simplified with double lines. For example, the structural formula for Benzene (C<sub>6</sub>H<sub>6</sub>) is a ring:
 
@@ -418,7 +418,7 @@ H–C   C–H
 
 This can be simplified into the following hexagon with three double bonds where each vertex is an implied Carbon atom with one Hydrogen:
 
-<span class="formula"><span class="symbol">⌬</span></span>
+<pre><span class="symbol">⌬</span></pre>
 
 The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. These other parts are called [side chains][] (or pendant chains or branches). Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
 
@@ -492,7 +492,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
     <pre>
       H H
       | |
-    H–C–C–O–H
+    H–C–C<span class="emphasis">–O–H</span>
       | |
       H H</pre>
 1. [Carbonyl][] (<code>R–CO</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to any two other atoms.
@@ -523,11 +523,73 @@ A [biomolecule][] is a molecule that's related to some biological process, often
 
 ## Carbohydrates
 
-[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix]. There are four different categories of carbohydrates:
+[Carbohydrates][] (or saccharides) are molecules made of Carbon, Hydrogen, and Oxygen. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix].
 
-1. [Monosaccharides][]: A single sugar molecule with a Carbonyl and multiple Hydroxyl groups. Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose. In aqueous solution, sugars usually form rings.
-1. [Disaccharides][]: Two monosaccharides covalently donded. Also called double sugars. The covalent bond is called a glycosidic linkage.
-1. [Polysaccharides][]: Carbohydrate polymers made of multiple sugars with glycosidic linkages.
+### Monosaccharides
+
+[Monosaccharides][] are carbohydrates made of a single sugar molecule with a Carbonyl and multiple Hydroxyl groups. Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose.
+
+One of the most common sugars used by organisms for energy is [Glucose][] which is a hexose aldose. It has the linear arrangement:
+
+<pre>
+ H   O
+  \ ⫽
+   C
+   |
+ H-C-OH
+   |
+HO-C-H
+   |
+ H-C-OH
+   |
+ H-C-OH
+   |
+ H-C-OH
+   |
+   H
+</pre>
+
+In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. There are two ring isomers of Glucose depending on where the Hydroxyl is. The α-Glucose ring is:
+
+<pre>
+    CH<sub>2</sub>OH
+    ⎪     O
+    /‾‾‾‾‾\
+ H /⎪      \ H
+ ⎪/ H       \⎪
+ ⎪\         /<span class="emphasis">⎪</span>
+HO \ OH  H / <span class="emphasis">OH</span>
+    \⎪___⎪/
+     ⎪   ⎪
+     H   OH
+</pre>
+
+The β-Glucose ring is:
+
+<pre>
+    CH<sub>2</sub>OH
+    ⎪     O
+    /‾‾‾‾‾\
+ H /⎪      \ <span class="emphasis">OH</span>
+ ⎪/ H       \<span class="emphasis">⎪</span>
+ ⎪\         /⎪
+HO \ OH  H / H
+    \⎪___⎪/
+     ⎪   ⎪
+     H   OH
+</pre>
+
+### Disaccharides
+
+[Disaccharides][] are carbohydrates made of Tto monosaccharides covalently donded. Also called double sugars. The covalent bond is called a glycosidic linkage.
+
+### Polysaccharides
+
+[Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
+
+Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
+
+Structural polysaccharides are used by organisms to build strong structural material. For example, Cellulose is a structural polysaccharide made of Glucose monomers.
 
 ## History of Life
 
@@ -564,7 +626,7 @@ img {
   max-width: 100%;
 }
 
-code, pre, span.formula {
+code, pre {
   background-color: #F3F6FA;
   color: #000000 !important;
   border: 1px dashed #000000 !important;
@@ -585,19 +647,13 @@ pre {
   display: inline-block;
 }
 
-span.formula {
-  display: inline-block;
-  unicode-bidi: embed;
-  font-family: monospace;
-  white-space: pre;
-  font-size: larger;
-  padding: 2px;
-  padding-left: 5px;
-  padding-right: 5px;
+span.symbol {
+  font-size: xx-large;
 }
 
-span.formula span.symbol {
-  font-size: xx-large;
+span.emphasis {
+  font-weight: bold;
+  color: red;
 }
 </style>
 
@@ -759,6 +815,7 @@ if (elements.length) {
 [gas]: https://en.wikipedia.org/wiki/Gas
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
+[glucose]: https://en.wikipedia.org/wiki/Glucose
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [halogens]: https://en.wikipedia.org/wiki/Halogen
@@ -916,6 +973,7 @@ if (elements.length) {
 [speed]: https://en.wikipedia.org/wiki/Speed
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [star]: https://en.wikipedia.org/wiki/Star
+[starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
