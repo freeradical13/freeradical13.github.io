@@ -646,7 +646,7 @@ OH   O       OH   O
    H        H   H
 </pre>
 
-A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature).
+A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature). An oil is mostly made of unsaturated fatty acids. A hydrogenated oil means that unsaturated fatty acids were converted to saturated fatty acids. Most double bonds in fatty acids are of the cis- isomeric form but trans fatty acids are of the trans- isomeric form.
 
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
