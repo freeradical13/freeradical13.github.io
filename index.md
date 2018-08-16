@@ -535,21 +535,21 @@ One of the most common sugars used by organisms for energy is [Glucose][] which 
  H   O
   \ ⫽
    C
-   |
- H-C-OH
-   |
-HO-C-H
-   |
- H-C-OH
-   |
- H-C-OH
-   |
- H-C-OH
-   |
+   ⎪
+ H–C–OH
+   ⎪
+HO–C–H
+   ⎪
+ H–C–OH
+   ⎪
+ H–C–OH
+   ⎪
+ H–C–OH
+   ⎪
    H
 </pre>
 
-In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. There are two ring isomers of Glucose depending on where the Hydroxyl is. The α-Glucose ring is:
+In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. There are two ring isomers of Glucose depending on where the Hydroxyl is. The <span class="edgeon">emphasized edges</span> indicate that we're looking at the ring edge-on, and the other non-ring bonds lie above or below the plane of the ring. The α-Glucose ring is:
 
 <pre>
     CH<sub>2</sub>OH
@@ -557,9 +557,9 @@ In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numb
     /‾‾‾‾‾\
  H /⎪      \ H
  ⎪/ H       \⎪
- ⎪\         /<span class="emphasis">⎪</span>
-HO \ OH  H / <span class="emphasis">OH</span>
-    \⎪___⎪/
+ ⎪<span class="edgeon">\</span>         <span class="edgeon">/</span><span class="emphasis">⎪</span>
+HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> <span class="emphasis">OH</span>
+    <span class="edgeon">\</span>⎪<span class="edgeon">___</span>⎪<span class="edgeon">/</span>
      ⎪   ⎪
      H   OH
 </pre>
@@ -572,9 +572,9 @@ The β-Glucose ring is:
     /‾‾‾‾‾\
  H /⎪      \ <span class="emphasis">OH</span>
  ⎪/ H       \<span class="emphasis">⎪</span>
- ⎪\         /⎪
-HO \ OH  H / H
-    \⎪___⎪/
+ ⎪<span class="edgeon">\</span>         <span class="edgeon">/</span>⎪
+HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
+    <span class="edgeon">\</span>⎪<span class="edgeon">___</span>⎪<span class="edgeon">/</span>
      ⎪   ⎪
      H   OH
 </pre>
@@ -654,6 +654,11 @@ span.symbol {
 span.emphasis {
   font-weight: bold;
   color: red;
+}
+
+span.edgeon {
+  color: fuchsia;
+  font-weight: 1000;
 }
 </style>
 
