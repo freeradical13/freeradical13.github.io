@@ -422,6 +422,18 @@ This can be simplified into the following hexagon with three double bonds where 
 
 ### Naming Organic Compounds
 
+[Greek letters][] may be used instead of numbers (in the same way that some numbered lists use <code>a, b, c, ...</code>). The first 10 Greek letters are (lower case followed by upper case):
+
+1. Alpha: α Α
+1. Beta: β Β
+1. Gamma: γ Γ
+1. Delta: δ Δ
+1. Epsilon: ε Ε
+1. Zeta: ζ Ζ
+1. Eta: η Η
+1. Theta: θ Θ
+1. Iota: ι Ι
+
 The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. Any other smaller branches (in place of Hydrogens for the branch points) are called [side chains][], [substituents][], or pendant chains. Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
 
 A [moiety][] is a named part of a molecule which is a common pattern of atoms that may be found in many other molecules.
@@ -506,6 +518,8 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
 1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with a Carbonyl that bonds the two. Usually suffixed with [-oate][ester suffix].
+
+The first Carbon to which a functional group is attached is called the [1-Carbon][] or the α-Carbon. If there are multiple functional groups, generally the 1-Carbon refers to the functional group responsible for the name of the molecule.
 
 If functional groups are on the same side of the carbon chain, they are called [cis-][cis-trans isomerisms] (often represented as E), whereas [trans-][cis-trans isomerisms] are on opposed sides (often represented as Z). In general, such groups contain double bonds.
 
@@ -676,6 +690,7 @@ if (elements.length) {
 }
 </script>
 
+[1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -825,6 +840,7 @@ if (elements.length) {
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
+[greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
