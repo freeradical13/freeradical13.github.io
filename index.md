@@ -746,6 +746,10 @@ Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pai
 
 RNA has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
 
+### Genes
+
+A [gene][] is a sequence of Nitrogenous bases in a DNA molecule which provides the instructions for creating a sequence of amino acids, and thus proteins. A [genome][] is the set of all genes in an organism.
+
 ## History of Life
 
 Oceans formed on Earth about [4.4 billion years ago][history of oceans].
@@ -978,6 +982,8 @@ if (elements.length) {
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gas]: https://en.wikipedia.org/wiki/Gas
+[gene]: https://en.wikipedia.org/wiki/Gene
+[genome]: https://en.wikipedia.org/wiki/Genome
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [glucose]: https://en.wikipedia.org/wiki/Glucose
