@@ -47,7 +47,7 @@ Examples of electrically charged matter are protons, which are positively charge
 
 An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
 
-The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see.
+The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see. [Fluorescent][] substances absorb ultraviolet radiation and emit visible light.
 
 # Energy
 
@@ -750,15 +750,15 @@ RNA has a single polynucleotide strand; however, base pairing may still occur wi
 
 A [gene][] is a sequence of Nitrogenous bases in a DNA molecule which provides the instructions for creating a sequence of amino acids, and thus proteins. A [genome][] is the set of all genes in an organism.
 
-## History of Life
-
-Oceans formed on Earth about [4.4 billion years ago][history of oceans].
-
 ## Cells
 
 A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 An organism is a set of one or more cells.
+
+## History of Life
+
+Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The first prokaryotes existed at least [2 to 3.5 billion years ago][origins of life]. The first eukaryotes existed at least [2 billion years ago][origins of life]. The first land-based eukaryotes existed at least [1.3 billion years ago][history of life]. The split of plants and animals occurred at least [1 billion years ago][origins of life].
 
 # Feedback
 
@@ -976,6 +976,7 @@ if (elements.length) {
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
@@ -997,6 +998,7 @@ if (elements.length) {
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
@@ -1094,6 +1096,7 @@ if (elements.length) {
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organisms]: https://en.wikipedia.org/wiki/Organism
 [organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
+[origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
