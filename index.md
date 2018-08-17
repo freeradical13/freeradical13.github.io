@@ -720,6 +720,8 @@ The tertiary structure of a protein is driven by interactions between the amino 
 
 If a protein is made of more than one polypeptide, the quaternary structure of a protein is driven by the interactions between the polypeptides.
 
+A protein's shape depends on pH, salt concentration, temperature and other factors and it may become denatured and biologically inactivated if any of these factors change significantly. Excessively high fevers may be fatal because proteins may denature.
+
 ## History of Life
 
 Oceans formed on Earth about [4.4 billion years ago][history of oceans].
