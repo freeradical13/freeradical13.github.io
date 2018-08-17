@@ -519,7 +519,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the carbonyl/acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
 1. [Methyl][] (<code>R–CH<sub>3</sub></code>): A Carbon single bonded to three Hydrogens. Adding such a functional group makes the molecule methylated.
 1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl and the remainder.
-1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
+1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting (i.e. not part of the backbone) in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
 1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
@@ -615,7 +615,7 @@ Structural polysaccharides are used by organisms to build strong structural mate
 
 ## Lipids
 
-[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic).
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they may form with dehydration synthesis, they cannot be broken down by hydrolysis because they're hydrophobic.
 
 ### Glycerides
 
@@ -671,6 +671,46 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 |  |  |
  \/ ⑊/
 </pre>
+
+## Proteins
+
+[Proteins][] are biomacromolecules made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
+
+An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, and one of 20 side chains. Amino acids grouped by properties of their side chain (with single- and three-letter abbreviations):
+
+Hydrophobic:
+
+* Glycine (G/Gly)
+* Alanine (A/Ala)
+* Valine (V/Val)
+* Leucine (L/Leu)
+* Isoleucine (I/Iso)
+* Methionine (M/Met)
+* Phenylalanine (F/Phe)
+* Tryptophan (W/Trp)
+* Proline (P/Pro)
+
+Hydrophilic:
+
+* Serine (S/Ser)
+* Threonine (T/Thr)
+* Cysteine (C/Cys)
+* Tyrosine (Y/Tyr)
+* Asparagine (N/Asn)
+* Glutamine (Q/Gln)
+
+Hydrophilic + Acidic (negatively charged):
+
+* Aspartic acid (D/Asp)
+* Glutamic acid (E/Glu)
+
+Hydrophilic + Basic (positively charged):
+
+* Lysine (K/Lys)
+* Arginine (R/Arg)
+* Histidine (H/His)
+
+Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus.
 
 ## History of Life
 
@@ -778,6 +818,7 @@ if (elements.length) {
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
+[amino acid]: https://en.wikipedia.org/wiki/Amino_acid
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
@@ -1034,9 +1075,11 @@ if (elements.length) {
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
+[polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[proteins]: https://en.wikipedia.org/wiki/Protein
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
