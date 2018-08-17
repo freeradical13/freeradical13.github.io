@@ -252,7 +252,9 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
-Reactions that don't require input energy are called [spontaneous][spontaneous reactions].
+An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
+
+Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][]. Reactions that require input energy are [endergonic][].
 
 A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
 
@@ -267,8 +269,6 @@ Given a balanced chemical equation and the relationship of moles to atomic weigh
 <code>Fe<sub>2</sub>O<sub>3</sub> + 2Al → Al<sub>2</sub>O<sub>3</sub> + 2Fe</code>
 
 If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those molecules is about 160u, Fe<sub>2</sub>O<sub>3</sub> is about 160g/mol, so first convert 85g to moles using [dimensional analysis][] by multiplying by 1mol/160g to cancel the g, and therefore, 85g divided by 160g/mol is 0.53 mols. Since there are two moles of Al for every 1 mole of Fe<sub>2</sub>O<sub>3</sub>, <code>2×0.53 = 1.06 mols</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
-
-An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
 
 [Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic). If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of the side that's less likely to react).
 
@@ -371,7 +371,7 @@ A [tetrahydride][] is a group 14 element (e.g. C, Si, Ge, Sn, Pb, etc.) which is
 
 ## Organic Chemistry
 
-An [organic compound][] is a compound that has Carbon and organic chemistry is the study of Carbon-based compounds. Historically, organic meant produced by [lifeforms][life], although it's now known that some Carbon-based molecules may be produced outside of lifeforms, but this ambiguous term "organic" has persisted. Carbon-based compounds that are considered to be lifeforms are called [organisms][].
+An [organic compound][] is an ambiguous term that historically described a compound that contains Carbon and is related to [organisms][]. An organism is an entity with the properties of [life][]. Even the traditional definition of organic was loose because Carbon Dioxide (<code>CO<sub>2</sub></code>) is considered inorganic even though it contains Carbon and is produced by some organisms. In addition, some (or perhaps all) organic compounds may be produced outside of organisms. The modern definition of organic retains these ambiguities, but in general, most Carbon-based compounds are considered organic. Carbon has four unpaired valence electrons and can create bonds in four different, equally spaced directions, allowing for a wide variety of compounds.
 
 [Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough (2.2 and 2.55, respectively, on the [Pauling scale][]) that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore generally hydrophobic.
 
@@ -752,7 +752,7 @@ A [gene][] is a sequence of Nitrogenous bases in a DNA molecule which provides t
 
 ## Cells
 
-A [cell][] is a set of atoms encapsulated in a [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
+A [cell][] is a set of atoms encapsulated in a phospholipi bilayer [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 An organism is a set of one or more cells.
 
@@ -956,6 +956,7 @@ if (elements.length) {
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
+[endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
@@ -967,6 +968,7 @@ if (elements.length) {
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
+[exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
