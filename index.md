@@ -254,7 +254,22 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
 
-Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][]. Reactions that require input energy are [endergonic][].
+Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][].
+
+Reactions that require input energy are [endergonic][]:
+
+<pre>
+        Endergonic
+ ⎪
+E⎪
+n⎪           ____
+e⎪          /    \________
+r⎪         /      products
+g⎪________/
+y⎪reagents
+ ⎪________________________
+           Time
+</pre>
 
 A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
 
@@ -309,6 +324,8 @@ The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-L
 A substance that is basic is also sometimes referred to as [alkaline or an alkali][alkali].
 
 A strong acid or base dissociates completely in aqueous solution (→), whereas a weak acid or base dissociates partially (⇌).
+
+A substance that is acidic in a neutral solution will have an overall negative charge. A substance that is basic in a neutral solution will have an overall positive charge.
 
 A small proportion of water molecules in liquid water will tend to [autoionize][water autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>). For pure water, at the equilibrium point under standard conditions (e.g. 25°C), [H<sup>+</sup>] = [H<sub>3</sub>O<sup>-</sup>] = 10<sup>-7</sup> M.
 
@@ -716,7 +733,7 @@ Hydrophilic + Basic (positively charged):
 * Arginine (R/Arg)
 * Histidine (H/His)
 
-Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus. The polypeptide backbone is the bonded amino acids without taking into account the side chains.
+Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus. Generally, amino acids are written and read starting at the N-terminus. The polypeptide backbone is the bonded amino acids without taking into account the side chains.
 
 The primary structure of a protein is its linear sequence of amino acids.
 
@@ -742,7 +759,7 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
 
 The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a ' as compared to the Carbons in the Nitrogenous base as a short-hand for referencing the Carbons in a nucleoside.
 
-Nucleotides are linked with a dehydration synthesis between a Phosphate group and the sugars of two nucleotides, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the sugars (at the 3' Hydroxyl) of two nucleotides, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
 
 Deoxyribonucleic acid (DNA) may only have A, C, T, or G Nitrogenous bases. Ribonucleic acid (RNA) may only have A, C, U, or G Nitrogenous bases.
 
