@@ -674,6 +674,10 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
  \/ ⑊/
 </pre>
 
+### Waxes
+
+[Waxes][] are similar to glycerides except that the Glycerol alcohol is replaced with a longer (12 to 32 Carbon) alcohol.
+
 ## Proteins
 
 [Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
@@ -754,7 +758,7 @@ A [gene][] is a sequence of Nitrogenous bases in a DNA molecule which provides t
 
 ## Cells
 
-A [cell][] is a set of atoms encapsulated in a phospholipi bilayer [membrane][], mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
+A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [membrane][] (or plasma membrane or cytoplasmic membrane), mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
 An organism is a set of one or more cells.
 
@@ -1216,5 +1220,6 @@ if (elements.length) {
 [water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
+[waxes]: https://en.wikipedia.org/wiki/Wax
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
