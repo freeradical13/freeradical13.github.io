@@ -282,7 +282,7 @@ Relative to other substances, water has a high specific heat, meaning that it wi
 
 Water's polarity makes it a common solvent.
 
-Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water and thus increase their [solubility][] in water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water and thus decrease their solubility in water.
+Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water and thus increase their [solubility][] in water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water and thus decrease their solubility in water. Substances that are [amphipathic][] have both hydrophobic and hydrophilic regions.
 
 ## Acids and Bases
 
@@ -533,7 +533,7 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which energy is consumed when two Hydrogens and an Oxygen at the ends of two monomers combine to form water, leaving the remaining monomers to covalently bond. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break).
+Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break) and produces energy. The verb is to hydrolize.
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
@@ -545,7 +545,7 @@ A [biomolecule][] is a molecule that's related to some biological process, often
 
 ## Carbohydrates
 
-[Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates/Saccharides/Sugars have the suffix [-ose][sugar suffix].
+[Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates have the suffix [-ose][sugar suffix].
 
 ### Monosaccharides
 
@@ -615,7 +615,7 @@ Structural polysaccharides are used by organisms to build strong structural mate
 
 ## Lipids
 
-[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they may form with dehydration synthesis, they cannot be broken down by hydrolysis because they're hydrophobic.
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they form with dehydration synthesis, any repeating subunits of lipids are not directly bonded.
 
 ### Glycerides
 
@@ -635,7 +635,7 @@ Structural polysaccharides are used by organisms to build strong structural mate
    H
 </pre>
 
-A [fatty acid][] is an aliphatic hydrocarbon (either saturated or unsaturated) with a Carboxyl and with a 16- to 18 Carbon (most commonly) backbone:
+A [fatty acid][] is an aliphatic hydrocarbon (either saturated or unsaturated) with a Carboxyl and with a (usually) 12- to 18 Carbon backbone:
 
 <pre>
 OH   O       OH   O
@@ -651,6 +651,8 @@ OH   O       OH   O
 </pre>
 
 A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature). An oil is mostly made of unsaturated fatty acids. A hydrogenated oil means that unsaturated fatty acids were converted to saturated fatty acids. Most double bonds in fatty acids are of the cis- isomeric form but trans fatty acids are of the trans- isomeric form.
+
+Monounsaturated fatty acids have a single double bond whereas polyunsaturated fatty acids have two or more double bonds.
 
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
@@ -858,6 +860,7 @@ if (elements.length) {
 [amino]: https://en.wikipedia.org/wiki/Amino
 [amino acid]: https://en.wikipedia.org/wiki/Amino_acid
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
+[amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
