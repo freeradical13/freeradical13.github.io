@@ -674,7 +674,7 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ## Proteins
 
-[Proteins][] are biomacromolecule made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
+[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
 
 An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, and one of 20 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
 
@@ -721,6 +721,30 @@ The tertiary structure of a protein is driven by interactions between the amino 
 If a protein is made of more than one polypeptide, the quaternary structure of a protein is driven by the interactions between the polypeptides.
 
 A protein's shape depends on pH, salt concentration, temperature and other factors and it may become denatured and biologically inactivated if any of these factors change significantly. Excessively high fevers may be fatal because proteins may denature.
+
+## Nucleic Acids
+
+[Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A nucleotide is made of a nucleoside and one to three Phosphate groups. A nucleoside is made of a Nitrogen-containing (nitrogenous) base and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
+
+* Group: Pyrimidines (one ring)
+  * Cytosine (C)
+  * Thymine (T)
+  * Uracil (U)
+* Group: Purines (two fused rings)
+  * Adenine (A)
+  * Guanine (G)
+
+The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a ' as compared to the Carbons in the Nitrogenous base as a short-hand for referencing the Carbons in a nucleoside.
+
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the sugars of two nucleotides, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+
+Deoxyribonucleic acid (DNA) may only have A, C, T, or G Nitrogenous bases. Ribonucleic acid (RNA) may only have A, C, U, or G Nitrogenous bases.
+
+DNA has two polynucleotide strands that together create a double helix structure. The two strands run in antiparallel (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside.
+
+Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pair with Guanine.
+
+RNA has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
 
 ## History of Life
 
@@ -1051,6 +1075,7 @@ if (elements.length) {
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
+[nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
