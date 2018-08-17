@@ -361,7 +361,7 @@ H     <span class="emphasis">X</span>
 <span class="emphasis">X</span>     H
 </pre>
 
-A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designed L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
+A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
 
 ## Common Molecules
 
@@ -674,9 +674,9 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ## Proteins
 
-[Proteins][] are biomacromolecules made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
+[Proteins][] are biomacromolecule made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
 
-An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, and one of 20 side chains. Amino acids grouped by properties of their side chain (with single- and three-letter abbreviations):
+An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, and one of 20 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
 
 Hydrophobic:
 
@@ -710,7 +710,15 @@ Hydrophilic + Basic (positively charged):
 * Arginine (R/Arg)
 * Histidine (H/His)
 
-Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus.
+Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus. The polypeptide backbone is the bonded amino acids without taking into account the side chains.
+
+The primary structure of a protein is its linear sequence of amino acids.
+
+The secondary structure of a protein is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carboxyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a coil held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between the strands.
+
+The tertiary structure of a protein is driven by interactions between the amino acid side chains. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
+
+If a protein is made of more than one polypeptide, the quaternary structure of a protein is driven by the interactions between the polypeptides.
 
 ## History of Life
 
