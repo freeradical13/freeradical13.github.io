@@ -47,7 +47,7 @@ Examples of electrically charged matter are protons, which are positively charge
 
 An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
 
-The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see. [Fluorescent][] substances absorb ultraviolet radiation and emit visible light.
+The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths). [Fluorescent][] substances absorb ultraviolet radiation and emit visible light.
 
 # Energy
 
@@ -65,7 +65,7 @@ Energy may [neither be created nor destroyed][conservation of energy], but only 
 
 Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent to 101,325 Pa.
 
-[Heat][] is a measure of the total quantity of kinetic energy. [Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest state at which an object has minimal movement; however, practically, it may be assumed that all objects have some movement (or [vibration][]) and thus some non-zero temperature.
+[Heat][] (H) is a measure of the total quantity of kinetic energy. [Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest state at which an object has minimal movement; however, practically, it may be assumed that all objects have some movement (or [vibration][]) and thus some non-zero temperature.
 
 Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
@@ -78,6 +78,15 @@ The [specific heat][] is the amount of heat that must be absorbed or lost for 1g
 All matter above absolute zero temperature continuously emits some of its kinetic energy as photons of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
 
 If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
+
+# Thermodynamics
+
+There are four laws of thermodynamics (starting with the zeroth law):
+
+0. If two systems A and B are in thermal equilibrium with a third system C, then A and B are in thermal equilibrium.
+1. Energy may be neither created nor destroyed, but only transformed.
+2. Energy transformation in a closed system increases [entropy][] (or disorder).
+3. Entropy approaches 0 as the temperature of a closed system approaches 0 Kelvin.
 
 # Atoms
 
@@ -146,7 +155,7 @@ When d and f orbitals are filled, they backfill the previous shell. For example,
 
 The electrons that tend to cause an atom to chemically react are those electrons with the highest energies (the farthest distances from the nucleus) and are usually those in the valence shell. The exceptions are elements with d or f orbitals because even though those backfill the previous, non-valence shell, they may have higher energies than the s orbital electrons of the valence shell; however, these energies decrease moving right on a period, so the number of these valence electrons is limited.
 
-Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable (high energy). For example, Hydrogen is unstable because it wants one more electron to complete its valence shell. All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable (low energy) set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
+Generally, atoms tend to be chemically reactive when their valence electrons do not complete their valence shell and thus the atom is unstable (high energy). All elements above period 1 generally want 8 electrons in their valance shell and this heuristic is called the [octet rule][]. Atoms tend to gain, shed, or share pairs of electrons as needed to reach a full and stable (low energy) set of valence electrons. This is one of the most important aspects of chemistry and means that groups have generally similar behaviors since they're generally grouped by the number of valence electrons. There are 18 numbered and 6 named groups for convenience:
 
 * Group #1: [Alkali metals][] - Highly reactive because they want to lose an electron to drop to the previous period's full set of valence electrons.
 * Group #2: [Alkaline earth metals][] - Somewhat reactive because they want to lose two electrons to drop to the previous period's full set of valence electrons.
@@ -170,7 +179,7 @@ Generally, electron affinity increases from left to right (except for those with
 
 Most elements are [metals][] (although there are only two named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
-[Nonmetals][] are the opposite of metals: they are toward the right side of the table, have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some are brittle solids (e.g. Carbon).
+[Nonmetals][] are the opposite of metals: they are toward the right side of the table, have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some may be solids (e.g. Carbon).
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
@@ -182,7 +191,7 @@ In summary, although with various exceptions, the broad trends of atomic size, i
 
 # Big History (Continued)
 
-After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe are produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process].
+After the [Big Bang][], the universe was mostly made of hydrogen, helium, and lithium (the first three elements), some of which combined into plasma stars held together by [gravity][]. At high enough temperatures inside stars, hydrogen atoms undergo [nuclear fusion][] where nuclei (and their protons and neutrons) combine to produce [helium][stellar nucleosynthesis]. As the hydrogen is used up to create helium, the star's temperature rises and allows for the fusion of [helium into carbon and oxygen][triple alpha process] and some neon and heavier elements. As the star temperature continues to increase, nuclear fusion produces elements [up to iron][heavy elements]. The remaining elements in the universe were produced by [certain stars' s-processes][s process] and [stars' explosions in a supernova or collapses into a black hole or neutron star][r process], although elements may be transformed from one element into another under certain conditions.
 
 # Chemistry (Continued)
 
@@ -190,7 +199,7 @@ Two or more atoms may be held together by [chemical bond][](s). The major types 
 
 1. A [covalent bond][] defines a [molecule][] and occurs when atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a [chemical compound][] if it's made of more than one type of element. The strongest form of a covalent bond is a [sigma bond][] (σ bond). Another, weaker form of a covalent bond is a [pi bond][] (π bond).
 1. A [coordinate covalent bond][] (or dative bond) defines a covalent bond in which one atom donates both electrons to the bond. Such bonds are part of a coordination complex. An example is a metal cation which has a coordinate covalent bond to an atom with a lone pair (also called a [ligand][]).
-1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which may then cause electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
+1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which then causes electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. A [metallic bond][] amongst positively charged metal cations in a sea of shared electrons.
 
 A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the [venn diagram][] by the location of the bond arrows):
@@ -213,7 +222,9 @@ A substance may be described in many ways, all of which may represent either an 
     1. [Fischer projections][]
     1. [Unspecified stereochemistry][]: Wavy single bonds are unknown or unspecified stereochemistry. [Stereochemistry][] is the study of substances with the same formula but with different positions of atoms in space that cannot be rotated around a single bond to match each other (discussed in detail later).
     1. [Skeletal formulas][]
-1. An ionic compound name (or systematic name) with a set of element names with any cation first; for example, Sodium Chloride. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
+1. An ionic compound name with a set of element names with any cation first. The anion in such a salt takes the suffix [-ide][ide suffix]. For example, NaCl is Sodium Chloride.
+    1. If the cation is a transition metal, then it may be followed by roman numerals in parentheses ([type-I compounds][], [type-II compounds][] or [type-III compounds][]) which represents the net positive charge of that cation; for example, Iron(III) Oxide is Fe<sub>2</sub>O<sub>3</sub> because the III means that Iron is Fe<sup>3+</sup> and gave 3 extra electrons, and since each Oxygen atom needs two electrons, there should be two Iron atoms, making 6 extra electrons, which means there are three Oxygen atoms, each taking 2 of those 6 extra electrons.
+1. If a molecule is ionic and contains Oxygen, suffixes may be used to differeniate between the same compound but with a different number of Oxygens: The [-ate][ate suffix] suffix is used on the most common molecule, the [-ite][ite suffix] suffix is used with one less Oxygen than the -ate molecule, the [hypo-][hypo prefix] prefix along with the -ite suffix is used with two less Oxygens, and the [per-][per prefix] prefix is used with one more Oxygen. For example, Chlorate is ClO<sub>3</sub><sup>-</sup>, Chlorite is ClO<sub>2</sub><sup>-</sup>, Hypochlorite is ClO<sup>-</sup>, and Perchlorate is ClO<sub>4</sub><sup>-</sup>.
 
 When substances of different electronegativities are bonded, electrons will tend to be drawn closer to the atoms with higher electronegativities, thus leading to positive or negative [partial charges][chemical polarity] ([δ][greek delta]<sup>+</sup> or δ<sup>-</sup>, respectively), creating a polarized (or polar) bond. For example, in the water molecule, Oxygen is more electronegative than the Hydrogens, so there's a partial negative charge at the end of the Oxygen away from the two Hydrogens, and partial positive charges on the opposite ends of the Hydrogens:
 
@@ -221,15 +232,13 @@ When substances of different electronegativities are bonded, electrons will tend
 
 [Oxidation states][] are a conceptualizatized simplification of covalent bonds as ionic bonds. Oxidation states assume full hogging of electrons in a polar molecule. For example, in water, Oxygen would have an oxidation state of -2 since it hogs both Hydrogens' electrons, and each Hydrogen would have an oxidation state of +1.
 
-Reduction is the process of gaining electrons. Oxidation is the process of losing electrons. The atom losing the electrons is said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms. This is called a [redox][] (reduction and oxidation) reaction because both occur.
+Reduction is the process of gaining electrons. Oxidation is the process of losing electrons. The atom losing the electrons is said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms. This is called a [redox][] (reduction and oxidation) reaction because both occur. Oxidation frequently involves gaining an Oxygen or losing a Hydrogen. Reduction frequently involves losing an Oxygen or gaining a Hydrogen.
 
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
 1. [Dipole-dipole forces][] occur when the opposite partial charges of the [dipoles][] of two polar molecules (or different parts of a large molecule) attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
 1. [Van der Waals forces][]
     1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
-
-When an element is anionized with one additional electron, the suffix of its name changes to -ide. The suffix -ate means more, and -ite means fewer. The prefix per- means one more, and hypo- means one fewer.
 
 In general, matter exists in one of [four states][state of matter]:
 
@@ -240,7 +249,7 @@ In general, matter exists in one of [four states][state of matter]:
 
 ## Moles
 
-A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
+A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Moles are essentially a way to convert between amus and grams. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
 
 Since 1u is 1/12<sup>th</sup> the mass of one <sup>12</sup>C atom, then <code>1 mol 1u = 1g</code>; therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E ~= m<sub>A</sub> grams</code>. If a substance doesn't refer to a particular isotope, then standard atomic weight (A<sub>r,std</sub>) is generally used instead of m<sub>A</sub>. [Molecular mass][] is simply the sum of atomic masses of a molecule.
 
@@ -252,11 +261,23 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
-An [endothermic reaction][] occurs when the system absorbs heat energy from its surroundings (often represented as an additional heat, light, electricity, sound, etc. reagent). An [exothermic reaction][] occurs when the system releases energy (often represented as an additional heat, light, electricity, sound, etc. product).
+Enthalpy is the heat transferred during a constant pressure process. An [endothermic reaction][] occurs when the system absorbs heat energy (positive ΔH) from its surroundings. An [exothermic reaction][] occurs when the system releases energy (negative ΔH).
 
-Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][].
+A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
 
-Reactions that require input energy are [endergonic][]:
+A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.  A stoichiometric coefficient to the left of a substance represents the number of substances or moles of that substance in the chemical reaction.
+
+Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching dynamic [chemical equilibrium][] where the rates of reactions in both directions are equal. For example:
+
+<code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
+
+In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) measures the extent to which reagents are converted to products and equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
+
+Gibbs free energy (G) measures the work that a system can do (<code>ΔG = ΔH - T×ΔS</code> where ΔS is the change in entropy). If the change in G (ΔG) for a chemical reaction at a temperature T is known, K<sub>eq</sub> can be calculated as <code>ΔG = -R×T×ln(K<sub>eq</sub>)</code>.
+
+Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][] (negative ΔG), although they don't necessarily occur rapidly.
+
+Reactions that require input energy are [endergonic][] (positive ΔG):
 
 <pre>
         Endergonic
@@ -271,13 +292,7 @@ y⎪reagents
            Time
 </pre>
 
-A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
-
-A chemical equation must be balanced using [stoichiometry][] because the total number of atoms of each element must be the same on both sides.  A stoichiometric coefficient to the left of a substance represents the number of substances or moles of that substance in the chemical reaction.
-
-Chemical reactions may also be [reversible][reversible reaction] and go in both directions, signified by a double arrow (⇌), always tending towards reaching dynamic [chemical equilibrium][] where the rates of reactions in both directions are equal. For example:
-
-<code>HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub></code>
+A coupled reaction is when the energy released by an exergonic reaction drives an endergonic reaction.
 
 Given a balanced chemical equation and the relationship of moles to atomic weights, and a mass of one substance, composition stoichiometry may be used to determine the mass of other substances in the equation. [For example][example composition stoichiometry], in the following equation:
 
@@ -285,31 +300,40 @@ Given a balanced chemical equation and the relationship of moles to atomic weigh
 
 If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those molecules is about 160u, Fe<sub>2</sub>O<sub>3</sub> is about 160g/mol, so first convert 85g to moles using [dimensional analysis][] by multiplying by 1mol/160g to cancel the g, and therefore, 85g divided by 160g/mol is 0.53 mols. Since there are two moles of Al for every 1 mole of Fe<sub>2</sub>O<sub>3</sub>, <code>2×0.53 = 1.06 mols</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>. Given Al's atomic weight is about 27u, 1 mole is about 27g, so <code>1.06×27 = 28.62g</code> of Al would be needed to react with all of the Fe<sub>2</sub>O<sub>3</sub>.
 
-[Le Chatelier's principle][] asserts that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic). If the temperature increases in an endothermic reaction, the system will favor the forward reaction. If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature. If the concentration of a substance increases, the reaction will favor that side of the reaction; otherwise, it will favor the other side. If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react). Conversely, if volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of the side that's less likely to react).
+[Le Chatelier's principle][] (or the equilibrium law) states that the reaction tends towards equilibrium even after any changes to concentration, temperature, volume, or pressure (thus why it's called dynamic equilibrium):
+
+* If the temperature increases in an endothermic reaction, the system will favor the forward reaction.
+* If the temperature decreases in an exothermic reation, the forward reaction will be favored to match the previous temperature.
+* If the concentration of a substance increases, the reaction will favor the other side, decreasing the concentration of the subtance, and increasing the concentration(s) of the other side.
+* If the concentration of a substance decreases, the reaction will favor the side of the decrease, increasing the concentration of the substance, and decreasing the concentration(s) of the other side.
+* If volume decreases, concentrations will increase, so the reaction will favor the side that generates more total moles (i.e. creating more of the side that's more likely to react).
+* If volume increases, concentrations will decrease, so the reaction will favor the side that has fewer total moles (i.e. creating more of the side that's less likely to react).
 
 ## Water
 
-Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create hydrogen bonds with nearby water molecules. This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
+Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
 
 A [calorie][] (cal) is the amount of heat energy it takes to raise the temperature of 1g of water by 1°C (conversely, the amount of heat energy released when 1g of water is cooled by 1°C). 1 calorie also equals 4.184 J (conversely, <code>1 J = 0.239 cal</code>). Therefore, the specific heat of water is 1 cal per 1g per °C.
 
 Relative to other substances, water has a high specific heat, meaning that it will change its temperature less when it absorbs or loses an amount of heat.
 
-Water's polarity makes it a common solvent.
+Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water. Substances that are [amphipathic][] have both hydrophobic and hydrophilic regions.
 
-Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water and thus increase their [solubility][] in water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water and thus decrease their solubility in water. Substances that are [amphipathic][] have both hydrophobic and hydrophilic regions.
+## Solutions
 
-## Acids and Bases
-
-[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A [hydride][] is an anionic Hydrogen. A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
-
-A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] which are colloids of liquids).
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] are colloids of liquids).
 
 A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [1 litre of water][water L kg] is approximately 1 kg under standard conditions (e.g. 25°C).
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
 
-In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub> [or k<sub>c</sub> for concentration]) equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
+A [hypertonic][] solution has a higher concentration of a solute compared to another solution. A [hypotonic][] solution has a lower concentration of a solute compared to another solution. An [isotonic][] solution has the same concentration of a solute compared to another solution. Like a dynamic equilibrium in chemical reactions, even in an isotonic solution, solvent and solution may move back and forth, but the rates of movement are equalized.
+
+In solution, molecules naturally diffuse from areas of higher concentration to areas of lower concentration if possible. This is called moving down or with the concentration gradient. [Osmosis][] is a particular type of diffusion which creates an osmotic gradient of a solvent from a hypotonic area to a hypertonic area because the concentration of the solvent is lower in the hypertonic area.
+
+## Acids and Bases
+
+[Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A [hydride][] is an anionic Hydrogen. A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
 
 [Hydroxide][] is the anionic molecule OH<sup>-</sup>. [Hydronium][] is the cationic molecule H<sub>3</sub>O<sup>+</sup>.
 
@@ -317,7 +341,7 @@ There are multiple ways to define acids and bases:
 
 1. A [Brønsted-Lowry acid][brønsted-lowry] is a substance capable of donating a proton. A [Brønsted-Lowry base][brønsted-lowry] is a substance with a lone pair of electrons capable of accepting a proton (or indirectly, a substance that dissociates into hydroxide ions which then accepts the protons). A [conjugate acid][] is the product that accepted protons (because it can then give that proton back in the reverse direction), and a conjugate base is the product that donated protons. For example, water is [amphoteric][] meaning it can be either an acid or a base.
 1. A [Lewis acid][lewis acids and bases] is a substance that has an empty electron orbital and may accept an electron pair. For example, <code>H<sup>+</sup></code> has an empty electron orbital. A [Lewis base][lewis acids and bases] is a substance that has a lone pair of electrons not involved in bonding that it may donate.
-1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons, or, more commonly, hydronium. For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → Na<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
+1. An [Arrhenius acid][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of protons (which tend to create hydronium). For [example][example arrhenius acid], <code>HCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Cl<sup>-</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>. An [Arrhenius base][arrhenius] is a substance that tends to react in an aqueous solution to increase the concentration of hydroxide. For [example][example arrhenius acid], <code>NaOH<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> → Na<sup>+</sup><sub>(aq)</sub> + H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub></code>.
 
 The Arrhenius definition is limited to aqueous solutions whereas the Brønsted-Lowry and Lewis definitions are more general.
 
@@ -327,15 +351,15 @@ A strong acid or base dissociates completely in aqueous solution (→), whereas 
 
 A substance that is acidic in a neutral solution will have an overall negative charge. A substance that is basic in a neutral solution will have an overall positive charge.
 
-A small proportion of water molecules in liquid water will tend to [autoionize][water autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>). For pure water, at the equilibrium point under standard conditions (e.g. 25°C), [H<sup>+</sup>] = [H<sub>3</sub>O<sup>-</sup>] = 10<sup>-7</sup> M.
+A small proportion of water molecules in liquid water will tend to [autoionize][water autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>). For pure water, at the equilibrium point under standard conditions (i.e. 25°C), [H<sup>+</sup>] = [H<sub>3</sub>O<sup>-</sup>] = 10<sup>-7</sup> M.
 
-The [pH scale][] is a way to describe how acidic or basic a mixture is, and it's just the [cologarithm][] of molarity: <code>pX = -log [X]</code>. pH is the cologarithm of H<sup>+</sup> and describes how acidic the mixture is. Conversely, pOH is the cologarithm of OH<sup>-</sup> and describes how basic the mixture is. When <code>pH = pOH</code> (in other words, <code>[H<sup>+</sup>] = [OH<sup>-</sup>]</code>), the mixture is described as neutral. Mixtures with <code>[H<sup>+</sup>] > [OH<sup>-</sup>]</code> are acidic. Mixtures with <code>[H<sup>+</sup>] < [OH<sup>-</sup>]</code> are basic. In any mixture, <code>[H<sup>+</sup>]×[OH<sup>-</sup>] = 10<sup>-14</sup></code> (in other words, <code>pH + pOH = 14</code>). As the molarity of protons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
+The [pH scale][] is a way to describe how acidic or basic a mixture is without using exponents, and it's just the [cologarithm][] of molarity: <code>pX = -log [X]</code>. pH is the cologarithm of H<sup>+</sup> and describes how acidic the mixture is. Conversely, pOH is the cologarithm of OH<sup>-</sup> and describes how basic the mixture is. When <code>pH = pOH</code> (in other words, <code>[H<sup>+</sup>] = [OH<sup>-</sup>]</code>), the mixture is described as neutral. Mixtures with <code>[H<sup>+</sup>] > [OH<sup>-</sup>]</code> are acidic. Mixtures with <code>[H<sup>+</sup>] < [OH<sup>-</sup>]</code> are basic. In any mixture, <code>[H<sup>+</sup>]×[OH<sup>-</sup>] = 10<sup>-14</sup></code> (in other words, <code>pH + pOH = 14</code>). As the molarity of protons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
 
 A [buffer][] is a substance that minimizes changes to pH by accepting protons when in excess and donating protons when in deficit. Generally, a buffer is a molecule with both an acid and a base, and its equilibrium constant controls its behavior in buffering the mixture. For example, carbonic acid yields a bicarbonate ion and a proton: <code>H<sub>2</sub>CO<sub>3</sub> ⇌ HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup></code>.
 
 ## Three-Dimensional Structure
 
-The size and structure of a substance is key to the way it functions because of the implied likelihoods of the structure on chemical reactions with other substances. A commonly used phrase is that structure implies function.
+The size and structure of a substance is key to the way it functions because of the implied likelihoods of chemical reactions with other substances. A commonly used phrase is that structure implies function.
 
 Although substance structures are often described by molecular, empirical, or two-dimensional formulas for simplicity, actual substance structures are three-dimensional.
 
@@ -380,6 +404,8 @@ H     <span class="emphasis">X</span>
 
 A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
 
+[Conformations][] are isomers in which the difference between molecules is rotation around a single bond and does not depend on different bonding.
+
 ## Common Molecules
 
 [Ammonia][] is NH<sub>3</sub>. It has three covalent bonds with Hydrogen which leaves one lone electron pair (because there are 5 total valence electrons: 2s<sup>2</sup> + 2s<sup>3</sup>). This lone electron pair makes it a base because it can accept protons. Ammonia is also polar because Nitrogen is much more electronegative than Hydrogen, but also because the shape of Ammonia is pyramidal. If it was planar, the dipoles would cancel out, but the lone pair pushes the other Hydrogens out into a pyramidal structure.
@@ -388,7 +414,7 @@ A [tetrahydride][] is a group 14 element (e.g. C, Si, Ge, Sn, Pb, etc.) which is
 
 ## Organic Chemistry
 
-An [organic compound][] is an ambiguous term that historically described a compound that contains Carbon and is related to [organisms][]. An organism is an entity with the properties of [life][]. Even the traditional definition of organic was loose because Carbon Dioxide (<code>CO<sub>2</sub></code>) is considered inorganic even though it contains Carbon and is produced by some organisms. In addition, some (or perhaps all) organic compounds may be produced outside of organisms. The modern definition of organic retains these ambiguities, but in general, most Carbon-based compounds are considered organic. Carbon has four unpaired valence electrons and can create bonds in four different, equally spaced directions, allowing for a wide variety of compounds.
+An [organic compound][] is an ambiguous term that historically described a compound that contains Carbon and is related to [organisms][]. An organism is an object with the properties of [life][]. Even the traditional definition of organic was loose because Carbon Dioxide (<code>CO<sub>2</sub></code>) is considered inorganic even though it contains Carbon and is produced by some organisms. In addition, organic compounds may be synthesized outside of organisms. The modern definition of organic retains these ambiguities, but in general, most Carbon-based compounds are considered organic (with historical exceptions such as CO<sub>2</sub>). Carbon has four unpaired valence electrons and can create bonds in four different, equally spaced directions, allowing for a wide variety of compounds. Other elements can form 4 or more bonds but they are larger which limits their permutations.
 
 [Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough (2.2 and 2.55, respectively, on the [Pauling scale][]) that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore generally hydrophobic.
 
@@ -445,7 +471,7 @@ This can be simplified into the following hexagon with three double bonds where 
 
 ### Naming Organic Compounds
 
-[Greek letters][] may be used instead of numbers (in the same way that some numbered lists use <code>a, b, c, ...</code>). The first 10 Greek letters are (lower case followed by upper case):
+[Greek letters][] are sometimes used in numbered names (in the same way that some numbered lists use <code>a, b, c, ...</code>). The first 10 Greek letters are (lower case followed by upper case):
 
 1. Alpha: α Α
 1. Beta: β Β
@@ -457,13 +483,15 @@ This can be simplified into the following hexagon with three double bonds where 
 1. Theta: θ Θ
 1. Iota: ι Ι
 
-The longest linear covalently bonded chain of Hydrocarbons may be called a [backbone chain][] (or main chain or [carbon skeleton][]) from which the rest of the molecule builds off of. Any other smaller branches (in place of Hydrogens for the branch points) are called [side chains][], [substituents][], or pendant chains. Both backbone chains and side chains may be represented with the letter R (or R', R'', etc. if there are multiple), meaning root or remainder.
+The longest linear covalently bonded chain ([carbon skeleton][]) of Hydrocarbons may be called a [backbone chain][] (or main chain) from which the rest of the molecule builds off of. Any other smaller branches (in place of Hydrogens for the branch points) are called [side chains][], [substituents][], or pendant chains.
 
-A [moiety][] is a named part of a molecule which is a common pattern of atoms that may be found in many other molecules.
+Any part of a molecule may be omitted and represented with the letter R (or R', R'', etc. if there are multiple substitutable parts), meaning remainder.
+
+A [moiety][] is a part of a molecule which is a common pattern of atoms that may be found in many other molecules.
 
 The [-yl][radical suffix] suffix is used for free radicals or moieties (with an unpaired valence electron) that can be side chains substituting for a single Hydrogen on a backbone. The [-ylidene][radical suffix] suffix is the same but when substituting two Hydrogens on the backbone for a double bond. The [-ylidyne][radical suffix] is when substituting three Hydrogens on the backbone for a triple bond.
 
-An [alkane][] is an acyclic saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain (non-branched) alkane has the suffix [-ane][alkane suffix].
+An [alkane][] is an acyclic, unbranched saturated hydrocarbon. An example is [Methane][] which is CH<sub>4</sub> and is the main component of [natural gas][]. A straight-chain (non-branched) alkane has the suffix [-ane][alkane suffix].
 
 An [alkene][] (or olefin) is an unsaturated alkane with at least one C=C double bond. An [alkyne][] is an unsaturated alkane with at least one C≡C triple bond. The [position of the double or triple bond][unsaturated hydrocarbon] is written at the start of the name or before the -ene or -yne suffix. If there are more than one such bonds, the positions are comma separated (e.g. 2,4-pentadiene). A substance that's both an alkene and alkyne has the suffix -enyne.
 
@@ -539,7 +567,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting (i.e. not part of the backbone) in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
-1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy.
+1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy. Adding or removing a phosphate group are phosphorylation and dephosphorylation, respectively.
 1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with a Carbonyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 The first Carbon to which a functional group is attached is called the [1-Carbon][] or the α-Carbon. If there are multiple functional groups, generally the 1-Carbon refers to the functional group responsible for the name of the molecule.
@@ -548,17 +576,17 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 ### Macromolecules
 
-A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply a molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
+A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply an organic molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break) and produces energy. The verb is to hydrolize.
+Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break) and produces energy. The verb is to hydrolyze.
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
 # Biology
 
-Biology is the [study of life][biology history]. The definition of life is [controversial][definition of life].
+Biology (or life science) is the [study of life][biology history]. The definition of life is [controversial][definition of life].
 
-A [biomolecule][] is a molecule that's related to some biological process, often a macromolecule but also smaller molecules.
+A [biomolecule][] is generally an organic molecule that's related to some biological process, often a biomacromolecule but also small molecules.
 
 ## Carbohydrates
 
@@ -620,7 +648,7 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 
 ### Disaccharides
 
-[Disaccharides][] are carbohydrates made of Tto monosaccharides covalently donded. Also called double sugars. The covalent bond is called a glycosidic linkage.
+[Disaccharides][] are carbohydrates made of Two monosaccharides covalently bonded. Also called double sugars. The covalent bond is called a glycosidic linkage.
 
 ### Polysaccharides
 
@@ -628,11 +656,11 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 
 Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
 
-Structural polysaccharides are used by organisms to build strong structural material. Cellulose and Chitin are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form microfibrils.
+Structural polysaccharides are used by organisms to build strong structural material. Cellulose and Chitin (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form microfibrils.
 
 ## Lipids
 
-[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they form with dehydration synthesis, any repeating subunits of lipids are not directly bonded.
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they form with dehydration synthesis, any repeating subunits of lipids are not directly bonded in a chain.
 
 ### Glycerides
 
@@ -670,7 +698,7 @@ OH   O       OH   O
 A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature). An oil is mostly made of unsaturated fatty acids. A hydrogenated oil means that unsaturated fatty acids were converted to saturated fatty acids. Most double bonds in fatty acids are of the cis- isomeric form but trans fatty acids are of the trans- isomeric form.
 
 Monounsaturated fatty acids have a single double bond whereas polyunsaturated fatty acids have two or more double bonds.
-
+<!--  -->
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
 ### Phospholipids
@@ -697,9 +725,9 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ## Proteins
 
-[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched polymer of amino acid monomers bonded through peptide bonds.
+[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched chain of [peptides][] which are a polymer of two or more amino acid monomers bonded through peptide bonds (or amide bonds).
 
-An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, and one of 20 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
+An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, a Hydrogen, and one of 20 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
 
 Hydrophobic:
 
@@ -735,15 +763,42 @@ Hydrophilic + Basic (positively charged):
 
 Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus. Generally, amino acids are written and read starting at the N-terminus. The polypeptide backbone is the bonded amino acids without taking into account the side chains.
 
+Proteins are either globular (roughly spherical) or fibrous (long and thread-like). Globular proteins generally have polar side chains on the outside and are thus water soluable. Fibrous proteins are not water soluble.
+
+Proteins may be bound to lipids to create lipoproteins, to sugars to create glycoproteins, etc.
+
 The primary structure of a protein is its linear sequence of amino acids.
 
-The secondary structure of a protein is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carboxyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a coil held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between the strands.
+The secondary structure of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
 
-The tertiary structure of a protein is driven by interactions between the amino acid side chains. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
+The tertiary structure of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
 
-If a protein is made of more than one polypeptide, the quaternary structure of a protein is driven by the interactions between the polypeptides.
+If a protein is made of more than one polypeptide (dimer for two polypeptides, trimer for three, and tetramer for four), the quaternary structure of a protein is driven by the interactions between the polypeptides.
 
-A protein's shape depends on pH, salt concentration, temperature and other factors and it may become denatured and biologically inactivated if any of these factors change significantly. Excessively high fevers may be fatal because proteins may denature.
+A protein's shape depends on pH, salt concentration, temperature and other factors. Denaturation due to such factors breaks the weaker secondary, tertiary, and/or quaternary structures and may make the protein biologically inactive (i.e. unraveled). Excessively high fevers may be fatal because proteins may denature.
+
+### Enzymes
+
+Most enzymes are proteins that increase the rate of (catalyze) certain chemical reactions by reducing activation energy. The target reagents are called substrates which bind to the enzyme's active site(s). Non-active site portions of enzymes are called allosteric sites where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the -ase suffix.
+
+A cofactor is a metal ion or coenzyme which facilitates catalysis. Coenzymes are cosubstrates if it's losely bound or prosthetic groups if covalently bound. An apoenzyme is an enzyme missing a required cofactor. A holoenzyme is an active form of an enzyme with its cofactor(s).
+
+The rate of enzyme-catalyzed reactions reaches a limit called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The Michaelis constant K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
+
+Enzyme inhibitors reduce catalysis. An irreversible inhibitor covalently bonds to an active site. There are four types of reversible inhibitors:
+
+1. Competitive: molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> constant if substrate outcompetes the inhibitor, but K<sub>m</sub> increases because affinity is lower.
+1. Uncompetitive: molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
+1. Non-competitive: molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because there are fewer matching active sites, although K<sub>m</sub> is the same.
+1. Mixed inhibitors: basically the same as non-competitive but prefer one action over the other. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
+
+A sequence of enzyme-mediated reactions contains a rate-limiting reaction which is the slowest step and that regulates the pathway.
+
+Regulatory enzymes have a quaternary structure which causes a sigmoid (s-shaped) kinetic behavior instead of the Michaelis hyperbolic curve. In an allosteric enzyme, a positive or negative modulator (or effector) non-covalently bonds to allosteric sites. In the concerted (or symmetry) model, all enzymes polypeptide chains are either relaxed or tense together, whereas in the sequential model, chains may be in different states, altering the active site. A homotropic allosteric modulator is a substrate which binds to an active site which causes a change in another active site.
+
+A zymogen (or proenzyme) requires proteolysis (often by protease enzymes) to become activated.
+
+Kinases catalyze phosphorylation, whereas phosphatases catalyze dephosphorylation.
 
 ## Nucleic Acids
 
@@ -757,31 +812,234 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
   * Adenine (A)
   * Guanine (G)
 
-The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a ' as compared to the Carbons in the Nitrogenous base as a short-hand for referencing the Carbons in a nucleoside.
+The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a [prime symbol][] (') as compared to the Carbons in the Nitrogenous base.
 
-Nucleotides are linked with a dehydration synthesis between a Phosphate group and the sugars (at the 3' Hydroxyl) of two nucleotides, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
 
 Deoxyribonucleic acid (DNA) may only have A, C, T, or G Nitrogenous bases. Ribonucleic acid (RNA) may only have A, C, U, or G Nitrogenous bases.
 
-DNA has two polynucleotide strands that together create a double helix structure. The two strands run in antiparallel (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside.
+Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pair with Guanine. These are called complementary bases.
 
-Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pair with Guanine.
+DNA and RNA are negatively charged because of the phosphate groups.
+
+### RNA
 
 RNA has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
 
+### DNA
+
+DNA has two polynucleotide strands that together create a double helix structure. The two strands run in antiparallel (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside (2 for A-T and 3 for C-G).
+
+A plasmid is a circular form of double-stranded DNA.
+
 ### Genes
 
-A [gene][] is a sequence of Nitrogenous bases in a DNA molecule which provides the instructions for creating a sequence of amino acids, and thus proteins. A [genome][] is the set of all genes in an organism.
+A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which provides the instructions for creating a sequence of amino acids and ultimately proteins. A [genome][] is the set of all genes in an organism.
 
-## Cells
+A genome may be made up of one or more DNA or RNA molecules called chromosomes, and zero or more (generally) circular double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
 
-A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [membrane][] (or plasma membrane or cytoplasmic membrane), mostly filled with water. For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body]. The area inside the membrane is called intracellular and the area outside is extracellular.
+Structural proteins called Histones package chromosomes into a small area.
 
-An organism is a set of one or more cells.
+## Organisms
+
+A phenotype is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the genotype) and environmental factors that produced it. The same phenotype may be produced by multiple different genotypes.
+
+### Phylogeny
+
+[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. The top-most [taxa][] are prokaryotes and euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a nucleus around chromosomes and have membrane-bound organelles. These taxa form the main three [domains][] (which describe historical origin): archaea, bacteria, and eukarya.
+
+Both prokaryotes and eukaryotes are made of cells.
+
+### Cells
+
+A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the cytoplasm which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called cytosol. The area inside the membrane is called intracellular and the area outside is extracellular.
+
+For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
+
+#### Membranes
+
+Membranes are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
+
+Facilitated diffusion of other molecules into the cell includes ion channels which create electrochemical graients that let in cations since the cytoplasm is negatively charged.
+
+In active transport, membrane proteins called ATPase pumps use energy to change a membrane protein's confirmation so that molecules can be moved across their concentration gradients.
+
+Endocytosis occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. Exocytosis occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
+
+#### Metabolism
+
+Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy and anabolism synthesizes organic molecules using that energy (substances are bonded and heat is released).
+
+Adenosine Triphosphate (ATP) is basically the fuel of metabolism. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+
+Nicotinamide adenine dinucleotide (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
+
+Flavin adenenine dinucleotide (FAD) is another major electron carrier in cells. FAD is two nucleotides (one with an adenine base and one with a flavin base) bonded at their phosphates. Oxidized FAD is FAD and reduced FAD is FADH<sub>2</sub>.
+
+NAD and FAD may be used as essentially energy-transfer molecules.
+
+##### Cellular Respiration
+
+Cellular respiration is the process of catabolizing chemical bonds in food and transferring the energy to ATP.
+
+Respiration starts with Glycolysis which uses enzymes to break down Glucose reacting with 2 NAD<sup>+</sup>, 2 ADP, and 2 P into two molecules of 3-Carbon Pyruvate, two molecules of ATP, two molecules of NADH, water and two protons. The key steps are:
+
+1. Enzymes convert Glucose into double-phosphorylated Fructose.
+1. The Fructose is cleaved into two Glyceraldehyde 3-Phosphate (GA3P) molecules using 2 ATP.
+1. The two GA3Ps are hydrolyzed into Pyruvate molecules, creating 2 NADH and 4 ATP.
+
+Next, respiration may continue into either Aerobic respiration with Oxygen (Krebs cycle) or Anaerobic respiration without Oxygen (Fermentation).
+
+##### Fermentation
+
+Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH.
+
+Lactic acid fermentation produces two molecules of Lactate (or Lactic acid). The middle Carbonyl in Pyruvate is reduced to a Hydroxyl (from an NADH) to form Lactate and NAD<sup>+</sup> (catalyzed by Lactate Dehydrogenase).
+
+Alcoholic fermentation also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
+
+##### Citric Acid Cycle
+
+The Citric Acid Cycle (or Krebs cycle) uses Acetyl CoA to produce ATP, CO<sub>2</sub>, NADH, and FADH<sub>2</sub>.
+
+##### Electron Transport Chain
+
+The Electron Transport Chain (or Oxidative Phosphorylation) uses NADH and FADH<sub>2</sub> to produce ATP and H<sub>2</sub>O.
+
+##### Gluconeogenesis
+
+Gluconeogensis is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
+
+Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
+
+### Prokaryotes
+
+Prokaryotes are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, peptidoglycan cell wall. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
+
+#### Bacteria
+
+Bacteria are prokaryotes with both a cell wall and an inner membrane. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+
+Chemotaxis occurs when bacteria move based on a chemical stimulus.
+
+Bacteria reproduce through binary fission where the child cell has the same genes (plus any mutations). However, one bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
+
+1. Transformation: When one bacterium dies, pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
+1. Transduction: A virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
+1. Conjugation: Transfer of genes between a bacterium with F-factor (fertility factor) and another bacterium through direct contact through a pilus.
+1. Transposition: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
+
+Quorum sensing occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
+
+### Eukaryotes
+
+Eukaryotes are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes.
+
+Most eukaryotes are diploid meaning they have one copy of each chromosome, although polyploids exist that have two or more.
+
+#### Cell Nucleus
+
+The cell nucleus is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
+
+#### Ribosomes
+
+Ribosomes are not organelles but are structures in the cytoplasm involved in protein synthesis.
+
+#### Endoplasmic Reticulum
+
+The endoplasmic reticulum (ER) is a network of membrane-enclosed spaces. The area inside the membrane is called the lumen. The rough endoplasmic reticulum has ribosomes on the outside of its membrane and is involved in protein synthesis. The smooth endoplasmic reticulum does not have ribosomes on the outside of its membrane and is involved in lipid synthesis and detoxification.
+
+#### Golgi Apparatus
+
+The golgi apparatus is a stack of membrane-enclosed sacs. Stacks closer to the ER are called the cis Golgi, and stacks closer to the cell membrane are called trans Golgi. When the ER synthesizes a protein, it's placed in a containing vesicle which bulges on the outside of the ER. These vesicles fuse with the cis Golgi. The cis Golgi then modifies and repackages the proteins and passes them on to the next layer of the Golgi stack. Once the protein reaches the trans Golgi, proteins are sorted for their final destination.
+
+#### Lysosomes
+
+Lysosomes use hydrolytic enzymes to break down proteins, carbohydrates, and nucleic acids. Lysosomes have an acidic pH of 5.
+
+#### Peroxisomes
+
+Peroxisomes use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
+
+#### Mitochondria
+
+Mitochondria are the site of aerobic respiration and thus produce most of the energy in the cell. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix. Mitochondria contain their own circular DNA and ribosomes. The endosymiotic hypothesis is the idea that Mitochondria fused with eukaryotes to provide the energy and receive nutrients and protection in return.
+
+#### Vacuoles
+
+Vacuoles are membrane-enclosed sacs used to store waste products and help maintain structure.
+
+#### Hormones
+
+Hormones are chemical signals part of the endocrine system that are synthesized by special cells and help coordinate an organismic response by traveling through a eukaryote in a fluid to receptor cells.
+
+Steroids are hormones that are lipids with cholesterol-based structures which can pass through a cell membrane and may act as a transcription factor on DNA.
+
+#### Plants
+
+Plants are autotrophs or self-feeders, meaning they generate their own chemical energy from sunlight through the process of photosynthesis. Photosynthesis produces Glucose which can then be burned in mitochondria to make Adenosinetriphosphate (ATP) which is used to drive anabolic processes.
+
+Unlike animals, plants have a cell wall made of cellulose.
+
+Phototropism is the directional growth of plants towards light.
+
+##### Vascular Plants
+
+Vascular plants (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches. Angiosperms have flowering seeds whereas gymnosperms have naked seeds.
+
+Leaves perform photosynthesis. Monocot leaves are narrow with veins that run parallel to the length of the leaf. Dicot leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
+
+Roots provide support in soil and uptake of water and minerals. Taproots have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria (such as legumes and Rhizobium) to increase surface area to acquire resources. Rooted plants help an area avoid erosion.
+
+Branches hold leaves to the light and transport water and nutrients between the roots and leaves.
+
+##### Terrestrial Plants
+
+Terrestrial plants are related to the land, although they may be partly in water. Their leaves have a waxy covering called a cuticle which reduces evaporation because of its hydrophibicity.
+
+The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. Guard cells open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+
+Meristems are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
+
+##### Chloroplasts
+
+Chloroplasts in leaves use chlorophyll to perform photosynthesis which uses radiation from the Sun to produce Glucose. Chloroplasts have an outer and inner phospholipid bilayer membrane. Sacs derived from the inner membrane called thlakoids combine to form grana. The fluid inside the gama is the stroma. The thylakoid membranes contain the chlorophyll. Like Mitochondria, Chloroplasts contain their own DNA and ribosomes.
+
+The palisade layer contains other cells that perform photosynthesis.
+
+#### Mammals
+
+##### Neurons
+
+Neurons (or nerve cells) is the basic unit of the mammalian nervous system. The central nervous system includes the brain and spinal cord.
+
+##### Humans
+
+Most human enzymes act optimally at a temperature of 37 °C / 98.6 °F.
+
+###### Immune System
+
+The non-specific immune system fights general infections whereas the specific immune system creates immunity by having a "memory" that attacks particular infections.
+
+Antibodies (or immunoglobulins) are produced by B cells. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+
+## Viruses
+
+Viruses have DNA or RNA but do not have a membrane or organelles. Instead, viruses surround their nucleic acids with a protein shell called a capsid. Viruses reproduce by injecting their genes into an existing cell. Glycoproteins on the capsid help to bind with surface proteins on a target cell.
+
+Viruses that infect bacteria are called bacteriophages (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
+
+A lytic virus causes a cell to ultimately burst and die, whereas a lysogenic virus is integrated permanently without killing the cell.
 
 ## History of Life
 
-Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The first prokaryotes existed at least [2 to 3.5 billion years ago][origins of life]. The first eukaryotes existed at least [2 billion years ago][origins of life]. The first land-based eukaryotes existed at least [1.3 billion years ago][history of life]. The split of plants and animals occurred at least [1 billion years ago][origins of life].
+Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The first prokaryotes existed at least [2 to 3.5 billion years ago][origins of life]. The first eukaryotes existed at least [2 billion years ago][origins of life]. The first multi-cellular eukaryotes existed at least [1.2 billion years ago][kaplan ap biology 2017]. The first land-based eukaryotes existed at least [1.3 billion years ago][history of life]. The split of plants and animals occurred at least [1 billion years ago][origins of life].
+
+## Evolution
+
+Evolution is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc. The process of natural selection states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
+
+Stabilizing selection eliminates phenotypes at the extremes of a population characteristic. Directional selection favors one extreme of a population characteristic. Disruptive selection (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
 # Feedback
 
@@ -887,6 +1145,7 @@ if (elements.length) {
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [aryl]: https://en.wikipedia.org/wiki/Aryl
+[ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
@@ -895,6 +1154,7 @@ if (elements.length) {
 [atoms]: https://en.wikipedia.org/wiki/Atoms
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
+[atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [benzene]: https://en.wikipedia.org/wiki/Benzene
@@ -932,6 +1192,7 @@ if (elements.length) {
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
+[conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
@@ -940,6 +1201,7 @@ if (elements.length) {
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
@@ -955,6 +1217,7 @@ if (elements.length) {
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
 [distance]: https://en.wikipedia.org/wiki/Distance
+[domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
@@ -1038,7 +1301,11 @@ if (elements.length) {
 [hydrophobic]: https://en.wikipedia.org/wiki/Hydrophobic
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
+[hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
+[hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
+[ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -1051,9 +1318,12 @@ if (elements.length) {
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [isomers]: https://en.wikipedia.org/wiki/Isomer
+[isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
+[ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [joules]: https://en.wikipedia.org/wiki/Joule
+[kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
@@ -1123,11 +1393,14 @@ if (elements.length) {
 [organisms]: https://en.wikipedia.org/wiki/Organism
 [organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
+[osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
+[peptides]: https://en.wikipedia.org/wiki/Peptide
+[per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
@@ -1137,6 +1410,7 @@ if (elements.length) {
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [photon]: https://en.wikipedia.org/wiki/Photon
+[phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
@@ -1145,10 +1419,11 @@ if (elements.length) {
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
-[polypeptide]: https://en.wikipedia.org/wiki/Peptide
+[polypeptides]: https://en.wikipedia.org/wiki/Peptide
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
@@ -1199,6 +1474,8 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[taxa]: https://en.wikipedia.org/wiki/Taxon
+[taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
@@ -1209,6 +1486,7 @@ if (elements.length) {
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [time]: https://en.wikipedia.org/wiki/Time
+[traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
@@ -1230,6 +1508,7 @@ if (elements.length) {
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vibration]: https://en.wikipedia.org/wiki/Vibration
+[vibrio]: https://en.wikipedia.org/wiki/Vibrio
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
