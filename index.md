@@ -206,7 +206,7 @@ A [chemical substance][] is a set of one or more elements, molecules or compound
 
 [![substance terms](images/substance_terms.png)](images/substance_terms.png)
 
-A [mixture][] is a combination of different substances which cannot be separated through physical means. Therefore, an object is either a substance or a mixture. A mixture is [homogenous][homogenous mixture] if its substances have the same proportions throughout (e.g. air), or otherwise [heterogeneous][heterogeneous mixture].
+A [mixture][] is a combination of different substances. A mixture is [homogenous][homogenous mixture] if its substances have the same proportions throughout (e.g. air), or otherwise [heterogeneous][heterogeneous mixture].
 
 A [molecular entity][] is a single instance of a part or whole of a molecule, such as an atom, ion, or molecule. A set of identical molecular entities (in other words, a class of molecular entities) is a [chemical species][]. For example, a single water molecule is a molecular entity, but all the instances of a water molecule in some context is a chemical species. Relatedly, an [elementary entity][] is similar to a molecular entity but may also be an electron, particle, or group of particles.
 
@@ -1048,7 +1048,11 @@ Stabilizing selection eliminates phenotypes at the extremes of a population char
 
 # Laboratory Techniques
 
-[Gel Electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
+[Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
+
+Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [hybridization][] or annealing.
+
+A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. First, [restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. Next, the DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
 
 # Feedback
 
@@ -1304,6 +1308,8 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
+[hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
+[hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
 [hydride]: https://en.wikipedia.org/wiki/Hydride
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
 [hydrocarbons non-polar]: http://goldbook.iupac.org/html/F/F02555.html
@@ -1388,6 +1394,7 @@ if (elements.length) {
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
+[nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
@@ -1450,6 +1457,7 @@ if (elements.length) {
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [redox]: https://en.wikipedia.org/wiki/Redox
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
+[restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
 [s process]: https://en.wikipedia.org/wiki/S-process
@@ -1468,6 +1476,7 @@ if (elements.length) {
 [solute]: https://en.wikipedia.org/wiki/Solution
 [solution]: https://en.wikipedia.org/wiki/Solution
 [solvent]: https://en.wikipedia.org/wiki/Solvent
+[southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
