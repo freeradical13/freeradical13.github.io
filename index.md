@@ -966,9 +966,17 @@ Lysosomes use hydrolytic enzymes to break down proteins, carbohydrates, and nucl
 
 Peroxisomes use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
 
+#### Energy Generation
+
+Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mithocondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return.
+
 #### Mitochondria
 
-Mitochondria are the site of aerobic respiration and thus produce most of the energy in the cell. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix. Mitochondria contain their own circular DNA and ribosomes. The endosymiotic hypothesis is the idea that Mitochondria fused with eukaryotes to provide the energy and receive nutrients and protection in return.
+Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix. Mitochondria contain their own circular DNA and ribosomes.
+
+#### Chloroplasts
+
+[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] in the thylakoid membranes absorbs light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
 
 #### Vacuoles
 
@@ -982,7 +990,7 @@ Steroids are hormones that are lipids with cholesterol-based structures which ca
 
 #### Plants
 
-Plants are autotrophs or self-feeders, meaning they generate their own chemical energy from sunlight through the process of photosynthesis. Photosynthesis produces Glucose which can then be burned in mitochondria to make Adenosinetriphosphate (ATP) which is used to drive anabolic processes.
+Plants are autotrophs or self-feeders, meaning they generate their own chemical energy from sunlight through the process of photosynthesis.
 
 Unlike animals, plants have a cell wall made of cellulose.
 
@@ -1019,6 +1027,8 @@ The palisade layer contains other cells that perform photosynthesis.
 Neurons (or nerve cells) is the basic unit of the mammalian nervous system. The central nervous system includes the brain and spinal cord.
 
 ##### Humans
+
+About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of 37 °C / 98.6 °F.
 
@@ -1196,6 +1206,7 @@ if (elements.length) {
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
+[calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [celsius]: https://en.wikipedia.org/wiki/Celsius
@@ -1211,6 +1222,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
+[chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
@@ -1270,6 +1282,7 @@ if (elements.length) {
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
 [endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
+[endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
@@ -1306,6 +1319,7 @@ if (elements.length) {
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
+[grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
@@ -1386,6 +1400,7 @@ if (elements.length) {
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
+[mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -1445,6 +1460,7 @@ if (elements.length) {
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [photon]: https://en.wikipedia.org/wiki/Photon
+[photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
@@ -1505,6 +1521,7 @@ if (elements.length) {
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
+[stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [substituents]: https://en.wikipedia.org/wiki/Substituent
@@ -1528,6 +1545,7 @@ if (elements.length) {
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [thiols]: https://en.wikipedia.org/wiki/Thiol
+[thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [time]: https://en.wikipedia.org/wiki/Time
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
