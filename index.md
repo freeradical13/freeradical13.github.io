@@ -1062,6 +1062,8 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 [Polymerase chain reaction][] (PCR) exponentially replicates DNA sequences using heat cycles. Synthesized DNA primers target the beginning and end sequences of the desired DNA for replication. Heat is increased until double-stranded DNA is split into single strands. Heat is lowered and the primers anneal to the 3' ends of the single strands. DNA polymerase (such as [Taq][]) duplicates the two primed strands. Heat is increased to start the cycle again, and given enough nucleotide materials, the sequences keep doubling through each cycle.
 
+An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
+
 # Feedback
 
 [Ask a Question or Contribute][issues]
@@ -1258,6 +1260,7 @@ if (elements.length) {
 [electronegativity]: https://en.wikipedia.org/wiki/Electronegativity
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrophile]: https://en.wikipedia.org/wiki/Electrophile
+[electrophoretic mobility shift assay]: https://en.wikipedia.org/wiki/Electrophoretic_mobility_shift_assay
 [electrovalent bond]: https://en.wikipedia.org/wiki/Ionic_bonding
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elementary entity]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
