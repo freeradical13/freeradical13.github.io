@@ -1052,7 +1052,11 @@ Stabilizing selection eliminates phenotypes at the extremes of a population char
 
 Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [hybridization][] or annealing.
 
-A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. First, [restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. Next, the DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
+A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. First, [restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. Next, the DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
+
+A [Northern blot][] is similar to a Southern blot, but it's for RNA.
+
+A [Western blot][] is similar to a Southern or Northern blot, but it's for proteins, and antibodies are used as the hybridization probe.
 
 # Feedback
 
@@ -1398,11 +1402,13 @@ if (elements.length) {
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
+[northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
+[nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
@@ -1545,3 +1551,4 @@ if (elements.length) {
 [waxes]: https://en.wikipedia.org/wiki/Wax
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
+[western blot]: https://en.wikipedia.org/wiki/Western_blot
