@@ -1302,7 +1302,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
-[fight against entropy]: https://link.springer.com/chapter/10.1007%2F978-0-387-84925-6_3
+[fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
