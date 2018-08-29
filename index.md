@@ -1048,15 +1048,19 @@ Stabilizing selection eliminates phenotypes at the extremes of a population char
 
 # Laboratory Techniques
 
+[In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
+
 [Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
 
 Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [hybridization][] or annealing.
 
-A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. First, [restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. Next, the DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
+A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. [Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. The DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
 
 A [Northern blot][] is similar to a Southern blot, but it's for RNA.
 
 A [Western blot][] is similar to a Southern or Northern blot, but it's for proteins, and antibodies are used as the hybridization probe.
+
+[Polymerase chain reaction][] (PCR) exponentially replicates DNA sequences using heat cycles. Synthesized DNA primers target the beginning and end sequences of the desired DNA for replication. Heat is increased until double-stranded DNA is split into single strands. Heat is lowered and the primers anneal to the 3' ends of the single strands. DNA polymerase (such as [Taq][]) duplicates the two primed strands. Heat is increased to start the cycle again, and given enough nucleotide materials, the sequences keep doubling through each cycle.
 
 # Feedback
 
@@ -1329,6 +1333,8 @@ if (elements.length) {
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[in vitro]: https://en.wikipedia.org/wiki/In_vitro
+[in vivo]: https://en.wikipedia.org/wiki/In_vivo
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -1445,6 +1451,7 @@ if (elements.length) {
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polymer]: https://en.wikipedia.org/wiki/Polymer
+[polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
@@ -1505,6 +1512,7 @@ if (elements.length) {
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
+[taq]: https://en.wikipedia.org/wiki/Taq_polymerase
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
