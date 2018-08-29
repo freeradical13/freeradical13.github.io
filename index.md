@@ -648,7 +648,7 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 
 ### Disaccharides
 
-[Disaccharides][] are carbohydrates made of Two monosaccharides covalently bonded. Also called double sugars. The covalent bond is called a glycosidic linkage.
+[Disaccharides][] are carbohydrates made of Two monosaccharides through a covalent bond called a glycosidic linkage. Also called double sugars.
 
 ### Polysaccharides
 
@@ -660,7 +660,7 @@ Structural polysaccharides are used by organisms to build strong structural mate
 
 ## Lipids
 
-[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polmers because although they form with dehydration synthesis, any repeating subunits of lipids are not directly bonded in a chain.
+[Lipids][] are a broad category of biomolecules which are mostly hydrocarbons and are only soluble in non-polar solvents (i.e. hydrophobic). Lipids are not polymers because although they form with dehydration synthesis, any repeating subunits of lipids are not directly bonded in a chain.
 
 ### Glycerides
 
@@ -725,9 +725,9 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ## Proteins
 
-[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched chain of [peptides][] which are a polymer of two or more amino acid monomers bonded through peptide bonds (or amide bonds).
+[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched chain of [peptides][] which are a polymer of two or more amino acid monomers bonded through covalent bonds called peptide bonds (or amide bonds).
 
-An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, a Hydrogen, and one of 20 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
+An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, a Hydrogen, and one of 21 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
 
 Hydrophobic:
 
@@ -749,6 +749,7 @@ Hydrophilic:
 * Tyrosine (Y/Tyr)
 * Asparagine (N/Asn)
 * Glutamine (Q/Gln)
+* Selenocysteine (U/Sec)
 
 Hydrophilic + Acidic (negatively charged):
 
@@ -814,7 +815,7 @@ Kinases catalyze phosphorylation, whereas phosphatases catalyze dephosphorylatio
 
 The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a [prime symbol][] (') as compared to the Carbons in the Nitrogenous base.
 
-Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a covalent bond called a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
 
 Deoxyribonucleic acid (DNA) may only have A, C, T, or G Nitrogenous bases. Ribonucleic acid (RNA) may only have A, C, U, or G Nitrogenous bases.
 
@@ -824,7 +825,7 @@ DNA and RNA are negatively charged because of the phosphate groups.
 
 ### RNA
 
-RNA has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
+RNA usually has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
 
 ### DNA
 
@@ -843,6 +844,8 @@ Structural proteins called Histones package chromosomes into a small area.
 ## Organisms
 
 A phenotype is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the genotype) and environmental factors that produced it. The same phenotype may be produced by multiple different genotypes.
+
+An [autotroph][] is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] cannot produce its own food so it must consume autotrophs or their products.
 
 ### Phylogeny
 
@@ -868,9 +871,9 @@ Endocytosis occurs when the membrane invaginates, creating a pocket into which e
 
 #### Metabolism
 
-Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy and anabolism synthesizes organic molecules using that energy (substances are bonded and heat is released).
+Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
 
-Adenosine Triphosphate (ATP) is basically the fuel of metabolism. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+Adenosine Triphosphate (ATP) is a coenzyme that often powers endergonic reactions; often called the currency of energy in metabolism. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
 Nicotinamide adenine dinucleotide (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
 
@@ -880,7 +883,9 @@ NAD and FAD may be used as essentially energy-transfer molecules.
 
 ##### Cellular Respiration
 
-Cellular respiration is the process of catabolizing chemical bonds in food and transferring the energy to ATP.
+Cellular respiration is the process of catabolizing chemical bonds in food (such as Glucose) and transferring the energy to ATP.
+
+##### Glycolysis
 
 Respiration starts with Glycolysis which uses enzymes to break down Glucose reacting with 2 NAD<sup>+</sup>, 2 ADP, and 2 P into two molecules of 3-Carbon Pyruvate, two molecules of ATP, two molecules of NADH, water and two protons. The key steps are:
 
@@ -1155,6 +1160,7 @@ if (elements.length) {
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
+[autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [benzene]: https://en.wikipedia.org/wiki/Benzene
@@ -1287,6 +1293,7 @@ if (elements.length) {
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
@@ -1419,7 +1426,7 @@ if (elements.length) {
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
-[polypeptides]: https://en.wikipedia.org/wiki/Peptide
+[polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
