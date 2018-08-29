@@ -414,7 +414,9 @@ A [tetrahydride][] is a group 14 element (e.g. C, Si, Ge, Sn, Pb, etc.) which is
 
 ## Organic Chemistry
 
-An [organic compound][] is an ambiguous term that historically described a compound that contains Carbon and is related to [organisms][]. An organism is an object with the properties of [life][]. Even the traditional definition of organic was loose because Carbon Dioxide (<code>CO<sub>2</sub></code>) is considered inorganic even though it contains Carbon and is produced by some organisms. In addition, organic compounds may be synthesized outside of organisms. The modern definition of organic retains these ambiguities, but in general, most Carbon-based compounds are considered organic (with historical exceptions such as CO<sub>2</sub>). Carbon has four unpaired valence electrons and can create bonds in four different, equally spaced directions, allowing for a wide variety of compounds. Other elements can form 4 or more bonds but they are larger which limits their permutations.
+An [organic compound][] is an ambiguous term that describes a compound that contains Carbon and is related to [organisms][]. An organism is an object with the properties of [life][]. The definition of life is [controversial][definition of life]. The physicist [Erwin Schrödinger][] proposed that the key element of life is the [fight against entropy][].
+
+The original definition of organic was loose because Carbon Dioxide (<code>CO<sub>2</sub></code>) is considered inorganic even though it contains Carbon and is produced by some organisms. In addition, organic compounds may be synthesized outside of organisms. The modern definition of organic retains these ambiguities, but in general, most Carbon-based compounds are considered organic (with exceptions such as CO<sub>2</sub> sustained for historical reasons). Carbon has four unpaired valence electrons and can create bonds in four different, equally spaced directions, allowing for a wide variety of compounds. Other elements can form 4 or more bonds but they are larger which limits their permutations.
 
 [Hydrocarbons][] are organic molecules composed of Carbon and Hydrogen atoms. The electronegativities between Hydrogen and Carbon are close enough (2.2 and 2.55, respectively, on the [Pauling scale][]) that [hydrocarbons are generally considered non-polar][hydrocarbons non-polar] and therefore generally hydrophobic.
 
@@ -584,7 +586,7 @@ A [macromolecule][] is a large molecule, often a large polymer.
 
 # Biology
 
-Biology (or life science) is the [study of life][biology history]. The definition of life is [controversial][definition of life].
+Biology (or life science) is the [study of life][biology history].
 
 A [biomolecule][] is generally an organic molecule that's related to some biological process, often a biomacromolecule but also small molecules.
 
@@ -1289,9 +1291,10 @@ if (elements.length) {
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
-[ethanol]: https://en.wikipedia.org/wiki/Ethanol
+[erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
+[ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
@@ -1299,6 +1302,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[fight against entropy]: https://link.springer.com/chapter/10.1007%2F978-0-387-84925-6_3
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
