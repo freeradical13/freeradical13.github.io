@@ -841,7 +841,9 @@ A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which pro
 
 A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called [plasmids][] (usually circular). Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
 
-Structural proteins called [Histones][] may attach to chromosomes to pack them into a smaller area. The combination of chromosomes and any histones is called [Chromatin][].
+Chromosomes are coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
+
+A chromosome and any histones is called [Chromatin][].
 
 ## Organisms
 
@@ -927,10 +929,10 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 1. Interphase:
   1. G<sub>1</sub>: Cell grows.
-  1. S (synthesis): Cell grows. The chromatin is duplicated.
+  1. S (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
   1. G<sub>2</sub>: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
 1. M (mitosis): Cell divides
-  1. Prophase: Chromatin becomes more tightly coiled and each pair of duplicated chromosome attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+  1. Prophase: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
   1. Prometaphase: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
   1. Metaphase: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
   1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
@@ -1324,6 +1326,7 @@ if (elements.length) {
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
+[euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
@@ -1364,9 +1367,10 @@ if (elements.length) {
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hertz]: https://en.wikipedia.org/wiki/Hertz
+[heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
-[histones]: https://en.wikipedia.org/wiki/Histone
+[histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
@@ -1473,6 +1477,7 @@ if (elements.length) {
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
+[nucleosome]: https://en.wikipedia.org/wiki/Nucleosome
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
