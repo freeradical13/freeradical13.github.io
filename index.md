@@ -851,7 +851,7 @@ An [autotroph][] is a self-feeding organism and produces its own organic compoun
 
 ### Phylogeny
 
-[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. The top-most [taxa][] are prokaryotes and euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a nucleus around chromosomes and have membrane-bound organelles. These taxa form the main three [domains][] (which describe historical origin): archaea, bacteria, and eukarya.
+[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of [taxa][] (singular taxon). The top-most taxa are [prokaryotes][] and [euykaryotes][]. Prokaryotes are subdivided into [Archaea][] and [Bacteria][]. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes. These taxa form the main three [domains][] (which describe historical origin): bacteria, archaea, and eukarya.
 
 Both prokaryotes and eukaryotes are made of cells.
 
@@ -921,7 +921,20 @@ Glucose may also be formed by catabolizing polysaccharides such as Starch and Gl
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+
+Some cells cycle through one of a few states called a [cell cycle][]:
+
+1. Interphase:
+  1. G<sub>1</sub>: Cell grows.
+  1. S (synthesis): Cell grows. The chromatin is duplicated.
+  1. G<sub>2</sub>: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+1. M (mitosis): Cell divides
+  1. Prophase: Chromatin becomes more tightly coiled and each pair of duplicated chromosome attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+  1. Prometaphase: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
+  1. Metaphase: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
+  1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
+  1. Telophase: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
 
 ### Prokaryotes
 
@@ -1182,9 +1195,11 @@ if (elements.length) {
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
+[archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [aryl]: https://en.wikipedia.org/wiki/Aryl
+[asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
@@ -1198,6 +1213,7 @@ if (elements.length) {
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
+[bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
@@ -1215,7 +1231,11 @@ if (elements.length) {
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
+[cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
 [celsius]: https://en.wikipedia.org/wiki/Celsius
+[centrioles]: https://en.wikipedia.org/wiki/Centriole
+[centromere]: https://en.wikipedia.org/wiki/Centromere
+[centrosome]: https://en.wikipedia.org/wiki/Centrosome
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
@@ -1229,9 +1249,11 @@ if (elements.length) {
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
+[chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
+[cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
@@ -1302,6 +1324,7 @@ if (elements.length) {
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
+[eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
@@ -1309,6 +1332,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
@@ -1387,6 +1411,7 @@ if (elements.length) {
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
+[kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
@@ -1417,6 +1442,7 @@ if (elements.length) {
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
+[mitotic spindle]: https://en.wikipedia.org/wiki/Spindle_apparatus
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -1494,6 +1520,7 @@ if (elements.length) {
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
+[prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
