@@ -1046,6 +1046,10 @@ Evolution is the change of gene frequencies in a population over time. These cha
 
 Stabilizing selection eliminates phenotypes at the extremes of a population characteristic. Directional selection favors one extreme of a population characteristic. Disruptive selection (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
+# Laboratory Techniques
+
+[Gel Electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
+
 # Feedback
 
 [Ask a Question or Contribute][issues]
@@ -1126,6 +1130,7 @@ if (elements.length) {
 [acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [adduct]: https://en.wikipedia.org/wiki/Adduct
+[agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [algebra]: https://www.khanacademy.org/math/algebra
@@ -1278,6 +1283,7 @@ if (elements.length) {
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gas]: https://en.wikipedia.org/wiki/Gas
+[gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [genome]: https://en.wikipedia.org/wiki/Genome
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
@@ -1424,6 +1430,7 @@ if (elements.length) {
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
+[polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
@@ -1449,6 +1456,7 @@ if (elements.length) {
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
+[sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
@@ -1481,8 +1489,10 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
+[tbe]: https://en.wikipedia.org/wiki/TBE_buffer
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
