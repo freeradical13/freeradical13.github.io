@@ -839,9 +839,9 @@ A plasmid is a circular form of double-stranded DNA.
 
 A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which provides the instructions for creating a sequence of amino acids and ultimately proteins. A [genome][] is the set of all genes in an organism.
 
-A genome may be made up of one or more DNA or RNA molecules called chromosomes, and zero or more (generally) circular double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
+A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called [plasmids][] (usually circular). Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
 
-Structural proteins called Histones package chromosomes into a small area.
+Structural proteins called [Histones][] may attach to chromosomes to pack them into a smaller area. The combination of chromosomes and any histones is called [Chromatin][].
 
 ## Organisms
 
@@ -919,6 +919,10 @@ Gluconeogensis is the process of anabolizing Glucose from non-Carbohydrate subst
 
 Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
 
+#### Cell Division
+
+Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+
 ### Prokaryotes
 
 Prokaryotes are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, peptidoglycan cell wall. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
@@ -970,11 +974,11 @@ Peroxisomes use oxidative enzymes that catalyze reactions in which Hydrogen Pero
 
 #### Energy Generation
 
-Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mithocondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return.
+Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mithocondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
 
 #### Mitochondria
 
-Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix. Mitochondria contain their own circular DNA and ribosomes.
+Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
 
 #### Chloroplasts
 
@@ -1225,6 +1229,8 @@ if (elements.length) {
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
+[chromatin]: https://en.wikipedia.org/wiki/Chromatin
+[chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
@@ -1240,6 +1246,7 @@ if (elements.length) {
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
@@ -1314,12 +1321,14 @@ if (elements.length) {
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
+[gametes]: https://en.wikipedia.org/wiki/Gamete
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [genome]: https://en.wikipedia.org/wiki/Genome
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
+[germline]: https://en.wikipedia.org/wiki/Germline
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
@@ -1333,6 +1342,7 @@ if (elements.length) {
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
+[histones]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
@@ -1398,6 +1408,7 @@ if (elements.length) {
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[meiosis]: https://en.wikipedia.org/wiki/Meiosis
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
@@ -1405,6 +1416,7 @@ if (elements.length) {
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
+[mitosis]: https://en.wikipedia.org/wiki/Mitosis
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -1470,6 +1482,7 @@ if (elements.length) {
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
+[plasmids]: https://en.wikipedia.org/wiki/Plasmid
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
@@ -1512,6 +1525,7 @@ if (elements.length) {
 [solute]: https://en.wikipedia.org/wiki/Solution
 [solution]: https://en.wikipedia.org/wiki/Solution
 [solvent]: https://en.wikipedia.org/wiki/Solvent
+[somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
