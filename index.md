@@ -923,7 +923,7 @@ Glucose may also be formed by catabolizing polysaccharides such as Starch and Gl
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
@@ -977,7 +977,7 @@ The endoplasmic reticulum (ER) is a network of membrane-enclosed spaces. The are
 
 #### Golgi Apparatus
 
-The golgi apparatus is a stack of membrane-enclosed sacs. Stacks closer to the ER are called the cis Golgi, and stacks closer to the cell membrane are called trans Golgi. When the ER synthesizes a protein, it's placed in a containing vesicle which bulges on the outside of the ER. These vesicles fuse with the cis Golgi. The cis Golgi then modifies and repackages the proteins and passes them on to the next layer of the Golgi stack. Once the protein reaches the trans Golgi, proteins are sorted for their final destination.
+The [golgi apparatus][] is a stack of membrane-enclosed sacs called cisternae. Stacks closer to the ER are called the cis cisternae, and stacks closer to the cell membrane are called trans cisternae. When the ER synthesizes a protein, it's placed in a containing vesicle which bulges on the outside of the ER. These vesicles pass to and fuse with the cis cisternae. The cis cisternae then modifies and repackages the proteins and passes them on through the next layers of the golgi apparatus. Once the protein reaches the trans cisternae, proteins are sorted for their final destination.
 
 #### Lysosomes
 
@@ -1040,6 +1040,17 @@ Meristems are self-renewing cells that replicate to increase the height of the p
 Chloroplasts in leaves use chlorophyll to perform photosynthesis which uses radiation from the Sun to produce Glucose. Chloroplasts have an outer and inner phospholipid bilayer membrane. Sacs derived from the inner membrane called thlakoids combine to form grana. The fluid inside the gama is the stroma. The thylakoid membranes contain the chlorophyll. Like Mitochondria, Chloroplasts contain their own DNA and ribosomes.
 
 The palisade layer contains other cells that perform photosynthesis.
+
+### DNA Protein Synthesis
+
+In eukaryotes:
+
+1. At a sequence of nucleotides called the promoter (sequence TATA), RNA polymerase II and transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
+1. Transcription: The 3' strand of DNA (called the template strand; the 5' non-template strand is called the coding strand) synthesizes a complementary RNA molecule called pre-messenger RNA (pre-mRNA). Nucleotides are transcribed to the 3' end.
+1. Once RNA polymerase II transcribes the polyadenylation sequence (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
+1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the poly-A tail.
+1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a spliceosome made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
+1. Translation: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
 
 #### Mammals
 
@@ -1169,6 +1180,7 @@ if (elements.length) {
 </script>
 
 [1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
+[5' cap]: https://en.wikipedia.org/wiki/Five-prime_cap
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -1359,6 +1371,7 @@ if (elements.length) {
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
+[golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
@@ -1631,3 +1644,4 @@ if (elements.length) {
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
+[zygote]: https://en.wikipedia.org/wiki/Zygote
