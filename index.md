@@ -280,16 +280,17 @@ Reactions that don't require input energy are called [spontaneous][spontaneous r
 Reactions that require input energy are [endergonic][] (positive ΔG):
 
 <pre>
-        Endergonic
- ⎪
-E⎪
-n⎪           ____
-e⎪          /    \________
-r⎪         /      products
-g⎪________/
-y⎪reagents
- ⎪________________________
-           Time
+      Endergonic Reaction
+   ⎪
+ E ⎪
+ n ⎪           ____
+ e ⎪          /    \________ 
+ r ⎪         /      products 
+ g ⎪________/
+ y ⎪reagents
+   ⎪________________________ 
+
+             Time
 </pre>
 
 A coupled reaction is when the energy released by an exergonic reaction drives an endergonic reaction.
@@ -928,15 +929,15 @@ Both prokyarotes and eukaryotes perform cell division to replicate themselves un
 Some cells cycle through one of a few states called a [cell cycle][]:
 
 1. Interphase:
-  1. G<sub>1</sub>: Cell grows.
-  1. S (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
-  1. G<sub>2</sub>: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+    1. G<sub>1</sub>: Cell grows.
+    1. S (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
+    1. G<sub>2</sub>: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
 1. M (mitosis): Cell divides
-  1. Prophase: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
-  1. Prometaphase: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
-  1. Metaphase: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
-  1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
-  1. Telophase: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
+    1. Prophase: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+    1. Prometaphase: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
+    1. Metaphase: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
+    1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
+    1. Telophase: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
 
 ### Prokaryotes
 
@@ -987,27 +988,23 @@ Lysosomes use hydrolytic enzymes to break down proteins, carbohydrates, and nucl
 
 Peroxisomes use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
 
-#### Energy Generation
-
-Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mithocondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
-
-#### Mitochondria
-
-Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
-
-#### Chloroplasts
-
-[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] in the thylakoid membranes absorbs light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
-
 #### Vacuoles
 
 Vacuoles are membrane-enclosed sacs used to store waste products and help maintain structure.
 
 #### Hormones
 
-Hormones are chemical signals part of the endocrine system that are synthesized by special cells and help coordinate an organismic response by traveling through a eukaryote in a fluid to receptor cells.
+Hormones are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
 
 Steroids are hormones that are lipids with cholesterol-based structures which can pass through a cell membrane and may act as a transcription factor on DNA.
+
+#### Energy Generation
+
+Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
+
+#### Mitochondria
+
+Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
 
 #### Plants
 
@@ -1016,6 +1013,32 @@ Plants are autotrophs or self-feeders, meaning they generate their own chemical 
 Unlike animals, plants have a cell wall made of cellulose.
 
 Phototropism is the directional growth of plants towards light.
+
+#### Chloroplasts
+
+[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
+
+Plants have leaves which include mesophyll cells that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
+
+The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>O + Light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> + 6H<sub>2</sub>O</code>
+
+The reaction is endergonic and light provides the needed energy.
+
+Steps of photosynthesis:
+
+1. Light reactions:
+    1. In the membrane of the thylakoid, substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
+    1. Chlorophyll and proteins combine in the thylakoid membrane into photosystems. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the reaction-center complex where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are Photosystem II (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
+    1. After the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, the H<sup>+</sup> are released into the interior of the thylakoid space, and O bonds with another O and releases as O<sub>2</sub>.
+    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone (Pq), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP through chemiosmosis.
+    1. The electrons continue to Photosystem I and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
+    1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin (Fd).
+    1. The enzyme NADP<sup>+</sup> reductase catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
+1. Calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day):
+    1. CO<sub>2</sub> is brought into the stroma (carbon fixation).
+    1. NADPH reduces CO<sub>2</sub> 
+
+make ATP and NADPH. The Calvin cycle in the stroma uses the ATP energy and oxidizing NADPH to convert CO<sub>2</sub> into sugar.
 
 ##### Vascular Plants
 
@@ -1056,7 +1079,7 @@ In eukaryotes:
 
 ##### Neurons
 
-Neurons (or nerve cells) is the basic unit of the mammalian nervous system. The central nervous system includes the brain and spinal cord.
+Neurons (or nerve cells) are the basic unit of the mammalian nervous system. The central nervous system includes the brain and spinal cord.
 
 ##### Humans
 
@@ -1262,6 +1285,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
+[chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
