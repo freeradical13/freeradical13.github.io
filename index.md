@@ -198,7 +198,7 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 Two or more atoms may be held together by [chemical bond][](s). The major types of bonds are:
 
 1. A [covalent bond][] defines a [molecule][] and occurs when atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a [chemical compound][] if it's made of more than one type of element. The strongest form of a covalent bond is a [sigma bond][] (σ bond). Another, weaker form of a covalent bond is a [pi bond][] (π bond).
-1. A [coordinate covalent bond][] (or dative bond) defines a covalent bond in which one atom donates both electrons to the bond. Such bonds are part of a coordination complex. An example is a metal cation which has a coordinate covalent bond to an atom with a lone pair (also called a [ligand][]).
+1. A [coordinate covalent bond][] (or dative bond) defines a covalent bond in which one atom donates both electrons to the bond. Such bonds form a coordination complex. An example is a metal cation which has a coordinate covalent bond to an atom with a lone pair (also called a [ligand][]).
 1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which then causes electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. A [metallic bond][] amongst positively charged metal cations in a sea of shared electrons.
 
@@ -912,10 +912,6 @@ Alcoholic fermentation also reduces Pyruvate and produces two Ethanol and two CO
 
 The Citric Acid Cycle (or Krebs cycle) uses Acetyl CoA to produce ATP, CO<sub>2</sub>, NADH, and FADH<sub>2</sub>.
 
-##### Electron Transport Chain
-
-The Electron Transport Chain (or Oxidative Phosphorylation) uses NADH and FADH<sub>2</sub> to produce ATP and H<sub>2</sub>O.
-
 ##### Gluconeogenesis
 
 Gluconeogensis is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
@@ -1002,6 +998,18 @@ Steroids are hormones that are lipids with cholesterol-based structures which ca
 
 Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
 
+### Electron Transport Chain
+
+An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom.
+
+### Chemiosmosis
+
+[Chemiosmosis][] is the diffusion of ions across a membrane. A key example of chemiosmosis is the generation of ATP:
+
+1. An electron transport chain pumps H<sup>+</sup> cations across a membrane against the ions' concentration gradient.
+2. The H<sup>+</sup> cations want to move back across the membrane down their concentration gradient. This potential energy is called the proton motive force.
+3. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP.
+
 #### Mitochondria
 
 Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
@@ -1029,14 +1037,16 @@ Steps of photosynthesis:
 1. Light reactions:
     1. In the membrane of the thylakoid, substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the thylakoid membrane into photosystems. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the reaction-center complex where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are Photosystem II (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
-    1. After the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, the H<sup>+</sup> are released into the interior of the thylakoid space, and O bonds with another O and releases as O<sub>2</sub>.
-    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone (Pq), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP through chemiosmosis.
+    1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor and O bonds with another O and releases as O<sub>2</sub>.
+    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone (Pq), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis (photophosphorylation).
     1. The electrons continue to Photosystem I and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
     1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin (Fd).
     1. The enzyme NADP<sup>+</sup> reductase catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
-1. Calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day):
-    1. CO<sub>2</sub> is brought into the stroma (carbon fixation).
-    1. NADPH reduces CO<sub>2</sub> 
+1. The calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that build carbohydrates from smaller molecules.
+    1. The carbon fixation step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to a 5-Carbon sugar called Ribulose Biphosphate (RuBP). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase (Rubisco). These reactions create a 6-Carbon molecule which quickly breaks up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
+    1. The 3-Phosphogylcerate molecules are phosphorylated by ATP, becoming 1,3-Biphosphogylcerate.
+    1. NADPH reduces and dephosphyrlates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate (G3P) which is a 3-Carbon sugar.
+    1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
 
 make ATP and NADPH. The Calvin cycle in the stroma uses the ATP energy and oxidizing NADPH to convert CO<sub>2</sub> into sugar.
 
@@ -1284,6 +1294,7 @@ if (elements.length) {
 [chemical reaction product]: https://en.wikipedia.org/wiki/Product_(chemistry)
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
+[chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
@@ -1306,6 +1317,7 @@ if (elements.length) {
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
@@ -1338,6 +1350,7 @@ if (elements.length) {
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electron shells]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron subshells]: https://en.wikipedia.org/wiki/Electron_shell#Subshells
+[electron transport chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [electronegativity]: https://en.wikipedia.org/wiki/Electronegativity
 [electrons]: https://en.wikipedia.org/wiki/Electron
 [electrophile]: https://en.wikipedia.org/wiki/Electrophile
@@ -1403,6 +1416,7 @@ if (elements.length) {
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[heme]: https://en.wikipedia.org/wiki/Heme
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
