@@ -783,9 +783,9 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
 
 ### Enzymes
 
-Most enzymes are proteins that increase the rate of (catalyze) certain chemical reactions by reducing activation energy. The target reagents are called substrates which bind to the enzyme's active site(s). Non-active site portions of enzymes are called allosteric sites where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the -ase suffix.
+Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called allosteric sites where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
 
-A cofactor is a metal ion or coenzyme which facilitates catalysis. Coenzymes are cosubstrates if it's losely bound or prosthetic groups if covalently bound. An apoenzyme is an enzyme missing a required cofactor. A holoenzyme is an active form of an enzyme with its cofactor(s).
+A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. Coenzymes are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An apoenzyme is an enzyme missing a required cofactor. A holoenzyme is an active form of an enzyme with its cofactors.
 
 The rate of enzyme-catalyzed reactions reaches a limit called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The Michaelis constant K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
 
@@ -802,7 +802,7 @@ Regulatory enzymes have a quaternary structure which causes a sigmoid (s-shaped)
 
 A zymogen (or proenzyme) requires proteolysis (often by protease enzymes) to become activated.
 
-Kinases catalyze phosphorylation, whereas phosphatases catalyze dephosphorylation.
+[Kinases][] catalyze phosphorylation, whereas phosphatases catalyze dephosphorylation.
 
 ## Nucleic Acids
 
@@ -870,7 +870,7 @@ Membranes are selectively permeable, generally only allowing small or nonpolar m
 
 Facilitated diffusion of other molecules into the cell includes ion channels which create electrochemical graients that let in cations since the cytoplasm is negatively charged.
 
-In active transport, membrane proteins called ATPase pumps use energy to change a membrane protein's confirmation so that molecules can be moved across their concentration gradients.
+In [active transport][], membrane transport proteins called ATPase pumps use energy to change a membrane protein's conformation so that molecules can be moved up their concentration gradients.
 
 Endocytosis occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. Exocytosis occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
 
@@ -879,6 +879,8 @@ Endocytosis occurs when the membrane invaginates, creating a pocket into which e
 Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
 
 Adenosine Triphosphate (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+
+Guanosine Triphosphate (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
 
 Nicotinamide adenine dinucleotide (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
 
@@ -896,7 +898,7 @@ Cellular respiration is the process of catabolizing chemical bonds in food (such
 
 ##### Glycolysis
 
-Glycolysis is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2 NAD<sup>+</sup>, 2 ADP, and 2 P into two molecules of 3-Carbon Pyruvate, two molecules of ATP, two molecules of NADH, water and two protons. Glycolysis occurs as part of both aerobic and anaerobic respiration.
+Glycolysis is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2NAD<sup>+</sup> and 2ATP into two molecules of 3-Carbon Pyruvate, two additional molecules of ATP, two molecules of NADH, 2H<sub>2</sub> and 2H<sup>+</sup>. Glycolysis occurs as part of both aerobic and anaerobic respiration.
 
 Steps of glycolysis:
 
@@ -904,7 +906,7 @@ Steps of glycolysis:
 1. Phosphoglucoisomerase converts Glucose 6-Phosphate to Fructose 6-Phosphate.
 1. Phosphofructokinase uses ATP to phosphorylate Fructose 6-Phosphate into Fructose 1,6-Biphosphate.
 1. Aldolase cleaves Fructose 1,6-biphosphate into two 3-Carbon sugars: Glyceraldehyde 3-Phosphate (G3P or GA3P) and Dihydroxyacetone Phosphate (DHAP).
-1. Triose Phosphate Dehydrogenase removes two Hydrogens from two G3Ps, transferring one electron and one H onto NAD<sup>+</sup> to make NADH, and an H<sup>+</sup> is released into the cytosol. The energy from this redox reaction is also used to phosphorylate G3P to form 1,3-Biphosphoglycerate and starts an electron transport chain.
+1. Triose Phosphate Dehydrogenase removes two Hydrogens from two G3Ps, transferring one electron and one H onto NAD<sup>+</sup> to make NADH, and an H<sup>+</sup> is released into the cytosol. The energy from this redox reaction is also used to phosphorylate G3P to form 1,3-Biphosphoglycerate.
 1. Phosphoglycerokinase dephosphorylates 1,3-Biphosphogylcerate to 3-Phosphoglycerate and creates ATP. This is called [substrate-level phosphorylation][].
 1. Phosphoglyceromutase relocates the P to create 2-Phosphoglycerate.
 1. Enolase removes water from 2-Phosphoglycerate, leaving Phosphoenolpyruvate (PEP).
@@ -913,12 +915,42 @@ Steps of glycolysis:
 In summary:
 
 1. Enzymes convert Glucose into ATP, NADH, and G3P.
-1. NADH runs an electron transport chain which creates PEP and water.
+1. NADH runs an electron transport chain which converts G3P to PEP and water.
 1. PEP is converted into Pyruvate and ATP.
 
 The basic formula is: <code>Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2ATP + 2NAD<sup>+</sup> → 2 Pyruvate + 2H<sub>2</sub>O + 4ATP + 2NADH + 2H<sup>+</sup></code>.
 
 Next, respiration may continue into either Aerobic respiration with Oxygen (Krebs cycle) or Anaerobic respiration without Oxygen (Fermentation).
+
+##### Citric Acid Cycle
+
+The [Citric Acid Cycle][] (or Krebs cycle or Tricarboxylic Acid Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce ATP, NADH, and FADH<sub>2</sub>, and CO<sub>2</sub>.
+
+First, Pyruvate is oxidized into Acetyl CoA:
+
+1. The charged Pyruvate ions enters mitochondria using active transport through a transport protein.
+1. Pyruvate's carboxyl group is oxidized and converted into CO<sub>2</sub> which diffuses out of the mitochondria.
+1. The remaining 2-Carbon molecule is oxidized to create NADH.
+1. The Sulfer-containing Coenzyme A (CoA) is attached to the 2-Carbon molecule forming Acetyl Coenzyme A (Acetyl CoA).
+
+Next, the Citric Acid Cycle starts which generates ATP, 2NADH, FADH<sub>2</sub>, and 2CO<sub>2</sub> per cycle:
+
+1. The 2-Carbon acetyl group is removed from Acetyl CoA (leaving CoA-SH) and transferred to Oxaloacetate to form Citrate which is an ionized form of citric acid (thus the name of the cycle).
+1. Citrate is converted into Isocitrtate while removing one water molecule and adding another.
+1. Isocitrate is oxidized to reduce NAD<sup>+</sup> into NADH, and broken into α-Ketoglutarate and CO<sub>2</sub>.
+1. α-Ketoglutarate is broken into Succinyl CoA and CO<sub>2</sub> and Succinyl CoA is oxidized to reduce NAD<sup>+</sup> into NADH.
+1. The CoA is replaced with a Phosphate group which then phosphorylates GDP to GTP (and sometimes transformed into ATP), and leaving Succinate.
+1. Succinate is oxidized of two H to produce Fumarate and reduce FAD into FADH<sub>2</sub>.
+1. Water is added to Fumarate to create Malate.
+1. Malate is oxidized to reduce NAD<sup>+</sup> into NADH and leaving Oxaloacetate.
+
+In summary:
+
+1. Pyruvate is converted into Acetyl CoA.
+1. Acetyl CoA combines with Oxaloacetate to create the citric acid Citrate.
+1. The citric acid cycle turns the Citrate into 3NADH, FADH<sub>2</sub>, GTP (or ATP), 2CO<sub>2</sub>, H<sub>2</sub>O, and back to Oxaloacetate for the next cycle.
+
+The basic formula is: <code>Pyruvate + CoA → Acetyl CoA + CO<sub>2</sub> + NADH</code> and <code>Acetyl CoA + Oxaloacetate → 3NADH + FADH<sub>2</sub> + GTP (or ATP) + 2CO<sub>2</sub> + H<sub>2</sub>O + Oxaloacetate + CoA-SH</code>.
 
 ##### Fermentation
 
@@ -927,10 +959,6 @@ Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<
 Lactic acid fermentation produces two molecules of Lactate (or Lactic acid). The middle Carbonyl in Pyruvate is reduced to a Hydroxyl (from an NADH) to form Lactate and NAD<sup>+</sup> (catalyzed by Lactate Dehydrogenase).
 
 Alcoholic fermentation also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
-
-##### Citric Acid Cycle
-
-The Citric Acid Cycle (or Krebs cycle) uses Acetyl CoA to produce ATP, CO<sub>2</sub>, NADH, and FADH<sub>2</sub>.
 
 ##### Gluconeogenesis
 
@@ -1231,6 +1259,9 @@ if (elements.length) {
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
+[activation energy]: https://en.wikipedia.org/wiki/Activation_energy
+[active sites]: https://en.wikipedia.org/wiki/Active_site
+[active transport]: https://en.wikipedia.org/wiki/Active_transport
 [acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [adduct]: https://en.wikipedia.org/wiki/Adduct
@@ -1260,6 +1291,7 @@ if (elements.length) {
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [aryl]: https://en.wikipedia.org/wiki/Aryl
+[ase suffix]: https://en.wikipedia.org/wiki/-ase
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
@@ -1316,6 +1348,8 @@ if (elements.length) {
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
+[citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[cofactor]: https://en.wikipedia.org/wiki/Cofactor_(biochemistry)
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
@@ -1384,6 +1418,7 @@ if (elements.length) {
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [ester]: https://en.wikipedia.org/wiki/Ester
@@ -1479,6 +1514,7 @@ if (elements.length) {
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
+[kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
@@ -1542,6 +1578,7 @@ if (elements.length) {
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
+[nucleoside-diphosphate kinases]: https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase
 [nucleosome]: https://en.wikipedia.org/wiki/Nucleosome
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
@@ -1641,6 +1678,7 @@ if (elements.length) {
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
+[substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
