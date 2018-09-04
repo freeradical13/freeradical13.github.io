@@ -232,7 +232,7 @@ When substances of different electronegativities are bonded, electrons will tend
 
 [Oxidation states][] are a conceptualizatized simplification of covalent bonds as ionic bonds. Oxidation states assume full hogging of electrons in a polar molecule. For example, in water, Oxygen would have an oxidation state of -2 since it hogs both Hydrogens' electrons, and each Hydrogen would have an oxidation state of +1.
 
-Reduction is the process of gaining electrons. Oxidation is the process of losing electrons. The atom losing the electrons is said to be oxidized (even if by something other than Oxygen!), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms. This is called a [redox][] (reduction and oxidation) reaction because both occur. Oxidation frequently involves gaining an Oxygen or losing a Hydrogen. Reduction frequently involves losing an Oxygen or gaining a Hydrogen.
+Reduction is the process of gaining electrons. Oxidation is the process of losing electrons. The atom losing the electrons is said to be oxidized (even if by something other than Oxygen; the term originates from Oxygen's high electronegativity), i.e. losing electrons, and the atoms doing the oxidation are said to be reduced by the other elements, i.e. reducing the electrons of the oxidized atoms. This is called a [redox][] (reduction and oxidation) reaction because both occur. Oxidation frequently involves gaining an Oxygen or losing a Hydrogen. Reduction frequently involves losing an Oxygen or gaining a Hydrogen. A simple example of a redox reaction is Na and Cl creating Na<sup>+</sup> and Cl<sup>-</sup>. An electron loses potential energy as part of reduction because it moves towards a more electronegative atom, and this energy is released and can be harvested by surroundings.
 
 [Intermolecular forces][] describe attraction and repulsion forces between substances and are relatively weaker than intramolecular forces:
 
@@ -275,7 +275,7 @@ In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the 
 
 Gibbs free energy (G) measures the work that a system can do (<code>ΔG = ΔH - T×ΔS</code> where ΔS is the change in entropy). If the change in G (ΔG) for a chemical reaction at a temperature T is known, K<sub>eq</sub> can be calculated as <code>ΔG = -R×T×ln(K<sub>eq</sub>)</code>.
 
-Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][] (negative ΔG), although they don't necessarily occur rapidly.
+Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][] (negative ΔG, meaning that the products store less energy than the reagents and thus the reaction favors the products spontaneously without input energy), although they don't necessarily occur rapidly.
 
 Reactions that require input energy are [endergonic][] (positive ΔG):
 
@@ -878,7 +878,7 @@ Endocytosis occurs when the membrane invaginates, creating a pocket into which e
 
 Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
 
-Adenosine Triphosphate (ATP) is a coenzyme that often powers endergonic reactions; often called the currency of energy in metabolism. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+Adenosine Triphosphate (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
 Nicotinamide adenine dinucleotide (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
 
@@ -886,17 +886,37 @@ Flavin adenenine dinucleotide (FAD) is another major electron carrier in cells. 
 
 NAD and FAD may be used as essentially energy-transfer molecules.
 
+##### Electron Transport Chain
+
+An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controller way, creating molecules such as ATP, and heat.
+
 ##### Cellular Respiration
 
-Cellular respiration is the process of catabolizing chemical bonds in food (such as Glucose) and transferring the energy to ATP.
+Cellular respiration is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
 
 ##### Glycolysis
 
-Respiration starts with Glycolysis which uses enzymes to break down Glucose reacting with 2 NAD<sup>+</sup>, 2 ADP, and 2 P into two molecules of 3-Carbon Pyruvate, two molecules of ATP, two molecules of NADH, water and two protons. The key steps are:
+Glycolysis is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2 NAD<sup>+</sup>, 2 ADP, and 2 P into two molecules of 3-Carbon Pyruvate, two molecules of ATP, two molecules of NADH, water and two protons. Glycolysis occurs as part of both aerobic and anaerobic respiration.
 
-1. Enzymes convert Glucose into double-phosphorylated Fructose.
-1. The Fructose is cleaved into two Glyceraldehyde 3-Phosphate (GA3P) molecules using 2 ATP.
-1. The two GA3Ps are hydrolyzed into Pyruvate molecules, creating 2 NADH and 4 ATP.
+Steps of glycolysis:
+
+1. Hexokinase uses ATP to phosphorylate Glucose into Glucose 6-Phosphate, with ADP as a byproduct.
+1. Phosphoglucoisomerase converts Glucose 6-Phosphate to Fructose 6-Phosphate.
+1. Phosphofructokinase uses ATP to phosphorylate Fructose 6-Phosphate into Fructose 1,6-Biphosphate.
+1. Aldolase cleaves Fructose 1,6-biphosphate into two 3-Carbon sugars: Glyceraldehyde 3-Phosphate (G3P or GA3P) and Dihydroxyacetone Phosphate (DHAP).
+1. Triose Phosphate Dehydrogenase removes two Hydrogens from two G3Ps, transferring one electron and one H onto NAD<sup>+</sup> to make NADH, and an H<sup>+</sup> is released into the cytosol. The energy from this redox reaction is also used to phosphorylate G3P to form 1,3-Biphosphoglycerate and starts an electron transport chain.
+1. Phosphoglycerokinase dephosphorylates 1,3-Biphosphogylcerate to 3-Phosphoglycerate and creates ATP. This is called [substrate-level phosphorylation][].
+1. Phosphoglyceromutase relocates the P to create 2-Phosphoglycerate.
+1. Enolase removes water from 2-Phosphoglycerate, leaving Phosphoenolpyruvate (PEP).
+1. Pyruvate kinase dephosphorylates PEP into Pyruvate and creates ATP through substrate-level phosphorylation.
+
+In summary:
+
+1. Enzymes convert Glucose into ATP, NADH, and G3P.
+1. NADH runs an electron transport chain which creates PEP and water.
+1. PEP is converted into Pyruvate and ATP.
+
+The basic formula is: <code>Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2ATP + 2NAD<sup>+</sup> → 2 Pyruvate + 2H<sub>2</sub>O + 4ATP + 2NADH + 2H<sup>+</sup></code>.
 
 Next, respiration may continue into either Aerobic respiration with Oxygen (Krebs cycle) or Anaerobic respiration without Oxygen (Fermentation).
 
@@ -998,10 +1018,6 @@ Steroids are hormones that are lipids with cholesterol-based structures which ca
 
 Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
 
-### Electron Transport Chain
-
-An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom.
-
 ### Chemiosmosis
 
 [Chemiosmosis][] is the diffusion of ions across a membrane. A key example of chemiosmosis is the generation of ATP:
@@ -1037,18 +1053,16 @@ Steps of photosynthesis:
 1. Light reactions:
     1. In the membrane of the thylakoid, substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the thylakoid membrane into photosystems. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the reaction-center complex where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are Photosystem II (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
-    1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor and O bonds with another O and releases as O<sub>2</sub>.
+    1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
     1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone (Pq), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis (photophosphorylation).
     1. The electrons continue to Photosystem I and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
     1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin (Fd).
     1. The enzyme NADP<sup>+</sup> reductase catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
-1. The calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that build carbohydrates from smaller molecules.
-    1. The carbon fixation step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to a 5-Carbon sugar called Ribulose Biphosphate (RuBP). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase (Rubisco). These reactions create a 6-Carbon molecule which quickly breaks up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
-    1. The 3-Phosphogylcerate molecules are phosphorylated by ATP, becoming 1,3-Biphosphogylcerate.
-    1. NADPH reduces and dephosphyrlates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate (G3P) which is a 3-Carbon sugar.
+1. The calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
+    1. The carbon fixation step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate (RuBP). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase (Rubisco). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
+    1. The 3-Phosphogylcerate molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
+    1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate (G3P) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
-
-make ATP and NADPH. The Calvin cycle in the stroma uses the ATP energy and oxidizing NADPH to convert CO<sub>2</sub> into sugar.
 
 ##### Vascular Plants
 
@@ -1626,6 +1640,7 @@ if (elements.length) {
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [substituents]: https://en.wikipedia.org/wiki/Substituent
+[substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
