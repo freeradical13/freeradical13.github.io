@@ -892,6 +892,20 @@ NAD and FAD may be used as essentially energy-transfer molecules.
 
 An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controller way, creating molecules such as ATP, and heat.
 
+### Chemiosmosis
+
+[Chemiosmosis][] is the diffusion of ions across a membrane. A key example of chemiosmosis is the generation of ATP:
+
+1. An electron transport chain pumps H<sup>+</sup> cations across a membrane against the ions' concentration gradients.
+1. The H<sup>+</sup> cations want to move back across the membrane down their concentration gradient. This potential energy is called the proton motive force.
+1. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP. ATP synthase:
+    1. H<sup>+</sup> cations enter a channel called the Stator.
+    1. H<sup>+</sup> cations enter binding sites within a rotor which spins in the membrane.
+    1. After one turn, the H<sup>+</sup> cations pass through another channel in the Stator and through the membrane.
+    1. Spinning of the rotor causes a rod attached to the rotor to spin.
+    1. The rod is attached to a Knob which is also connected to the Stator.
+    1. Catalytic sites in the Knob produce ATP from ADP + P.
+
 ##### Cellular Respiration
 
 Cellular respiration is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
@@ -920,13 +934,15 @@ In summary:
 
 The basic formula is: <code>Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2ATP + 2NAD<sup>+</sup> → 2 Pyruvate + 2H<sub>2</sub>O + 4ATP + 2NADH + 2H<sup>+</sup></code>.
 
+One glucose molecule creates a net 2 ATP molecules.
+
 Next, respiration may continue into either Aerobic respiration with Oxygen (Krebs cycle) or Anaerobic respiration without Oxygen (Fermentation).
 
 ##### Citric Acid Cycle
 
-The [Citric Acid Cycle][] (or Krebs cycle or Tricarboxylic Acid Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce ATP, NADH, and FADH<sub>2</sub>, and CO<sub>2</sub>.
+The [Citric Acid Cycle][] (or Krebs cycle or Tricarboxylic Acid Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
 
-First, Pyruvate is oxidized into Acetyl CoA:
+First, Pyruvate Oxidation occurs when Pyruvate is oxidized into Acetyl CoA:
 
 1. The charged Pyruvate ions enters mitochondria using active transport through a transport protein.
 1. Pyruvate's carboxyl group is oxidized and converted into CO<sub>2</sub> which diffuses out of the mitochondria.
@@ -948,9 +964,35 @@ In summary:
 
 1. Pyruvate is converted into Acetyl CoA.
 1. Acetyl CoA combines with Oxaloacetate to create the citric acid Citrate.
-1. The citric acid cycle turns the Citrate into 3NADH, FADH<sub>2</sub>, GTP (or ATP), 2CO<sub>2</sub>, H<sub>2</sub>O, and back to Oxaloacetate for the next cycle.
+1. The citric acid cycle turns the Citrate into 3NADH, FADH<sub>2</sub>, GTP (or ATP), 2CO<sub>2</sub>, and back to Oxaloacetate for the next cycle.
 
-The basic formula is: <code>Pyruvate + CoA → Acetyl CoA + CO<sub>2</sub> + NADH</code> and <code>Acetyl CoA + Oxaloacetate → 3NADH + FADH<sub>2</sub> + GTP (or ATP) + 2CO<sub>2</sub> + H<sub>2</sub>O + Oxaloacetate + CoA-SH</code>.
+The basic formula is: <code>Pyruvate + CoA → Acetyl CoA + CO<sub>2</sub> + NADH</code> and <code>Acetyl CoA + Oxaloacetate → 3NADH + FADH<sub>2</sub> + GTP (or ATP) + 2CO<sub>2</sub> + Oxaloacetate + CoA-SH</code>.
+
+One glucose molecule creates a net 2 ATP molecules.
+
+Next, the NADH and FADH<sub>2</sub> drive ATP production in Oxidative Phosphorylation.
+
+##### Oxidative Phosphorylation
+
+Oxidative Phosphorylation uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
+
+Steps of Oxidative Phosphorylation:
+
+1. NADH transfers electrons to Complex I: flavoprotein FMN (named because of its flavin mononucleotide) followed by an iron-sulfur protein FeS. Complex I also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. FeS transfer electrons to the non-protein Ubiquinone (Q or Coenzyme Q or CoQ).
+    1. In addition, FADH<sub>2</sub> transfers electrons to Complex II into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
+1. Q transfers electrons into Complex III into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into Complex IV into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. Cyt a<sub>3</sub> transfers electrons into molecular Oxygen O<sub>2</sub> (or another electronegative species in non-aerobic respiration) which is split into O and bonds with H<sup>+</sup> to form water.
+
+In summary:
+
+1. NADH and FADH<sub>2</sub> drive an electron transport chain across four membrane complexes.
+1. Complexes I, III, and IV pump H<sup>+</sup> cations from their surroundings across the membrane as part of passing on electrons.
+1. The electron transport chain ends by depositing electrons into electronegative species such as Oxygen (in the case of aerobic respiration) which then forms water.
+1. ATP synthase uses chemiosmosis to generate ATP.
+
+One glucose molecule creates a net 26 to 28 ATP molecules.
 
 ##### Fermentation
 
@@ -1045,14 +1087,6 @@ Steroids are hormones that are lipids with cholesterol-based structures which ca
 #### Energy Generation
 
 Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
-
-### Chemiosmosis
-
-[Chemiosmosis][] is the diffusion of ions across a membrane. A key example of chemiosmosis is the generation of ATP:
-
-1. An electron transport chain pumps H<sup>+</sup> cations across a membrane against the ions' concentration gradient.
-2. The H<sup>+</sup> cations want to move back across the membrane down their concentration gradient. This potential energy is called the proton motive force.
-3. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP.
 
 #### Mitochondria
 
