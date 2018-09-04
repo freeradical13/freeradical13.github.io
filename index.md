@@ -864,16 +864,6 @@ A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [membrane][]
 
 For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
-#### Membranes
-
-Membranes are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
-
-Facilitated diffusion of other molecules into the cell includes ion channels which create electrochemical graients that let in cations since the cytoplasm is negatively charged.
-
-In [active transport][], membrane transport proteins called ATPase pumps use energy to change a membrane protein's conformation so that molecules can be moved up their concentration gradients.
-
-Endocytosis occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. Exocytosis occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
-
 #### Metabolism
 
 Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
@@ -888,11 +878,23 @@ Flavin adenenine dinucleotide (FAD) is another major electron carrier in cells. 
 
 NAD and FAD may be used as essentially energy-transfer molecules.
 
-##### Electron Transport Chain
+[Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP.
+
+#### Membranes
+
+Membranes are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
+
+An [ion transporter][] (or ion pump) uses active transport to pump ions across a membrane against their concentration gradient.
+
+Facilitated diffusion of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise the cytoplasm is negatively charged.
+
+Endocytosis occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. Exocytosis occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
+
+#### Electron Transport Chain
 
 An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controller way, creating molecules such as ATP, and heat.
 
-### Chemiosmosis
+#### Chemiosmosis
 
 [Chemiosmosis][] is the diffusion of ions across a membrane. A key example of chemiosmosis is the generation of ATP:
 
@@ -906,11 +908,11 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
     1. The rod is attached to a Knob which is also connected to the Stator.
     1. Catalytic sites in the Knob produce ATP from ADP + P.
 
-##### Cellular Respiration
+#### Cellular Respiration
 
 Cellular respiration is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
 
-##### Glycolysis
+#### Glycolysis
 
 Glycolysis is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2NAD<sup>+</sup> and 2ATP into two molecules of 3-Carbon Pyruvate, two additional molecules of ATP, two molecules of NADH, 2H<sub>2</sub> and 2H<sup>+</sup>. Glycolysis occurs as part of both aerobic and anaerobic respiration.
 
@@ -938,14 +940,13 @@ One glucose molecule creates a net 2 ATP molecules.
 
 Next, respiration may continue into either Aerobic respiration with Oxygen (Krebs cycle) or Anaerobic respiration without Oxygen (Fermentation).
 
-##### Citric Acid Cycle
+#### Citric Acid Cycle
 
 The [Citric Acid Cycle][] (or Krebs cycle or Tricarboxylic Acid Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
 
 First, Pyruvate Oxidation occurs when Pyruvate is oxidized into Acetyl CoA:
 
-1. The charged Pyruvate ions enters mitochondria using active transport through a transport protein.
-1. Pyruvate's carboxyl group is oxidized and converted into CO<sub>2</sub> which diffuses out of the mitochondria.
+1. Pyruvate's carboxyl group is oxidized and converted into CO<sub>2</sub>.
 1. The remaining 2-Carbon molecule is oxidized to create NADH.
 1. The Sulfer-containing Coenzyme A (CoA) is attached to the 2-Carbon molecule forming Acetyl Coenzyme A (Acetyl CoA).
 
@@ -972,7 +973,7 @@ One glucose molecule creates a net 2 ATP molecules.
 
 Next, the NADH and FADH<sub>2</sub> drive ATP production in the Respiratory Chain.
 
-##### Respiratory Chain
+#### Respiratory Chain
 
 The Respiratory Chain uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
 
@@ -994,7 +995,7 @@ In summary:
 
 One glucose molecule creates a net 26 to 28 ATP molecules.
 
-##### Fermentation
+#### Fermentation
 
 Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH. Fermentation may occur in place of aerobic respiration when there is insufficient Oxygen.
 
@@ -1002,7 +1003,7 @@ Lactic acid fermentation produces two molecules of Lactate (or Lactic acid). The
 
 Alcoholic fermentation also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
 
-##### Gluconeogenesis
+#### Gluconeogenesis
 
 Gluconeogensis is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
 
@@ -1100,7 +1101,7 @@ Unlike animals, plants have a cell wall made of cellulose.
 
 Phototropism is the directional growth of plants towards light.
 
-#### Chloroplasts
+##### Chloroplasts
 
 [Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
 
@@ -1144,13 +1145,7 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 
 Meristems are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
 
-##### Chloroplasts
-
-Chloroplasts in leaves use chlorophyll to perform photosynthesis which uses radiation from the Sun to produce Glucose. Chloroplasts have an outer and inner phospholipid bilayer membrane. Sacs derived from the inner membrane called thlakoids combine to form grana. The fluid inside the gama is the stroma. The thylakoid membranes contain the chlorophyll. Like Mitochondria, Chloroplasts contain their own DNA and ribosomes.
-
-The palisade layer contains other cells that perform photosynthesis.
-
-### DNA Protein Synthesis
+#### DNA Protein Synthesis
 
 In eukaryotes:
 
@@ -1161,23 +1156,35 @@ In eukaryotes:
 1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a spliceosome made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
 1. Translation: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
 
+#### Tissues
+
+A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue.
+
+An [organ][] is a collection of tissues with similar function.
+
+#### Neurons
+
+[Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
+
+[Nervous tissue][] is a tissue of neurons along with [glial cells][] (or neuroglia) which assist signal propagation and provide nutrients to neurons.
+
+Nervous tissue is the main component of the [central nervous system][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
+
+The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
+
+#### Animals
+
+[Animals][] are multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
+
+[Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
+
 #### Mammals
-
-##### Neurons
-
-Neurons (or nerve cells) are the basic unit of the mammalian nervous system. The central nervous system includes the brain and spinal cord.
 
 ##### Humans
 
 About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of 37 °C / 98.6 °F.
-
-###### Immune System
-
-The non-specific immune system fights general infections whereas the specific immune system creates immunity by having a "memory" that attacks particular infections.
-
-Antibodies (or immunoglobulins) are produced by B cells. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
 ## Viruses
 
@@ -1186,6 +1193,12 @@ Viruses have DNA or RNA but do not have a membrane or organelles. Instead, virus
 Viruses that infect bacteria are called bacteriophages (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
 A lytic virus causes a cell to ultimately burst and die, whereas a lysogenic virus is integrated permanently without killing the cell.
+
+## Immune System
+
+An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
+
+Antibodies (or immunoglobulins) are produced by B cells. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
 ## History of Life
 
@@ -1298,6 +1311,7 @@ if (elements.length) {
 [active transport]: https://en.wikipedia.org/wiki/Active_transport
 [acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
+[adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
@@ -1320,6 +1334,7 @@ if (elements.length) {
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
+[animals]: https://en.wikipedia.org/wiki/Animal
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -1339,6 +1354,8 @@ if (elements.length) {
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
+[axons]: https://en.wikipedia.org/wiki/Axon
+[backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [benzene]: https://en.wikipedia.org/wiki/Benzene
@@ -1347,6 +1364,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
+[brain]: https://en.wikipedia.org/wiki/Brain
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
@@ -1360,6 +1378,7 @@ if (elements.length) {
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
 [celsius]: https://en.wikipedia.org/wiki/Celsius
+[central nervous system]: https://en.wikipedia.org/wiki/Central_nervous_system
 [centrioles]: https://en.wikipedia.org/wiki/Centriole
 [centromere]: https://en.wikipedia.org/wiki/Centromere
 [centrosome]: https://en.wikipedia.org/wiki/Centrosome
@@ -1405,6 +1424,7 @@ if (elements.length) {
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
+[dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
@@ -1464,6 +1484,7 @@ if (elements.length) {
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
+[extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
@@ -1488,6 +1509,7 @@ if (elements.length) {
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
+[glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
@@ -1526,15 +1548,18 @@ if (elements.length) {
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[immune system]: https://en.wikipedia.org/wiki/Immune_system
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
+[innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
+[ion transporter]: https://en.wikipedia.org/wiki/Ion_transporter
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
 [ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
@@ -1600,6 +1625,9 @@ if (elements.length) {
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
+[nerves]: https://en.wikipedia.org/wiki/Nerve
+[nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
+[neurons]: https://en.wikipedia.org/wiki/Neuron
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
@@ -1626,17 +1654,20 @@ if (elements.length) {
 [organisms]: https://en.wikipedia.org/wiki/Organism
 [organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
+[organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
+[peripheral nervous system]: https://en.wikipedia.org/wiki/Peripheral_nervous_system
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
@@ -1698,6 +1729,7 @@ if (elements.length) {
 [space]: https://en.wikipedia.org/wiki/Space
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
+[spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
@@ -1735,6 +1767,7 @@ if (elements.length) {
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [time]: https://en.wikipedia.org/wiki/Time
+[tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
