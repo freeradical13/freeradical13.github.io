@@ -970,33 +970,33 @@ The basic formula is: <code>Pyruvate + CoA → Acetyl CoA + CO<sub>2</sub> + NAD
 
 One glucose molecule creates a net 2 ATP molecules.
 
-Next, the NADH and FADH<sub>2</sub> drive ATP production in Oxidative Phosphorylation.
+Next, the NADH and FADH<sub>2</sub> drive ATP production in the Respiratory Chain.
 
-##### Oxidative Phosphorylation
+##### Respiratory Chain
 
-Oxidative Phosphorylation uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
+The Respiratory Chain uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
 
-Steps of Oxidative Phosphorylation:
+Steps of the Respiratory Chain:
 
 1. NADH transfers electrons to Complex I: flavoprotein FMN (named because of its flavin mononucleotide) followed by an iron-sulfur protein FeS. Complex I also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
 1. FeS transfer electrons to the non-protein Ubiquinone (Q or Coenzyme Q or CoQ).
     1. In addition, FADH<sub>2</sub> transfers electrons to Complex II into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
 1. Q transfers electrons into Complex III into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
 1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into Complex IV into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. Cyt a<sub>3</sub> transfers electrons into molecular Oxygen O<sub>2</sub> (or another electronegative species in non-aerobic respiration) which is split into O and bonds with H<sup>+</sup> to form water.
+1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In Oxidative Phosphorylation during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, examples of an electron acceptor is Sulfate ions (SO<sub>4</sub><sup>2-</sup>) which do the same but instead of water produce Hydrogen Sulfide (H<sub>2</sub>S).
 
 In summary:
 
 1. NADH and FADH<sub>2</sub> drive an electron transport chain across four membrane complexes.
 1. Complexes I, III, and IV pump H<sup>+</sup> cations from their surroundings across the membrane as part of passing on electrons.
-1. The electron transport chain ends by depositing electrons into electronegative species such as Oxygen (in the case of aerobic respiration) which then forms water.
+1. The electron transport chain ends by depositing electrons into electronegative species such as Oxygen (in the case of aerobic respiration) which then forms water, or Sulfate (in the case of anaerobic respiration) which then forms Hydrogen Sulfide.
 1. ATP synthase uses chemiosmosis to generate ATP.
 
 One glucose molecule creates a net 26 to 28 ATP molecules.
 
 ##### Fermentation
 
-Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH.
+Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH. Fermentation may occur in place of aerobic respiration when there is insufficient Oxygen.
 
 Lactic acid fermentation produces two molecules of Lactate (or Lactic acid). The middle Carbonyl in Pyruvate is reduced to a Hydroxyl (from an NADH) to form Lactate and NAD<sup>+</sup> (catalyzed by Lactate Dehydrogenase).
 
