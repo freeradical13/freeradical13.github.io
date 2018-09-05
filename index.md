@@ -716,7 +716,7 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ## Proteins
 
-[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched chain of [peptides][] which are a polymer of two or more amino acid monomers bonded through covalent bonds called peptide bonds (or amide bonds).
+[Proteins][] are biomacromolecule polymers made of one or more polypeptides. A [polypeptide][] is an unbranched chain of [peptides][]. A peptide is a polymer of two or more amino acid monomers bonded through covalent bonds called peptide bonds (or amide bonds).
 
 An [amino acid][] is a 1 Carbon backbone with an amino group, a carboxyl group, a Hydrogen, and one of 21 side chains. Amino acids are all of the L enantiomer form. Amino acids may be grouped by properties of their side chain (with single- and three-letter abbreviations):
 
@@ -761,9 +761,9 @@ Proteins may be bound to lipids to create lipoproteins, to sugars to create glyc
 
 The [primary structure][] of a protein is its linear sequence of amino acids.
 
-The [secondary structure][] of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
+The [secondary structure][] of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the [α helix][] which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar [β pleated sheet][] in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
 
-The [tertiary structure][] of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
+The [tertiary structure][] of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. [Disulfide bridges][] may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
 
 If a protein is made of more than one polypeptide (dimer for two polypeptides, trimer for three, and tetramer for four), the [quaternary structure][] of a protein is driven by the interactions between the polypeptides.
 
@@ -833,6 +833,8 @@ A genome may be made up of one or more DNA or RNA molecules called [chromosomes]
 Chromosomes are coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
 
 A chromosome and any histones is called [Chromatin][].
+
+An [allele][] is one variant of a gene which may create a different phenotype.
 
 ## Organisms
 
@@ -1012,6 +1014,14 @@ Some cells cycle through one of a few states called a [cell cycle][]:
     1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
     1. Telophase: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
 
+### Genetics
+
+[Genetics][] is the study of genes and [heredity][] which is the passing of phenotypic traits from parents to offspring.
+
+A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, the matching chromosomes are called [homologs][] (or homologous chromosomes).
+
+A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype.
+
 ### Prokaryotes
 
 [Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
@@ -1033,11 +1043,13 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 
 ### Eukaryotes
 
-[Eukaryotes][] are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes. Most eukaryotes are diploid meaning they have two molecules of each chromosome, although polyploids exist that have two or more.
+[Eukaryotes][] are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes.
 
 #### Cell Nucleus
 
 The [cell nucleus][] is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
+
+Eukaryotic have repetitive nucleotide sequences of TTAGGG on each end of each chromosome called [telomeres][].
 
 #### Ribosomes
 
@@ -1049,7 +1061,7 @@ The [endoplasmic reticulum][] (ER) is a network of membrane-enclosed spaces. The
 
 #### Golgi Apparatus
 
-The [golgi apparatus][] is a stack of membrane-enclosed sacs called cisternae. Stacks closer to the ER are called the cis cisternae, and stacks closer to the cell membrane are called trans cisternae. When the ER synthesizes a protein, it's placed in a containing vesicle which bulges on the outside of the ER. These vesicles pass to and fuse with the cis cisternae. The cis cisternae then modifies and repackages the proteins and passes them on through the next layers of the golgi apparatus. Once the protein reaches the trans cisternae, proteins are sorted for their final destination.
+The [golgi apparatus][] is a stack of membrane-enclosed sacs called [cisternae][]. Stacks closer to the ER are called the cis cisternae, and stacks closer to the cell membrane are called trans cisternae. When the ER synthesizes a protein, it's placed in a [transport vesicle][] which exits from the outside of the ER. These vesicles pass to and fuse with the cis cisternae. The cis cisternae then modifies and repackages the proteins and passes them on through the next layers of the golgi apparatus. Once the protein reaches the trans cisternae, proteins are sorted for their final destination.
 
 #### Lysosomes
 
@@ -1145,7 +1157,7 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 1. Transcription: The 3' strand of DNA (called the template strand; the 5' non-template strand is called the coding strand) synthesizes a complementary RNA molecule called pre-messenger RNA (pre-mRNA). Nucleotides are transcribed to the 3' end.
 1. Once RNA polymerase II transcribes the polyadenylation sequence (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
 1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the poly-A tail.
-1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a spliceosome made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
+1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
 1. Translation: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
 
 #### Tissues
@@ -1295,6 +1307,7 @@ if (elements.length) {
 
 [1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
 [5' cap]: https://en.wikipedia.org/wiki/Five-prime_cap
+[α helix]: https://en.wikipedia.org/wiki/Alpha_helix
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -1321,6 +1334,7 @@ if (elements.length) {
 [alkene]: https://en.wikipedia.org/wiki/Alkene
 [alkyl]: https://en.wikipedia.org/wiki/Alkyl
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
+[allele]: https://en.wikipedia.org/wiki/Allele
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -1353,6 +1367,7 @@ if (elements.length) {
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
+[β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
@@ -1407,7 +1422,9 @@ if (elements.length) {
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
+[cisternae]: https://en.wikipedia.org/wiki/Cisterna
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
 [cofactor]: https://en.wikipedia.org/wiki/Cofactor_(biochemistry)
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
@@ -1415,6 +1432,7 @@ if (elements.length) {
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
+[complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
@@ -1446,6 +1464,7 @@ if (elements.length) {
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
+[diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
@@ -1453,7 +1472,9 @@ if (elements.length) {
 [disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
 [disruptive selection]: https://en.wikipedia.org/wiki/Disruptive_selection
 [distance]: https://en.wikipedia.org/wiki/Distance
+[disulfide bridges]: https://en.wikipedia.org/wiki/Disulfide
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
+[dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
@@ -1529,6 +1550,7 @@ if (elements.length) {
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
+[genetics]: https://en.wikipedia.org/wiki/Genetics
 [genome]: https://en.wikipedia.org/wiki/Genome
 [genotype]: https://en.wikipedia.org/wiki/Genotype
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
@@ -1548,19 +1570,24 @@ if (elements.length) {
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
+[haploids]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [heme]: https://en.wikipedia.org/wiki/Heme
+[heredity]: https://en.wikipedia.org/wiki/Heredity
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
+[heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
+[homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
@@ -1582,6 +1609,7 @@ if (elements.length) {
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
+[incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
@@ -1619,6 +1647,7 @@ if (elements.length) {
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
+[locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
@@ -1765,6 +1794,7 @@ if (elements.length) {
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
 [reagents]: https://en.wikipedia.org/wiki/Reagent
+[recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [redox]: https://en.wikipedia.org/wiki/Redox
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
@@ -1799,6 +1829,7 @@ if (elements.length) {
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
+[spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
 [star]: https://en.wikipedia.org/wiki/Star
@@ -1827,6 +1858,7 @@ if (elements.length) {
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
+[telomeres]: https://en.wikipedia.org/wiki/Telomere
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
@@ -1845,6 +1877,7 @@ if (elements.length) {
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
+[transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
