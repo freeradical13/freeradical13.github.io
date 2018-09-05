@@ -1020,7 +1020,7 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells) which are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
 
 All chromosomes other than allosomes are called [autosomes][].
 
