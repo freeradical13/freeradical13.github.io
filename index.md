@@ -701,7 +701,7 @@ OH   O       OH   O
 A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty acid) or double covalent bond kinks (in the case of an unsaturated fatty acid) 3D orientations of the bonds. Saturated fatty acids can pack more tightly because of the flexibility of the single bonds compared to double bonds in unsaturated fatty acids (and thus saturated fatty acids tend to be more solid at room temperature). An oil is mostly made of unsaturated fatty acids. A hydrogenated oil means that unsaturated fatty acids were converted to saturated fatty acids. Most double bonds in fatty acids are of the cis- isomeric form but trans fatty acids are of the trans- isomeric form.
 
 Monounsaturated fatty acids have a single double bond whereas polyunsaturated fatty acids have two or more double bonds.
-<!--  -->
+
 A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
 
 ### Phospholipids
@@ -710,21 +710,9 @@ A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fa
 
 When added to water, phospholipids form a bilayer with two hydrophilic sides opposite each other and then hydrophilic fatty acids in between.
 
-### Steroids
-
-[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups:
-
-<pre>
-      /\ /\
-     |  |__|
- /\ / \/
-|  |  |
- \/ ⑊/
-</pre>
-
 ### Waxes
 
-[Waxes][] are similar to glycerides except that the Glycerol alcohol is replaced with a longer (12 to 32 Carbon) alcohol.
+[Waxes][] are similar to Glycerides except that the Glycerol backbone is longer (usually 12 to 32 Carbons).
 
 ## Proteins
 
@@ -771,60 +759,60 @@ Proteins are either globular (roughly spherical) or fibrous (long and thread-lik
 
 Proteins may be bound to lipids to create lipoproteins, to sugars to create glycoproteins, etc.
 
-The primary structure of a protein is its linear sequence of amino acids.
+The [primary structure][] of a protein is its linear sequence of amino acids.
 
-The secondary structure of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
+The [secondary structure][] of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the α helix which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar β pleated sheet in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
 
-The tertiary structure of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
+The [tertiary structure][] of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. Disulfide bridges may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
 
-If a protein is made of more than one polypeptide (dimer for two polypeptides, trimer for three, and tetramer for four), the quaternary structure of a protein is driven by the interactions between the polypeptides.
+If a protein is made of more than one polypeptide (dimer for two polypeptides, trimer for three, and tetramer for four), the [quaternary structure][] of a protein is driven by the interactions between the polypeptides.
 
 A protein's shape depends on pH, salt concentration, temperature and other factors. Denaturation due to such factors breaks the weaker secondary, tertiary, and/or quaternary structures and may make the protein biologically inactive (i.e. unraveled). Excessively high fevers may be fatal because proteins may denature.
 
 ### Enzymes
 
-Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called allosteric sites where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
+Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
 
-A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. Coenzymes are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An apoenzyme is an enzyme missing a required cofactor. A holoenzyme is an active form of an enzyme with its cofactors.
+A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. [Coenzymes][] are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
-The rate of enzyme-catalyzed reactions reaches a limit called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The Michaelis constant K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
+The rate of enzyme-catalyzed reactions reaches a [maximum rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The [Michaelis-Menten constant][] K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
 
-Enzyme inhibitors reduce catalysis. An irreversible inhibitor covalently bonds to an active site. There are four types of reversible inhibitors:
+Enzyme inhibitors reduce catalysis. An [irreversible inhibitor][] covalently bonds to an active site. There are four types of reversible inhibitors:
 
-1. Competitive: molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> constant if substrate outcompetes the inhibitor, but K<sub>m</sub> increases because affinity is lower.
-1. Uncompetitive: molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
-1. Non-competitive: molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because there are fewer matching active sites, although K<sub>m</sub> is the same.
-1. Mixed inhibitors: basically the same as non-competitive but prefer one action over the other. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
+1. [Competitive Inhibition][]: molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> constant if substrate outcompetes the inhibitor, but K<sub>m</sub> increases because affinity is lower.
+1. [Uncompetitive Inhibition][]: molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
+1. [Non-competitive Inhibition][]: molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because there are fewer matching active sites, although K<sub>m</sub> is the same.
+1. [Mixed inhibition][]: basically the same as non-competitive but prefer one action over the other. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
 
-A sequence of enzyme-mediated reactions contains a rate-limiting reaction which is the slowest step and that regulates the pathway.
+A sequence of enzyme-mediated reactions contains a [rate-determining step][] which is the slowest step and that regulates the pathway.
 
-Regulatory enzymes have a quaternary structure which causes a sigmoid (s-shaped) kinetic behavior instead of the Michaelis hyperbolic curve. In an allosteric enzyme, a positive or negative modulator (or effector) non-covalently bonds to allosteric sites. In the concerted (or symmetry) model, all enzymes polypeptide chains are either relaxed or tense together, whereas in the sequential model, chains may be in different states, altering the active site. A homotropic allosteric modulator is a substrate which binds to an active site which causes a change in another active site.
+[Regulatory enzymes][] have a quaternary structure which causes a [sigmoid][non-michaelis-menten kinetics] (s-shaped) kinetic behavior instead of the Michaelis curve.
 
-A zymogen (or proenzyme) requires proteolysis (often by protease enzymes) to become activated.
+In an [allosteric modulator][], a positive or negative modulator (or effector) non-covalently bonds to allosteric sites. In the concerted (or symmetry) model, all enzymes' polypeptide chains are either relaxed or tense together, whereas in the sequential model, chains may be in different states, altering the active site. A homotropic allosteric modulator is a substrate which binds to an active site which causes a change in another active site.
 
-[Kinases][] catalyze phosphorylation, whereas phosphatases catalyze dephosphorylation.
+A [zymogen][] (or proenzyme) requires [proteolysis][] (often by protease enzymes) to become activated.
+
+[Kinases][] catalyze [phosphorylation][]. [Phosphatases][] catalyze dephosphorylation using hydrolysis.
 
 ## Nucleic Acids
 
-[Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A nucleotide is made of a nucleoside and one to three Phosphate groups. A nucleoside is made of a Nitrogen-containing (nitrogenous) base and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
+[Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A [nucleotide][] is made of a [nucleoside][] and one to three Phosphate groups. A [nucleoside][] is made of a Nitrogen-containing, [nitrogenous base][] and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
 
-* Group: Pyrimidines (one ring)
+* Group: [Pyrimidines][] (one ring)
   * Cytosine (C)
   * Thymine (T)
   * Uracil (U)
-* Group: Purines (two fused rings)
+* Group: [Purines][] (two fused rings)
   * Adenine (A)
   * Guanine (G)
 
-The pentose sugar is either Ribose or Deoxyribose (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a [prime symbol][] (') as compared to the Carbons in the Nitrogenous base.
+The pentose sugar is either [Ribose][] or [Deoxyribose][] (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a [prime symbol][] (') as compared to the Carbons in the Nitrogenous base.
 
-Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a covalent bond called a phosphodiester linkage. These repeating linkages create the sugar-phosphate backbone which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a covalent bond called a [phosphodiester bond][]. These repeating linkages create the [sugar-phosphate backbone][] which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
 
-Deoxyribonucleic acid (DNA) may only have A, C, T, or G Nitrogenous bases. Ribonucleic acid (RNA) may only have A, C, U, or G Nitrogenous bases.
+[Deoxyribonucleic acid][] (DNA) is a nucleic acid that may only have A, C, T, or G Nitrogenous bases. [Ribonucleic acid][] (RNA) is a nucleic acid that may only have A, C, U, or G Nitrogenous bases. DNA and RNA are negatively charged because of the phosphate groups.
 
 Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pair with Guanine. These are called complementary bases.
-
-DNA and RNA are negatively charged because of the phosphate groups.
 
 ### RNA
 
@@ -832,15 +820,15 @@ RNA usually has a single polynucleotide strand; however, base pairing may still 
 
 ### DNA
 
-DNA has two polynucleotide strands that together create a double helix structure. The two strands run in antiparallel (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside (2 for A-T and 3 for C-G).
+DNA has two polynucleotide strands that together create a double helix structure. The two strands run in [antiparallel][] (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside (2 for A-T and 3 for C-G).
 
-A plasmid is a circular form of double-stranded DNA.
+A [plasmid][] is a (usually) circular form of double-stranded DNA.
 
 ### Genes
 
 A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which provides the instructions for creating a sequence of amino acids and ultimately proteins. A [genome][] is the set of all genes in an organism.
 
-A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called [plasmids][] (usually circular). Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
+A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
 
 Chromosomes are coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
 
@@ -848,47 +836,45 @@ A chromosome and any histones is called [Chromatin][].
 
 ## Organisms
 
-A phenotype is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the genotype) and environmental factors that produced it. The same phenotype may be produced by multiple different genotypes.
+A [phenotype][] is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
 
 An [autotroph][] is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] cannot produce its own food so it must consume autotrophs or their products.
 
 ### Phylogeny
 
-[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of [taxa][] (singular taxon). The top-most taxa are [prokaryotes][] and [euykaryotes][]. Prokaryotes are subdivided into [Archaea][] and [Bacteria][]. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes. These taxa form the main three [domains][] (which describe historical origin): bacteria, archaea, and eukarya.
+[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of [taxa][] (singular taxon). The top-most taxa are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes. These taxa form the main three [domains][] (which describe historical origin): Bacteria, Archaea, and Eukarya.
 
 Both prokaryotes and eukaryotes are made of cells.
 
 ### Cells
 
-A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the cytoplasm which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called cytosol. The area inside the membrane is called intracellular and the area outside is extracellular.
+A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
 For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 #### Metabolism
 
-Metabolism is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
+[Metabolism][] is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
 
-Adenosine Triphosphate (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+[Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
-Guanosine Triphosphate (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
+[Guanosine Triphosphate][] (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
 
-Nicotinamide adenine dinucleotide (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
+[Nicotinamide adenine dinucleotide][] (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
 
-Flavin adenenine dinucleotide (FAD) is another major electron carrier in cells. FAD is two nucleotides (one with an adenine base and one with a flavin base) bonded at their phosphates. Oxidized FAD is FAD and reduced FAD is FADH<sub>2</sub>.
-
-NAD and FAD may be used as essentially energy-transfer molecules.
+[Flavin adenine dinucleotide][] (FAD) is another major electron carrier in cells. FAD is two nucleotides (one with an adenine base and one with a flavin base) bonded at their phosphates. Oxidized FAD is FAD and reduced FAD is FADH<sub>2</sub>.
 
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP.
 
 #### Membranes
 
-Membranes are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
+[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
 
 An [ion transporter][] (or ion pump) uses active transport to pump ions across a membrane against their concentration gradient.
 
-Facilitated diffusion of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise the cytoplasm is negatively charged.
+[Facilitated diffusion][] of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise the cytoplasm is negatively charged.
 
-Endocytosis occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. Exocytosis occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
+[Endocytosis][] occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. [Exocytosis][] occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
 
 #### Electron Transport Chain
 
@@ -910,11 +896,11 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 
 #### Cellular Respiration
 
-Cellular respiration is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
+[Cellular respiration][] is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
 
 #### Glycolysis
 
-Glycolysis is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2NAD<sup>+</sup> and 2ATP into two molecules of 3-Carbon Pyruvate, two additional molecules of ATP, two molecules of NADH, 2H<sub>2</sub> and 2H<sup>+</sup>. Glycolysis occurs as part of both aerobic and anaerobic respiration.
+[Glycolysis][] is an exergonic reaction in the cytosol that uses enzymes to break down Glucose using 2NAD<sup>+</sup> and 2ATP into two molecules of 3-Carbon Pyruvate, two additional molecules of ATP, two molecules of NADH, 2H<sub>2</sub> and 2H<sup>+</sup>. Glycolysis occurs as part of both aerobic and anaerobic respiration.
 
 Steps of glycolysis:
 
@@ -975,7 +961,7 @@ Next, the NADH and FADH<sub>2</sub> drive ATP production in the Respiratory Chai
 
 #### Respiratory Chain
 
-The Respiratory Chain uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
+The [Respiratory Chain][] uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
 
 Steps of the Respiratory Chain:
 
@@ -997,21 +983,21 @@ One glucose molecule creates a net 26 to 28 ATP molecules.
 
 #### Fermentation
 
-Fermentation is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH. Fermentation may occur in place of aerobic respiration when there is insufficient Oxygen.
+[Fermentation][] is the process of reducing Pyruvate and oxidizing NADH to form NAD<sup>+</sup> which allows for another round of Glycolysis to produce 2 more ATP and NADH. Fermentation may occur in place of aerobic respiration when there is insufficient Oxygen.
 
-Lactic acid fermentation produces two molecules of Lactate (or Lactic acid). The middle Carbonyl in Pyruvate is reduced to a Hydroxyl (from an NADH) to form Lactate and NAD<sup>+</sup> (catalyzed by Lactate Dehydrogenase).
+[Lactic acid fermentation][] produces two molecules of Lactate (or Lactic acid). The middle Carbonyl in Pyruvate is reduced to a Hydroxyl (from an NADH) to form Lactate and NAD<sup>+</sup> (catalyzed by Lactate Dehydrogenase).
 
-Alcoholic fermentation also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
+[Alcoholic fermentation][] also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
 
 #### Gluconeogenesis
 
-Gluconeogensis is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
+[Gluconeogenesis][] is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
 
 Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform cell division to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
@@ -1028,40 +1014,38 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 ### Prokaryotes
 
-Prokaryotes are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, peptidoglycan cell wall. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
 
 #### Bacteria
 
-Bacteria are prokaryotes with both a cell wall and an inner membrane. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with both a cell wall and an inner membrane. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
-Chemotaxis occurs when bacteria move based on a chemical stimulus.
+[Chemotaxis][] occurs when bacteria move based on a chemical stimulus.
 
-Bacteria reproduce through binary fission where the child cell has the same genes (plus any mutations). However, one bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
+Bacteria reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. However, one bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
-1. Transformation: When one bacterium dies, pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
-1. Transduction: A virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
-1. Conjugation: Transfer of genes between a bacterium with F-factor (fertility factor) and another bacterium through direct contact through a pilus.
-1. Transposition: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
+1. [Transformation][]: When one bacterium dies, pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
+1. [Transduction][]: A virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
+1. [Conjugation][]: Transfer of genes between a bacterium with F-factor (fertility factor) and another bacterium through direct contact through a pilus.
+1. [Transposition][]: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
 
-Quorum sensing occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
+[Quorum sensing][] occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
 
 ### Eukaryotes
 
-Eukaryotes are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes.
-
-Most eukaryotes are diploid meaning they have one copy of each chromosome, although polyploids exist that have two or more.
+[Eukaryotes][] are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes. Most eukaryotes are diploid meaning they have two molecules of each chromosome, although polyploids exist that have two or more.
 
 #### Cell Nucleus
 
-The cell nucleus is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
+The [cell nucleus][] is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
 
 #### Ribosomes
 
-Ribosomes are not organelles but are structures in the cytoplasm involved in protein synthesis.
+[Ribosomes][] are not organelles but are structures in the cytoplasm involved in protein synthesis.
 
 #### Endoplasmic Reticulum
 
-The endoplasmic reticulum (ER) is a network of membrane-enclosed spaces. The area inside the membrane is called the lumen. The rough endoplasmic reticulum has ribosomes on the outside of its membrane and is involved in protein synthesis. The smooth endoplasmic reticulum does not have ribosomes on the outside of its membrane and is involved in lipid synthesis and detoxification.
+The [endoplasmic reticulum][] (ER) is a network of membrane-enclosed spaces. The area inside the membrane is called the lumen. The rough endoplasmic reticulum has ribosomes on the outside of its membrane and is involved in protein synthesis. The smooth endoplasmic reticulum does not have ribosomes on the outside of its membrane and is involved in lipid synthesis and detoxification.
 
 #### Golgi Apparatus
 
@@ -1069,21 +1053,31 @@ The [golgi apparatus][] is a stack of membrane-enclosed sacs called cisternae. S
 
 #### Lysosomes
 
-Lysosomes use hydrolytic enzymes to break down proteins, carbohydrates, and nucleic acids. Lysosomes have an acidic pH of 5.
+[Lysosomes][] use hydrolytic enzymes to break down proteins, carbohydrates, and nucleic acids. Lysosomes have an acidic pH of 5.
 
 #### Peroxisomes
 
-Peroxisomes use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
+[Peroxisomes][] use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
 
 #### Vacuoles
 
-Vacuoles are membrane-enclosed sacs used to store waste products and help maintain structure.
+[Vacuoles][] are membrane-enclosed sacs used to store waste products and help maintain structure.
 
 #### Hormones
 
-Hormones are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
+[Hormones][] are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
 
-Steroids are hormones that are lipids with cholesterol-based structures which can pass through a cell membrane and may act as a transcription factor on DNA.
+##### Steroids
+
+[Steroids][] are hormones that are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane and may act as a transcription factor on DNA.
+
+<pre>
+      /\ /\
+     |  |__|
+ /\ / \/
+|  |  |
+ \/ ⑊/
+</pre>
 
 #### Energy Generation
 
@@ -1091,21 +1085,19 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 #### Mitochondria
 
-Mitochondria are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
+[Mitochondria][] are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
 
 #### Plants
 
-Plants are autotrophs or self-feeders, meaning they generate their own chemical energy from sunlight through the process of photosynthesis.
+[Plants][] are autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
 
-Unlike animals, plants have a cell wall made of cellulose.
-
-Phototropism is the directional growth of plants towards light.
+[Phototropism][] is the directional growth of plants towards light.
 
 ##### Chloroplasts
 
 [Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
 
-Plants have leaves which include mesophyll cells that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
+Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
 The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>O + Light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> + 6H<sub>2</sub>O</code>
 
@@ -1129,25 +1121,25 @@ Steps of photosynthesis:
 
 ##### Vascular Plants
 
-Vascular plants (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches. Angiosperms have flowering seeds whereas gymnosperms have naked seeds.
+[Vascular plants][] (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches. Angiosperms have flowering seeds whereas gymnosperms have naked seeds.
 
-Leaves perform photosynthesis. Monocot leaves are narrow with veins that run parallel to the length of the leaf. Dicot leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
+[Monocot][] leaves are narrow with veins that run parallel to the length of the leaf. [Dicot][] leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
 
-Roots provide support in soil and uptake of water and minerals. Taproots have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria (such as legumes and Rhizobium) to increase surface area to acquire resources. Rooted plants help an area avoid erosion.
+[Roots][] provide support in soil and uptake of water and minerals. Taproots have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria (such as legumes and Rhizobium) to increase surface area to acquire resources. Rooted plants help an area avoid erosion.
 
-Branches hold leaves to the light and transport water and nutrients between the roots and leaves.
+[Branches][] hold leaves to the light and transport water and nutrients between the roots and leaves.
 
 ##### Terrestrial Plants
 
-Terrestrial plants are related to the land, although they may be partly in water. Their leaves have a waxy covering called a cuticle which reduces evaporation because of its hydrophibicity.
+[Terrestrial plants][] are related to the land, although they may be partly in water. Their leaves have a waxy covering called a cuticle which reduces evaporation because of its hydrophibicity.
 
-The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. Guard cells open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
-Meristems are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
+[Meristems][] are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
 
-#### DNA Protein Synthesis
+#### Protein Synthesis
 
-In eukaryotes:
+[Protein synthesis][] in eukaryotes:
 
 1. At a sequence of nucleotides called the promoter (sequence TATA), RNA polymerase II and transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
 1. Transcription: The 3' strand of DNA (called the template strand; the 5' non-template strand is called the coding strand) synthesizes a complementary RNA molecule called pre-messenger RNA (pre-mRNA). Nucleotides are transcribed to the 3' end.
@@ -1184,13 +1176,13 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 About 2% of the human genome encodes for proteins.
 
-Most human enzymes act optimally at a temperature of 37 °C / 98.6 °F.
+Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 ## Viruses
 
-Viruses have DNA or RNA but do not have a membrane or organelles. Instead, viruses surround their nucleic acids with a protein shell called a capsid. Viruses reproduce by injecting their genes into an existing cell. Glycoproteins on the capsid help to bind with surface proteins on a target cell.
+[Viruses][] have DNA or RNA but do not have a membrane or organelles. Instead, viruses surround their nucleic acids with a protein shell called a capsid. Viruses reproduce by injecting their genes into an existing cell. Glycoproteins on the capsid help to bind with surface proteins on a target cell.
 
-Viruses that infect bacteria are called bacteriophages (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
+Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
 A lytic virus causes a cell to ultimately burst and die, whereas a lysogenic virus is integrated permanently without killing the cell.
 
@@ -1206,9 +1198,9 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The fir
 
 ## Evolution
 
-Evolution is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc. The process of natural selection states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
+[Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc. The process of natural selection states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
 
-Stabilizing selection eliminates phenotypes at the extremes of a population characteristic. Directional selection favors one extreme of a population characteristic. Disruptive selection (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
+[Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
 # Laboratory Techniques
 
@@ -1313,9 +1305,11 @@ if (elements.length) {
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
+[adenosine triphosphate]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
+[alcoholic fermentation]: https://en.wikipedia.org/wiki/Ethanol_fermentation
 [algebra]: https://www.khanacademy.org/math/algebra
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
@@ -1327,6 +1321,8 @@ if (elements.length) {
 [alkene]: https://en.wikipedia.org/wiki/Alkene
 [alkyl]: https://en.wikipedia.org/wiki/Alkyl
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
+[allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
+[allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
@@ -1335,6 +1331,8 @@ if (elements.length) {
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [animals]: https://en.wikipedia.org/wiki/Animal
+[antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
+[apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -1358,13 +1356,16 @@ if (elements.length) {
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
+[bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
+[binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [brain]: https://en.wikipedia.org/wiki/Brain
+[branches]: https://en.wikipedia.org/wiki/Branch
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
@@ -1377,6 +1378,10 @@ if (elements.length) {
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
+[cell division]: https://en.wikipedia.org/wiki/Cell_division
+[cell membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[cell nucleus]: https://en.wikipedia.org/wiki/Cell_nucleus
+[cellular respiration]: https://en.wikipedia.org/wiki/Cellular_respiration
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [central nervous system]: https://en.wikipedia.org/wiki/Central_nervous_system
 [centrioles]: https://en.wikipedia.org/wiki/Centriole
@@ -1394,6 +1399,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
+[chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
@@ -1402,15 +1408,18 @@ if (elements.length) {
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
 [cofactor]: https://en.wikipedia.org/wiki/Cofactor_(biochemistry)
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
+[competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
+[conjugation]: https://en.wikipedia.org/wiki/Bacterial_conjugation
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
@@ -1420,22 +1429,29 @@ if (elements.length) {
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
+[cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
+[cytosol]: https://en.wikipedia.org/wiki/Cytosol
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
+[deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
+[deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
+[dicot]: https://en.wikipedia.org/wiki/Dicotyledon
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
+[directional selection]: https://en.wikipedia.org/wiki/Directional_selection
 [disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
+[disruptive selection]: https://en.wikipedia.org/wiki/Disruptive_selection
 [distance]: https://en.wikipedia.org/wiki/Distance
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [ductile]: https://en.wikipedia.org/wiki/Ductility
@@ -1466,12 +1482,15 @@ if (elements.length) {
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
 [endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
+[endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
+[endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
@@ -1480,17 +1499,22 @@ if (elements.length) {
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
+[evolution]: https://en.wikipedia.org/wiki/Evolution
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
+[exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
+[facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
+[flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
@@ -1506,18 +1530,23 @@ if (elements.length) {
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [genome]: https://en.wikipedia.org/wiki/Genome
+[genotype]: https://en.wikipedia.org/wiki/Genotype
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
+[gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
+[glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+[guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
+[guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
@@ -1529,8 +1558,10 @@ if (elements.length) {
 [histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
+[holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
+[hormones]: https://en.wikipedia.org/wiki/Hormone
 [hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
 [hydride]: https://en.wikipedia.org/wiki/Hydride
@@ -1564,6 +1595,7 @@ if (elements.length) {
 [ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
+[irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
 [isomers]: https://en.wikipedia.org/wiki/Isomer
 [isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
 [isotope]: https://en.wikipedia.org/wiki/Isotope
@@ -1576,6 +1608,7 @@ if (elements.length) {
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
+[lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
@@ -1588,6 +1621,7 @@ if (elements.length) {
 [litre]: https://en.wikipedia.org/wiki/Litre
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
+[lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [mass]: https://en.wikipedia.org/wiki/Mass
@@ -1596,17 +1630,23 @@ if (elements.length) {
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
-[membrane]: https://en.wikipedia.org/wiki/Cell_membrane
+[membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
+[meristems]: https://en.wikipedia.org/wiki/Meristem
+[mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
+[metabolism]: https://en.wikipedia.org/wiki/Metabolism
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
+[michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
+[mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
 [mitotic spindle]: https://en.wikipedia.org/wiki/Spindle_apparatus
+[mixed inhibition]: https://en.wikipedia.org/wiki/Mixed_inhibition
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -1620,6 +1660,7 @@ if (elements.length) {
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
+[monocot]: https://en.wikipedia.org/wiki/Monocotyledon
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
@@ -1631,8 +1672,12 @@ if (elements.length) {
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
+[nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
+[nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
+[non-competitive inhibition]: https://en.wikipedia.org/wiki/Non-competitive_inhibition
+[non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
@@ -1640,8 +1685,10 @@ if (elements.length) {
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
+[nucleoside]: https://en.wikipedia.org/wiki/Nucleoside
 [nucleoside-diphosphate kinases]: https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase
 [nucleosome]: https://en.wikipedia.org/wiki/Nucleosome
+[nucleotide]: https://en.wikipedia.org/wiki/Nucleotide
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
@@ -1663,24 +1710,31 @@ if (elements.length) {
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [peptides]: https://en.wikipedia.org/wiki/Peptide
+[peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [peripheral nervous system]: https://en.wikipedia.org/wiki/Peripheral_nervous_system
+[peroxisomes]: https://en.wikipedia.org/wiki/Peroxisome
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
+[phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
+[phosphodiester bond]: https://en.wikipedia.org/wiki/Phosphodiester_bond
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
+[phosphorylation]: https://en.wikipedia.org/wiki/Phosphorylation
+[phosphatases]: https://en.wikipedia.org/wiki/Phosphatase
 [photon]: https://en.wikipedia.org/wiki/Photon
 [photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
+[phototropism]: https://en.wikipedia.org/wiki/Phototropism
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
-[plasmids]: https://en.wikipedia.org/wiki/Plasmid
+[plasmid]: https://en.wikipedia.org/wiki/Plasmid
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
@@ -1691,23 +1745,37 @@ if (elements.length) {
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
+[protein synthesis]: https://en.wikipedia.org/wiki/Protein_biosynthesis
 [proteins]: https://en.wikipedia.org/wiki/Protein
+[proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[purines]: https://en.wikipedia.org/wiki/Purine
+[pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
+[quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
+[quorum sensing]: https://en.wikipedia.org/wiki/Quorum_sensing
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
+[rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [redox]: https://en.wikipedia.org/wiki/Redox
+[regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
+[respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
+[ribonucleic acid]: https://en.wikipedia.org/wiki/RNA
+[ribose]: https://en.wikipedia.org/wiki/Ribose
+[ribosomes]: https://en.wikipedia.org/wiki/Ribosome
+[roots]: https://en.wikipedia.org/wiki/Root
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
@@ -1715,6 +1783,7 @@ if (elements.length) {
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
+[secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
@@ -1731,6 +1800,7 @@ if (elements.length) {
 [speed]: https://en.wikipedia.org/wiki/Speed
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
+[stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
@@ -1746,6 +1816,7 @@ if (elements.length) {
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
+[sugar-phosphate backbone]: https://en.wikipedia.org/wiki/Sugar_phosphates
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
@@ -1758,6 +1829,8 @@ if (elements.length) {
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
+[terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
+[tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
@@ -1769,7 +1842,10 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
+[transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
+[transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
+[transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
@@ -1778,19 +1854,24 @@ if (elements.length) {
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
 [type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
 [type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
+[uncompetitive inhibition]: https://en.wikipedia.org/wiki/Uncompetitive_inhibitor
 [unified atomic mass units]: https://en.wikipedia.org/wiki/Unified_atomic_mass_unit
 [unit of measurement]: https://en.wikipedia.org/wiki/Units_of_measurement
 [universe]: https://en.wikipedia.org/wiki/Universe
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
+[vacuoles]: https://en.wikipedia.org/wiki/Vacuole
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
+[vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
+[vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
+[viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
@@ -1803,3 +1884,4 @@ if (elements.length) {
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
 [zygote]: https://en.wikipedia.org/wiki/Zygote
+[zymogen]: https://en.wikipedia.org/wiki/Zymogen
