@@ -1118,7 +1118,9 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 ##### Chloroplasts
 
-[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis). Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
+[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
+
+Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
@@ -1225,7 +1227,7 @@ Different viruses have different structures and behaviors:
 
 An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
 
-Antibodies (or immunoglobulins) are produced by B cells. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+[Antibodies][] (or immunoglobulins) are Y-shaped proteins produced by B cells. Antibodies recognize [antigens][] which are particular molecules on a pathogen. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
 ## History of Life
 
@@ -1369,6 +1371,8 @@ if (elements.length) {
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [animals]: https://en.wikipedia.org/wiki/Animal
+[antibodies]: https://en.wikipedia.org/wiki/Antibody
+[antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
