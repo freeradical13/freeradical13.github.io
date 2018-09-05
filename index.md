@@ -1018,9 +1018,13 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 [Genetics][] is the study of genes and [heredity][] which is the passing of phenotypic traits from parents to offspring.
 
-A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, the matching chromosomes are called [homologs][] (or homologous chromosomes).
+A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
 
-A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype.
+Some sets of chromosomes have a differing number of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. Males produce small gametes ([sperm][] or [pollen][]), and females produce large gametes ([ova][] or egg cells) which are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+
+A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype. A dominant allele is denoted with an uppercase letter and a recessive allele with a lowercase letter.
+
+Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
 ### Prokaryotes
 
@@ -1335,6 +1339,7 @@ if (elements.length) {
 [alkyl]: https://en.wikipedia.org/wiki/Alkyl
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [allele]: https://en.wikipedia.org/wiki/Allele
+[allosomes]: https://en.wikipedia.org/wiki/Sex_chromosome
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -1364,6 +1369,7 @@ if (elements.length) {
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
+[autosomes]: https://en.wikipedia.org/wiki/Autosome
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
@@ -1531,6 +1537,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[female]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
@@ -1571,10 +1578,12 @@ if (elements.length) {
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [haploids]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
+[hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [heme]: https://en.wikipedia.org/wiki/Heme
 [heredity]: https://en.wikipedia.org/wiki/Heredity
+[hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
@@ -1653,6 +1662,7 @@ if (elements.length) {
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
+[male]: https://en.wikipedia.org/wiki/Male
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
@@ -1732,6 +1742,7 @@ if (elements.length) {
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
+[ova]: https://en.wikipedia.org/wiki/Ovum
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
@@ -1766,6 +1777,7 @@ if (elements.length) {
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
+[pollen]: https://en.wikipedia.org/wiki/Pollen
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
@@ -1814,6 +1826,7 @@ if (elements.length) {
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
+[sexes]: https://en.wikipedia.org/wiki/Sex
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
@@ -1828,6 +1841,7 @@ if (elements.length) {
 [space]: https://en.wikipedia.org/wiki/Space
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
+[sperm]: https://en.wikipedia.org/wiki/Sperm
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
