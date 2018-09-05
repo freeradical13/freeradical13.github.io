@@ -1020,7 +1020,9 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
 
-Some sets of chromosomes have a differing number of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. Males produce small gametes ([sperm][] or [pollen][]), and females produce large gametes ([ova][] or egg cells) which are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells) which are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
+
+All chromosomes other than allosomes are called [autosomes][].
 
 A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype. A dominant allele is denoted with an uppercase letter and a recessive allele with a lowercase letter.
 
