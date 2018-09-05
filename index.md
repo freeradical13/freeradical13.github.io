@@ -1539,7 +1539,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
-[female]: https://en.wikipedia.org/wiki/Female
+[females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
@@ -1664,7 +1664,7 @@ if (elements.length) {
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
-[male]: https://en.wikipedia.org/wiki/Male
+[males]: https://en.wikipedia.org/wiki/Male
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
