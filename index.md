@@ -591,6 +591,11 @@ Biology (or life science) is the [study of life][biology history].
 
 A [biomolecule][] is generally an organic molecule that's related to some biological process, often a biomacromolecule but also small molecules.
 
+General terms:
+
+* [Facultative][]: optional.
+* [Obligate][]: obligatory; necessary.
+
 ## Carbohydrates
 
 [Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates have the suffix [-ose][sugar suffix].
@@ -870,7 +875,7 @@ For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e
 
 #### Membranes
 
-[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane.
+[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. An area enclosed by a membrane may be called a [lumen][].
 
 An [ion transporter][] (or ion pump) uses active transport to pump ions across a membrane against their concentration gradient.
 
@@ -1113,7 +1118,7 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 ##### Chloroplasts
 
-[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have two phospholipid bilayers. Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
+[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis). Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
@@ -1165,6 +1170,12 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the poly-A tail.
 1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
 1. Translation: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
+
+#### Gene Expression
+
+[Gene Expression][] describes when and why genes are used to create gene products such as proteins.
+
+A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
 
 #### Tissues
 
@@ -1454,6 +1465,7 @@ if (elements.length) {
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conjugation]: https://en.wikipedia.org/wiki/Bacterial_conjugation
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
+[constitutive gene]: https://en.wikipedia.org/wiki/Gene_expression#Regulation_of_gene_expression
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
@@ -1543,6 +1555,7 @@ if (elements.length) {
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
+[facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
@@ -1566,6 +1579,7 @@ if (elements.length) {
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
+[gene expression]: https://en.wikipedia.org/wiki/Gene_expression
 [genetics]: https://en.wikipedia.org/wiki/Genetics
 [genome]: https://en.wikipedia.org/wiki/Genome
 [genotype]: https://en.wikipedia.org/wiki/Genotype
@@ -1670,6 +1684,7 @@ if (elements.length) {
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
+[lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
@@ -1745,6 +1760,7 @@ if (elements.length) {
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
+[obligate]: https://en.wikipedia.org/wiki/Obligate
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
