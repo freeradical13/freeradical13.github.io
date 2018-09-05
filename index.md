@@ -1198,11 +1198,17 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 ## Viruses
 
-[Viruses][] have DNA or RNA but do not have a membrane or organelles. Instead, viruses surround their nucleic acids with a protein shell called a capsid. Viruses reproduce by injecting their genes into an existing cell. Glycoproteins on the capsid help to bind with surface proteins on a target cell.
+[Viruses][] (singular viron) have DNA or RNA but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
+
+Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
-A lytic virus causes a cell to ultimately burst and die, whereas a lysogenic virus is integrated permanently without killing the cell.
+A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] is integrated permanently without killing the cell.
+
+Different viruses have different structures and behaviors:
+
+* [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
 
 ## Immune System
 
@@ -1393,6 +1399,7 @@ if (elements.length) {
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[capsid]: https://en.wikipedia.org/wiki/Capsid
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
@@ -1583,6 +1590,7 @@ if (elements.length) {
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
 [heredity]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
@@ -1623,6 +1631,7 @@ if (elements.length) {
 [incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
+[influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
@@ -1661,7 +1670,9 @@ if (elements.length) {
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
+[lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
+[lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [males]: https://en.wikipedia.org/wiki/Male
@@ -1707,6 +1718,7 @@ if (elements.length) {
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
+[negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neurons]: https://en.wikipedia.org/wiki/Neuron
@@ -1786,6 +1798,7 @@ if (elements.length) {
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
+[positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
@@ -1819,6 +1832,7 @@ if (elements.length) {
 [ribonucleic acid]: https://en.wikipedia.org/wiki/RNA
 [ribose]: https://en.wikipedia.org/wiki/Ribose
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
+[rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [roots]: https://en.wikipedia.org/wiki/Root
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
@@ -1829,6 +1843,7 @@ if (elements.length) {
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [sexes]: https://en.wikipedia.org/wiki/Sex
+[sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
@@ -1920,6 +1935,7 @@ if (elements.length) {
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
+[viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [volume]: https://en.wikipedia.org/wiki/Volume
