@@ -403,7 +403,7 @@ H     <span class="emphasis">X</span>
 <span class="emphasis">X</span>     H
 </pre>
 
-A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
+A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers (L-form and D-form) from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
 
 [Conformations][] are isomers in which the difference between molecules is rotation around a single bond and does not depend on different bonding.
 
@@ -602,7 +602,7 @@ General terms:
 
 ### Monosaccharides
 
-[Monosaccharides][] are carbohydrates made of a single sugar molecule with a Carbonyl and multiple Hydroxyl groups. Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose.
+[Monosaccharides][] are carbohydrates made of a single sugar molecule with a Carbonyl and multiple Hydroxyl groups (usually D-form isomers). Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose.
 
 One of the most common sugars used by organisms for energy is [Glucose][] which is a hexose aldose. It has the linear arrangement:
 
@@ -624,7 +624,7 @@ HO–C–H
    H
 </pre>
 
-In aqueous solution, sugars tend to form rings. In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. The <span class="edgeon">emphasized edges</span> indicate that we're looking at the ring edge-on, and the other non-ring bonds lie above or below the plane of the ring. There are two ring isomers of Glucose depending on where the Hydroxyl is. The α-Glucose ring is:
+In aqueous solution, sugars tend to form rings called [pyranoses][] (or, more rarely, furanoses) when the carbonyl and hydroxyl in the sugar create a [hemiacetal][] or hemiketal group (if the carbonyl is an aldehyde or ketone, respectively). In Glucose, the Carbons are numbered starting with the top Carbon (with the Carbonyl) as 1. These numbers are used to describe where bonds occur between multiple monosaccharides. The <span class="edgeon">emphasized edges</span> indicate that we're looking at the ring edge-on, and the other non-ring bonds lie above or below the plane of the ring. There are two ring isomers of Glucose depending on where the Hydroxyl is. The α-Glucose ring is:
 
 <pre>
     CH<sub>2</sub>OH
@@ -662,9 +662,9 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
 
 [Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
-Storage polysaccharides are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers (amylose being an unbranched starch, and amylopectin being branched). Glycogen is like amylopectin but even more branched.
+[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). Glycogen is like amylopectin but even more branched.
 
-Structural polysaccharides are used by organisms to build strong structural material. Cellulose and Chitin (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form microfibrils.
+[Structural polysaccharides][] are used by organisms to build strong structural material. [Cellulose][] and [Chitin][] (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form [microfibrils][].
 
 ## Lipids
 
@@ -707,13 +707,27 @@ A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty 
 
 Monounsaturated fatty acids have a single double bond whereas polyunsaturated fatty acids have two or more double bonds.
 
-A [fat][] is a [triaglycerol][] (or triglyceride) with one Glycerol and three fatty acids.
+A [fat][] is a [triacylglyceride][] (or triglyceride) with one Glycerol and three fatty acids.
 
 ### Phospholipids
 
 [Phospholipids][] are lipids made of a [Diglyceride][] and the third Hydroxyl of the Glycerol is bonded to a Phosphate group which has a negative charge. Another polar molecule such as Choline is sometimes bonded to the Phosphate. This forms a molecule which has a hydrophobic "tail" made of the fatty acids and a hyrophilic "head" made of the Phosphate.
 
 When added to water, phospholipids form a bilayer with two hydrophilic sides opposite each other and then hydrophilic fatty acids in between.
+
+### Steroids
+
+[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane and may act as a transcription factor on DNA.
+
+<pre>
+      /\ /\
+     |  |__|
+ /\ / \/
+|  |  |
+ \/ ⑊/
+</pre>
+
+[Cholesterol][] is a key steroids. Another steroid is [Vitamin D][] which is made from Cholesterol.
 
 ### Waxes
 
@@ -863,7 +877,7 @@ For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e
 
 [Metabolism][] is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
 
-[Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG on hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+[Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
 [Guanosine Triphosphate][] (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
 
@@ -894,7 +908,7 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 1. An electron transport chain pumps H<sup>+</sup> cations across a membrane against the ions' concentration gradients.
 1. The H<sup>+</sup> cations want to move back across the membrane down their concentration gradient. This potential energy is called the proton motive force.
 1. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP. ATP synthase:
-    1. H<sup>+</sup> cations enter a channel called the Stator.
+    1. H<sup>+</sup> cations enter a channel called the [Stator][].
     1. H<sup>+</sup> cations enter binding sites within a rotor which spins in the membrane.
     1. After one turn, the H<sup>+</sup> cations pass through another channel in the Stator and through the membrane.
     1. Spinning of the rotor causes a rod attached to the rotor to spin.
@@ -911,14 +925,14 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 
 Steps of glycolysis:
 
-1. Hexokinase uses ATP to phosphorylate Glucose into Glucose 6-Phosphate, with ADP as a byproduct.
-1. Phosphoglucoisomerase converts Glucose 6-Phosphate to Fructose 6-Phosphate.
-1. Phosphofructokinase uses ATP to phosphorylate Fructose 6-Phosphate into Fructose 1,6-Biphosphate.
-1. Aldolase cleaves Fructose 1,6-biphosphate into two 3-Carbon sugars: Glyceraldehyde 3-Phosphate (G3P or GA3P) and Dihydroxyacetone Phosphate (DHAP).
-1. Triose Phosphate Dehydrogenase removes two Hydrogens from two G3Ps, transferring one electron and one H onto NAD<sup>+</sup> to make NADH, and an H<sup>+</sup> is released into the cytosol. The energy from this redox reaction is also used to phosphorylate G3P to form 1,3-Biphosphoglycerate.
+1. [Hexokinase][] uses ATP to phosphorylate Glucose into Glucose 6-Phosphate, with ADP as a byproduct.
+1. Phosphoglucoisomerase converts Glucose 6-Phosphate to [Fructose 6-Phosphate][].
+1. Phosphofructokinase uses ATP to phosphorylate Fructose 6-Phosphate into [Fructose 1,6-Biphosphate][].
+1. [Aldolase][] cleaves Fructose 1,6-biphosphate into two 3-Carbon sugars: Glyceraldehyde 3-Phosphate (G3P or GA3P) and Dihydroxyacetone Phosphate (DHAP).
+1. Triose Phosphate Dehydrogenase removes two Hydrogens from two G3Ps, transferring one electron and one H onto NAD<sup>+</sup> to make NADH, and an H<sup>+</sup> is released into the cytosol. The energy from this redox reaction is also used to phosphorylate G3P to form [1,3-Biphosphoglycerate][].
 1. Phosphoglycerokinase dephosphorylates 1,3-Biphosphogylcerate to 3-Phosphoglycerate and creates ATP. This is called [substrate-level phosphorylation][].
-1. Phosphoglyceromutase relocates the P to create 2-Phosphoglycerate.
-1. Enolase removes water from 2-Phosphoglycerate, leaving Phosphoenolpyruvate (PEP).
+1. Phosphoglyceromutase relocates the P to create [2-Phosphoglycerate][].
+1. Enolase removes water from 2-Phosphoglycerate, leaving Phosphoenolpyruvate ([PEP][]).
 1. Pyruvate kinase dephosphorylates PEP into Pyruvate and creates ATP through substrate-level phosphorylation.
 
 In summary:
@@ -935,24 +949,24 @@ Next, respiration may continue into either Aerobic respiration with Oxygen (Kreb
 
 #### Citric Acid Cycle
 
-The [Citric Acid Cycle][] (or Krebs cycle or Tricarboxylic Acid Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
+The Citric Acid Cycle (or Krebs cycle or Tricarboxylic Acid [TCA] Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
 
-First, Pyruvate Oxidation occurs when Pyruvate is oxidized into Acetyl CoA:
+First, [Pyruvate Oxidation][] occurs when Pyruvate is oxidized into Acetyl CoA:
 
 1. Pyruvate's carboxyl group is oxidized and converted into CO<sub>2</sub>.
 1. The remaining 2-Carbon molecule is oxidized to create NADH.
-1. The Sulfer-containing Coenzyme A (CoA) is attached to the 2-Carbon molecule forming Acetyl Coenzyme A (Acetyl CoA).
+1. The Sulfer-containing Coenzyme A ([CoA][]) is attached to the 2-Carbon molecule forming Acetyl Coenzyme A ([Acetyl CoA][]).
 
-Next, the Citric Acid Cycle starts which generates ATP, 2NADH, FADH<sub>2</sub>, and 2CO<sub>2</sub> per cycle:
+Next, the [Citric Acid Cycle][] starts which generates ATP, 2NADH, FADH<sub>2</sub>, and 2CO<sub>2</sub> per cycle:
 
-1. The 2-Carbon acetyl group is removed from Acetyl CoA (leaving CoA-SH) and transferred to Oxaloacetate to form Citrate which is an ionized form of citric acid (thus the name of the cycle).
-1. Citrate is converted into Isocitrtate while removing one water molecule and adding another.
-1. Isocitrate is oxidized to reduce NAD<sup>+</sup> into NADH, and broken into α-Ketoglutarate and CO<sub>2</sub>.
-1. α-Ketoglutarate is broken into Succinyl CoA and CO<sub>2</sub> and Succinyl CoA is oxidized to reduce NAD<sup>+</sup> into NADH.
-1. The CoA is replaced with a Phosphate group which then phosphorylates GDP to GTP (and sometimes transformed into ATP), and leaving Succinate.
-1. Succinate is oxidized of two H to produce Fumarate and reduce FAD into FADH<sub>2</sub>.
-1. Water is added to Fumarate to create Malate.
-1. Malate is oxidized to reduce NAD<sup>+</sup> into NADH and leaving Oxaloacetate.
+1. The 2-Carbon acetyl group is removed from Acetyl CoA (leaving CoA-SH) and transferred to Oxaloacetate to form [Citrate][] which is an ionized form of citric acid (thus the name of the cycle).
+1. Citrate is converted into [Isocitrate][] while removing one water molecule and adding another.
+1. Isocitrate is oxidized to reduce NAD<sup>+</sup> into NADH, and broken into [α-Ketoglutarate][] and CO<sub>2</sub>.
+1. α-Ketoglutarate is broken into [Succinyl CoA][] and CO<sub>2</sub> and Succinyl CoA is oxidized to reduce NAD<sup>+</sup> into NADH.
+1. The CoA is replaced with a Phosphate group which then phosphorylates GDP to GTP (and sometimes transformed into ATP), and leaving [Succinate][].
+1. Succinate is oxidized of two H to produce [Fumarate][] and reduce FAD into FADH<sub>2</sub>.
+1. Water is added to Fumarate to create [Malate][].
+1. Malate is oxidized to reduce NAD<sup>+</sup> into NADH and leaving [Oxaloacetate][].
 
 In summary:
 
@@ -972,12 +986,12 @@ The [Respiratory Chain][] uses the electron carriers NADH and FADH<sub>2</sub> p
 
 Steps of the Respiratory Chain:
 
-1. NADH transfers electrons to Complex I: flavoprotein FMN (named because of its flavin mononucleotide) followed by an iron-sulfur protein FeS. Complex I also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. FeS transfer electrons to the non-protein Ubiquinone (Q or Coenzyme Q or CoQ).
-    1. In addition, FADH<sub>2</sub> transfers electrons to Complex II into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
-1. Q transfers electrons into Complex III into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into Complex IV into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In Oxidative Phosphorylation during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, examples of an electron acceptor is Sulfate ions (SO<sub>4</sub><sup>2-</sup>) which do the same but instead of water produce Hydrogen Sulfide (H<sub>2</sub>S).
+1. NADH transfers electrons to [Complex I][]: flavoprotein [FMN][] (named because of its flavin mononucleotide) followed by an iron-sulfur protein FeS. Complex I also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. FeS transfer electrons to the non-protein Ubiquinone (Q or [Coenzyme Q<sub>10</sub>][coenzyme q10] or CoQ).
+    1. In addition, FADH<sub>2</sub> transfers electrons to [Complex II][] into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
+1. Q transfers electrons into [Complex III][] into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into [Complex IV][] into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
+1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In [Oxidative Phosphorylation][] during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, examples of an electron acceptor is Sulfate ions (SO<sub>4</sub><sup>2-</sup>) which do the same but instead of water produce Hydrogen Sulfide (H<sub>2</sub>S).
 
 In summary:
 
@@ -998,9 +1012,11 @@ One glucose molecule creates a net 26 to 28 ATP molecules.
 
 #### Gluconeogenesis
 
-[Gluconeogenesis][] is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. The whole process uses 2 ATP, 2 GTP, and 1 NADH.
+[Gluconeogenesis][] is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. It is effectively the opposite of Glycolysis. The whole process uses 2 ATP, 2 GTP, and 1 NADH. Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
 
-Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
+#### Lipogenesis
+
+[Lipogenesis][] is the process of converting Acetyl-CoA into Triglycerides.
 
 #### Cell Division
 
@@ -1009,21 +1025,21 @@ Both prokyarotes and eukaryotes perform [cell division][] to replicate themselve
 Some cells cycle through one of a few states called a [cell cycle][]:
 
 1. Interphase:
-    1. G<sub>1</sub>: Cell grows.
-    1. S (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
-    1. G<sub>2</sub>: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
-1. M (mitosis): Cell divides
-    1. Prophase: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
-    1. Prometaphase: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
-    1. Metaphase: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
-    1. Anaphase: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
-    1. Telophase: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
+    1. [G<sub>1</sub>][g1]: Cell grows.
+    1. [S][s phase] (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
+    1. [G<sub>2</sub>][g2]: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+1. [M][m phase] (mitosis): Cell divides
+    1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+    1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
+    1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
+    1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
+    1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
 
 ### Genetics
 
 [Genetics][] is the study of genes and [heredity][] which is the passing of phenotypic traits from parents to offspring.
 
-A cell is haploid if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
+A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
 
 Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
 
@@ -1090,17 +1106,7 @@ The [golgi apparatus][] is a stack of membrane-enclosed sacs called [cisternae][
 
 [Hormones][] are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
 
-##### Steroids
-
-[Steroids][] are hormones that are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane and may act as a transcription factor on DNA.
-
-<pre>
-      /\ /\
-     |  |__|
- /\ / \/
-|  |  |
- \/ ⑊/
-</pre>
+Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
 
 #### Energy Generation
 
@@ -1120,7 +1126,7 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 [Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
 
-Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the [Calvin cycle][] uses that energy to synthesize organic compounds.
+Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
@@ -1131,17 +1137,17 @@ The reaction is endergonic and light provides the needed energy.
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. In the membrane of the thylakoid, substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
-    1. Chlorophyll and proteins combine in the thylakoid membrane into photosystems. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the reaction-center complex where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are Photosystem II (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
-    1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
-    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone (Pq), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis (photophosphorylation).
-    1. The electrons continue to Photosystem I and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
-    1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin (Fd).
-    1. The enzyme NADP<sup>+</sup> reductase catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
-1. The calvin cycle (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
-    1. The carbon fixation step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate (RuBP). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase (Rubisco). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
-    1. The 3-Phosphogylcerate molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
-    1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate (G3P) which is a 3-Carbon sugar.
+    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
+    1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
+        1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
+    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
+    1. The electrons continue to [Photosystem I][] and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
+    1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin ([Fd][]).
+    1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
+1. The [Calvin Cycle][] (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
+    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
+    1. The [3-Phosphogylcerate][] molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
+    1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
 
 ##### Vascular Plants
@@ -1166,12 +1172,12 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 
 [Protein synthesis][] in eukaryotes:
 
-1. At a sequence of nucleotides called the promoter (sequence TATA), RNA polymerase II and transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
-1. Transcription: The 3' strand of DNA (called the template strand; the 5' non-template strand is called the coding strand) synthesizes a complementary RNA molecule called pre-messenger RNA (pre-mRNA). Nucleotides are transcribed to the 3' end.
-1. Once RNA polymerase II transcribes the polyadenylation sequence (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
-1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the poly-A tail.
-1. The pre-mRNA is made of sets of nucleotides called exons which are needed for translation, and introns which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA (ribozymes) cuts out the introns and connects the exons together, creating the final mRNA. Untranslated regions (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
-1. Translation: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
+1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
+1. [Transcription][]: The 3' strand of DNA (called the [template strand][]; the 5' non-template strand is called the [coding strand][]) synthesizes a complementary RNA molecule called [pre-messenger RNA][] (pre-mRNA). Nucleotides are transcribed to the 3' end.
+1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
+1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
+1. The pre-mRNA is made of sets of nucleotides called [exons][] which are needed for translation, and [introns][] which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
+1. [Translation][]: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a codon which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a translator RNA (tRNA) with a matching codon (called an anti-codon) attaches its matching amino acid to the polypeptide chain.
 
 #### Gene Expression
 
@@ -1200,6 +1206,10 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 [Animals][] are multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
 
 [Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
+
+##### Bile Acid
+
+[Bile acid][] is created in the liver, stored in the gallbladder, and secreted in the duodenum, and it's used for digestion and absorption of fat from food.
 
 #### Mammals
 
@@ -1330,12 +1340,17 @@ if (elements.length) {
 }
 </script>
 
+[1,3-biphosphoglycerate]: https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid
 [1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
+[2-phosphoglycerate]: https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid
+[3-phosphogylcerate]: https://en.wikipedia.org/wiki/3-Phosphoglyceric_acid
 [5' cap]: https://en.wikipedia.org/wiki/Five-prime_cap
+[α-ketoglutarate]: https://en.wikipedia.org/wiki/Alpha-Ketoglutaric_acid
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
+[acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
 [activation energy]: https://en.wikipedia.org/wiki/Activation_energy
 [active sites]: https://en.wikipedia.org/wiki/Active_site
 [active transport]: https://en.wikipedia.org/wiki/Active_transport
@@ -1348,6 +1363,7 @@ if (elements.length) {
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [alcoholic fermentation]: https://en.wikipedia.org/wiki/Ethanol_fermentation
+[aldolase]: https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase
 [algebra]: https://www.khanacademy.org/math/algebra
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
@@ -1370,6 +1386,9 @@ if (elements.length) {
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
+[amylopectin]: https://en.wikipedia.org/wiki/Amylopectin
+[amylose]: https://en.wikipedia.org/wiki/Amylose
+[anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [antigens]: https://en.wikipedia.org/wiki/Antigen
@@ -1403,6 +1422,7 @@ if (elements.length) {
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
+[bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
@@ -1416,6 +1436,7 @@ if (elements.length) {
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [capsid]: https://en.wikipedia.org/wiki/Capsid
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
+[carbon fixation]: https://en.wikipedia.org/wiki/Carbon_fixation
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
@@ -1427,6 +1448,7 @@ if (elements.length) {
 [cell membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [cell nucleus]: https://en.wikipedia.org/wiki/Cell_nucleus
 [cellular respiration]: https://en.wikipedia.org/wiki/Cellular_respiration
+[cellulose]: https://en.wikipedia.org/wiki/Cellulose
 [celsius]: https://en.wikipedia.org/wiki/Celsius
 [central nervous system]: https://en.wikipedia.org/wiki/Central_nervous_system
 [centrioles]: https://en.wikipedia.org/wiki/Centriole
@@ -1446,15 +1468,21 @@ if (elements.length) {
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
 [chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
+[chitin]: https://en.wikipedia.org/wiki/Chitin
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
+[cholesterol]: https://en.wikipedia.org/wiki/Cholesterol
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
+[citrate]: https://en.wikipedia.org/wiki/Citric_acid
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
+[coa]: https://en.wikipedia.org/wiki/Coenzyme_A
+[coding strand]: https://en.wikipedia.org/wiki/Coding_strand
+[coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
 [cofactor]: https://en.wikipedia.org/wiki/Cofactor_(biochemistry)
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
@@ -1463,6 +1491,10 @@ if (elements.length) {
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
+[complex i]: https://en.wikipedia.org/wiki/Respiratory_complex_I
+[complex ii]: https://en.wikipedia.org/wiki/Succinate_dehydrogenase
+[complex iii]: https://en.wikipedia.org/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase
+[complex iv]: https://en.wikipedia.org/wiki/Cytochrome_c_oxidase
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
@@ -1556,6 +1588,7 @@ if (elements.length) {
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
+[exons]: https://en.wikipedia.org/wiki/Exon
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
@@ -1563,12 +1596,14 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[fd]: https://en.wikipedia.org/wiki/Ferredoxin
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
+[fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
@@ -1577,7 +1612,13 @@ if (elements.length) {
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
+[fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
+[fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
+[fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
+[g1]: https://en.wikipedia.org/wiki/G1_phase
+[g2]: https://en.wikipedia.org/wiki/G2_phase
+[g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gametes]: https://en.wikipedia.org/wiki/Gamete
 [gas]: https://en.wikipedia.org/wiki/Gas
@@ -1604,12 +1645,13 @@ if (elements.length) {
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
-[haploids]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
+[haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
+[hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [heredity]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
@@ -1617,6 +1659,7 @@ if (elements.length) {
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
+[hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
 [histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
@@ -1654,6 +1697,7 @@ if (elements.length) {
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
+[introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ion transporter]: https://en.wikipedia.org/wiki/Ion_transporter
@@ -1662,6 +1706,7 @@ if (elements.length) {
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
+[isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
 [isomers]: https://en.wikipedia.org/wiki/Isomer
 [isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
 [isotope]: https://en.wikipedia.org/wiki/Isotope
@@ -1683,6 +1728,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
+[lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
@@ -1692,8 +1738,10 @@ if (elements.length) {
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
+[m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
+[malate]: https://en.wikipedia.org/wiki/Malic_acid
 [males]: https://en.wikipedia.org/wiki/Male
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
@@ -1709,10 +1757,12 @@ if (elements.length) {
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
+[metaphase]: https://en.wikipedia.org/wiki/Metaphase
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
+[microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
@@ -1735,6 +1785,7 @@ if (elements.length) {
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
@@ -1777,12 +1828,15 @@ if (elements.length) {
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [ova]: https://en.wikipedia.org/wiki/Ovum
+[oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
+[oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
+[pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -1801,7 +1855,11 @@ if (elements.length) {
 [phosphorylation]: https://en.wikipedia.org/wiki/Phosphorylation
 [phosphatases]: https://en.wikipedia.org/wiki/Phosphatase
 [photon]: https://en.wikipedia.org/wiki/Photon
+[photophosphorylation]: https://en.wikipedia.org/wiki/Photophosphorylation
 [photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
+[photosystem i]: https://en.wikipedia.org/wiki/Photosystem_I
+[photosystem ii]: https://en.wikipedia.org/wiki/Photosystem_II
+[photosystems]: https://en.wikipedia.org/wiki/Photosystem
 [phototropism]: https://en.wikipedia.org/wiki/Phototropism
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
@@ -1812,7 +1870,9 @@ if (elements.length) {
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
+[poly-a tail]: https://en.wikipedia.org/wiki/Polyadenylation
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
+[polyadenylation signal sequence]: https://en.wikipedia.org/wiki/Polyadenylation#Mechanism
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
@@ -1820,10 +1880,16 @@ if (elements.length) {
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
+[pq]: https://en.wikipedia.org/wiki/Plastoquinone
+[pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
+[progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
+[prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
+[promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
+[prophase]: https://en.wikipedia.org/wiki/Prophase
 [protein synthesis]: https://en.wikipedia.org/wiki/Protein_biosynthesis
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
@@ -1831,7 +1897,9 @@ if (elements.length) {
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [purines]: https://en.wikipedia.org/wiki/Purine
+[pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
+[pyruvate oxidation]: https://en.wikipedia.org/wiki/Pyruvate_decarboxylation
 [quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
 [quorum sensing]: https://en.wikipedia.org/wiki/Quorum_sensing
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
@@ -1840,6 +1908,7 @@ if (elements.length) {
 [radius]: https://en.wikipedia.org/wiki/Radius
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
+[reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [redox]: https://en.wikipedia.org/wiki/Redox
@@ -1852,8 +1921,13 @@ if (elements.length) {
 [ribonucleic acid]: https://en.wikipedia.org/wiki/RNA
 [ribose]: https://en.wikipedia.org/wiki/Ribose
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
+[ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
+[rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
 [roots]: https://en.wikipedia.org/wiki/Root
+[rubisco]: https://en.wikipedia.org/wiki/RuBisCO
+[rubp]: https://en.wikipedia.org/wiki/Ribulose_1,5-bisphosphate
+[s phase]: https://en.wikipedia.org/wiki/S_phase
 [s process]: https://en.wikipedia.org/wiki/S-process
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
@@ -1887,16 +1961,21 @@ if (elements.length) {
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
+[stator]: https://en.wikipedia.org/wiki/Stator
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
+[storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
+[structural polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Structural_polysaccharides
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
+[succinate]: https://en.wikipedia.org/wiki/Succinic_acid
+[succinyl coa]: https://en.wikipedia.org/wiki/Succinyl-CoA
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
 [sugar-phosphate backbone]: https://en.wikipedia.org/wiki/Sugar_phosphates
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
@@ -1910,10 +1989,13 @@ if (elements.length) {
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
 [telomeres]: https://en.wikipedia.org/wiki/Telomere
+[telophase]: https://en.wikipedia.org/wiki/Telophase
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
+[template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
+[testosterone]: https://en.wikipedia.org/wiki/Testosterone
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
@@ -1925,12 +2007,14 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
+[transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
+[translation]: https://en.wikipedia.org/wiki/Translation_(biology)
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
-[triaglycerol]: https://en.wikipedia.org/wiki/Triglyceride
+[triacylglyceride]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
@@ -1944,6 +2028,7 @@ if (elements.length) {
 [universe]: https://en.wikipedia.org/wiki/Universe
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
+[untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
 [vacuoles]: https://en.wikipedia.org/wiki/Vacuole
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
@@ -1958,6 +2043,7 @@ if (elements.length) {
 [viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
+[vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
