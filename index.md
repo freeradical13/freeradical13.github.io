@@ -851,24 +851,24 @@ There are 6 broad groups of enzymes (the first number in an enzyme's unique [Enz
 1. [Isomerases][]: Converts a molecule from one isomer to another.
 1. [Ligases][]: Joins two large molecules, often with hydrolysis.
 
-A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. [Coenzymes][] are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
+A [cofactor][] is an inorganic metal ion or organic coenzyme which facilitates catalysis. [Coenzymes][] are organic molecules either covalently bound as prosthetic groups or loosely bound as cosubstrates. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
 The rate of enzyme-catalyzed reactions reaches a [maximum reaction rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates.
 
-The [Michaelis-Menten Equation][] describes the relationship between the reaction rate (v) and substrate concentration before an enzyme is added (S<sub>0</sub>): <code>v = (V<sub>max</sub>×S<sub>0</sub>) / (S<sub>0</sub> + K<sub>m</sub>)</code>. K<sub>m</sub> is the [Michaelis-Menten constant][] which is the substrate concentration at which the reaction rate is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate - the higher the affinity, the smaller the K<sub>m</sub>.
+The [Michaelis-Menten Equation][] describes the relationship between the reaction rate between substrate and enzyme (v [velocity]) and substrate concentration for many types of enzymes: <code>v = (V<sub>max</sub>×v<sub>0</sub>) / (v<sub>0</sub> + K<sub>m</sub>)</code>, where v<sub>0</sub> is the [initial velocity][] at the beginning of enzyme introduction. K<sub>m</sub> is the [Michaelis-Menten constant][] which is substrate concentration at which velocity is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate: the smaller the K<sub>m</sub>, the higher the affinity. V<sub>max</sub> is dependent on enzyme concentration whereas K<sub>m</sub> is not.
 
-A [Lineweaver-Burk Reciprocal Plot][] may be used to calculate V<sub>max</sub> by taking the reciprocals of all substrate concentration and reaction rate values and taking the reciprocal of the y-intercept, and K<sub>m</sub> by taking the negative reciprocal of the x-intercept.
+A [Lineweaver-Burk Reciprocal Plot][] may be used to calculate V<sub>max</sub> by taking the reciprocals of all substrate concentration and reaction rate values and taking the reciprocal of the y-intercept, and calculate K<sub>m</sub> by taking the negative reciprocal of the x-intercept.
 
 Enzyme inhibitors reduce catalysis. An [irreversible inhibitor][] covalently bonds to an active site. There are four types of reversible inhibitors:
 
-1. [Competitive Inhibition][]: molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> constant if substrate outcompetes the inhibitor, but K<sub>m</sub> increases because affinity is lower.
-1. [Uncompetitive Inhibition][]: molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
-1. [Non-competitive Inhibition][]: molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because there are fewer matching active sites, although K<sub>m</sub> is the same.
-1. [Mixed inhibition][]: basically the same as non-competitive but prefer one action over the other. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
+1. [Competitive Inhibition][] (inhibitor competing to bind to the enzyme): molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> stays constant because sufficient substrate could outcompete the inhibitor, but K<sub>m</sub> increases because affinity is lower. In [allosteric competitive inhibition][], the substrate and inhibitor compete to bind to the enzyme except that the inhibitor binds to an allosteric site, changing the conformation, and disallowing binding of the substrate.
+1. [Non-competitive Inhibition][] (inhibitor not competing to bind to the enzyme): molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because the inhibitors will bind to the allosteric sites, effectively decreasing the number of available enzymes regardless of the amount of substrate, although K<sub>m</sub> stays the same because the rate of reaction between enzyme and substrate is the same.
+1. [Uncompetitive Inhibition][] (inhibitor does not bind to the enzyme): molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
+1. [Mixed inhibition][]: mix of competitive and uncompetitive. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
 
-A sequence of enzyme-mediated reactions contains a [rate-determining step][] which is the slowest step and that regulates the pathway.
+A sequence of enzyme-mediated reactions contains a [rate-determining step][] which is the slowest step and which regulates the pathway.
 
-[Regulatory enzymes][] have a quaternary structure which causes a [sigmoid][non-michaelis-menten kinetics] (s-shaped) kinetic behavior instead of the Michaelis curve.
+[Regulatory enzymes][] have a quaternary structure which causes a [sigmoid][non-michaelis-menten kinetics] (s-shaped) kinetic behavior instead of the Michaelis-Menten curve. An [allosteric enzyme][] is a regulatory enzyme that has multiple active sites and the binding of a substrate in one active site increases the chances of binding other substrates at the other active sites.
 
 In an [allosteric modulator][], a positive or negative modulator (or effector) non-covalently bonds to allosteric sites. In the concerted (or symmetry) model, all enzymes' polypeptide chains are either relaxed or tense together, whereas in the sequential model, chains may be in different states, altering the active site. A homotropic allosteric modulator is a substrate which binds to an active site which causes a change in another active site.
 
@@ -1638,6 +1638,8 @@ if (elements.length) {
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [allele]: https://en.wikipedia.org/wiki/Allele
 [allosomes]: https://en.wikipedia.org/wiki/Sex_chromosome
+[allosteric competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/competitive-inhibition
+[allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -1774,7 +1776,7 @@ if (elements.length) {
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
-[cofactor]: https://en.wikipedia.org/wiki/Cofactor_(biochemistry)
+[cofactor]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/enzyme-cofactors-and-coenzymes
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [colloids]: https://en.wikipedia.org/wiki/Colloid
@@ -2017,6 +2019,7 @@ if (elements.length) {
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
+[initial velocity]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/basics-of-enzyme-kinetics-graphs
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -2156,7 +2159,7 @@ if (elements.length) {
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
-[non-competitive inhibition]: https://en.wikipedia.org/wiki/Non-competitive_inhibition
+[non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
