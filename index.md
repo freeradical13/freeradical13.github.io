@@ -869,7 +869,7 @@ An [autotroph][] is a self-feeding organism and produces its own organic compoun
 
 ### Phylogeny
 
-[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of [taxa][] (singular taxon). The top-most taxa are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes. These taxa form the main three [domains][] (which describe historical origin): Bacteria, Archaea, and Eukarya.
+[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
 
 Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits.
 
@@ -1094,7 +1094,7 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 
 ### Eukaryotes
 
-[Eukaryotes][] are single or multi-cell organisms and have a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes.
+[Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes and a lipid bilayer cell membrane just like prokaryotes. Some have an additional cell wall like prokaryotes.
 
 #### Cell Nucleus
 
@@ -1150,7 +1150,7 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 #### Plants
 
-[Plants][] are autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
+[Plants][] are a kingdom of eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
 
 [Phototropism][] is the directional growth of plants towards light.
 
@@ -1248,17 +1248,19 @@ Common second messengers:
 
 #### Animals
 
-[Animals][] are multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
 
 [Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
-
-#### Mammals
 
 ##### Humans
 
 About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
+
+#### Fungi
+
+[Fungi][] (singular fungus) are a kingdom of single- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
 
 ## Viruses
 
@@ -1807,6 +1809,7 @@ if (elements.length) {
 [fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
 [fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
+[fungi]: https://en.wikipedia.org/wiki/Fungus
 [g1]: https://en.wikipedia.org/wiki/G1_phase
 [g2]: https://en.wikipedia.org/wiki/G2_phase
 [g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
