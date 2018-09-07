@@ -240,9 +240,13 @@ Reduction is the process of gaining electrons. Oxidation is the process of losin
 1. [Van der Waals forces][]
     1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
 
+## States of Matter
+
+[Volume][] is a quantity of three-dimensional space measured in m<sup>3</sup>. [Density][] is mass per unit volume. [Relative density][] is a ratio of densities. [Specific gravity][] is a relative density which is relative to some reference substance such as water. 
+
 In general, matter exists in one of [four states][state of matter]:
 
-* [Solid][]: Matter which has fixed [volume][] and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
+* [Solid][]: Matter which has fixed volume and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
 * [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
 * [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
 * [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
@@ -727,7 +731,9 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
  \/ ⑊/
 </pre>
 
-[Cholesterol][] is a key steroids. Another steroid is [Vitamin D][] which is made from Cholesterol.
+[Cholesterol][] is a key steroid that contributes to cell membranes, bile acids, and other signaling molecules. Free cholesterol does not have fatty acids bonded. A cholesterol ester is a cholesterol with ester bonds to fatty acids.
+
+Another steroid is [Vitamin D][] which is made from Cholesterol.
 
 ### Waxes
 
@@ -875,7 +881,7 @@ For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e
 
 #### Metabolism
 
-[Metabolism][] is the sum of all chemical reactions that take place in an organism. Catabolism breaks down bonds in organic molecules to harvest energy. Anabolism synthesizes organic molecules using energy (substances are bonded and heat is released).
+[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Hemeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature, pH, etc.
 
 [Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
@@ -1016,7 +1022,21 @@ One glucose molecule creates a net 26 to 28 ATP molecules.
 
 #### Lipogenesis
 
-[Lipogenesis][] is the process of converting Acetyl-CoA into Triglycerides.
+[Lipogenesis][] is the process of converting excess carbohydrates into fat.
+
+If there is excess Citrate that can't be processed in the Citric Acid Cycle, then Citrate is converted back into Acetyl-CoA and ultimately into the fatty acid [Palmitic Acid][]:
+
+1. Citrate is converted back into Acetyl-CoA.
+1. Acetyl-CoA is converted into Malonyl-CoA.
+1. Malonyl-CoA is converted into Malonyl-ACP.
+1. Malonyl-ACP is converted into Acetoacetyl-ACP.
+1. Acetoacetyl-ACP is converted into D-3-Hydroxybutyryl-ACP.
+1. D-3-Hydroxybutyryl-ACP is converted into Trans-2-Butenoyl-ACP.
+1. Trans-2-Butenoyl-ACP is converted into Butyryl-ACP.
+1. Butyryl-ACP is converted into Palmitoyl-ACP.
+1. Palmitoyl-ACP is converted into Palmitic Acid.
+
+The Palmitic Acid is released into the cytosol where it is esterified to Glycerol by the endoplasmic reticulum. 
 
 #### Cell Division
 
@@ -1102,6 +1122,12 @@ The [golgi apparatus][] is a stack of membrane-enclosed sacs called [cisternae][
 
 [Vacuoles][] are membrane-enclosed sacs used to store waste products and help maintain structure.
 
+#### Tissues
+
+A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue.
+
+An [organ][] is a collection of tissues with similar function.
+
 #### Hormones
 
 [Hormones][] are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
@@ -1185,12 +1211,6 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 
 A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
 
-#### Tissues
-
-A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue.
-
-An [organ][] is a collection of tissues with similar function.
-
 #### Neurons
 
 [Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
@@ -1238,6 +1258,60 @@ Different viruses have different structures and behaviors:
 An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
 
 [Antibodies][] (or immunoglobulins) are Y-shaped proteins produced by B cells. Antibodies recognize [antigens][] which are particular molecules on a pathogen. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+
+## Adipose Tissue
+
+[Adipose Tissue][] (or body fat) stores triacylglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triacylglycerides. [Brown adipose tissue][] generates heat.
+
+## Circulatory System
+
+The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels. Blood is pumped through blood vessels by an organ called the heart.
+
+### Blood
+
+[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting cators, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] includes blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors.
+
+### Blood Cells
+
+Blood cells may be red blood cells, white blood cells or platelets.
+
+[Red Blood Cells][] (or erythrocytes, or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
+
+[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
+
+[Platelets][] (or thrombocytes) lack a nucleus and help with forming blood clots in response to injury.
+
+### Blood Vessels
+
+[Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
+
+[Arteries][] carry blood away from the heart.
+
+[Capillaries][] are small blood vessels that perform the exchange of chemicals blood and tissues.
+
+[Veins][] carry blood from the capillaries back to the heart.
+
+### Lipoproteins
+
+[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
+
+Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
+
+[LDL][] transports cholesterol from the liver to tissues. [HDL][] transports cholesterol from tissues to the liver.
+
+### Heart
+
+The [heart][] is an organ that pumps blood through the circulatory system.
+
+[Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
+
+[Atherosclerosis][] is a type of arteriosclerosis where the thickening of the cell wall is caused by a build up of a fatty plaque.
+
+## Digestion
+
+[Digestion][] is the breakdown of food into small, water-soluable molecules in the blood.
+
+Endothelial cells in the walls of blood vessels have an enzyme called [Lipoprotein Lipase][] which can hydrolyze Triacylglyerides into Glycerol and Fatty Acids and sent into adipose tissue.
 
 ## History of Life
 
@@ -1359,6 +1433,8 @@ if (elements.length) {
 [adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [adenosine triphosphate]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
+[adipocyte cells]: https://en.wikipedia.org/wiki/Adipocyte
+[adipose tissue]: https://en.wikipedia.org/wiki/Adipose_tissue
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
@@ -1388,6 +1464,7 @@ if (elements.length) {
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [amylopectin]: https://en.wikipedia.org/wiki/Amylopectin
 [amylose]: https://en.wikipedia.org/wiki/Amylose
+[anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
@@ -1398,10 +1475,13 @@ if (elements.length) {
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
+[arteries]: https://en.wikipedia.org/wiki/Artery
+[arteriosclerosis]: https://en.wikipedia.org/wiki/Arteriosclerosis
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[atherosclerosis]: https://en.wikipedia.org/wiki/Atherosclerosis
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
@@ -1428,12 +1508,18 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
+[blood]: https://en.wikipedia.org/wiki/Blood
+[blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
+[blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
+[blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
 [brain]: https://en.wikipedia.org/wiki/Brain
 [branches]: https://en.wikipedia.org/wiki/Branch
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
+[brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[capillaries]: https://en.wikipedia.org/wiki/Capillary
 [capsid]: https://en.wikipedia.org/wiki/Capsid
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon fixation]: https://en.wikipedia.org/wiki/Carbon_fixation
@@ -1442,6 +1528,7 @@ if (elements.length) {
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
+[catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
 [cell division]: https://en.wikipedia.org/wiki/Cell_division
@@ -1475,6 +1562,7 @@ if (elements.length) {
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
+[circulatory system]: https://en.wikipedia.org/wiki/Circulatory_system
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
 [citrate]: https://en.wikipedia.org/wiki/Citric_acid
@@ -1517,6 +1605,7 @@ if (elements.length) {
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
+[density]: https://en.wikipedia.org/wiki/Density
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
@@ -1524,6 +1613,7 @@ if (elements.length) {
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dicot]: https://en.wikipedia.org/wiki/Dicotyledon
+[digestion]: https://en.wikipedia.org/wiki/Digestion
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
@@ -1569,6 +1659,7 @@ if (elements.length) {
 [endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
+[endothelial cells]: https://en.wikipedia.org/wiki/Endothelium
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
@@ -1647,11 +1738,14 @@ if (elements.length) {
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
+[hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
+[heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
+[hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
 [heredity]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
@@ -1664,6 +1758,7 @@ if (elements.length) {
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
+[homeostasis]: https://en.wikipedia.org/wiki/Homeostasis
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
@@ -1720,6 +1815,7 @@ if (elements.length) {
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
+[ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
@@ -1729,6 +1825,8 @@ if (elements.length) {
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
+[lipoprotein lipase]: https://en.wikipedia.org/wiki/Lipoprotein_lipase
+[lipoproteins]: https://en.wikipedia.org/wiki/Lipoprotein
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
@@ -1831,6 +1929,7 @@ if (elements.length) {
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
+[palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -1911,9 +2010,11 @@ if (elements.length) {
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
+[relative density]: https://en.wikipedia.org/wiki/Relative_density
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
@@ -1950,6 +2051,7 @@ if (elements.length) {
 [somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
+[specific gravity]: https://en.wikipedia.org/wiki/Specific_gravity
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
 [sperm]: https://en.wikipedia.org/wiki/Sperm
@@ -2035,6 +2137,7 @@ if (elements.length) {
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
 [vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
+[veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
@@ -2054,5 +2157,7 @@ if (elements.length) {
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
+[white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
+[white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
