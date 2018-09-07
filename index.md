@@ -711,7 +711,7 @@ A zigzag form suggests the actual tetrahydral (in the case of a saturated fatty 
 
 Monounsaturated fatty acids have a single double bond whereas polyunsaturated fatty acids have two or more double bonds.
 
-A [fat][] is a [triacylglyceride][] (or triglyceride) with one Glycerol and three fatty acids.
+A [fat][] is a triglyceride (or triacylglyceride) with one Glycerol and three fatty acids.
 
 ### Phospholipids
 
@@ -1132,7 +1132,7 @@ A [tract][] is a series of connected organs.
 
 #### Hormones
 
-[Hormones][] are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
+[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
 
 Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
 
@@ -1223,6 +1223,14 @@ Nervous tissue is the main component of the [central nervous system][] which is 
 
 The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
+#### Epithelial Tissue
+
+[Epithelial tissue][] lines the surface of organs, blood vessels, some inner cavities in organs, and the epidermis (or skin). The main type of cell in epithelium is the epithelial cell.
+
+#### Muscle Tissue
+
+[Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins [actin][] and [myosin][] that slide past each other to produce contraction.
+
 #### Animals
 
 [Animals][] are multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
@@ -1255,6 +1263,10 @@ Different viruses have different structures and behaviors:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
 
+## Liver
+
+The [liver][] (hepat in Greek) is an organ with hundreds of functions such as detoxification, regulating Glucose and Glycogen, producing hormones, decomposing red blood cells, and producing bile. The liver is made mostly of [Hepatocyte cells][].
+
 ## Immune System
 
 An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
@@ -1263,11 +1275,11 @@ An [immune system][] in an organism is a defense system against [pathogens][] (o
 
 ## Adipose Tissue
 
-[Adipose Tissue][] (or body fat) stores triacylglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triacylglycerides. [Brown adipose tissue][] generates heat.
+[Adipose Tissue][] (or body fat) stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
 
 ## Circulatory System
 
-The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels. Blood is pumped through blood vessels by an organ called the heart.
+The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels. Blood is pumped through blood vessels by an organ called the heart. 
 
 ### Blood
 
@@ -1321,7 +1333,7 @@ The [heart][] is an organ that pumps blood through the circulatory system.
 
 [Digestion][] is the breakdown of food into small, water-soluable molecules in the blood.
 
-Digestion occurs in the [Gastrointestinal Tract][] (or GI tract) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
+Digestion occurs in the [Gastrointestinal Tract][] (or GI tract) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus. Material moves through the GI tract with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
 
 The [mouth][] ingests food.
 
@@ -1339,9 +1351,13 @@ The [anus][] expels feces.
 
 A [lipase][] is an enzyme that hydrolyzes fats.
 
-Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes and packaged into chylomicrons.
+Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes, packaged into chylomicrons, and sent through the lymphatic system into the blood.
 
-Endothelial cells in the walls of blood vessels have an enzyme called [Lipoprotein Lipase][] which can hydrolyze Triacylglyerides into Glycerol and Fatty Acids and send them into adipose tissue.
+Endothelial cells in the walls of the capillaries of adipose and muscle tissue have an enzyme called [Lipoprotein Lipase][] which interacts with [Apoprotein C-II][] on the chylomicrons to hydrolyze the packaged triglycerides into Glycerol and Fatty Acids and send them into adipose and muscle cells. The remaining chylomicrons are transported to the liver and cleaned up in a process mediated by [Apoprotein E][].
+
+## Glands
+
+[Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
 
 ## History of Life
 
@@ -1455,6 +1471,7 @@ if (elements.length) {
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
+[actin]: https://en.wikipedia.org/wiki/Actin
 [activation energy]: https://en.wikipedia.org/wiki/Activation_energy
 [active sites]: https://en.wikipedia.org/wiki/Active_site
 [active transport]: https://en.wikipedia.org/wiki/Active_transport
@@ -1502,6 +1519,8 @@ if (elements.length) {
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
+[apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
+[apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -1688,6 +1707,8 @@ if (elements.length) {
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
 [endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
+[endocrine gland]: https://en.wikipedia.org/wiki/Endocrine_gland
+[endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
 [endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
@@ -1700,6 +1721,7 @@ if (elements.length) {
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
+[epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
@@ -1712,6 +1734,7 @@ if (elements.length) {
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
+[exocrine gland]: https://en.wikipedia.org/wiki/Exocrine_gland
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
 [exons]: https://en.wikipedia.org/wiki/Exon
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
@@ -1760,6 +1783,7 @@ if (elements.length) {
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
+[glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
@@ -1784,6 +1808,7 @@ if (elements.length) {
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
+[hepatocyte cells]: https://en.wikipedia.org/wiki/Hepatocyte
 [heredity]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
@@ -1872,6 +1897,7 @@ if (elements.length) {
 [lipoproteins]: https://en.wikipedia.org/wiki/Lipoprotein
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
+[liver]: https://en.wikipedia.org/wiki/Liver
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
@@ -1909,6 +1935,7 @@ if (elements.length) {
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
+[milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
@@ -1931,7 +1958,10 @@ if (elements.length) {
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [mouth]: https://en.wikipedia.org/wiki/Mouth
-[milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[muscle]: https://en.wikipedia.org/wiki/Muscle
+[muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
+[myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
+[myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
@@ -1992,6 +2022,7 @@ if (elements.length) {
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
 [peripheral nervous system]: https://en.wikipedia.org/wiki/Peripheral_nervous_system
+[peristalsis]: https://en.wikipedia.org/wiki/Peristalsis
 [peroxisomes]: https://en.wikipedia.org/wiki/Peroxisome
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
@@ -2167,7 +2198,7 @@ if (elements.length) {
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
-[triacylglyceride]: https://en.wikipedia.org/wiki/Triglyceride
+[triglyceride]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
