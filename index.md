@@ -83,10 +83,12 @@ If two objects touch with a path permeable to heat, then, all else being equal, 
 
 There are four laws of thermodynamics (starting with the zeroth law):
 
-0. If two systems A and B are in thermal equilibrium with a third system C, then A and B are in thermal equilibrium.
-1. Energy may be neither created nor destroyed, but only transformed.
-2. Energy transformation in a closed system increases [entropy][] (or disorder).
-3. Entropy approaches 0 as the temperature of a closed system approaches 0 Kelvin.
+<ol start="0">
+  <li>If two systems A and B are in thermal equilibrium with a third system C, then A and B are in thermal equilibrium.</li>
+  <li>Energy may be neither created nor destroyed, but only transformed.</li>
+  <li>Energy transformation in a closed system increases [entropy][] (or disorder).</li>
+  <li>Entropy approaches 0 as the temperature of a closed system approaches 0 Kelvin.</li>
+</ol>
 
 # Atoms
 
