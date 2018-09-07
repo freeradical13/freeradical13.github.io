@@ -765,7 +765,7 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ### Steroids
 
-[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane and may act as a transcription factor on DNA.
+[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane.
 
 <pre>
       /\ /\
@@ -900,11 +900,17 @@ Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pai
 
 RNA usually has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
 
+RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
+
 ### DNA
 
 DNA has two polynucleotide strands that together create a double helix structure. The two strands run in [antiparallel][] (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside (2 for A-T and 3 for C-G).
 
 A [plasmid][] is a (usually) circular form of double-stranded DNA.
+
+#### DNA Replication
+
+[DNA Polymerase][] reads a strand of DNA in the 3' to 5' direction to create a complementary strand of DNA by adding nucleotides to the 3' end of the new strand.
 
 ### Genes
 
@@ -1270,7 +1276,7 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 [Protein synthesis][] in eukaryotes:
 
 1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
-1. [Transcription][]: The 3' strand of DNA (called the [template strand][]; the 5' non-template strand is called the [coding strand][]) synthesizes a complementary RNA molecule called [pre-messenger RNA][] (pre-mRNA). Nucleotides are transcribed to the 3' end.
+1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and creates a 5' to 3' RNA molecule called [pre-messenger RNA][] (pre-mRNA). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or negative strand. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or positive strand. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand.
 1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
 1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
 1. The pre-mRNA is made of sets of nucleotides called [exons][] which are needed for translation, and [introns][] which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
@@ -1693,6 +1699,7 @@ if (elements.length) {
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
+[base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
@@ -1832,8 +1839,10 @@ if (elements.length) {
 [disruptive selection]: https://en.wikipedia.org/wiki/Disruptive_selection
 [distance]: https://en.wikipedia.org/wiki/Distance
 [disulfide bridges]: https://en.wikipedia.org/wiki/Disulfide
+[dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
