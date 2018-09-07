@@ -1128,6 +1128,8 @@ A [tissue][] is the smallest collections of similar cells that carry out a parti
 
 An [organ][] is a collection of tissues with similar function.
 
+A [tract][] is a series of connected organs.
+
 #### Hormones
 
 [Hormones][] are chemical signals that are part of the endocrine system which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
@@ -1291,6 +1293,14 @@ Blood cells may be red blood cells, white blood cells or platelets.
 
 [Veins][] carry blood from the capillaries back to the heart.
 
+### Lymphatic System
+
+All the fluid outside of cells is called [extracellular fluid][]. The majority of exracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
+
+The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
+
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned by [lymphocytes][] and mixed back into the blood.
+
 ### Lipoproteins
 
 [Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
@@ -1311,7 +1321,27 @@ The [heart][] is an organ that pumps blood through the circulatory system.
 
 [Digestion][] is the breakdown of food into small, water-soluable molecules in the blood.
 
-Endothelial cells in the walls of blood vessels have an enzyme called [Lipoprotein Lipase][] which can hydrolyze Triacylglyerides into Glycerol and Fatty Acids and sent into adipose tissue.
+Digestion occurs in the [Gastrointestinal Tract][] (or GI tract) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
+
+The [mouth][] ingests food.
+
+The [esophagus][] passes food from the mouth to the stomach using contractions.
+
+The [stomach][] secretes enzymes and gastric acid to begin food digestion. The partly digested collection called [Chyme][] is passed on to the small intestine.
+
+The [small intestine][] completes most food digestion. The Duodenum is the first part of the small intestine which completes the breakdown of the chyme. The [Jejunum][] is the second part of the small intestine which absorbs nutrients into the blood stream through projections called [villi][] on [enterocyte cells][]. The [Ileum][] is the third part of the small intestine which absorbs mostly Vitamin B12 and bile acids.
+
+The [large intestine][] (or colon) absorbs remaining water and stores waste as [feces][].
+
+The [anus][] expels feces.
+
+### Lipid Digestion
+
+A [lipase][] is an enzyme that hydrolyzes fats.
+
+Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes and packaged into chylomicrons.
+
+Endothelial cells in the walls of blood vessels have an enzyme called [Lipoprotein Lipase][] which can hydrolyze Triacylglyerides into Glycerol and Fatty Acids and send them into adipose tissue.
 
 ## History of Life
 
@@ -1437,6 +1467,7 @@ if (elements.length) {
 [adipose tissue]: https://en.wikipedia.org/wiki/Adipose_tissue
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
+[albumin]: https://en.wikipedia.org/wiki/Albumin
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [alcoholic fermentation]: https://en.wikipedia.org/wiki/Ethanol_fermentation
 [aldolase]: https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase
@@ -1562,6 +1593,7 @@ if (elements.length) {
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
+[chyme]: https://en.wikipedia.org/wiki/Chyme
 [circulatory system]: https://en.wikipedia.org/wiki/Circulatory_system
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
@@ -1663,12 +1695,14 @@ if (elements.length) {
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
+[enterocyte cells]: https://en.wikipedia.org/wiki/Enterocyte
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+[esophagus]: https://en.wikipedia.org/wiki/Esophagus
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
@@ -1681,6 +1715,7 @@ if (elements.length) {
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
 [exons]: https://en.wikipedia.org/wiki/Exon
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
+[extracellular fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
 [facultative]: https://en.wikipedia.org/wiki/Facultative
@@ -1688,6 +1723,7 @@ if (elements.length) {
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
 [fd]: https://en.wikipedia.org/wiki/Ferredoxin
+[feces]: https://en.wikipedia.org/wiki/Feces
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
@@ -1700,6 +1736,7 @@ if (elements.length) {
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
+[free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
@@ -1713,6 +1750,7 @@ if (elements.length) {
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gametes]: https://en.wikipedia.org/wiki/Gamete
 [gas]: https://en.wikipedia.org/wiki/Gas
+[gastrointestinal tract]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
@@ -1781,6 +1819,7 @@ if (elements.length) {
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
@@ -1791,6 +1830,7 @@ if (elements.length) {
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
+[interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
@@ -1807,6 +1847,7 @@ if (elements.length) {
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
@@ -1815,6 +1856,7 @@ if (elements.length) {
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
+[large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
@@ -1823,6 +1865,7 @@ if (elements.length) {
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
 [lipoprotein lipase]: https://en.wikipedia.org/wiki/Lipoprotein_lipase
@@ -1833,6 +1876,11 @@ if (elements.length) {
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
+[lymph]: https://en.wikipedia.org/wiki/Lymph
+[lymph nodes]: https://en.wikipedia.org/wiki/Lymph_node
+[lymphatic system]: https://en.wikipedia.org/wiki/Lymphatic_system
+[lymphatic vessels]: https://en.wikipedia.org/wiki/Lymphatic_vessel
+[lymphocyte]: https://en.wikipedia.org/wiki/Lymphocyte
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
@@ -1882,6 +1930,7 @@ if (elements.length) {
 [monocot]: https://en.wikipedia.org/wiki/Monocotyledon
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
+[mouth]: https://en.wikipedia.org/wiki/Mouth
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
@@ -2042,6 +2091,7 @@ if (elements.length) {
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
+[small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
 [solubility]: https://en.wikipedia.org/wiki/Solubility
@@ -2068,6 +2118,7 @@ if (elements.length) {
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
+[stomach]: https://en.wikipedia.org/wiki/Stomach
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
@@ -2143,6 +2194,7 @@ if (elements.length) {
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
+[villi]: https://en.wikipedia.org/wiki/Intestinal_villus
 [viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
