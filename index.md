@@ -853,7 +853,11 @@ There are 6 broad groups of enzymes (the first number in an enzyme's unique [Enz
 
 A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. [Coenzymes][] are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
-The rate of enzyme-catalyzed reactions reaches a [maximum rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The [Michaelis-Menten constant][] K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
+The rate of enzyme-catalyzed reactions reaches a [maximum reaction rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates.
+
+The [Michaelis-Menten Equation][] describes the relationship between the reaction rate (v) and substrate concentration before an enzyme is added (S<sub>0</sub>): <code>v = (V<sub>max</sub>×S<sub>0</sub>) / (S<sub>0</sub> + K<sub>m</sub>)</code>. K<sub>m</sub> is the [Michaelis-Menten constant][] which is the substrate concentration at which the reaction rate is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate - the higher the affinity, the smaller the K<sub>m</sub>.
+
+A [Lineweaver-Burk Reciprocal Plot][] may be used to calculate V<sub>max</sub> by taking the reciprocals of all substrate concentration and reaction rate values and taking the reciprocal of the y-intercept, and K<sub>m</sub> by taking the negative reciprocal of the x-intercept.
 
 Enzyme inhibitors reduce catalysis. An [irreversible inhibitor][] covalently bonds to an active site. There are four types of reversible inhibitors:
 
@@ -2056,6 +2060,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
+[lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
 [lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
@@ -2105,6 +2110,7 @@ if (elements.length) {
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
+[michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
