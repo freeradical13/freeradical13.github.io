@@ -871,6 +871,10 @@ An [autotroph][] is a self-feeding organism and produces its own organic compoun
 
 [Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of [taxa][] (singular taxon). The top-most taxa are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes. These taxa form the main three [domains][] (which describe historical origin): Bacteria, Archaea, and Eukarya.
 
+Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits.
+
+Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or clade) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor.
+
 Both prokaryotes and eukaryotes are made of cells.
 
 ### Cells
@@ -1917,6 +1921,7 @@ if (elements.length) {
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
+[kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
@@ -1994,6 +1999,7 @@ if (elements.length) {
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [monocot]: https://en.wikipedia.org/wiki/Monocotyledon
 [monomers]: https://en.wikipedia.org/wiki/Monomer
+[monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [muscle]: https://en.wikipedia.org/wiki/Muscle
@@ -2048,6 +2054,7 @@ if (elements.length) {
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
@@ -2079,6 +2086,7 @@ if (elements.length) {
 [photosystem ii]: https://en.wikipedia.org/wiki/Photosystem_II
 [photosystems]: https://en.wikipedia.org/wiki/Photosystem
 [phototropism]: https://en.wikipedia.org/wiki/Phototropism
+[phyla]: https://en.wikipedia.org/wiki/Phylum
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [planets]: https://en.wikipedia.org/wiki/Planet
@@ -2095,6 +2103,7 @@ if (elements.length) {
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
+[polyphyletic group]: https://en.wikipedia.org/wiki/Polyphyly
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
@@ -2242,6 +2251,7 @@ if (elements.length) {
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
+[tree of life]: https://en.wikipedia.org/wiki/Tree_of_life_(biology)
 [triglyceride]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
