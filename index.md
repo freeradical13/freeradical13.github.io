@@ -899,7 +899,7 @@ For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e
 
 An [ion transporter][] (or ion pump) uses active transport to pump ions across a membrane against their concentration gradient.
 
-[Facilitated diffusion][] of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise the cytoplasm is negatively charged.
+[Facilitated diffusion][] of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm.
 
 [Endocytosis][] occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle. [Exocytosis][] occurs when a vesicle merges with the membrane and then the material is pushed into the extracellular space.
 
@@ -1227,7 +1227,12 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). The stimulus causes second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
 
-One common second messenger is [Cyclic AMP][] (or cAMP). cAMP activates [Protein Kinase A][] (PKA) which leads to downstream effects.
+Common second messengers:
+
+* [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA).
+* [1,2-diacylglycerol][] (or DAG) activates the effector [Protein Kinase C][] (PKC).
+* [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
+* [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
 
 #### Epithelial Tissue
 
@@ -1391,7 +1396,7 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The fir
 
 [Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
-# Laboratory Techniques
+## Laboratory Techniques
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
 
@@ -1482,6 +1487,7 @@ if (elements.length) {
 }
 </script>
 
+[1,2-diacylglycerol]: https://en.wikipedia.org/wiki/Diglyceride#Protein_kinase_C_activation
 [1,3-biphosphoglycerate]: https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid
 [1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
 [2-phosphoglycerate]: https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid
@@ -1603,6 +1609,7 @@ if (elements.length) {
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
+[calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
@@ -2102,6 +2109,7 @@ if (elements.length) {
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
 [prophase]: https://en.wikipedia.org/wiki/Prophase
 [protein kinase a]: https://en.wikipedia.org/wiki/Protein_kinase_A
+[protein kinase c]: https://en.wikipedia.org/wiki/Protein_kinase_C
 [protein synthesis]: https://en.wikipedia.org/wiki/Protein_biosynthesis
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
