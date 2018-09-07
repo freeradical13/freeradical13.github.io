@@ -701,7 +701,10 @@ In the above Fructose ring structure, the convention is that the bottom-right mo
 
 [Disaccharides][] are carbohydrates made of Two monosaccharides through a covalent bond called a glycosidic linkage. Also called double sugars.
 
-One common disaccharide is [Sucrose][] (or table sugar) which is Glucose bonded to Fructose.
+Common disaccharides:
+
+* [Maltose][] which is Glucose bonded to Glucose.
+* [Sucrose][] (or table sugar) which is Glucose bonded to Fructose.
 
 ### Polysaccharides
 
@@ -1427,6 +1430,10 @@ The liver may synthesize lipoproteins such as LDL and VLDL which carry cholester
 
 [HDL][] transports cholesterol from tissues to the liver.
 
+## Pancreas
+
+The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
+
 ## Digestion
 
 [Digestion][] is the breakdown of food into small, water-soluable molecules in the blood.
@@ -1454,6 +1461,19 @@ The [anus][] expels feces.
 A [lipase][] is an enzyme that hydrolyzes fats.
 
 Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes, packaged into chylomicrons, and sent through the lymphatic system into the blood.
+
+### Carbohydrate Digestion
+
+[α-Amylase][] in a fluid called [saliva][] in the mouth breaks down starch into maltose (and other small carbohydrates).
+
+### Protein Digestion
+
+[Proteases][] are enzymes that break down proteins into amino acids:
+
+* [Pepsin][] is produced in and acts in the stomach.
+* [Chymotrypsin][] is produced in the pancreas and acts in the duodenum.
+* [Trypsin][] is produced in and acts in the small intestine.
+* [Carboxypeptidase][] is produced in the pancreas.
 
 ## Glands
 
@@ -1566,6 +1586,7 @@ if (elements.length) {
 [2-phosphoglycerate]: https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid
 [3-phosphogylcerate]: https://en.wikipedia.org/wiki/3-Phosphoglyceric_acid
 [5' cap]: https://en.wikipedia.org/wiki/Five-prime_cap
+[α-amylase]: https://en.wikipedia.org/wiki/Amylase#%CE%B1-amylase
 [α-ketoglutarate]: https://en.wikipedia.org/wiki/Alpha-Ketoglutaric_acid
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
@@ -1685,6 +1706,7 @@ if (elements.length) {
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
+[carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
@@ -1728,6 +1750,7 @@ if (elements.length) {
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [chyme]: https://en.wikipedia.org/wiki/Chyme
+[chymotrypsin]: https://en.wikipedia.org/wiki/Chymotrypsin
 [circulatory system]: https://en.wikipedia.org/wiki/Circulatory_system
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
@@ -2047,6 +2070,7 @@ if (elements.length) {
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
 [males]: https://en.wikipedia.org/wiki/Male
+[maltose]: https://en.wikipedia.org/wiki/Maltose
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
@@ -2147,6 +2171,7 @@ if (elements.length) {
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
+[pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
@@ -2155,6 +2180,7 @@ if (elements.length) {
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
+[pepsin]: https://en.wikipedia.org/wiki/Pepsin
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -2217,6 +2243,7 @@ if (elements.length) {
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
 [prophase]: https://en.wikipedia.org/wiki/Prophase
+[proteases]: https://en.wikipedia.org/wiki/Protease
 [protein kinase a]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [protein kinase c]: https://en.wikipedia.org/wiki/Protein_kinase_C
 [protein secretion]: https://en.wikipedia.org/wiki/Secretion#Mechanism
@@ -2261,6 +2288,7 @@ if (elements.length) {
 [rubp]: https://en.wikipedia.org/wiki/Ribulose_1,5-bisphosphate
 [s phase]: https://en.wikipedia.org/wiki/S_phase
 [s process]: https://en.wikipedia.org/wiki/S-process
+[saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
@@ -2363,6 +2391,7 @@ if (elements.length) {
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
+[trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
 [type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
 [type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
