@@ -604,7 +604,7 @@ General terms:
 
 ## Carbohydrates
 
-[Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to [Sucrose][], a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates have the suffix [-ose][sugar suffix].
+[Carbohydrates][] (or saccharides) are biomacromolecules made of a hydrocarbon backbone with a Carbonyl group and some number of Hydroxyl groups. Carbohydrates may also be called sugars (sacchar is Greek for sugar) although there is also a non-biochemistry term of table sugar which refers to Sucrose, a particular type of carbohydrate, which is different from the more general biochemistry term. Carbohydrates have the suffix [-ose][sugar suffix].
 
 ### Monosaccharides
 
@@ -660,9 +660,48 @@ HO <span class="edgeon">\</span> OH  H <span class="edgeon">/</span> H
      H   OH
 </pre>
 
+In the above Glucose ring structures, the convention is that the rightmost Carbon is the 1-Carbon and the numbering continues clockwise.
+
+[Galactose][] is an isomer of Glucose with a change at the 4-Carbon:
+
+<pre>
+ H   O
+  \ ⫽
+   C
+   ⎪
+ H–C–OH
+   ⎪
+HO–C–H
+   ⎪
+<span class="emphasis">HO–C–H</span>
+   ⎪
+ H–C–OH
+   ⎪
+ H–C–OH
+   ⎪
+   H
+</pre>
+
+[Fructose][] is another monosaccharide often of the following isomer:
+
+<pre>
+CH<sub>2</sub>OH
+⎪    O
+⎪ /     \ OH
+⎪/       \⎪
+⎪<span class="edgeon">\</span> H   OH<span class="edgeon">/</span>⎪
+⎪ <span class="edgeon">\</span>⎪<span class="edgeon">___</span>⎪<span class="edgeon">/</span> ⎪
+⎪  ⎪   ⎪  CH<sub>2</sub>OH
+H OH   H
+</pre>
+
+In the above Fructose ring structure, the convention is that the bottom-right most Carbon is the 1-Carbon followed by the Carbon above it, and then clockwise around the ring.
+
 ### Disaccharides
 
 [Disaccharides][] are carbohydrates made of Two monosaccharides through a covalent bond called a glycosidic linkage. Also called double sugars.
+
+One common disaccharide is [Sucrose][] (or table sugar) which is Glucose bonded to Fructose.
 
 ### Polysaccharides
 
@@ -887,7 +926,7 @@ For example, a medium-sized E. coli cell has about [35 billion atoms][atoms in e
 
 #### Metabolism
 
-[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Hemeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature, pH, etc.
+[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature, pH, etc.
 
 [Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
@@ -1140,7 +1179,7 @@ A [tissue][] is the smallest collections of similar cells that carry out a parti
 
 An [organ][] is a collection of tissues with similar function.
 
-A [tract][] is a series of connected organs.
+A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
 
@@ -1268,7 +1307,7 @@ Common second messengers:
 
 The vertebrate brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
 
-The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerberal cortex][] and inner layers of [white matter][].
+The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][].
 
 Grey matter is different from white matter in that grey matter contains more cell bodies and fewer myelinated axons (which causes the whiteness).
 
@@ -1583,6 +1622,7 @@ if (elements.length) {
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
+[anus]: https://en.wikipedia.org/wiki/Anus
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
@@ -1843,6 +1883,7 @@ if (elements.length) {
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [frontal lobe]: https://en.wikipedia.org/wiki/Frontal_lobe
+[fructose]: https://en.wikipedia.org/wiki/Fructose
 [fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
 [fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
 [fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
@@ -1851,6 +1892,7 @@ if (elements.length) {
 [g1]: https://en.wikipedia.org/wiki/G1_phase
 [g2]: https://en.wikipedia.org/wiki/G2_phase
 [g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
+[galactose]: https://en.wikipedia.org/wiki/Galactose
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gametes]: https://en.wikipedia.org/wiki/Gamete
 [gas]: https://en.wikipedia.org/wiki/Gas
@@ -1938,6 +1980,7 @@ if (elements.length) {
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
+[inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
@@ -1995,7 +2038,7 @@ if (elements.length) {
 [lymph nodes]: https://en.wikipedia.org/wiki/Lymph_node
 [lymphatic system]: https://en.wikipedia.org/wiki/Lymphatic_system
 [lymphatic vessels]: https://en.wikipedia.org/wiki/Lymphatic_vessel
-[lymphocyte]: https://en.wikipedia.org/wiki/Lymphocyte
+[lymphocytes]: https://en.wikipedia.org/wiki/Lymphocyte
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
@@ -2147,6 +2190,7 @@ if (elements.length) {
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
+[platelets]: https://en.wikipedia.org/wiki/Platelet
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
