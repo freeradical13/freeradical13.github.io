@@ -1116,7 +1116,7 @@ The [golgi apparatus][] is a stack of membrane-enclosed sacs called [cisternae][
 
 #### Peroxisomes
 
-[Peroxisomes][] use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel. Peroxisomes are also used in the liver to detoxify compounds such as alcohol.
+[Peroxisomes][] use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel.
 
 #### Vacuoles
 
@@ -1223,6 +1223,12 @@ Nervous tissue is the main component of the [central nervous system][] which is 
 
 The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
+#### Cellular Communication
+
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). The stimulus causes second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
+
+One common second messenger is [Cyclic AMP][] (or cAMP). cAMP activates [Protein Kinase A][] (PKA) which leads to downstream effects.
+
 #### Epithelial Tissue
 
 [Epithelial tissue][] lines the surface of organs, blood vessels, some inner cavities in organs, and the epidermis (or skin). The main type of cell in epithelium is the epithelial cell.
@@ -1236,10 +1242,6 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 [Animals][] are multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
 
 [Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
-
-##### Bile Acid
-
-[Bile acid][] is created in the liver, stored in the gallbladder, and secreted in the duodenum, and it's used for digestion and absorption of fat from food.
 
 #### Mammals
 
@@ -1263,10 +1265,6 @@ Different viruses have different structures and behaviors:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
 
-## Liver
-
-The [liver][] (hepat in Greek) is an organ with hundreds of functions such as detoxification, regulating Glucose and Glycogen, producing hormones, decomposing red blood cells, and producing bile. The liver is made mostly of [Hepatocyte cells][].
-
 ## Immune System
 
 An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
@@ -1276,6 +1274,20 @@ An [immune system][] in an organism is a defense system against [pathogens][] (o
 ## Adipose Tissue
 
 [Adipose Tissue][] (or body fat) stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
+
+### Fatty acid degradation
+
+[Fatty Acid Degradation][] is the process of converting stored fat into Acetyl-CoA which enters the Citric Acid Cycle to produce energy.
+
+When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose cells into fatty acids and glycerol. 
+
+1. Hormones such as Epinephrine and Glucagon are released which bind to receptors on adipocytes that activate [perilipin][] proteins on the surface of lipids.
+1. Phosphorylation of perilipins causes phosphorylated [hormone-sensitive lipase][] to hydrolyze triglycerides in the lipid droplets which produces glycerol and fatty acids.
+1. The fatty acids exit the adipocyte, bind to the plasma protein [serum albumin][], and enter the blood. Glycerol also enters the blood and travels to the liver.
+1. Fatty acids then enter cells and are attached to CoA to create [Acyl-CoA][].
+1. A [Carnitine][] is added to Acyl-CoA to create Acyl-Carnitine.
+1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [β-oxidation][].
+1. Acetyl-CoA enters the Citric Acid Cycle.
 
 ## Circulatory System
 
@@ -1313,14 +1325,6 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 [Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned by [lymphocytes][] and mixed back into the blood.
 
-### Lipoproteins
-
-[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
-
-Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
-
-[LDL][] transports cholesterol from the liver to tissues. [HDL][] transports cholesterol from tissues to the liver.
-
 ### Heart
 
 The [heart][] is an organ that pumps blood through the circulatory system.
@@ -1328,6 +1332,22 @@ The [heart][] is an organ that pumps blood through the circulatory system.
 [Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
 
 [Atherosclerosis][] is a type of arteriosclerosis where the thickening of the cell wall is caused by a build up of a fatty plaque.
+
+### Lipoproteins
+
+[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
+
+Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
+
+Endothelial cells in the walls of the capillaries of adipose and muscle tissue have an enzyme called [Lipoprotein Lipase][] (LPL) which interacts with [Apoprotein C-II][] on chylomicrons to hydrolyze the packaged triglycerides into glycerol and fatty acids and send them into adipose and muscle cells. The remaining chylomicrons are transported to the liver and cleaned up in a process mediated by [Apoprotein E][].
+
+## Liver
+
+The [liver][] (hepat in Greek) is an organ with hundreds of functions such as detoxification, regulating Glucose and Glycogen, producing hormones, decomposing red blood cells, and producing bile. The liver is made mostly of [Hepatocyte cells][].
+
+The liver may synthesize lipoproteins such as LDL and VLDL which carry cholesterol and triglycerides to tissues.
+
+[HDL][] transports cholesterol from tissues to the liver.
 
 ## Digestion
 
@@ -1347,13 +1367,15 @@ The [large intestine][] (or colon) absorbs remaining water and stores waste as [
 
 The [anus][] expels feces.
 
+### Bile Acid
+
+[Bile acid][] is created in the liver, stored in the gallbladder, and secreted in the duodenum, and it's used for digestion and absorption of fat from food.
+
 ### Lipid Digestion
 
 A [lipase][] is an enzyme that hydrolyzes fats.
 
 Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes, packaged into chylomicrons, and sent through the lymphatic system into the blood.
-
-Endothelial cells in the walls of the capillaries of adipose and muscle tissue have an enzyme called [Lipoprotein Lipase][] which interacts with [Apoprotein C-II][] on the chylomicrons to hydrolyze the packaged triglycerides into Glycerol and Fatty Acids and send them into adipose and muscle cells. The remaining chylomicrons are transported to the liver and cleaned up in a process mediated by [Apoprotein E][].
 
 ## Glands
 
@@ -1477,6 +1499,8 @@ if (elements.length) {
 [active transport]: https://en.wikipedia.org/wiki/Active_transport
 [acyclic]: https://en.wikipedia.org/wiki/Open-chain_compound
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
+[acyl-carnitine]: https://en.wikipedia.org/wiki/Acetylcarnitine
+[acyl-coa]: https://en.wikipedia.org/wiki/Acyl-CoA
 [adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [adenosine triphosphate]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
@@ -1545,12 +1569,14 @@ if (elements.length) {
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
+[β-oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [benzene]: https://en.wikipedia.org/wiki/Benzene
+[beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
@@ -1576,6 +1602,7 @@ if (elements.length) {
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
+[carnitine]: https://en.wikipedia.org/wiki/Carnitine
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
@@ -1647,6 +1674,7 @@ if (elements.length) {
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
 [cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
@@ -1745,6 +1773,7 @@ if (elements.length) {
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
+[fatty acid degradation]: https://en.wikipedia.org/wiki/Fatty_acid_degradation
 [fd]: https://en.wikipedia.org/wiki/Ferredoxin
 [feces]: https://en.wikipedia.org/wiki/Feces
 [females]: https://en.wikipedia.org/wiki/Female
@@ -1826,6 +1855,7 @@ if (elements.length) {
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
+[hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
@@ -1893,6 +1923,7 @@ if (elements.length) {
 [lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
+[lipolysis]: https://en.wikipedia.org/wiki/Lipolysis
 [lipoprotein lipase]: https://en.wikipedia.org/wiki/Lipoprotein_lipase
 [lipoproteins]: https://en.wikipedia.org/wiki/Lipoprotein
 [liquid]: https://en.wikipedia.org/wiki/Liquid
@@ -2018,6 +2049,7 @@ if (elements.length) {
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[perilipin]: https://en.wikipedia.org/wiki/Perilipin-1
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
 [periodic trends image]: https://commons.wikimedia.org/wiki/File:Periodic_trends.png
@@ -2069,6 +2101,7 @@ if (elements.length) {
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
 [prophase]: https://en.wikipedia.org/wiki/Prophase
+[protein kinase a]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [protein synthesis]: https://en.wikipedia.org/wiki/Protein_biosynthesis
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
@@ -2117,10 +2150,13 @@ if (elements.length) {
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
+[serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
+[signal transduction]: https://en.wikipedia.org/wiki/Signal_transduction
+[signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
