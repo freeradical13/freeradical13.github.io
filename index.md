@@ -842,6 +842,15 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
 
 Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
 
+There are 6 broad groups of enzymes (the first number in an enzyme's unique [Enzyme Commission Number][]):
+
+1. [Oxidoreductases][]: Catalyze a redox reaction.
+1. [Transferases][]: Transfer a functional group from one molecule to another.
+1. [Hydrolases][]: Breaks down a molecule with hydrolysis.
+1. [Lyases][]: Breaks down a molecule by means other than hydrolysis or oxidation.
+1. [Isomerases][]: Converts a molecule from one isomer to another.
+1. [Ligases][]: Joins two large molecules, often with hydrolysis.
+
 A [cofactor][] is a metal ion or coenzyme which facilitates catalysis. [Coenzymes][] are cosubstrates if loosely bound, or prosthetic groups if covalently bound. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
 The rate of enzyme-catalyzed reactions reaches a [maximum rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates. An enzyme also has an affinity for substrates called K<sub>m</sub>: the lower the value, the higher the affinity. The [Michaelis-Menten constant][] K<sub>m</sub> is the substrate concentration at which the reaction rate is half of V<sub>max</sub>.
@@ -1860,6 +1869,7 @@ if (elements.length) {
 [enterocyte cells]: https://en.wikipedia.org/wiki/Enterocyte
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[enzyme commission number]: https://en.wikipedia.org/wiki/Enzyme_Commission_number
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
@@ -1990,6 +2000,7 @@ if (elements.length) {
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
 [hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[hydrolases]: https://en.wikipedia.org/wiki/Hydrolase
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
@@ -2018,6 +2029,7 @@ if (elements.length) {
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
+[isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
 [isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
 [isotope]: https://en.wikipedia.org/wiki/Isotope
@@ -2040,6 +2052,7 @@ if (elements.length) {
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
 [ligand]: https://en.wikipedia.org/wiki/Ligand
+[ligases]: https://en.wikipedia.org/wiki/Ligase
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
@@ -2057,6 +2070,7 @@ if (elements.length) {
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
+[lyases]: https://en.wikipedia.org/wiki/Lyase
 [lymph]: https://en.wikipedia.org/wiki/Lymph
 [lymph nodes]: https://en.wikipedia.org/wiki/Lymph_node
 [lymphatic system]: https://en.wikipedia.org/wiki/Lymphatic_system
@@ -2170,6 +2184,7 @@ if (elements.length) {
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
+[oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -2380,6 +2395,7 @@ if (elements.length) {
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
+[transferases]: https://en.wikipedia.org/wiki/Transferase
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
