@@ -1142,6 +1142,8 @@ An [organ][] is a collection of tissues with similar function.
 
 A [tract][] is a series of connected organs.
 
+A [lobe][] is a clearly visible division or extension of an organ.
+
 #### Hormones
 
 [Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
@@ -1258,7 +1260,25 @@ Common second messengers:
 
 [Animals][] are a kingdom of multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
 
+##### Vertebrates
+
 [Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
+
+###### Vertebrate Brain
+
+The vertebrate brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
+
+The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerberal cortex][] and inner layers of [white matter][].
+
+Grey matter is different from white matter in that grey matter contains more cell bodies and fewer myelinated axons (which causes the whiteness).
+
+Each cerebral hemisphere is made of parts called the [frontal lobe][] (partly for dopamine processing), [parietal lobe][] (partly for integrating sensory information), [occipital lobe][] (partly for visual processing), [temporal lobe][] (partly for visual memory), limbic lobe, and insular cortex (partly for consciousness). The [sulci][] are the grooves in the brain that increase surface area.
+
+The cerebrum is attached to the [brainstem][] which connects to the spinal cord and is made of three parts: the [midbrain][], [pons][], and the [medulla oblongata][] (partly regulating breathing, heart rate, and blood pressure).
+
+Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
+
+The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
 ##### Humans
 
@@ -1554,6 +1574,7 @@ if (elements.length) {
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
+[amygdala]: https://en.wikipedia.org/wiki/Amygdala
 [amylopectin]: https://en.wikipedia.org/wiki/Amylopectin
 [amylose]: https://en.wikipedia.org/wiki/Amylose
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
@@ -1595,6 +1616,7 @@ if (elements.length) {
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
+[basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
@@ -1609,6 +1631,7 @@ if (elements.length) {
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
 [brain]: https://en.wikipedia.org/wiki/Brain
+[brainstem]: https://en.wikipedia.org/wiki/Brainstem
 [branches]: https://en.wikipedia.org/wiki/Branch
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
@@ -1639,6 +1662,10 @@ if (elements.length) {
 [centrioles]: https://en.wikipedia.org/wiki/Centriole
 [centromere]: https://en.wikipedia.org/wiki/Centromere
 [centrosome]: https://en.wikipedia.org/wiki/Centrosome
+[cerebellum]: https://en.wikipedia.org/wiki/Cerebellum
+[cerebral cortex]: https://en.wikipedia.org/wiki/Cerebral_cortex
+[cerebral hemispheres]: https://en.wikipedia.org/wiki/Cerebral_hemisphere
+[cerebrum]: https://en.wikipedia.org/wiki/Cerebrum
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
@@ -1692,6 +1719,7 @@ if (elements.length) {
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
+[corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
@@ -1814,6 +1842,7 @@ if (elements.length) {
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
+[frontal lobe]: https://en.wikipedia.org/wiki/Frontal_lobe
 [fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
 [fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
 [fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
@@ -1847,6 +1876,7 @@ if (elements.length) {
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+[grey matter]: https://en.wikipedia.org/wiki/Grey_matter
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
@@ -1869,6 +1899,7 @@ if (elements.length) {
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
+[hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
 [histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
@@ -1894,6 +1925,7 @@ if (elements.length) {
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
 [hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -1944,6 +1976,7 @@ if (elements.length) {
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [light]: https://en.wikipedia.org/wiki/Light
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[limbic system]: https://en.wikipedia.org/wiki/Limbic_system
 [lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
@@ -1953,6 +1986,7 @@ if (elements.length) {
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
 [liver]: https://en.wikipedia.org/wiki/Liver
+[lobe]: https://en.wikipedia.org/wiki/Lobe_(anatomy)
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
@@ -1976,8 +2010,9 @@ if (elements.length) {
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
-[membranes]: https://en.wikipedia.org/wiki/Biological_membrane
+[medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
+[membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [meristems]: https://en.wikipedia.org/wiki/Meristem
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
 [metabolism]: https://en.wikipedia.org/wiki/Metabolism
@@ -1990,6 +2025,7 @@ if (elements.length) {
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
+[midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
@@ -2013,6 +2049,7 @@ if (elements.length) {
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
+[motor control]: https://en.wikipedia.org/wiki/Motor_control
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
@@ -2049,7 +2086,9 @@ if (elements.length) {
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [obligate]: https://en.wikipedia.org/wiki/Obligate
+[occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
+[olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
@@ -2067,6 +2106,7 @@ if (elements.length) {
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
+[parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
@@ -2101,6 +2141,8 @@ if (elements.length) {
 [phyla]: https://en.wikipedia.org/wiki/Phylum
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
+[pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
+[pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
@@ -2117,6 +2159,7 @@ if (elements.length) {
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polyphyletic group]: https://en.wikipedia.org/wiki/Polyphyly
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
+[pons]: https://en.wikipedia.org/wiki/Pons
 [porosome]: https://en.wikipedia.org/wiki/Porosome
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
@@ -2232,6 +2275,7 @@ if (elements.length) {
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
 [sugar-phosphate backbone]: https://en.wikipedia.org/wiki/Sugar_phosphates
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
+[sulci]: https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
@@ -2246,11 +2290,13 @@ if (elements.length) {
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
+[temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
 [testosterone]: https://en.wikipedia.org/wiki/Testosterone
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
+[thalamus]: https://en.wikipedia.org/wiki/Thalamus
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
@@ -2312,5 +2358,6 @@ if (elements.length) {
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
 [white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
+[white matter]: https://en.wikipedia.org/wiki/White_matter
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
