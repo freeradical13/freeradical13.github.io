@@ -898,7 +898,7 @@ Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pai
 
 ### RNA
 
-RNA usually has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure.
+RNA usually has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure, and in some cases, double-stranded RNA ([dsRNA][]) may form.
 
 RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
 
@@ -911,6 +911,21 @@ A [plasmid][] is a (usually) circular form of double-stranded DNA.
 #### DNA Replication
 
 [DNA Polymerase][] reads a strand of DNA in the 3' to 5' direction to create a complementary strand of DNA by adding nucleotides to the 3' end of the new strand.
+
+#### DNA Repair
+
+There are mechanisms to repair various types of DNA damage.
+
+Examples of damage:
+
+* Ultraviolet light photons (UVB and UVC) may cause two consecutive pyrimidine bases (TT [most common] or CC) to create an unneeded covalent bond called a [pyrimidine dimer][] because of the less stable single ring bases than purines. The additional covalent bond can disrupt replication.
+
+Types of repair:
+
+* In some organisms, light-activated [Photolyases][] break pyrimidine dimer bonds.
+* [Nucleotide Excision Repair][] fixes damage in one strand such as pyrimidine dimers by removing the damaged bases and then using DNA polymerase to recreate the removed portion from the complementary strand.
+* [Base Excision Repair][] fixes damage to single bases such as oxidation by removing the bases and then using DNA polymerase to recreate them.
+* [DNA Mismatch Repair][] fixes wrongly inserted, deleted or mismatched bases created during DNA replication.
 
 ### Genes
 
@@ -1120,15 +1135,17 @@ Both prokyarotes and eukaryotes perform [cell division][] to replicate themselve
 Some cells cycle through one of a few states called a [cell cycle][]:
 
 1. Interphase:
-    1. [G<sub>1</sub>][g1]: Cell grows.
-    1. [S][s phase] (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
-    1. [G<sub>2</sub>][g2]: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
-1. [M][m phase] (mitosis): Cell divides
+    1. [G<sub>1</sub> phase][g1]: Cell grows.
+    1. [S phase][] (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
+    1. [G<sub>2</sub>phase ][g2]: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+1. [M phase][] (mitosis): Cell divides
     1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
     1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
     1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
     1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
+
+In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids which can allow for increased gene expression.
 
 ### Genetics
 
@@ -1168,8 +1185,6 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 [Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes.
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers.
-
-
 
 #### Cell Nucleus
 
@@ -1711,6 +1726,7 @@ if (elements.length) {
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
+[base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
@@ -1857,7 +1873,9 @@ if (elements.length) {
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
+[dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
@@ -2203,6 +2221,7 @@ if (elements.length) {
 [nucleoside-diphosphate kinases]: https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase
 [nucleosome]: https://en.wikipedia.org/wiki/Nucleosome
 [nucleotide]: https://en.wikipedia.org/wiki/Nucleotide
+[nucleotide excision repair]: https://en.wikipedia.org/wiki/Nucleotide_excision_repair
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
@@ -2256,6 +2275,7 @@ if (elements.length) {
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [phosphorylation]: https://en.wikipedia.org/wiki/Phosphorylation
 [phosphatases]: https://en.wikipedia.org/wiki/Phosphatase
+[photolyases]: https://en.wikipedia.org/wiki/Photolyase
 [photon]: https://en.wikipedia.org/wiki/Photon
 [photophosphorylation]: https://en.wikipedia.org/wiki/Photophosphorylation
 [photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
@@ -2285,6 +2305,7 @@ if (elements.length) {
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polyphyletic group]: https://en.wikipedia.org/wiki/Polyphyly
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
+[polytene chromosomes]: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470015902.a0001183.pub2
 [pons]: https://en.wikipedia.org/wiki/Pons
 [porosome]: https://en.wikipedia.org/wiki/Porosome
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
@@ -2311,6 +2332,7 @@ if (elements.length) {
 [protons]: https://en.wikipedia.org/wiki/Proton
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
+[pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
 [pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
 [pyruvate oxidation]: https://en.wikipedia.org/wiki/Pyruvate_decarboxylation
 [quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
