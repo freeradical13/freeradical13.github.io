@@ -944,7 +944,7 @@ Both prokaryotes and eukaryotes are made of cells.
 
 A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
-A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules).
+A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules).
 
 For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
@@ -1169,6 +1169,8 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers.
 
+
+
 #### Cell Nucleus
 
 The [cell nucleus][] is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
@@ -1201,13 +1203,17 @@ Material is first sorted inside [endosomes][] before being processed by the lyso
 
 #### Tissues
 
-A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue.
+A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue. The extracellular matrix is created by [fibroblast cells][].
 
 An [organ][] is a collection of tissues with similar function.
 
 A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
+
+[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and [Microfibril][] proteins. [Collagen][] is a structural protein.
+
+[Keratin][] is a strong protein like Chitin that creates various structures in organisms.
 
 #### Hormones
 
@@ -1792,6 +1798,7 @@ if (elements.length) {
 [cofactor]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/enzyme-cofactors-and-coenzymes
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
+[collagen]: https://en.wikipedia.org/wiki/Collagen
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
@@ -1805,6 +1812,7 @@ if (elements.length) {
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conjugation]: https://en.wikipedia.org/wiki/Bacterial_conjugation
+[connective tissues]: https://en.wikipedia.org/wiki/Connective_tissue
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [constitutive gene]: https://en.wikipedia.org/wiki/Gene_expression#Regulation_of_gene_expression
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
@@ -1854,6 +1862,8 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
+[elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electrically conductive]: https://en.wikipedia.org/wiki/Electrical_conductor
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
@@ -1924,6 +1934,7 @@ if (elements.length) {
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
+[fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
@@ -1974,6 +1985,7 @@ if (elements.length) {
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 [grey matter]: https://en.wikipedia.org/wiki/Grey_matter
+[ground substance]: https://en.wikipedia.org/wiki/Ground_substance
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
