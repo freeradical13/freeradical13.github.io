@@ -1569,7 +1569,11 @@ An [electrophoretic mobility shift assay][] determines if certain proteins can b
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
 
-An [oncogene][] is a gene that has the potential to cause cancer.
+An [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
+
+Examples of oncogenes:
+
+* [Src][] (or c-Src or sarc): [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
 
 # Feedback
 
@@ -2361,6 +2365,7 @@ if (elements.length) {
 [proteins]: https://en.wikipedia.org/wiki/Protein
 [proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
+[proto-oncogene]: https://en.wikipedia.org/wiki/Oncogene#Proto-oncogene
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [purines]: https://en.wikipedia.org/wiki/Purine
@@ -2435,6 +2440,8 @@ if (elements.length) {
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
+[src]: https://en.wikipedia.org/wiki/Proto-oncogene_tyrosine-protein_kinase_Src
+[src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
