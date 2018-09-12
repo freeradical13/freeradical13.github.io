@@ -1314,6 +1314,8 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 
 A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
 
+A [transcription factor][] is a protein that controls the rate of gene transcription.
+
 #### Neurons
 
 [Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
@@ -1543,6 +1545,12 @@ Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach a
 ## Glands
 
 [Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
+
+## Morphogenesis
+
+[Morphogenesis][] is the process that causes an organism to develop its shape, most commonly the organized spatial distribution of cells during embryonic development.
+
+A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis.
 
 ## History of Life
 
@@ -2073,6 +2081,7 @@ if (elements.length) {
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
+[homeobox]: https://en.wikipedia.org/wiki/Homeobox
 [homeostasis]: https://en.wikipedia.org/wiki/Homeostasis
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
@@ -2233,6 +2242,7 @@ if (elements.length) {
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
+[morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [muscle]: https://en.wikipedia.org/wiki/Muscle
@@ -2511,6 +2521,7 @@ if (elements.length) {
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
+[transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transferases]: https://en.wikipedia.org/wiki/Transferase
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
