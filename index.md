@@ -1550,7 +1550,7 @@ Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach a
 
 [Morphogenesis][] is the process that causes an organism to develop its shape, most commonly the organized spatial distribution of cells during embryonic development.
 
-A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis.
+A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis. [Homeosis][] is the transformation of one organ into another from mutation or misexpression of homeotic genes (genes with a homeobox).
 
 ## History of Life
 
@@ -2082,6 +2082,7 @@ if (elements.length) {
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [homeobox]: https://en.wikipedia.org/wiki/Homeobox
+[homeosis]: https://en.wikipedia.org/wiki/Homeosis
 [homeostasis]: https://en.wikipedia.org/wiki/Homeostasis
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
