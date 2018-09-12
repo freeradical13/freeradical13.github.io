@@ -1376,6 +1376,20 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 [Fungi][] (singular fungus) are a kingdom of single- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
 
+### Cell Death
+
+Cell death is either caused by necrosis or a process of programmed cell death.
+
+[Necrosis][] is a cell injury caused by extracellular factors (e.g. trauma, toxins, etc.) which leads to [autolysis][] (or self-digestion).
+
+[Programmed cell death][] is the regulated death of a cell proximately using intracellular mechanisms such as apoptosis, autophagy, and necroptosis.
+
+[Apoptosis][] is a form of programmed cell death in which processes such as signal transduction instruct the cell to commit suicide.
+
+[Autophagy][] is a form of programmed cell death in which certain signals lead to the creation of [autophagosomes][] which are double-layered vesicles that consume parts of a cell and which are ultimately fused with lysosomes for degradation.
+
+[Necroptosis][] is a programmed form of necrosis and may be an alternative or backup to apoptosis.
+
 ## Viruses
 
 [Viruses][] (singular viron) have DNA or RNA but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
@@ -1551,6 +1565,12 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
 
+## Cancer
+
+A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
+
+An [oncogene][] is a gene that has the potential to cause cancer.
+
 # Feedback
 
 [Ask a Question or Contribute][issues]
@@ -1694,6 +1714,7 @@ if (elements.length) {
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
+[apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -1714,6 +1735,9 @@ if (elements.length) {
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
+[autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
+[autophagosomes]: https://en.wikipedia.org/wiki/Autophagosome
+[autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
 [autosomes]: https://en.wikipedia.org/wiki/Autosome
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
@@ -1727,6 +1751,7 @@ if (elements.length) {
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
+[benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
@@ -1748,6 +1773,7 @@ if (elements.length) {
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [butane]: https://en.wikipedia.org/wiki/Butane
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[cancer]: https://en.wikipedia.org/wiki/Cancer
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
 [capsid]: https://en.wikipedia.org/wiki/Capsid
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
@@ -2156,6 +2182,7 @@ if (elements.length) {
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [metaphase]: https://en.wikipedia.org/wiki/Metaphase
+[metastasizes]: https://en.wikipedia.org/wiki/Metastasis
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
@@ -2177,6 +2204,7 @@ if (elements.length) {
 [molar mass]: https://en.wikipedia.org/wiki/Molar_mass
 [molarity]: https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/a/molarity
 [mole]: https://en.wikipedia.org/wiki/Mole_(unit)
+[mole tumor]: https://en.wikipedia.org/wiki/Melanocytic_nevus
 [mole definition]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [molecular entity]: http://goldbook.iupac.org/html/M/M03986.html
 [molecular formula]: https://en.wikipedia.org/wiki/Chemical_formula#Molecular_formula
@@ -2197,7 +2225,10 @@ if (elements.length) {
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
+[necroptosis]: https://www.nature.com/articles/nchembio711
+[necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
+[neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neurons]: https://en.wikipedia.org/wiki/Neuron
@@ -2231,6 +2262,7 @@ if (elements.length) {
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
+[oncogene]: https://en.wikipedia.org/wiki/Oncogene
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organelles]: https://en.wikipedia.org/wiki/Organelle
@@ -2316,6 +2348,7 @@ if (elements.length) {
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
+[programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
