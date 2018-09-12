@@ -601,6 +601,7 @@ General terms:
 
 * [Facultative][]: optional.
 * [Obligate][]: obligatory; necessary.
+* [Ligands][biochemical ligand]: Not necessarily like the ligand in a coordinate covalent bond, biochemical ligands describe substances that bind with a biomolecule to help with a biological function (often through a change in conformation).
 
 ## Carbohydrates
 
@@ -1325,11 +1326,17 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 #### Cellular Communication
 
-A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). The stimulus causes second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon).
+
+The first messenger signals second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
+
+Common first messenger receptors:
+
+* [G Protein-Coupled Receptors][] couple with G proteins to regulate second messengers.
 
 Common second messengers:
 
-* [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA).
+* [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA). [Adenylyl Cyclase][] transmits a signal by converting ATP to cAMP.
 * [1,2-diacylglycerol][] (or DAG) activates the effector [Protein Kinase C][] (PKC).
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
@@ -1545,6 +1552,8 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The fir
 
 [Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc. The process of natural selection states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
 
+[Homology][] is the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor.
+
 [Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
 ## Laboratory Techniques
@@ -1672,6 +1681,7 @@ if (elements.length) {
 [adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [adenosine triphosphate]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
+[adenylyl cyclase]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 [adipocyte cells]: https://en.wikipedia.org/wiki/Adipocyte
 [adipose tissue]: https://en.wikipedia.org/wiki/Adipose_tissue
 [agarose]: https://en.wikipedia.org/wiki/Agarose
@@ -1761,6 +1771,7 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
+[biochemical ligand]: https://en.wikipedia.org/wiki/Ligand_(biochemistry)
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
@@ -2003,6 +2014,7 @@ if (elements.length) {
 [fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [fungi]: https://en.wikipedia.org/wiki/Fungus
+[g protein-coupled receptors]: https://en.wikipedia.org/wiki/G_protein
 [g1]: https://en.wikipedia.org/wiki/G1_phase
 [g2]: https://en.wikipedia.org/wiki/G2_phase
 [g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
@@ -2064,6 +2076,7 @@ if (elements.length) {
 [homeostasis]: https://en.wikipedia.org/wiki/Homeostasis
 [homogenous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
+[homology]: https://en.wikipedia.org/wiki/Homology_(biology)
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
