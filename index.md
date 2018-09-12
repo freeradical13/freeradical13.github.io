@@ -1573,7 +1573,7 @@ An [proto-oncogene][] is a gene that has the potential to cause cancer through m
 
 Examples of oncogenes:
 
-* [Src][] (or c-Src or sarc): [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
+* [Src][] (or c-Src or sarc): Tyrosine kinase. [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
 
 # Feedback
 
