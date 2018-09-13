@@ -1508,11 +1508,11 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 [B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell paratope is a Y-shaped protein made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
-Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens.
+Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction by macrophages or neutrophils ([opsonization][]), or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
+
+There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
 [T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
-
-There are five types of antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
 B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
 
@@ -1524,7 +1524,7 @@ If an antigen matching memory cells is seen after initial exposure, the memory c
 
 A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antiboies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
-Helper T cells work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This starts the two-way release of cytokines which activates the T cell and stimulates cloning.
+Helper T cells work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
 
 ### Heart
 
@@ -2371,6 +2371,7 @@ if (elements.length) {
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
 [oncogene]: https://en.wikipedia.org/wiki/Oncogene
+[opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organelles]: https://en.wikipedia.org/wiki/Organelle
