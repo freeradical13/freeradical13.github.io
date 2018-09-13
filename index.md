@@ -1518,7 +1518,11 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][]. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] and [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][[campbell urry et al 11th pg 961]] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] and [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
+
+If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
+
+A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antiboies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
 ### Heart
 
@@ -1857,8 +1861,10 @@ if (elements.length) {
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
+[campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
+[cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
 [cell division]: https://en.wikipedia.org/wiki/Cell_division
 [cell membrane]: https://en.wikipedia.org/wiki/Cell_membrane
@@ -2149,6 +2155,7 @@ if (elements.length) {
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
+[humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
 [hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
 [hydride]: https://en.wikipedia.org/wiki/Hydride
