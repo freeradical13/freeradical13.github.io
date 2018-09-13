@@ -1518,13 +1518,15 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] or [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
 
 If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
 
 A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antiboies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
-Helper T cells work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
+[Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
+
+[Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the helper T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
 
 ### Heart
 
@@ -1866,7 +1868,8 @@ if (elements.length) {
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
-[cd4]: https://en.wikipedia.org/wiki/Complement_component_4
+[cd4]: https://en.wikipedia.org/wiki/CD4
+[cd8]: https://en.wikipedia.org/wiki/CD8
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
@@ -2118,6 +2121,7 @@ if (elements.length) {
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
+[granzymes]: https://en.wikipedia.org/wiki/Granzyme
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
@@ -2401,6 +2405,7 @@ if (elements.length) {
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[perforin]: https://en.wikipedia.org/wiki/Perforin
 [perilipin]: https://en.wikipedia.org/wiki/Perilipin-1
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
