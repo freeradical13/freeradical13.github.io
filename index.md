@@ -1477,7 +1477,7 @@ The [immune system][] in an organism is a defense system against [pathogens][] (
 
 1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
     1. TLR3 recognizes double-stranded RNA produced by some viruses.
-    1. TLR4 recognizes lipopolysaccharies on the surface of some bacteria.
+    1. TLR4 recognizes lipopolysaccharides on the surface of some bacteria.
     1. TLR5 recognizes the flagellin protein on bacterial flagella.
 1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
 1. The broken down products are released through exocytosis.
@@ -1510,7 +1510,7 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens.
 
-[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
+[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
 
 There are five types of antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
@@ -1518,11 +1518,13 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][[campbell urry et al 11th pg 961]] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] and [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] or [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
 
 If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
 
 A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antiboies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
+
+Helper T cells work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This starts the two-way release of cytokines which activates the T cell and stimulates cloning.
 
 ### Heart
 
@@ -1781,6 +1783,7 @@ if (elements.length) {
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
+[antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
 [anus]: https://en.wikipedia.org/wiki/Anus
@@ -1863,6 +1866,7 @@ if (elements.length) {
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
+[cd4]: https://en.wikipedia.org/wiki/Complement_component_4
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
@@ -1908,6 +1912,8 @@ if (elements.length) {
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
 [citrate]: https://en.wikipedia.org/wiki/Citric_acid
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[class i mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_I
+[class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
@@ -2031,6 +2037,7 @@ if (elements.length) {
 [enzyme commission number]: https://en.wikipedia.org/wiki/Enzyme_Commission_number
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
+[eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
