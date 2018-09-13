@@ -1510,7 +1510,7 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
-[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope. The 
+[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
 
 ### Heart
 
@@ -2239,6 +2239,7 @@ if (elements.length) {
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [macrophages]: https://en.wikipedia.org/wiki/Macrophage
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
+[major histocompatibility complex]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
 [males]: https://en.wikipedia.org/wiki/Male
 [maltose]: https://en.wikipedia.org/wiki/Maltose
