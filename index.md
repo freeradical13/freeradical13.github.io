@@ -1528,6 +1528,8 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the helper T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
 
+[Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity. [Passive immunity][] is the transfer (or injection) of antibodies which last temporarily.
+
 ### Heart
 
 The [heart][] is an organ that pumps blood through the circulatory system.
@@ -2398,6 +2400,7 @@ if (elements.length) {
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[passive immunity]: https://en.wikipedia.org/wiki/Passive_immunity
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
@@ -2643,6 +2646,7 @@ if (elements.length) {
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
 [v(d)j recombination]: https://en.wikipedia.org/wiki/V(D)J_recombination
+[vaccines]: https://en.wikipedia.org/wiki/Vaccines
 [vacuoles]: https://en.wikipedia.org/wiki/Vacuole
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
