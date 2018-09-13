@@ -1508,9 +1508,13 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 [B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell paratope is a Y-shaped protein made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
-Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens.
 
 [T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
+
+There are five types of antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+
+B and T cell antigen receptors are encoded in DNA by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
 
 ### Heart
 
@@ -2463,6 +2467,7 @@ if (elements.length) {
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[recombinase]: https://en.wikipedia.org/wiki/Recombinase
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
