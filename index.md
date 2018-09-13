@@ -711,7 +711,7 @@ Common disaccharides:
 
 [Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
-[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). Glycogen is like amylopectin but even more branched.
+[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). [Glycogen][] is like amylopectin but even more branched.
 
 [Structural polysaccharides][] are used by organisms to build strong structural material. [Cellulose][] and [Chitin][] (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form [microfibrils][].
 
@@ -1328,7 +1328,7 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 #### Cellular Communication
 
-A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon).
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). [Cytokines][] are proteins that participate in signaling.
 
 The first messenger signals second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
 
@@ -1413,12 +1413,6 @@ Different viruses have different structures and behaviors:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
 
-## Immune System
-
-An [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that saves memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
-
-[Antibodies][] (or immunoglobulins) are Y-shaped proteins produced by B cells. Antibodies recognize [antigens][] which are particular molecules on a pathogen. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
-
 ## Adipose Tissue
 
 [Adipose Tissue][] (or body fat) stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
@@ -1445,17 +1439,17 @@ The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxyg
 
 [Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting cators, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] includes blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors.
 
-### Blood Cells
+#### Blood Cells
 
-Blood cells may be red blood cells, white blood cells or platelets.
+Blood cells are creted in the bone marrow and may be red blood cells, white blood cells or platelets.
 
 [Red Blood Cells][] (or erythrocytes, or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
 
-[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
-
 [Platelets][] (or thrombocytes) lack a nucleus and help with forming blood clots in response to injury.
 
-### Blood Vessels
+[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
+
+#### Blood Vessels
 
 [Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
 
@@ -1471,7 +1465,52 @@ All the fluid outside of cells is called [extracellular fluid][]. The majority o
 
 The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
 
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned by [lymphocytes][] and mixed back into the blood.
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood.
+
+## Immune System
+
+The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
+
+### Innate Immune System
+
+[Phagocytosis][] is the process a phagocytic cell uses to ingest and destroy a pathogen:
+
+1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
+    1. TLR3 recognizes double-stranded RNA produced by some viruses.
+    1. TLR4 recognizes lipopolysaccharies on the surface of some bacteria.
+    1. TLR5 recognizes the flagellin protein on bacterial flagella.
+1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
+1. The broken down products are released through exocytosis.
+
+Types of phagocytic cells:
+
+* [Macrophages][] are leukocytes which either patrol by circulating throughout the blood or stay in one tissue to monitor for pathogens.
+* [Neutrophils][] are leukocytes attracted by signals from infected tissues.
+* [Eosinophils][] are leukocytes which target multicellular invaders.
+
+Leukocytes found predominantly in lymph are called [lymphocytes][].
+
+[Natural Killer Cells][] are leukocytes that circulate throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
+
+[Dendritic cells][] populate tissues such as skin and migrate to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
+
+[Interferons][] are proteins that interfere with virus-infected cells. Virus-infected cells themselves secrete interferons that inhibit viral replication. Some white blood cells secrete interferons that help activate macrophages.
+
+The [complement system][] describes various proteins that circulate in the blood which may cause lysis of some pathogens.
+
+### Inflammatory Response
+
+An [inflammatory response][] is a cascade in response to injury or infection. Macrophages release cytokines which attract neutrophils. Leukocyte [mast cells][] in surrounding connective tissue release signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
+
+### Adaptive Immune System
+
+[Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
+
+[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell paratope is a Y-shaped protein made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
+
+Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which may bind to free floating antigens that aren't on the surface of pathogens. There are five types (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+
+[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope. The 
 
 ### Heart
 
@@ -1765,6 +1804,7 @@ if (elements.length) {
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
 [β-oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
+[b cells]: https://en.wikipedia.org/wiki/B_cell
 [β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
@@ -1867,6 +1907,7 @@ if (elements.length) {
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
+[complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
 [complex i]: https://en.wikipedia.org/wiki/Respiratory_complex_I
 [complex ii]: https://en.wikipedia.org/wiki/Succinate_dehydrogenase
@@ -1889,6 +1930,7 @@ if (elements.length) {
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
+[cytokines]: https://en.wikipedia.org/wiki/Cytokine
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
 [cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
@@ -1898,6 +1940,7 @@ if (elements.length) {
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
+[dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
@@ -1972,6 +2015,7 @@ if (elements.length) {
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
+[epitopes]: https://en.wikipedia.org/wiki/Epitope
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
@@ -2046,6 +2090,7 @@ if (elements.length) {
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
+[glycogen]: https://en.wikipedia.org/wiki/Glycogen
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
@@ -2077,6 +2122,7 @@ if (elements.length) {
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
+[histamines]: https://en.wikipedia.org/wiki/Histamine
 [histone]: https://en.wikipedia.org/wiki/Histone
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
@@ -2117,10 +2163,12 @@ if (elements.length) {
 [incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
+[inflammatory response]: https://en.wikipedia.org/wiki/Inflammation
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [initial velocity]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/basics-of-enzyme-kinetics-graphs
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
+[interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
@@ -2189,6 +2237,7 @@ if (elements.length) {
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
+[macrophages]: https://en.wikipedia.org/wiki/Macrophage
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
 [males]: https://en.wikipedia.org/wiki/Male
@@ -2196,6 +2245,7 @@ if (elements.length) {
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
+[mast cells]: https://en.wikipedia.org/wiki/Mast_cell
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
@@ -2253,6 +2303,7 @@ if (elements.length) {
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
+[natural killer cells]: https://en.wikipedia.org/wiki/Natural_killer_cell
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
@@ -2262,6 +2313,7 @@ if (elements.length) {
 [neurons]: https://en.wikipedia.org/wiki/Neuron
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
+[neutrophils]: https://en.wikipedia.org/wiki/Neutrophil
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
@@ -2309,6 +2361,7 @@ if (elements.length) {
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
+[paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -2328,6 +2381,7 @@ if (elements.length) {
 [peroxisomes]: https://en.wikipedia.org/wiki/Peroxisome
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
+[phagocytosis]: https://en.wikipedia.org/wiki/Phagocytosis
 [phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
@@ -2495,6 +2549,7 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[t cells]: https://en.wikipedia.org/wiki/T_cell
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
 [taxa]: https://en.wikipedia.org/wiki/Taxon
@@ -2518,8 +2573,10 @@ if (elements.length) {
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
+[thymus]: https://en.wikipedia.org/wiki/Thymus
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
+[toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
 [traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
