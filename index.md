@@ -1514,7 +1514,11 @@ Once a B cell's paratope binds to an antigen, B cells become activated and lead 
 
 There are five types of antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
-B and T cell antigen receptors are encoded in DNA by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
+B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
+
+As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
+
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][]. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called [Helper T cells][] and [Cytotoxic T cells][]. The remaining, non-effector cells are called [memory cells][].
 
 ### Heart
 
@@ -1898,6 +1902,8 @@ if (elements.length) {
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
 [citrate]: https://en.wikipedia.org/wiki/Citric_acid
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
+[clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
@@ -1939,6 +1945,7 @@ if (elements.length) {
 [cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
 [cytosol]: https://en.wikipedia.org/wiki/Cytosol
+[cytotoxic t cells]: https://en.wikipedia.org/wiki/Cytotoxic_T_cell
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
@@ -2112,6 +2119,7 @@ if (elements.length) {
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[helper t cells]: https://en.wikipedia.org/wiki/T_helper_cell
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
@@ -2257,6 +2265,7 @@ if (elements.length) {
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
+[memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
 [meristems]: https://en.wikipedia.org/wiki/Meristem
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
 [metabolism]: https://en.wikipedia.org/wiki/Metabolism
@@ -2410,6 +2419,7 @@ if (elements.length) {
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
+[plasma cells]: https://en.wikipedia.org/wiki/Plasma_cell
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
@@ -2612,6 +2622,7 @@ if (elements.length) {
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
+[v(d)j recombination]: https://en.wikipedia.org/wiki/V(D)J_recombination
 [vacuoles]: https://en.wikipedia.org/wiki/Vacuole
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
