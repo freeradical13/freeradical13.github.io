@@ -1308,6 +1308,16 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 1. The pre-mRNA is made of sets of nucleotides called [exons][] which are needed for translation, and [introns][] which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
 1. [Translation][]: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the polypeptide chain using rRNA.
 
+##### DNA Self-Modification
+
+DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
+
+[Reverse Transcription][] is the use of [Reverse Transcriptase][] to create double-stranded DNA from RNA.
+
+[Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA.
+
+[DNA Transposons][] are DNA sequences that use [Transposase][] to cut-and-paste themselves in DNA.
+
 #### Gene Expression
 
 [Gene Expression][] describes when and why genes are used to create gene products such as proteins.
@@ -1518,7 +1528,7 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] is a single clone reacts to an antigen, and [polyclonal][] if different clones react to the same antigen (i.e. different epitopes). This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
 
 If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
 
@@ -1528,7 +1538,9 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the helper T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
 
-[Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity. [Passive immunity][] is the transfer (or injection) of antibodies which last temporarily.
+[Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
+
+[Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
 
 ### Heart
 
@@ -1790,6 +1802,9 @@ if (elements.length) {
 [antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
+[antiserums]: https://en.wikipedia.org/wiki/Antiserum
+[antitoxins]: https://en.wikipedia.org/wiki/Antitoxin
+[antivenoms]: https://en.wikipedia.org/wiki/Antivenom
 [anus]: https://en.wikipedia.org/wiki/Anus
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
@@ -1995,6 +2010,7 @@ if (elements.length) {
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
+[dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [earth]: https://en.wikipedia.org/wiki/Earth
@@ -2323,6 +2339,7 @@ if (elements.length) {
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
+[monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
 [monocot]: https://en.wikipedia.org/wiki/Monocotyledon
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
@@ -2451,6 +2468,7 @@ if (elements.length) {
 [poly-a tail]: https://en.wikipedia.org/wiki/Polyadenylation
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polyadenylation signal sequence]: https://en.wikipedia.org/wiki/Polyadenylation#Mechanism
+[polyclonal]: https://en.wikipedia.org/wiki/Polyclonal_B_cell_response#Basis_of_polyclonality
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
@@ -2509,6 +2527,9 @@ if (elements.length) {
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
+[retrotransposons]: https://en.wikipedia.org/wiki/Retrotransposon
+[reverse transcriptase]: https://en.wikipedia.org/wiki/Reverse_transcriptase
+[reverse transcription]: https://en.wikipedia.org/wiki/Reverse_transcriptase#Process_of_reverse_transcription
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
 [ribonucleic acid]: https://en.wikipedia.org/wiki/RNA
 [ribose]: https://en.wikipedia.org/wiki/Ribose
@@ -2627,6 +2648,7 @@ if (elements.length) {
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [tree of life]: https://en.wikipedia.org/wiki/Tree_of_life_(biology)
+[transposase]: https://en.wikipedia.org/wiki/Transposase
 [triglyceride]: https://en.wikipedia.org/wiki/Triglyceride
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
