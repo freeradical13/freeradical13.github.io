@@ -996,7 +996,7 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 [Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. An area enclosed by a membrane may be called a [lumen][]. The voltage across a membrane (called the [membrane potential][]) is typically about -50 to -200 mV, with the negative meaning that the inside of the cell is negatively charged.
 
-Membranes usually have carbohydrates bonded to the outside for various functions, either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
+Membranes usually have carbohydrates bonded to the outside for various functions (called the [glycocalyx][]), either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
 
 A [vesicle][] is a small sac with a membrane used for functions such as transportation.
 
@@ -1133,6 +1133,30 @@ One glucose molecule creates a net 26 to 28 ATP molecules.
 
 [Alcoholic fermentation][] also reduces Pyruvate and produces two Ethanol and two CO<sub>2</sub> molecules as waste products. First, two Pyruvate molecules are converted into two molecules of Acetylaldehyde (catalyzed by Pyruvate Decarboxylase) and CO<sub>2</sub>. Then the two Acetylaldehydes are converted into two Ethanol (catalyzed by Alcoholic Dehydrogenase).
 
+#### Photosynthesis
+
+[Photosynthesis][] uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. The reaction is endergonic and light provides the needed energy.
+
+The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>O + Light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> + 6H<sub>2</sub>O</code>
+
+Steps of photosynthesis:
+
+1. Light reactions:
+    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
+    1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
+        1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
+    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
+    1. The electrons continue to [Photosystem I][] and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
+    1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin ([Fd][]).
+    1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
+1. The [Calvin Cycle][] (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
+    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>. This process is called [C<sub>3</sub> Carbon fixation][c3 carbon fixation] because of these initial, 3-Carbon products.
+    1. The [3-Phosphogylcerate][] molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
+    1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
+    1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
+
+An alternative method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][].
+
 #### Gluconeogenesis
 
 [Gluconeogenesis][] is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. It is effectively the opposite of Glycolysis. The whole process uses 2 ATP, 2 GTP, and 1 NADH. Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
@@ -1194,7 +1218,9 @@ Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Pr
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. The cytoplasm includes an area called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
+
+Prokaryotes may have [pili][] or [fimbriae][] which are shorter than flagella and also help with locomotion.
 
 #### Bacteria
 
@@ -1210,6 +1236,8 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 1. [Transposition][]: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
 
 [Quorum sensing][] occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
+
+[Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
 #### Archaea
 
@@ -1287,6 +1315,8 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 [Mitochondria][] are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the [mitochondrial matrix][]. The inner membrane is heavily folded to increase surface area into structures called [cristae][].
 
+Mitochondria have their own DNA called [mtDNA][] which is passed down from the mother in the case of sexual reproduction.
+
 #### Plants
 
 [Plants][] are a kingdom of eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
@@ -1297,33 +1327,13 @@ Plant organelles are called [plastids][].
 
 ##### Chloroplasts
 
-[Chloroplasts][] are plastics that act as the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
+[Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
-The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>O + Light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> + 6H<sub>2</sub>O</code>
-
-The reaction is endergonic and light provides the needed energy.
-
-Steps of photosynthesis:
-
-1. Light reactions:
-    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving plant leaves their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
-    1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
-        1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
-    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
-    1. The electrons continue to [Photosystem I][] and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
-    1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin ([Fd][]).
-    1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
-1. The [Calvin Cycle][] (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
-    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>. Such plants are called [C<sub>3</sub> plants][c3 plants] because of these initial, 3-Carbon products.
-    1. The [3-Phosphogylcerate][] molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
-    1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
-    1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
-
-An alternative process used by [C<sub>4</sub> plants][c4 plants] creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle in [bundle-sheath cells][] using [PEP Carboxylase][].
+C<sub>4</sub> plants use [bundle-sheath cells][] to perform C<sub>4</sub> Carbon fixation.
 
 Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
 
@@ -1346,6 +1356,10 @@ Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which st
 The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
 [Meristems][] are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
+
+#### Algae
+
+[Algae][] is a polyphyletic group of eukaryotic organisms that use photosynthesis but lack roots, stems or leaves, so they're not considered plants.
 
 #### Protein Synthesis
 
@@ -1761,6 +1775,8 @@ A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substa
 
 A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
+[X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
+
 ## Cancer
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
@@ -1881,6 +1897,7 @@ if (elements.length) {
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [alcoholic fermentation]: https://en.wikipedia.org/wiki/Ethanol_fermentation
 [aldolase]: https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase
+[algae]: https://en.wikipedia.org/wiki/Algae
 [algebra]: https://www.khanacademy.org/math/algebra
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
@@ -1992,8 +2009,8 @@ if (elements.length) {
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle
 [butane]: https://en.wikipedia.org/wiki/Butane
-[c3 plants]: https://en.wikipedia.org/wiki/C3_carbon_fixation
-[c4 plants]: https://en.wikipedia.org/wiki/C4_carbon_fixation
+[c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
+[c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [cancer]: https://en.wikipedia.org/wiki/Cancer
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
@@ -2102,6 +2119,7 @@ if (elements.length) {
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
 [cristae]: https://en.wikipedia.org/wiki/Crista
+[cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokines]: https://en.wikipedia.org/wiki/Cytokine
@@ -2241,6 +2259,7 @@ if (elements.length) {
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
 [fibronectin]: https://en.wikipedia.org/wiki/Fibronectin
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
+[fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flagella]: https://en.wikipedia.org/wiki/Flagella
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
@@ -2288,6 +2307,7 @@ if (elements.length) {
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
+[glycocalyx]: https://en.wikipedia.org/wiki/Glycocalyx
 [glycogen]: https://en.wikipedia.org/wiki/Glycogen
 [glycolipids]: https://en.wikipedia.org/wiki/Glycolipid
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
@@ -2516,6 +2536,7 @@ if (elements.length) {
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [mouth]: https://en.wikipedia.org/wiki/Mouth
+[mtdna]: https://en.wikipedia.org/wiki/Mitochondrial_DNA
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
@@ -2550,6 +2571,7 @@ if (elements.length) {
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
+[nucleoid]: https://en.wikipedia.org/wiki/Nucleoid
 [nucleolus]: https://en.wikipedia.org/wiki/Nucleolus
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
@@ -2634,6 +2656,7 @@ if (elements.length) {
 [phyla]: https://en.wikipedia.org/wiki/Phylum
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
+[pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
 [placenta]: https://en.wikipedia.org/wiki/Placenta
@@ -2903,6 +2926,7 @@ if (elements.length) {
 [white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
+[x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
