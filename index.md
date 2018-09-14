@@ -1154,7 +1154,7 @@ In some cases, cells may perform many rounds of DNA replication in Interphase wi
 
 A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
 
 All chromosomes other than allosomes are called [autosomes][].
 
@@ -1308,7 +1308,7 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 1. The pre-mRNA is made of sets of nucleotides called [exons][] which are needed for translation, and [introns][] which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
 1. [Translation][]: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the polypeptide chain using rRNA.
 
-##### DNA Self-Modification
+#### DNA Self-Modification
 
 DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
 
@@ -1317,6 +1317,10 @@ DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposabl
 [Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA.
 
 [DNA Transposons][] are DNA sequences that use [Transposase][] to cut-and-paste themselves in DNA.
+
+#### Other DNA Behaviors
+
+[Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences (called [restriction sites][]). 
 
 #### Gene Expression
 
@@ -1353,6 +1357,14 @@ Common second messengers:
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
 
+##### Gap Junctions
+
+[Gap junctions][] directly connect cytoplasms of two cells to allow exchange of some substances.
+
+##### Desmosomes
+
+[Desmosomes][] are adhesions of cell membranes.
+
 #### Epithelial Tissue
 
 [Epithelial tissue][] lines the surface of organs, blood vessels, some inner cavities in organs, and the epidermis (or skin). The main type of cell in epithelium is the epithelial cell.
@@ -1373,7 +1385,7 @@ Common second messengers:
 
 The vertebrate brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
 
-The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][].
+The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][]. The upper surface of the cerebrum is called the [pallium][] and some organisms have a more advanced pallium called the [neocortex][] (e.g. language).
 
 Grey matter is different from white matter in that grey matter contains more cell bodies and fewer myelinated axons (which causes the whiteness).
 
@@ -1384,6 +1396,10 @@ The cerebrum is attached to the [brainstem][] which connects to the spinal cord 
 Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+
+##### Mammals
+
+[Mammals][] are animals that have [mammary glands][] that produce milk, a neocortex, and hair.
 
 ##### Humans
 
@@ -1615,7 +1631,27 @@ Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach a
 
 [Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
 
-## Morphogenesis
+## Birth
+
+[Birth][] is the process of one organism bearing a separate organism called an [offspring][] (or brood or progeny).
+
+[Gestation][] is a process some organisms use to incubate a new organism inside the body of the parent before giving birth.
+
+After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
+
+Once cleavage creates 16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
+
+The zygote and blastomeres are a type of cell called a [stem cell][] which can [differentiate][] into various types of different cells for different functions. Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into. The zygote and blastomeres are totipotent because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
+
+Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's [uterus][] (or womb), and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
+
+The cells of the blastula differentiate into multiple different layers and the total collection of cells is called the [gastrula][]. The layers include the [ectoderm][] (outermost) and [endoderm][] (innermost) and may include the [mesoderm][] (middle layer). There is also an opening called the blastospore which becomes the mouth or anus, and intestinal lining.
+
+The differentiation of the gastrula continues into [organogenesis][] in which the layers of cells differentiate to start to create various organs.
+
+The embryo is called a [fetus][] when all majory body organs are present.
+
+### Morphogenesis
 
 [Morphogenesis][] is the process that causes an organism to develop its shape, most commonly the organized spatial distribution of cells during embryonic development.
 
@@ -1641,7 +1677,7 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The fir
 
 Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [hybridization][] or annealing.
 
-A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. [Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences. The DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
+A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. Restriction enzymes are used to break the DNA into pieces. The DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
 
 A [Northern blot][] is similar to a Southern blot, but it's for RNA.
 
@@ -1857,7 +1893,11 @@ if (elements.length) {
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
+[birth]: https://en.wikipedia.org/wiki/Birth
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
+[blastocoel]: https://en.wikipedia.org/wiki/Blastocoel
+[blastomeres]: https://en.wikipedia.org/wiki/Blastomere
+[blastula]: https://en.wikipedia.org/wiki/Blastula
 [blood]: https://en.wikipedia.org/wiki/Blood
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
@@ -1934,6 +1974,7 @@ if (elements.length) {
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
 [class i mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_I
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
+[cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
@@ -1985,13 +2026,15 @@ if (elements.length) {
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
-[derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
+[derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
+[desmosomes]: https://en.wikipedia.org/wiki/Desmosome
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dicot]: https://en.wikipedia.org/wiki/Dicotyledon
+[differentiate]: https://en.wikipedia.org/wiki/Cellular_differentiation
 [digestion]: https://en.wikipedia.org/wiki/Digestion
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
@@ -2016,6 +2059,7 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
 [elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
@@ -2037,6 +2081,8 @@ if (elements.length) {
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elementary entity]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [elevation]: https://en.wikipedia.org/wiki/Elevation
+[embryo]: https://en.wikipedia.org/wiki/Embryo
+[embryonic stem cells]: https://en.wikipedia.org/wiki/Embryonic_stem_cell
 [emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
@@ -2045,6 +2091,8 @@ if (elements.length) {
 [endocrine gland]: https://en.wikipedia.org/wiki/Endocrine_gland
 [endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
 [endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
+[endoderm]: https://en.wikipedia.org/wiki/Endoderm
+[endometrium]: https://en.wikipedia.org/wiki/Endometrium
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosomes]: https://en.wikipedia.org/wiki/Endosome
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
@@ -2090,6 +2138,7 @@ if (elements.length) {
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
+[fetus]: https://en.wikipedia.org/wiki/Fetus
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
@@ -2118,8 +2167,10 @@ if (elements.length) {
 [galactose]: https://en.wikipedia.org/wiki/Galactose
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gametes]: https://en.wikipedia.org/wiki/Gamete
+[gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gastrointestinal tract]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
+[gastrula]: https://en.wikipedia.org/wiki/Gastrulation
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
@@ -2129,6 +2180,7 @@ if (elements.length) {
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
+[gestation]: https://en.wikipedia.org/wiki/Gestation
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
@@ -2206,6 +2258,7 @@ if (elements.length) {
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
+[implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
 [incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
@@ -2215,6 +2268,7 @@ if (elements.length) {
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [initial velocity]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/basics-of-enzyme-kinetics-graphs
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
+[inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
@@ -2291,6 +2345,8 @@ if (elements.length) {
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
 [males]: https://en.wikipedia.org/wiki/Male
 [maltose]: https://en.wikipedia.org/wiki/Maltose
+[mammals]: https://en.wikipedia.org/wiki/Mammal
+[mammary glands]: https://en.wikipedia.org/wiki/Mammary_gland
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
@@ -2303,6 +2359,7 @@ if (elements.length) {
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
 [meristems]: https://en.wikipedia.org/wiki/Meristem
+[mesoderm]: https://en.wikipedia.org/wiki/Mesoderm
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
 [metabolism]: https://en.wikipedia.org/wiki/Metabolism
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
@@ -2345,6 +2402,7 @@ if (elements.length) {
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
+[morula]: https://en.wikipedia.org/wiki/Morula
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [muscle]: https://en.wikipedia.org/wiki/Muscle
@@ -2358,9 +2416,11 @@ if (elements.length) {
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
+[neocortex]: https://en.wikipedia.org/wiki/Neocortex
 [neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
+[neural crest]: https://en.wikipedia.org/wiki/Neural_crest
 [neurons]: https://en.wikipedia.org/wiki/Neuron
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
@@ -2390,16 +2450,19 @@ if (elements.length) {
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
+[offspring]: https://en.wikipedia.org/wiki/Offspring
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
 [oncogene]: https://en.wikipedia.org/wiki/Oncogene
+[oocytes]: https://en.wikipedia.org/wiki/Oocyte
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [organelles]: https://en.wikipedia.org/wiki/Organelle
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organisms]: https://en.wikipedia.org/wiki/Organism
+[organogenesis]: https://en.wikipedia.org/wiki/Organogenesis
 [organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
@@ -2409,6 +2472,7 @@ if (elements.length) {
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
+[pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -2456,12 +2520,14 @@ if (elements.length) {
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
+[placenta]: https://en.wikipedia.org/wiki/Placenta
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [plasma cells]: https://en.wikipedia.org/wiki/Plasma_cell
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
+[pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
@@ -2526,6 +2592,7 @@ if (elements.length) {
 [relative density]: https://en.wikipedia.org/wiki/Relative_density
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
+[restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [retrotransposons]: https://en.wikipedia.org/wiki/Retrotransposon
 [reverse transcriptase]: https://en.wikipedia.org/wiki/Reverse_transcriptase
@@ -2587,6 +2654,8 @@ if (elements.length) {
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stator]: https://en.wikipedia.org/wiki/Stator
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[stem cell]: https://en.wikipedia.org/wiki/Stem_cell
+[stem cell potency]: https://en.wikipedia.org/wiki/Stem_cell#Potency_meaning
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
@@ -2655,6 +2724,7 @@ if (elements.length) {
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
+[trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
@@ -2667,6 +2737,7 @@ if (elements.length) {
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
+[uterus]: https://en.wikipedia.org/wiki/Uterus
 [v(d)j recombination]: https://en.wikipedia.org/wiki/V(D)J_recombination
 [vaccines]: https://en.wikipedia.org/wiki/Vaccines
 [vacuoles]: https://en.wikipedia.org/wiki/Vacuole
@@ -2699,5 +2770,6 @@ if (elements.length) {
 [white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
+[zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
