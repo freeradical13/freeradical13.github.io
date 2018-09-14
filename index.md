@@ -1181,7 +1181,7 @@ The Palmitic Acid is released into the cytosol where it is esterified to Glycero
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] (or creating a [cell plate][] in plants) - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
@@ -1194,15 +1194,23 @@ Some cells cycle through one of a few states called a [cell cycle][]:
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
     1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
     1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
-    1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins.
+    1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins (or a cell plate is formed in plants).
 
 In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids which can allow for increased gene expression.
+
+Movement between states in the cell cycle maybe inhibited at particular [cell cycle checkpoints][]. The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to a protein called [cyclin][]. An example of a cyclin-CDK complex is [maturation-promoting factor][] (MPF).
+
+If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue, it exits the cell cycle into the [G<sub>0</sub> phase][g0 phase]. A [growth factor][] is a protein that stimulates cells to exit the G<sub>0</sub> phase.
+
+Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
+
+In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (instead of gametes) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Two haploid cells of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte.
 
 ### Genetics
 
 [Genetics][] is the study of genes and [heredity][] which is the passing of phenotypic traits from parents to offspring.
 
-A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes).
+A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called a cell's [karyotype][].
 
 Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
 
@@ -1228,7 +1236,9 @@ Prokaryotes may have [pili][] or [fimbriae][] which are shorter than flagella an
 
 [Chemotaxis][] occurs when bacteria move based on a chemical stimulus.
 
-Bacteria reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. However, one bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
+Bacteria asexually reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. Binary fission may be initiated when DNA begins to replicate at a special region called the [origin of replication][].
+
+One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
 1. [Transformation][]: When one bacterium dies, pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
 1. [Transduction][]: A virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
@@ -1417,12 +1427,14 @@ Common transmembrane receptors:
 * [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme to activate it and signal a second messenger.
 * [Receptor Tyrosine Kinases][] (RTKs) couple with a signaling molecule that binds to the RTK on the outside of the cell which leads to coupling with neighboring RTKs which activates tyrosine kinases in the cytoplasm (with ATP) that signal second messengers that bind to the phosphorylated receptors.
 
-Common second messengers:
+Second messengers are either proteins or:
 
 * [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA). [Adenylyl Cyclase][] transmits a signal by converting ATP to cAMP.
 * [1,2-diacylglycerol][] (or DAG) activates the effector [Protein Kinase C][] (PKC).
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
+
+[Scaffolding proteins][] bind to a transmembrane receptor and multiple relay proteins together to increase the speed of signal transduction.
 
 #### Neurons
 
@@ -1923,6 +1935,7 @@ if (elements.length) {
 [amylose]: https://en.wikipedia.org/wiki/Amylose
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
+[anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
@@ -2027,9 +2040,11 @@ if (elements.length) {
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
+[cell cycle checkpoints]: https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
 [cell division]: https://en.wikipedia.org/wiki/Cell_division
 [cell membrane]: https://en.wikipedia.org/wiki/Cell_membrane
 [cell nucleus]: https://en.wikipedia.org/wiki/Cell_nucleus
+[cell plate]: https://en.wikipedia.org/wiki/Cell_plate
 [cellular respiration]: https://en.wikipedia.org/wiki/Cellular_respiration
 [cellulose]: https://en.wikipedia.org/wiki/Cellulose
 [celsius]: https://en.wikipedia.org/wiki/Celsius
@@ -2116,6 +2131,8 @@ if (elements.length) {
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
+[cyclin]: https://en.wikipedia.org/wiki/Cyclin
+[cyclin-dependent kinases]: https://en.wikipedia.org/wiki/Cyclin-dependent_kinase
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokines]: https://en.wikipedia.org/wiki/Cytokine
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
@@ -2131,6 +2148,7 @@ if (elements.length) {
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
+[density-dependent inhibition]: https://en.wikipedia.org/wiki/Density_dependence
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
@@ -2276,12 +2294,14 @@ if (elements.length) {
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [fungi]: https://en.wikipedia.org/wiki/Fungus
 [g protein-coupled receptors]: https://en.wikipedia.org/wiki/G_protein
+[g0 phase]: https://en.wikipedia.org/wiki/G0_phase
 [g1]: https://en.wikipedia.org/wiki/G1_phase
 [g2]: https://en.wikipedia.org/wiki/G2_phase
 [g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
 [galactose]: https://en.wikipedia.org/wiki/Galactose
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
 [gametes]: https://en.wikipedia.org/wiki/Gamete
+[gametophyte]: https://en.wikipedia.org/wiki/Gametophyte
 [gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gastrointestinal tract]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
@@ -2315,6 +2335,7 @@ if (elements.length) {
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 [grey matter]: https://en.wikipedia.org/wiki/Grey_matter
 [ground substance]: https://en.wikipedia.org/wiki/Ground_substance
+[growth factor]: https://en.wikipedia.org/wiki/Growth_factor
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
@@ -2416,6 +2437,7 @@ if (elements.length) {
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
+[karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinases]: https://en.wikipedia.org/wiki/Kinase
@@ -2476,6 +2498,7 @@ if (elements.length) {
 [mast cells]: https://en.wikipedia.org/wiki/Mast_cell
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
+[maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
@@ -2596,6 +2619,7 @@ if (elements.length) {
 [organisms]: https://en.wikipedia.org/wiki/Organism
 [organogenesis]: https://en.wikipedia.org/wiki/Organogenesis
 [organophosphates]: https://en.wikipedia.org/wiki/Organophosphate
+[origin of replication]: https://en.wikipedia.org/wiki/Origin_of_replication
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
@@ -2759,6 +2783,7 @@ if (elements.length) {
 [saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
+[scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
@@ -2794,6 +2819,8 @@ if (elements.length) {
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
+[spores]: https://en.wikipedia.org/wiki/Spore
+[sporophyte]: https://en.wikipedia.org/wiki/Sporophyte
 [src]: https://en.wikipedia.org/wiki/Proto-oncogene_tyrosine-protein_kinase_Src
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
