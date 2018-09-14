@@ -41,9 +41,11 @@ When an object A exerts a force on another object B, then object B exerts an [eq
 
 # Electric Charge
 
-[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of this force (named the electrostatic force) is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa).
+[Electric charge][] is the property of some forms of matter to create an [electromagnetic field][] which applies a positive or negative force on other electrically charged matter, proportional to the distance between them. The magnitude of this force (named the electrostatic force) is calculated with [Coulomb's law][] (<code>F=k<sub>e</sub>×((q<sub>1</sub>×q<sub>2</sub>)/r<sup>2</sup>)</code>) which is [Coulomb's constant][] (k<sub>e</sub>) multiplied by the magnitudes of the two charges involved (q<sub>1</sub> and q<sub>2</sub>) and divided by the square of the distance between the two objects (r<sup>2</sup>). This equation means that positive charges repel other positive charges, negative charges repel other negative charges, and positive charges attract negative charges (and vice versa). The unit of electric charge is the [Coulomb][] (C).
 
 Examples of electrically charged matter are protons, which are positively charged, and electrons, which are negatively charged. Protons and electrons have the same magnitude [elementary electric charge][], denoted 1e and -1e, respectively. Neutrons have no charge (electrically neutral).
+
+[Amperes][] (amps or A) are a measure of the flow of a certain number of elementary electric charges across a boundary in one second: <code>1 A = 1 C / 1 s</code>.
 
 An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
 
@@ -56,6 +58,12 @@ The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are
 Energy is either [kinetic energy][] if an object is in motion (in most simple cases expressed as <code>(m×v<sup>2</sup>)/2</code>); or, [potential energy][], which may be thought of as stored energy.
 
 Energy may [neither be created nor destroyed][conservation of energy], but only transformed. Mass may be converted to energy and vice versa through the [mass-energy equivalence][] equation (<code>E=m×c<sup>2</sup></code>).
+
+# Voltage
+
+[Electric potential][] is the amount of energy needed to move a unit of positive charge in an electromagnetic field to another point without producing acceleration.
+
+[Voltage][] (V) is the difference in electric potential between two points (i.e. the electric potential energy). Voltage is measured in Volts which are calculated using the potential energy divided by the charge, or <code>V = (N×m)/C</code>.
 
 # Pressure and Temperature
 
@@ -601,7 +609,7 @@ General terms:
 
 * [Facultative][]: optional.
 * [Obligate][]: obligatory; necessary.
-* [Ligands][biochemical ligand]: Not necessarily like the ligand in a coordinate covalent bond, biochemical ligands describe substances that bind with a biomolecule to help with a biological function (often through a change in conformation).
+* [Ligands][biochemical ligand]: Not necessarily like the ligand in a coordinate covalent bond, biochemical ligands describe molecules that bind to larger biomolecules to help with a biological function (often through a change in conformation of the biomolecule).
 
 ## Carbohydrates
 
@@ -766,7 +774,7 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
 
 ### Steroids
 
-[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups. Steroids can pass through a cell membrane.
+[Steroids][] are lipids made of four fused hydrocarbon rings and various functional groups.
 
 <pre>
       /\ /\
@@ -776,7 +784,7 @@ When added to water, phospholipids form a bilayer with two hydrophilic sides opp
  \/ ⑊/
 </pre>
 
-[Cholesterol][] is a key steroid that contributes to cell membranes, bile acids, and other signaling molecules. Free cholesterol does not have fatty acids bonded. A cholesterol ester is a cholesterol with ester bonds to fatty acids.
+[Cholesterol][] is a key steroid. Free cholesterol does not have fatty acids bonded. A cholesterol ester is a cholesterol with ester bonds to fatty acids.
 
 Another steroid is [Vitamin D][] which is made from Cholesterol.
 
@@ -944,7 +952,7 @@ An [allele][] is one variant of a gene which may create a different phenotype.
 
 A [phenotype][] is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
 
-An [autotroph][] is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] cannot produce its own food so it must consume autotrophs or their products.
+An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products.
 
 ### Phylogeny
 
@@ -960,7 +968,9 @@ Both prokaryotes and eukaryotes are made of cells.
 
 A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
-A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules).
+A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
+
+Cell motility is the ability of cell parts to move or for the whole cell to change location. Cell motility is accomplished through the interaction of the cytoskeleton and [motor proteins][] such as [dyneins][] or extensions called [pseudopodia][].
 
 For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
@@ -980,19 +990,33 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 [Flavin adenine dinucleotide][] (FAD) is another major electron carrier in cells. FAD is two nucleotides (one with an adenine base and one with a flavin base) bonded at their phosphates. Oxidized FAD is FAD and reduced FAD is FADH<sub>2</sub>.
 
-[Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP.
-
 #### Membranes
 
-[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. An area enclosed by a membrane may be called a [lumen][].
+[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. An area enclosed by a membrane may be called a [lumen][]. The voltage across a membrane (called the [membrane potential][]) is typically about -50 to -200 mV, with the negative meaning that the inside of the cell is negatively charged.
 
-An [ion transporter][] (or ion pump) uses active transport to pump ions across a membrane against their concentration gradient.
+Membranes usually have carbohydrates bonded to the outside for various functions, either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
 
-[Facilitated diffusion][] of other molecules into the cell includes ion channels which create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm.
+A [vesicle][] is a small sac with a membrane used for functions such as transportation.
+
+[Transport proteins][] (or channel proteins) span the membrane to allow in certain substances in a process called [facilitated diffusion][] (or passive transport). For example, [aquaporins][] allow water to across the membrane.
+
+[Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
+
+* [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm. Many ion channels are gated channels which open or close in response to stimuli.
+    * A [sodium-potassium pump][] exchanges 3 Na<sup>+</sup> from the inside of the cell for 2 K<sup>+</sup> from the outside of the cell, thus pumping a net one positive charge out of the cytoplasm and decreasing the membrane potentil. This type of pump is called an [electrogenic pump][].
+    * A [proton pump][] is an electrogenic pump which pumps H<sup>+</sup> out of a cell.
+
+The decreased membrane potential created by an electrogenic pump creates potential energy which is used by transport proteins called [cotransports][] to perform various functions when the ions flow back down their concentration gradient.
 
 [Endocytosis][] occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle.
 
 [Exocytosis][] occurs when a vesicle merges with the membrane (such as a [porosome][]) and then the material is pushed into the extracellular space.
+
+A cell in a hypertonic solution will lose water which may lead to the membrane breaking down in a process called [plasmolysis][].
+
+#### Flagella
+
+[Flagella][] are protrusions from a membrane that act to move a cell. Flagella are anchored into the membrane with a [basal body][] made out of microtubules.
 
 #### Electron Transport Chain
 
@@ -1162,6 +1186,10 @@ A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
+### Proteomics
+
+[Proteomics][] is the study of proteins. The entire set of proteins expressed by a genome is called a [proteome][].
+
 ### Prokaryotes
 
 [Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. Everything inside the cell membrane of a prokaryote floats in an aqueous solution called the cytoplasm (or the intracellular matrix). The cytoplasm includes an area called the nucleoid which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. Prokaryotes may have pili which are shorter than flagella and also help with locomotion.
@@ -1185,11 +1213,15 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 
 [Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes.
 
-Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers.
+Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
 #### Cell Nucleus
 
-The [cell nucleus][] is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication of material with the rest of the cell. DNA is transcribed to RNA in the nucleolus.
+The [cell nucleus][] is the largest organelle and contains the DNA. The cell nucleus is surrounded by the nuclear envelope which has a double membrane and nuclear pores for communication with the rest of the cell.
+
+The [nuclear lamina][] is an array of protein filaments that maintain the shape of the nucleus.
+
+The [nucleolus][] within the nucleus is made of fibers and DNA and where Ribosomes and rRNA are made.
 
 Eukaryotic have repetitive nucleotide sequences of TTAGGG on each end of each chromosome called [telomeres][].
 
@@ -1217,9 +1249,13 @@ Material is first sorted inside [endosomes][] before being processed by the lyso
 
 [Vacuoles][] are membrane-enclosed sacs used to store waste products and help maintain structure.
 
+#### Cilia
+
+[Cilia][] are protrusions from a cell membrane that participate in sensing stimuli.
+
 #### Tissues
 
-A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue. The extracellular matrix is created by [fibroblast cells][].
+A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue. The extracellular matrix is created by [fibroblast cells][]. [Integrin][] proteins on cell membranes bind to glycoproteins such as [fibronectin][] in the extracellular matrix.
 
 An [organ][] is a collection of tissues with similar function.
 
@@ -1227,7 +1263,7 @@ A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
 
-[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and [Microfibril][] proteins. [Collagen][] is a structural protein.
+[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and [Microfibril][] proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
 
 [Keratin][] is a strong protein like Chitin that creates various structures in organisms.
 
@@ -1243,17 +1279,19 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 #### Mitochondria
 
-[Mitochondria][] are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the mitochondrial matrix.
+[Mitochondria][] are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the [mitochondrial matrix][]. The inner membrane is heavily folded to increase surface area into structures called [cristae][].
 
 #### Plants
 
 [Plants][] are a kingdom of eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
 
+Plant organelles are called [plastids][].
+
 [Phototropism][] is the directional growth of plants towards light.
 
 ##### Chloroplasts
 
-[Chloroplasts][] are the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
+[Chloroplasts][] are plastics that act as the site of [photosynthesis][] which uses light energy, water, and CO<sub>2</sub> to synthesize organic compounds such as sugars. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
@@ -1274,14 +1312,20 @@ Steps of photosynthesis:
     1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin ([Fd][]).
     1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
 1. The [Calvin Cycle][] (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
-    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>.
+    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>. Such plants are called [C<sub>3</sub> plants][c3 plants] because of these initial, 3-Carbon products.
     1. The [3-Phosphogylcerate][] molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
     1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
 
+An alternative process used by [C<sub>4</sub> plants][c4 plants] creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle in [bundle-sheath cells][] using [PEP Carboxylase][].
+
+Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
+
 ##### Vascular Plants
 
-[Vascular plants][] (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches. Angiosperms have flowering seeds whereas gymnosperms have naked seeds.
+[Vascular plants][] (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches.
+
+[Angiosperms][] have flowering seeds whereas [gymnosperms][] have naked seeds.
 
 [Monocot][] leaves are narrow with veins that run parallel to the length of the leaf. [Dicot][] leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
 
@@ -1340,7 +1384,7 @@ Nervous tissue is the main component of the [central nervous system][] which is 
 
 The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
-#### Cellular Communication
+#### Cell Communication
 
 A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). [Cytokines][] are proteins that participate in signaling.
 
@@ -1357,13 +1401,23 @@ Common second messengers:
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
 
+##### Tight Junctions
+
+[Tight junctions][] connect two cells together using various proteins to create a seal.
+
+##### Desmosomes
+
+[Desmosomes][] connect two cells together using intermediate filaments made of keratin.
+
 ##### Gap Junctions
 
 [Gap junctions][] directly connect cytoplasms of two cells to allow exchange of some substances.
 
-##### Desmosomes
+##### Plasmodesmata
 
-[Desmosomes][] are adhesions of cell membranes.
+In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][].
+
+The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
 
 #### Epithelial Tissue
 
@@ -1454,7 +1508,7 @@ When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose 
 1. The fatty acids exit the adipocyte, bind to the plasma protein [serum albumin][], and enter the blood. Glycerol also enters the blood and travels to the liver.
 1. Fatty acids then enter cells and are attached to CoA to create [Acyl-CoA][].
 1. A [Carnitine][] is added to Acyl-CoA to create Acyl-Carnitine.
-1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [β-oxidation][].
+1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [beta oxidation][] (or β-oxidation).
 1. Acetyl-CoA enters the Citric Acid Cycle.
 
 ## Circulatory System
@@ -1663,7 +1717,9 @@ Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The fir
 
 ## Evolution
 
-[Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc. The process of natural selection states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
+[Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
+
+The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
 
 [Homology][] is the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor.
 
@@ -1687,6 +1743,14 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
 
+A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
+
+An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface. Electron microscopes cannot resolve substances less than ~2nm.
+
+A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
+
+A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
+
 ## Cancer
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
@@ -1696,6 +1760,10 @@ An [proto-oncogene][] is a gene that has the potential to cause cancer through m
 Examples of oncogenes:
 
 * [Src][] (or c-Src or sarc): Tyrosine kinase. [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
+
+## Biosphere
+
+The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [ecosystem][] consists of all life and the things life interacts with in a particular area.
 
 # Feedback
 
@@ -1825,6 +1893,7 @@ if (elements.length) {
 [amino]: https://en.wikipedia.org/wiki/Amino
 [amino acid]: https://en.wikipedia.org/wiki/Amino_acid
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
+[amperes]: https://en.wikipedia.org/wiki/Ampere
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [amygdala]: https://en.wikipedia.org/wiki/Amygdala
@@ -1832,6 +1901,7 @@ if (elements.length) {
 [amylose]: https://en.wikipedia.org/wiki/Amylose
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
+[angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
@@ -1846,6 +1916,7 @@ if (elements.length) {
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
 [apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
+[aquaporins]: https://en.wikipedia.org/wiki/Aquaporin
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -1873,13 +1944,13 @@ if (elements.length) {
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
-[β-oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [b cells]: https://en.wikipedia.org/wiki/B_cell
 [β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
+[basal body]: https://en.wikipedia.org/wiki/Basal_body
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
@@ -1893,6 +1964,7 @@ if (elements.length) {
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
+[biosphere]: https://en.wikipedia.org/wiki/Biosphere
 [birth]: https://en.wikipedia.org/wiki/Birth
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [blastocoel]: https://en.wikipedia.org/wiki/Blastocoel
@@ -1908,7 +1980,10 @@ if (elements.length) {
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
+[bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle
 [butane]: https://en.wikipedia.org/wiki/Butane
+[c3 plants]: https://en.wikipedia.org/wiki/C3_carbon_fixation
+[c4 plants]: https://en.wikipedia.org/wiki/C4_carbon_fixation
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [cancer]: https://en.wikipedia.org/wiki/Cancer
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
@@ -1967,6 +2042,7 @@ if (elements.length) {
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [chyme]: https://en.wikipedia.org/wiki/Chyme
 [chymotrypsin]: https://en.wikipedia.org/wiki/Chymotrypsin
+[cilia]: https://en.wikipedia.org/wiki/Cilium
 [circulatory system]: https://en.wikipedia.org/wiki/Circulatory_system
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
@@ -2008,14 +2084,20 @@ if (elements.length) {
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
+[cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
+[cotransports]: https://en.wikipedia.org/wiki/Active_transport#Secondary_active_transport
+[coulomb]: https://en.wikipedia.org/wiki/Coulomb
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
+[crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
+[cristae]: https://en.wikipedia.org/wiki/Crista
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokines]: https://en.wikipedia.org/wiki/Cytokine
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
 [cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
+[cytoplasmic streaming]: https://en.wikipedia.org/wiki/Cytoplasmic_streaming
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
 [cytosol]: https://en.wikipedia.org/wiki/Cytosol
 [cytotoxic t cells]: https://en.wikipedia.org/wiki/Cytotoxic_T_cell
@@ -2056,18 +2138,23 @@ if (elements.length) {
 [dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
+[dyneins]: https://en.wikipedia.org/wiki/Dynein
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
 [elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
+[electric potential]: https://en.wikipedia.org/wiki/Electric_potential
 [electrically conductive]: https://en.wikipedia.org/wiki/Electrical_conductor
+[electrogenic pump]: https://en.wikipedia.org/wiki/Bioelectrogenesis
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
 [electron configuration]: https://en.wikipedia.org/wiki/Electron_configuration
+[electron microscope]: https://en.wikipedia.org/wiki/Electron_microscope
 [electron pair]: https://en.wikipedia.org/wiki/Electron_pair
 [electron radius]: https://en.wikipedia.org/wiki/Electron#Fundamental_properties
 [electron shells]: https://en.wikipedia.org/wiki/Electron_configuration
@@ -2092,6 +2179,7 @@ if (elements.length) {
 [endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
 [endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
 [endoderm]: https://en.wikipedia.org/wiki/Endoderm
+[endomembrane system]: https://en.wikipedia.org/wiki/Endomembrane_system
 [endometrium]: https://en.wikipedia.org/wiki/Endometrium
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosomes]: https://en.wikipedia.org/wiki/Endosome
@@ -2140,8 +2228,10 @@ if (elements.length) {
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fetus]: https://en.wikipedia.org/wiki/Fetus
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
+[fibronectin]: https://en.wikipedia.org/wiki/Fibronectin
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
+[flagella]: https://en.wikipedia.org/wiki/Flagella
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
@@ -2188,7 +2278,9 @@ if (elements.length) {
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
 [glycogen]: https://en.wikipedia.org/wiki/Glycogen
+[glycolipids]: https://en.wikipedia.org/wiki/Glycolipid
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
+[glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
@@ -2199,6 +2291,7 @@ if (elements.length) {
 [ground substance]: https://en.wikipedia.org/wiki/Ground_substance
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
+[gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
@@ -2270,6 +2363,7 @@ if (elements.length) {
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
+[integrin]: https://en.wikipedia.org/wiki/Integrin
 [interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -2279,7 +2373,8 @@ if (elements.length) {
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
-[ion transporter]: https://en.wikipedia.org/wiki/Ion_transporter
+[ion channels]: https://en.wikipedia.org/wiki/Ion_channel
+[ion transporters]: https://en.wikipedia.org/wiki/Ion_transporter
 [ionic bond]: https://en.wikipedia.org/wiki/Ionic_bond
 [ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
@@ -2311,6 +2406,7 @@ if (elements.length) {
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [ligases]: https://en.wikipedia.org/wiki/Ligase
 [light]: https://en.wikipedia.org/wiki/Light
+[light microscope]: https://en.wikipedia.org/wiki/Optical_microscope
 [light years]: https://en.wikipedia.org/wiki/Light-year
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
@@ -2356,6 +2452,7 @@ if (elements.length) {
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
+[membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
 [meristems]: https://en.wikipedia.org/wiki/Meristem
@@ -2376,8 +2473,10 @@ if (elements.length) {
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
+[middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
+[mitochondrial matrix]: https://en.wikipedia.org/wiki/Mitochondrial_matrix
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
 [mitotic spindle]: https://en.wikipedia.org/wiki/Spindle_apparatus
@@ -2404,6 +2503,7 @@ if (elements.length) {
 [morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
 [morula]: https://en.wikipedia.org/wiki/Morula
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
+[motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
@@ -2413,6 +2513,7 @@ if (elements.length) {
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
 [natural killer cells]: https://en.wikipedia.org/wiki/Natural_killer_cell
+[natural selection]: https://en.wikipedia.org/wiki/Natural_selection
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
@@ -2436,7 +2537,9 @@ if (elements.length) {
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
+[nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
+[nucleolus]: https://en.wikipedia.org/wiki/Nucleolus
 [nucleons]: https://en.wikipedia.org/wiki/Nucleon
 [nucleophile]: https://en.wikipedia.org/wiki/Nucleophile
 [nucleoside]: https://en.wikipedia.org/wiki/Nucleoside
@@ -2484,7 +2587,9 @@ if (elements.length) {
 [passive immunity]: https://en.wikipedia.org/wiki/Passive_immunity
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
+[pectins]: https://en.wikipedia.org/wiki/Pectin
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
+[pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
 [pepsin]: https://en.wikipedia.org/wiki/Pepsin
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
@@ -2526,6 +2631,9 @@ if (elements.length) {
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [plasma cells]: https://en.wikipedia.org/wiki/Plasma_cell
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
+[plasmodesmata]: https://en.wikipedia.org/wiki/Plasmodesma
+[plasmolysis]: https://en.wikipedia.org/wiki/Plasmolysis
+[plastids]: https://en.wikipedia.org/wiki/Plastid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
 [pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
@@ -2563,11 +2671,16 @@ if (elements.length) {
 [protein secretion]: https://en.wikipedia.org/wiki/Secretion#Mechanism
 [protein synthesis]: https://en.wikipedia.org/wiki/Protein_biosynthesis
 [proteins]: https://en.wikipedia.org/wiki/Protein
+[proteoglycans]: https://en.wikipedia.org/wiki/Proteoglycan
 [proteolysis]: https://en.wikipedia.org/wiki/Proteolysis
+[proteome]: https://en.wikipedia.org/wiki/Proteome
+[proteomics]: https://en.wikipedia.org/wiki/Proteomics
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [proto-oncogene]: https://en.wikipedia.org/wiki/Oncogene#Proto-oncogene
+[proton pump]: https://en.wikipedia.org/wiki/Proton_pump
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
@@ -2613,6 +2726,7 @@ if (elements.length) {
 [saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
+[scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
@@ -2629,6 +2743,7 @@ if (elements.length) {
 [signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
+[sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
 [solubility]: https://en.wikipedia.org/wiki/Solubility
@@ -2703,6 +2818,7 @@ if (elements.length) {
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
+[tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
@@ -2714,6 +2830,8 @@ if (elements.length) {
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
+[transmission electron microscope]: https://en.wikipedia.org/wiki/Transmission_electron_microscopy
+[transport proteins]: https://en.wikipedia.org/wiki/Transport_protein
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [tree of life]: https://en.wikipedia.org/wiki/Tree_of_life_(biology)
@@ -2750,6 +2868,7 @@ if (elements.length) {
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
+[vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
 [villi]: https://en.wikipedia.org/wiki/Intestinal_villus
@@ -2757,6 +2876,7 @@ if (elements.length) {
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
+[voltage]: https://en.wikipedia.org/wiki/Voltage
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
