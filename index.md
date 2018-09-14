@@ -1004,7 +1004,7 @@ A [vesicle][] is a small sac with a membrane used for functions such as transpor
 
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
 
-* [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm. Many ion channels are gated channels which open or close in response to stimuli.
+* [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm. Many ion channels are [ligand gated channels][] which open or close in response to bound ligands on the extracellular side.
     * A [sodium-potassium pump][] exchanges 3 Na<sup>+</sup> from the inside of the cell for 2 K<sup>+</sup> from the outside of the cell, thus pumping a net one positive charge out of the cytoplasm and decreasing the membrane potentil. This type of pump is called an [electrogenic pump][].
     * A [proton pump][] is an electrogenic pump which pumps H<sup>+</sup> out of a cell.
 
@@ -1416,7 +1416,8 @@ The first messenger signals second mesengers which start the process of [signal 
 
 Common first messenger receptors:
 
-* [G Protein-Coupled Receptors][] couple with G proteins to regulate second messengers.
+* [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme to activate it and signal a second messenger.
+* [Receptor Tyrosine Kinases][] (RTKs) couple with a signaling molecule that binds to the RTK on the outside of the cell which leads to coupling with neighboring RTKs which activates tyrosine kinases in the cytoplasm (with ATP) that signal second messengers that bind to the phosphorylated receptors.
 
 Common second messengers:
 
@@ -2430,6 +2431,7 @@ if (elements.length) {
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
+[ligand gated channels]: https://en.wikipedia.org/wiki/Ligand-gated_ion_channel
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [ligases]: https://en.wikipedia.org/wiki/Ligase
 [light]: https://en.wikipedia.org/wiki/Light
@@ -2728,6 +2730,7 @@ if (elements.length) {
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
+[receptor tyrosine kinases]: https://en.wikipedia.org/wiki/Receptor_tyrosine_kinase
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [recombinase]: https://en.wikipedia.org/wiki/Recombinase
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
