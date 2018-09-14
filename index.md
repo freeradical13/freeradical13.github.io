@@ -1400,7 +1400,7 @@ In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way l
 
 ##### Hormones
 
-[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
+[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a fluid to receptor cells.
 
 Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
 
@@ -1410,11 +1410,9 @@ Hormones include steroids such as the sex hormones [testosterone][] (predominant
 
 ##### Signaling Pathways
 
-A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). [Cytokines][] are proteins that participate in signaling.
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which start the process of [signal transduction][] which triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
 
-The first messenger signals second mesengers which start the process of [signal transduction][] which triggers effectors to take action.
-
-Common first messenger receptors:
+Common transmembrane receptors:
 
 * [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme to activate it and signal a second messenger.
 * [Receptor Tyrosine Kinases][] (RTKs) couple with a signaling molecule that binds to the RTK on the outside of the cell which leads to coupling with neighboring RTKs which activates tyrosine kinases in the cytoplasm (with ATP) that signal second messengers that bind to the phosphorylated receptors.
