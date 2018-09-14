@@ -1301,12 +1301,6 @@ A [lobe][] is a clearly visible division or extension of an organ.
 
 [Keratin][] is a strong protein like Chitin that creates various structures in organisms.
 
-#### Hormones
-
-[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
-
-Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
-
 #### Energy Generation
 
 Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
@@ -1394,17 +1388,27 @@ A [constitutive gene][] is transcribed continually. A facultative gene is only t
 
 A [transcription factor][] is a protein that controls the rate of gene transcription.
 
-#### Neurons
-
-[Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
-
-[Nervous tissue][] is a tissue of neurons along with [glial cells][] (or neuroglia) which assist signal propagation and provide nutrients to neurons.
-
-Nervous tissue is the main component of the [central nervous system][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
-
-The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
-
 #### Cell Communication
+
+[Tight junctions][] connect two cells together using various proteins to create a seal.
+
+[Desmosomes][] connect two cells together using intermediate filaments made of keratin.
+
+[Gap junctions][] directly connect cytoplasms of two cells to allow exchange of some substances.
+
+In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][]. The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
+
+##### Hormones
+
+[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a in a fluid to receptor cells.
+
+Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
+
+##### Paracrine Signals
+
+[Paracrine Signals][] are intracellular communication over shorter distances than hormones.
+
+##### Signaling Pathways
 
 A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone which cannot cross the cell membrane (e.g. Glucagon). [Cytokines][] are proteins that participate in signaling.
 
@@ -1421,23 +1425,15 @@ Common second messengers:
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
 
-##### Tight Junctions
+#### Neurons
 
-[Tight junctions][] connect two cells together using various proteins to create a seal.
+[Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
 
-##### Desmosomes
+[Nervous tissue][] is a tissue of neurons along with [glial cells][] (or neuroglia) which assist signal propagation and provide nutrients to neurons.
 
-[Desmosomes][] connect two cells together using intermediate filaments made of keratin.
+Nervous tissue is the main component of the [central nervous system][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
 
-##### Gap Junctions
-
-[Gap junctions][] directly connect cytoplasms of two cells to allow exchange of some substances.
-
-##### Plasmodesmata
-
-In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][].
-
-The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
+The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
 #### Epithelial Tissue
 
@@ -2611,6 +2607,7 @@ if (elements.length) {
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
+[paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
