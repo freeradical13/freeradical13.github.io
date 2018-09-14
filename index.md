@@ -962,6 +962,8 @@ Below the domain is the [kingdom][]. One common split of the Eukarya domain is i
 
 Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or clade) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor.
 
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms.
+
 Both prokaryotes and eukaryotes are made of cells.
 
 ### Cells
@@ -1208,6 +1210,10 @@ Bacteria reproduce through [binary fission][] where the child cell has the same 
 1. [Transposition][]: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
 
 [Quorum sensing][] occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
+
+#### Archaea
+
+[Archaea][] are prokaryotes without a peptidoglycan cell wall and have genetic similarities to eukaryotes which distinguishes them from bacteria. Archaea include [extremophiles][] that exist in conditions which hurt most other organisms.
 
 ### Eukaryotes
 
@@ -1463,7 +1469,11 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of single- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
+
+#### Protists
+
+[Protists][] are something of a catch-all kingdom of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms.
 
 ### Cell Death
 
@@ -2215,6 +2225,7 @@ if (elements.length) {
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [extracellular fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
+[extremophiles]: https://en.wikipedia.org/wiki/Extremophile
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
 [facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
@@ -2676,6 +2687,7 @@ if (elements.length) {
 [proteome]: https://en.wikipedia.org/wiki/Proteome
 [proteomics]: https://en.wikipedia.org/wiki/Proteomics
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
+[protists]: https://en.wikipedia.org/wiki/Protist
 [proto-oncogene]: https://en.wikipedia.org/wiki/Oncogene#Proto-oncogene
 [proton pump]: https://en.wikipedia.org/wiki/Proton_pump
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
@@ -2753,6 +2765,7 @@ if (elements.length) {
 [somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
+[species]: https://en.wikipedia.org/wiki/Species
 [specific gravity]: https://en.wikipedia.org/wiki/Specific_gravity
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
