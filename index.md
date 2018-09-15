@@ -1181,7 +1181,7 @@ The Palmitic Acid is released into the cytosol where it is esterified to Glycero
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] (or creating a [cell plate][] in plants) - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction). [Meiosis][] occurs when two cells called [gametes][], each with half the total number of chromosomes, combine into one cell called a [zygote][] through a process called [fertilization][] (also called sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] (or creating a [cell plate][] in plants) - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction).
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
@@ -1204,7 +1204,17 @@ If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue,
 
 Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
 
+##### Meiosis
+
+[Meiosis][] occurs through two rounds of cell division (meiosis I and meiosis II) to create haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+
 In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (instead of gametes) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Two haploid cells of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte.
+
+In some organisms, the organism is usually in a haploid state and the only diploid is the unicellular zygote.
+
+###### Meiosis I
+
+After nonsister chromatids are duplicated, the DNA molecules of two out of four nonsister chromatids are broken at particular loci, and the two homolog pairs are joined together at the points of broken DNA called [chiasmata][] into a [synaptonemal complex][] during the process of [synapsis][]. When the chiasmata are broken down to split the chromatids, chromosomal crossover of genes may occur to produce [recombinant chromosomes][].
 
 ### Genetics
 
@@ -1217,6 +1227,10 @@ Some sets of chromosomes have a differing set of genes such as [allosomes][] (or
 All chromosomes other than allosomes are called [autosomes][].
 
 A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype. A dominant allele is denoted with an uppercase letter and a recessive allele with a lowercase letter.
+
+In [pleiotropy][], one gene has more than one phenotypic effect. In [polygenic inheritance][], multiple genes have some additive phenotypic effect.
+
+In [epistasis][], one gene's phenotype expression effects (e.g. masks) another gene's phenotype expression.
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
@@ -2069,6 +2083,7 @@ if (elements.length) {
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
 [chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
+[chiasmata]: https://en.wikipedia.org/wiki/Chiasma_(genetics)
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
 [chitin]: https://en.wikipedia.org/wiki/Chitin
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
@@ -2236,6 +2251,7 @@ if (elements.length) {
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
+[epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
@@ -2690,6 +2706,7 @@ if (elements.length) {
 [plasmolysis]: https://en.wikipedia.org/wiki/Plasmolysis
 [plastids]: https://en.wikipedia.org/wiki/Plastid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
+[pleiotropy]: https://en.wikipedia.org/wiki/Pleiotropy
 [pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
@@ -2698,6 +2715,7 @@ if (elements.length) {
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polyadenylation signal sequence]: https://en.wikipedia.org/wiki/Polyadenylation#Mechanism
 [polyclonal]: https://en.wikipedia.org/wiki/Polyclonal_B_cell_response#Basis_of_polyclonality
+[polygenic inheritance]: https://en.wikipedia.org/wiki/Quantitative_trait_locus
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
@@ -2754,6 +2772,7 @@ if (elements.length) {
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [receptor tyrosine kinases]: https://en.wikipedia.org/wiki/Receptor_tyrosine_kinase
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[recombinant chromosomes]: https://en.wikipedia.org/wiki/Chromosomal_crossover
 [recombinase]: https://en.wikipedia.org/wiki/Recombinase
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
@@ -2854,6 +2873,8 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[synapsis]: https://en.wikipedia.org/wiki/Synapsis
+[synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [t cells]: https://en.wikipedia.org/wiki/T_cell
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
