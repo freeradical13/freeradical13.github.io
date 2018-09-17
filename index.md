@@ -1236,6 +1236,8 @@ In [epistasis][], one gene's phenotype expression effects (e.g. masks) another g
 
 A [true-breeding][] organism (or purebreed) is homozygous for certain genes. The sexual mating of two different purebreeds is called [hybridization][] (or crossbreeding) in which case the parents are called the P generation (parental), the hybrid children are the [F<sub>1</sub> generation][f1 generation] (first filial), and the children of those children are the [F<sub>2</sub> generation][f2 generation]. A [test cross][] is an organism with a homozygous recessive trait which may be crossbred with another organism with a different trait in its phenotypte to see if that other organism is homozygous or heterozygous for the dominant trait.
 
+When crossbreeding two purebreeds (one with the dominant alleles and one with the recessive alleles) to analyze one trait, the children are called [monohybrids][]. When crossbreeding purebreeds to analyze two different traits, the children are called [dihybrids][]. The [law of independent assortment][] states that each pair of alleles on different chromosomes segregates independently amonst children.
+
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
 ### Proteomics
@@ -2179,6 +2181,7 @@ if (elements.length) {
 [differentiate]: https://en.wikipedia.org/wiki/Cellular_differentiation
 [digestion]: https://en.wikipedia.org/wiki/Digestion
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
+[dihybrids]: https://en.wikipedia.org/wiki/Dihybrid_cross
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
@@ -2468,6 +2471,7 @@ if (elements.length) {
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
+[law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
@@ -2569,6 +2573,7 @@ if (elements.length) {
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
 [monocot]: https://en.wikipedia.org/wiki/Monocotyledon
+[monohybrids]: https://en.wikipedia.org/wiki/Monohybrid_cross
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide

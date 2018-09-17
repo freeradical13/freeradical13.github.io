@@ -86,7 +86,7 @@ A decimal represents a number using powers of 10 based on the position of each d
 * Interest is computed on a principle (P) base amount to calculate a final amount over a time period.
 * A simple interest at an annual percent <code>r</code> for time <code>t</code> (in years) is calculated as <code>P(1 + (rt/100))</code>
 * A compound interest at an annual percent <code>r</code> for time <code>t</code> (in years) is calculated as <code>P(1 + (r/100))<sup>t</sup></code>
-  * If compound interest is compounded <code>n</code> times per year: <code>P(1 + (r/100n))<sup>nt</sup></code>
+    * If compound interest is compounded <code>n</code> times per year: <code>P(1 + (r/100n))<sup>nt</sup></code>
 
 ## Geometry
 
@@ -139,14 +139,19 @@ A decimal represents a number using powers of 10 based on the position of each d
 
 ## Probability
 
-Probability is a way of describing uncertainty in numerical terms. A probability experiment (or random experiment) is an experiment in which the outcome is uncertain. The set of possible outcomes is the sample space. An outcome is an event. The probability of an event (<code>P(E)</code>) is a number from 0 to 1.
+Probability is a way of describing uncertainty in numerical terms. A probability experiment (or random experiment) is an experiment in which the outcome is uncertain. The set of possible outcomes (or events) is the sample space.
 
-For a random experiment with a finite number of possible outcomes, if each out come is equally likely, then <code>P(E) = (outcomes in E) / (total possible outcomes)</code>
+For one outcome (e.g. named E):
 
-* If E and F are mututally exclusive, <code>P(E or F) = P(E) + P(F)</code>
-* If E and F are not mututally exclusive, <code>P(E or F) = P(E) + P(F) - P(E and F)</code>
-* E and F are independent if either event does not affect the occurrence of the other. If E and F are independent, <code>P(E and F) = P(E)P(F)</code>
-* If E and F are not independent, <code>P(E and F) = P(E)P(F|E)</code>
+* For a random experiment with a finite number of possible outcomes, if each outcome is equally likely, then the probabiliy of one outcome E is <code>P(E) = (Number of E Outcomes) / (Total Possible Outcomes)</code>
+
+For multiple outcomes (e.g. two named E and F):
+
+* If E and F are independent, the two outcomes do not depend on each other. The [probabiliy of both outcomes occurring][joint probability of independent outcomes] is <code>P(E ∩ F) = P(E) × P(F)</code>
+* [Conditional probability][] is the probability of outcome (F) given the prior occurrence of another outcome (E): <code>P(F|E) = P(E ∩ F) / P(E)</code>
+* If E and F are not independent, the probability of both outcomes occurring is <code>P(E ∩ F) = P(E) × P(F|E)</code>
+* If E and F are [mututally exclusive outcomes][], the probability of either E or F outcomes is <code>P(E ∪ F) = P(E) + P(F)</code>
+* If E and F are [not mutually exclusive outcomes][], the probability of either E or F outcomes is <code>P(E ∪ F) = P(E) + P(F) - P(E ∩ F)</code>
 
 ## Data Analysis
 
@@ -176,5 +181,9 @@ For a random experiment with a finite number of possible outcomes, if each out c
 * The standard normal distribution has a mean of 0 and standard deviation of 1.
 * To standardize values with a different standard deviation <code>d</code> to a standard normal distribution, divide each value by <code>d</code>
 
+[conditional probability]: https://en.wikipedia.org/wiki/Probability#Conditional_probability
+[joint probability of independent outcomes]: https://en.wikipedia.org/wiki/Probability#Independent_events
 [math]: https://www.ets.org/s/gre/pdf/gre_math_review.pdf
 [multiplication]: https://www.khanacademy.org/math/arithmetic-home/arithmetic/arith-review-multiply-divide/arith-review-mult-intro/a/intro-multiplication
+[mututally exclusive outcomes]: https://en.wikipedia.org/wiki/Probability#Mutually_exclusive_events
+[not mutually exclusive outcomes]: https://en.wikipedia.org/wiki/Probability#Mutually_exclusive_events
