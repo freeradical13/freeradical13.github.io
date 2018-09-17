@@ -1510,7 +1510,7 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 [Mammals][] are animals that have [mammary glands][] that produce milk, a neocortex, and hair.
 
-Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, one of the X chromosomes deactivates into an object called a [Barr body][].
+Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, a random one of the X chromosomes deactivates into an object called a [Barr body][] (this occurs independently in multiple embryonic cells, thus some females have [mosaicism][] of some traits).
 
 ##### Humans
 
@@ -2605,6 +2605,7 @@ if (elements.length) {
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
 [morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
 [morula]: https://en.wikipedia.org/wiki/Morula
+[mosaicism]: https://en.wikipedia.org/wiki/Mosaic_(genetics)
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [mouth]: https://en.wikipedia.org/wiki/Mouth
