@@ -946,15 +946,21 @@ Chromosomes are coiled into a condensed area using [histone][] proteins. Each pa
 
 A chromosome and any histones is called [Chromatin][].
 
-An [allele][] is one variant of a gene which may create a different phenotype.
-
 Genes are [heritable][] if they are passed from one organism to another.
 
 ## Organisms
 
+An organism is an object with the properties of life.
+
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms.
+
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products.
 
-A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][]. A [phenotype][] is the set of all traits of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
+A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][].
+
+A [phenotype][] is the set of all traits of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
+
+The phenotype for a trait most commonly observed in a species is called the [wild type][].
 
 ### Phylogeny
 
@@ -963,8 +969,6 @@ A character is a feature (e.g. color) of an organism. If a character has multipl
 Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits.
 
 Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or clade) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor.
-
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms.
 
 Both prokaryotes and eukaryotes are made of cells.
 
@@ -1222,9 +1226,11 @@ After nonsister chromatids are duplicated, the DNA molecules of two out of four 
 
 [Genetics][] is the study of genes and heredity.
 
+An [allele][] is one variant of a gene which may create a different phenotype.
+
 A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called a cell's [karyotype][].
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or [pollen][]), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
 
 When one organism asexually reproduces or multiple organisms sexually reproduce, the original organisms are called parents and the new organism(s) are called [offspring][] (or children or brood or progeny).
 
@@ -1503,6 +1509,8 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 ##### Mammals
 
 [Mammals][] are animals that have [mammary glands][] that produce milk, a neocortex, and hair.
+
+Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, one of the X chromosomes deactivates into an object called a [Barr body][].
 
 ##### Humans
 
@@ -2019,6 +2027,7 @@ if (elements.length) {
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
+[barr body]: https://en.wikipedia.org/wiki/Barr_body
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
@@ -3003,7 +3012,9 @@ if (elements.length) {
 [white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
+[wild type]: https://en.wikipedia.org/wiki/Wild_type
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
+[xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
