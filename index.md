@@ -1230,9 +1230,11 @@ When one organism asexually reproduces or multiple organisms sexually reproduce,
 
 A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype. A dominant allele is denoted with an uppercase letter and a recessive allele with a lowercase letter.
 
-In [pleiotropy][], one gene has more than one phenotypic effect. In [polygenic inheritance][], multiple genes have some additive phenotypic effect.
+In [pleiotropy][], one gene has more than one phenotypic effect.
 
 In [epistasis][], one gene's phenotype expression effects (e.g. masks) another gene's phenotype expression.
+
+In [polygenic inheritance][], multiple genes have some additive phenotypic effect.
 
 A [true-breeding][] organism (or purebreed) is homozygous for certain genes. The sexual mating of two different purebreeds is called [hybridization][] (or crossbreeding) in which case the parents are called the P generation (parental), the hybrid children are the [F<sub>1</sub> generation][f1 generation] (first filial), and the children of those children are the [F<sub>2</sub> generation][f2 generation]. A [test cross][] is an organism with a homozygous recessive trait which may be crossbred with another organism with a different trait in its phenotypte to see if that other organism is homozygous or heterozygous for the dominant trait.
 
@@ -1756,6 +1758,14 @@ The differentiation of the gastrula continues into [organogenesis][] in which th
 
 The embryo is called a [fetus][] when all majory body organs are present.
 
+A sac forms around the fetus called the [amniotic sac][] which contains the fetus and [amniotic fluid][] and is connected to the placenta. The membrane of the amniotic sac is called the [amnion][].
+
+The amniotic sac is further enclosed by a membrane called the [chorion][] which have cells called [chorionic villi][] on the outside the interact with the uterus for nutrient exchange.
+
+[Amniocentesis][] uses a needle to extract amniotic fluid which contains fetal cells that may be sequenced.
+
+[Chorionic Villus Sampling][] extracts some chorionic villi cells which were made by the fetus and which may be sequenced.
+
 ### Morphogenesis
 
 [Morphogenesis][] is the process that causes an organism to develop its shape, most commonly the organized spatial distribution of cells during embryonic development.
@@ -1947,6 +1957,10 @@ if (elements.length) {
 [amino]: https://en.wikipedia.org/wiki/Amino
 [amino acid]: https://en.wikipedia.org/wiki/Amino_acid
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
+[amniocentesis]: https://en.wikipedia.org/wiki/Amniocentesis
+[amnion]: https://en.wikipedia.org/wiki/Amnion
+[amniotic fluid]: https://en.wikipedia.org/wiki/Amniotic_fluid
+[amniotic sac]: https://en.wikipedia.org/wiki/Amniotic_sac
 [amperes]: https://en.wikipedia.org/wiki/Ampere
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
@@ -2095,6 +2109,9 @@ if (elements.length) {
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
 [cholesterol]: https://en.wikipedia.org/wiki/Cholesterol
+[chorion]: https://en.wikipedia.org/wiki/Chorion
+[chorionic villi]: https://en.wikipedia.org/wiki/Chorionic_villi
+[chorionic villus sampling]: https://en.wikipedia.org/wiki/Chorionic_villus_sampling
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
