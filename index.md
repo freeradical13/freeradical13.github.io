@@ -948,11 +948,13 @@ A chromosome and any histones is called [Chromatin][].
 
 An [allele][] is one variant of a gene which may create a different phenotype.
 
+Genes are [heritable][] if they are passed from one organism to another.
+
 ## Organisms
 
-A [phenotype][] is the set of all observable [traits][] (or characteristics) of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
-
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products.
+
+A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][]. A [phenotype][] is the set of all traits of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
 
 ### Phylogeny
 
@@ -1218,19 +1220,21 @@ After nonsister chromatids are duplicated, the DNA molecules of two out of four 
 
 ### Genetics
 
-[Genetics][] is the study of genes and [heredity][] which is the passing of phenotypic traits from parents to offspring.
+[Genetics][] is the study of genes and heredity.
 
 A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called a cell's [karyotype][].
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] produce small gametes ([sperm][] or [pollen][]), and [females][] produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
 
-All chromosomes other than allosomes are called [autosomes][].
+When one organism asexually reproduces or multiple organisms sexually reproduce, the original organisms are called parents and the new organism(s) are called [offspring][] (or children or brood or progeny).
 
 A [locus][] is a fixed position of a gene on homologs. If the alleles at a locus are the same, the locus is [homozygous][]; otherwise, [heterozygous][]. In a heterozygous locus, one allele may be [dominant][] over the other [recessive][] allele meaning that it masks the expression of the recessive allele in the phenotype. [Complete dominance][] masks a recessive allele completely in the phenotype. [Incomplete dominance][] may create an intermediate phenotype expressing both alleles. [Co-dominance][] occurs when both alleles are distinctly expressed in the phenotype. A dominant allele is denoted with an uppercase letter and a recessive allele with a lowercase letter.
 
 In [pleiotropy][], one gene has more than one phenotypic effect. In [polygenic inheritance][], multiple genes have some additive phenotypic effect.
 
 In [epistasis][], one gene's phenotype expression effects (e.g. masks) another gene's phenotype expression.
+
+A [true-breeding][] organism (or purebreed) is homozygous for certain genes. The sexual mating of two different purebreeds is called [hybridization][] (or crossbreeding) in which case the parents are called the P generation (parental), the hybrid children are the [F<sub>1</sub> generation][f1 generation] (first filial), and the children of those children are the [F<sub>2</sub> generation][f2 generation]. A [test cross][] is an organism with a homozygous recessive trait which may be crossbred with another organism with a different trait in its phenotypte to see if that other organism is homozygous or heterozygous for the dominant trait.
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
@@ -1359,7 +1363,7 @@ Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which st
 
 [Vascular plants][] (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches.
 
-[Angiosperms][] have flowering seeds whereas [gymnosperms][] have naked seeds.
+[Angiosperms][] have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate.
 
 [Monocot][] leaves are narrow with veins that run parallel to the length of the leaf. [Dicot][] leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
 
@@ -1732,7 +1736,7 @@ Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach a
 
 ## Birth
 
-[Birth][] is the process of one organism bearing a separate organism called an [offspring][] (or brood or progeny).
+[Birth][] is the process of one organism bearing a separate child.
 
 [Gestation][] is a process some organisms use to incubate a new organism inside the body of the parent before giving birth.
 
@@ -1776,7 +1780,7 @@ The process of [natural selection][] states that organisms that have characteris
 
 [Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
 
-Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [hybridization][] or annealing.
+Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [nucleic acid hybridization][] or annealing.
 
 A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. Restriction enzymes are used to break the DNA into pieces. The DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
 
@@ -2273,6 +2277,8 @@ if (elements.length) {
 [extracellular fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
 [extremophiles]: https://en.wikipedia.org/wiki/Extremophile
+[f1 generation]: https://en.wikipedia.org/wiki/F1_hybrid
+[f2 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
 [facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
@@ -2368,7 +2374,7 @@ if (elements.length) {
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
 [hepatocyte cells]: https://en.wikipedia.org/wiki/Hepatocyte
-[heredity]: https://en.wikipedia.org/wiki/Heredity
+[heritable]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
@@ -2393,7 +2399,7 @@ if (elements.length) {
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
-[hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
+[hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
 [hydride]: https://en.wikipedia.org/wiki/Hydride
 [hydrocarbons]: https://en.wikipedia.org/wiki/Hydrocarbon
@@ -2605,6 +2611,7 @@ if (elements.length) {
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
+[nucleic acid hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleoid]: https://en.wikipedia.org/wiki/Nucleoid
 [nucleolus]: https://en.wikipedia.org/wiki/Nucleolus
@@ -2889,6 +2896,7 @@ if (elements.length) {
 [temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
+[test cross]: https://en.wikipedia.org/wiki/Test_cross
 [testosterone]: https://en.wikipedia.org/wiki/Testosterone
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
@@ -2904,7 +2912,7 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
-[traits]: https://en.wikipedia.org/wiki/Phenotypic_trait
+[trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
@@ -2925,6 +2933,7 @@ if (elements.length) {
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
+[true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
