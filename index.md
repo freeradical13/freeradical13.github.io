@@ -1196,7 +1196,7 @@ Some cells cycle through one of a few states called a [cell cycle][]:
     1. [S phase][] (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
     1. [G<sub>2</sub>phase ][g2]: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
 1. [M phase][] (mitosis): Cell divides
-    1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] or sister chromatid pair. A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+    1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] (or sister chromatid pair). A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
     1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
     1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
@@ -1245,6 +1245,8 @@ In [polygenic inheritance][], multiple genes have some additive phenotypic effec
 A [true-breeding][] organism (or purebreed) is homozygous for certain genes. The sexual mating of two different purebreeds is called [hybridization][] (or crossbreeding) in which case the parents are called the P generation (parental), the hybrid children are the [F<sub>1</sub> generation][f1 generation] (first filial), and the children of those children are the [F<sub>2</sub> generation][f2 generation]. A [test cross][] is an organism with a homozygous recessive trait which may be crossbred with another organism with a different trait in its phenotypte to see if that other organism is homozygous or heterozygous for the dominant trait.
 
 When crossbreeding two purebreeds (one with the dominant alleles and one with the recessive alleles) to analyze one trait, the children are called [monohybrids][]. When crossbreeding purebreeds to analyze two different traits, the children are called [dihybrids][]. The [law of independent assortment][] states that each pair of alleles on different chromosomes segregates independently amonst children.
+
+A [nondisjunction][] occurs if homologous chromosomes both go into one cell in Meiosis I, or sister chromatids both go into one cell in Mitosis or Meiosis II. A resulting zygote has an abnormal number of chromosomes and in a condition called [aneuploidy][]. If a resulting zygote is missing one chromosome, it's called [monosomic][], and if it has one extra, [trisomic][].
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
@@ -1978,6 +1980,7 @@ if (elements.length) {
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
+[aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
@@ -2603,6 +2606,7 @@ if (elements.length) {
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
 [monosaccharides]: https://en.wikipedia.org/wiki/Monosaccharide
+[monosomic]: https://en.wikipedia.org/wiki/Aneuploidy#Terminology
 [morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
 [morula]: https://en.wikipedia.org/wiki/Morula
 [mosaicism]: https://en.wikipedia.org/wiki/Mosaic_(genetics)
@@ -2638,6 +2642,7 @@ if (elements.length) {
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
+[nondisjunction]: https://en.wikipedia.org/wiki/Nondisjunction
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
@@ -2962,6 +2967,7 @@ if (elements.length) {
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
+[trisomic]: https://en.wikipedia.org/wiki/Aneuploidy#Terminology
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
