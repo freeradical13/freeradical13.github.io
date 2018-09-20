@@ -933,12 +933,13 @@ There are mechanisms to repair various types of DNA damage.
 
 Examples of damage:
 
-* Ultraviolet light photons (UVB and UVC) may cause two consecutive pyrimidine bases (TT [most common] or CC) to create an unneeded covalent bond called a [pyrimidine dimer][] because of the less stable single ring bases than purines. The additional covalent bond can disrupt replication.
+* DNA replication may pair the wrong nucleotides.
+* Ultraviolet light photons (UVB and UVC) may cause two consecutive pyrimidine bases (TT [most common] or CC) to create an unneeded covalent bond called a [pyrimidine dimer][] (most commonly a thymine dimer) because of the less stable single ring bases than purines. The additional covalent bond can disrupt replication.
 
 Types of repair:
 
+* [Nucleotide Excision Repair][] fixes a wrongly paired nucleotide in one strand such as pyrimidine dimers or an error caused during replication ([Mismatch Repair][]) by removing the wrong bases using [Nuclease][] and then using DNA polymerase to recreate the removed portion from the complementary strand and the sugar-phosphate backbone is bonded with DNA Ligase.
 * In some organisms, light-activated [Photolyases][] break pyrimidine dimer bonds.
-* [Nucleotide Excision Repair][] fixes damage in one strand such as pyrimidine dimers by removing the damaged bases and then using DNA polymerase to recreate the removed portion from the complementary strand.
 * [Base Excision Repair][] fixes damage to single bases such as oxidation by removing the bases and then using DNA polymerase to recreate them.
 * [DNA Mismatch Repair][] fixes wrongly inserted, deleted or mismatched bases created during DNA replication.
 
@@ -1317,7 +1318,7 @@ The [nuclear lamina][] is an array of protein filaments that maintain the shape 
 
 The [nucleolus][] within the nucleus is made of fibers and DNA and where Ribosomes and rRNA are made.
 
-Eukaryotic have repetitive nucleotide sequences of TTAGGG on each end of each chromosome called [telomeres][].
+In linear chromosomes such as those in Eukaryotes, the RNA Primer on the last Okazaki Fragment of the lagging strand cannot be replaced with DNA because there's no 3' end of another Okazaki Fragment to which DNA Polymerase can add nucleotides. Due to this, Eukaryotic have repetitive, non-protein coding nucleotide sequences of TTAGGG on each end of each chromosome called [telomeres][] which are shortened during each replication. [Telomerase][] may be used to extend telomeres such as for germ cells.
 
 #### Endoplasmic Reticulum
 
@@ -2618,6 +2619,7 @@ if (elements.length) {
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial matrix]: https://en.wikipedia.org/wiki/Mitochondrial_matrix
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
@@ -2686,6 +2688,7 @@ if (elements.length) {
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
+[nuclease]: https://en.wikipedia.org/wiki/Nuclease
 [nucleic acid hybridization]: https://en.wikipedia.org/wiki/Nucleic_acid_hybridization
 [nucleic acids]: https://en.wikipedia.org/wiki/Nucleic_acid
 [nucleoid]: https://en.wikipedia.org/wiki/Nucleoid
@@ -2969,6 +2972,7 @@ if (elements.length) {
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
+[telomerase]: https://en.wikipedia.org/wiki/Telomerase
 [telomeres]: https://en.wikipedia.org/wiki/Telomere
 [telophase]: https://en.wikipedia.org/wiki/Telophase
 [temperature]: https://en.wikipedia.org/wiki/Temperature
