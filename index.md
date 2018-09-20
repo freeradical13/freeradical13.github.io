@@ -899,7 +899,7 @@ A [zymogen][] (or proenzyme) requires [proteolysis][] (often by protease enzymes
 
 The pentose sugar is either [Ribose][] or [Deoxyribose][] (a Ribose without an Oxygen at the 2'-Carbon). The Carbon numbers in the sugar have a [prime symbol][] (') as compared to the Carbons in the Nitrogenous base.
 
-Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a covalent bond called a [phosphodiester bond][]. These repeating linkages create the [sugar-phosphate backbone][] which is negatively charged. One end of the backbone has a Phosphate group attached to a 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to a 3'-Carbon of a sugar, and these are referred to as the 5' and 3' ends, respectively.
+Nucleotides are linked with a dehydration synthesis between a Phosphate group and the 3' Hydroxyl of the sugar, creating a covalent bond called a [phosphodiester bond][]. These repeating linkages create the [sugar-phosphate backbone][] which is negatively charged. One end of the backbone has a Phosphate group attached to the 5'-Carbon of a sugar and the other end has a Hydroxyl group attached to the 3'-Carbon of a sugar, and these are referred to as the [5'][5'-end] and [3'][3'-end] ends, respectively.
 
 [Deoxyribonucleic acid][] (DNA) is a nucleic acid that may only have A, C, T, or G Nitrogenous bases. [Ribonucleic acid][] (RNA) is a nucleic acid that may only have A, C, U, or G Nitrogenous bases. DNA and RNA are negatively charged because of the phosphate groups.
 
@@ -919,7 +919,13 @@ A [plasmid][] is a (usually) circular form of double-stranded DNA.
 
 #### DNA Replication
 
-[DNA Polymerase][] reads a strand of DNA in the 3' to 5' direction to create a complementary strand of DNA by adding nucleotides to the 3' end of the new strand.
+1. DNA replication starts with [Helicases][] that unwind the two DNA molecules at a unique DNA sequence called an [origin of replication][] creating two replication forks (sometimes called a bubble). Replication occurs in both directions on both DNA molecules which are called template strands used for the creation of two new DNA strands.
+1. [Single-Strand Binding Proteins][] bind to each DNA molecule to keep the pair from re-binding.
+1. [Topoisomerase][] acts on both ends of the still-paired molecules ahead of each replication fork to stabilize and prepare for future unwinding by Helicase.
+1. [Primase][] synthesizes a small, complementary RNA strand called a [Primer][] to a DNA template strand.
+1. Depending on the organism, multiple different types of [DNA Polymerase][] along with a protein called a [Sliding Clamp][] participate in reading a template strand of DNA in the 3' to 5' direction to continuously add complementary nucleotides to the 3' end of the new strand (starting from the Primer) which is called the [leading strand][]. The rate of addition is about [50-500 nucleotides per second][campbell urry et al 11th pg 324].
+1. In the other direction from the origin of replication on each strand, the strand cannot be elongated in the 5' to 3' direction, so instead the remainder of each new molecule (called the [lagging strand][]) is built in pieces called [Okazaki Fragments][] using Primase to create RNA Primers and DNA Polymerase to add complementary nucleotides. The strand is called a lagging strand because it lags the leading strand in time as it needs the replication fork of the opposite strand to open up space for replication
+1. As each Okazaki Fragment runs into the next fragment, the RNA Primer is replaced with nucleotides using another type of DNA Polymerase. The sugar-phosphate backbones of the adjoining Okazaki Fragments are combined using a [DNA Ligase][].
 
 #### DNA Repair
 
@@ -1258,6 +1264,12 @@ There are various types of [chromosome abnormalities][] that may lead to problem
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
+### Epigenetics
+
+[Epigenetics][] is the study of heritable phenotype changes with causes other than changes to the DNA sequence such as methylation of histones on chromatin.
+
+In some cases called [genomic imprinting][], there may be a difference in gene expression of a heterozygous allele on an autosomal chromosome depending on whether it came from the paternal or maternal chromosome (even though the DNA sequence would be the same in both cases).
+
 ### Proteomics
 
 [Proteomics][] is the study of proteins. The entire set of proteins expressed by a genome is called a [proteome][].
@@ -1274,7 +1286,7 @@ Prokaryotes may have [pili][] or [fimbriae][] which are shorter than flagella an
 
 [Chemotaxis][] occurs when bacteria move based on a chemical stimulus.
 
-Bacteria asexually reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. Binary fission may be initiated when DNA begins to replicate at a special region called the [origin of replication][].
+Bacteria asexually reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
@@ -1345,7 +1357,7 @@ A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
 
-[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and [Microfibril][] proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
+[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
 
 [Keratin][] is a strong protein like Chitin that creates various structures in organisms.
 
@@ -1836,7 +1848,7 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
 
-An [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
+A [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
 
 Examples of oncogenes:
 
@@ -1924,7 +1936,9 @@ if (elements.length) {
 [1-carbon]: https://en.wikipedia.org/wiki/Alpha_and_beta_carbon
 [2-phosphoglycerate]: https://en.wikipedia.org/wiki/2-Phosphoglyceric_acid
 [3-phosphogylcerate]: https://en.wikipedia.org/wiki/3-Phosphoglyceric_acid
+[3'-end]: https://en.wikipedia.org/wiki/Directionality_(molecular_biology)#3%E2%80%B2-end
 [5' cap]: https://en.wikipedia.org/wiki/Five-prime_cap
+[5'-end]: https://en.wikipedia.org/wiki/Directionality_(molecular_biology)#5%E2%80%B2-end
 [α-amylase]: https://en.wikipedia.org/wiki/Amylase#%CE%B1-amylase
 [α-ketoglutarate]: https://en.wikipedia.org/wiki/Alpha-Ketoglutaric_acid
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
@@ -2087,6 +2101,7 @@ if (elements.length) {
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
+[campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cd4]: https://en.wikipedia.org/wiki/CD4
@@ -2239,6 +2254,7 @@ if (elements.length) {
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[dna ligase]: https://en.wikipedia.org/wiki/DNA_ligase
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
 [dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
@@ -2301,6 +2317,7 @@ if (elements.length) {
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
+[epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
 [epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
@@ -2379,6 +2396,7 @@ if (elements.length) {
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
 [genetics]: https://en.wikipedia.org/wiki/Genetics
 [genome]: https://en.wikipedia.org/wiki/Genome
+[genomic imprinting]: https://en.wikipedia.org/wiki/Genomic_imprinting
 [genotype]: https://en.wikipedia.org/wiki/Genotype
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
@@ -2414,6 +2432,7 @@ if (elements.length) {
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
+[helicases]: https://en.wikipedia.org/wiki/Helicase
 [helper t cells]: https://en.wikipedia.org/wiki/T_helper_cell
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
@@ -2507,16 +2526,19 @@ if (elements.length) {
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
+[keratin]: https://en.wikipedia.org/wiki/Keratin
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
+[lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
+[leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
@@ -2682,6 +2704,7 @@ if (elements.length) {
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [offspring]: https://en.wikipedia.org/wiki/Offspring
+[okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
@@ -2792,7 +2815,9 @@ if (elements.length) {
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
+[primase]: https://en.wikipedia.org/wiki/Primase
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
+[primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
@@ -2879,7 +2904,9 @@ if (elements.length) {
 [signal recognition particle]: https://en.wikipedia.org/wiki/Signal_recognition_particle
 [signal transduction]: https://en.wikipedia.org/wiki/Signal_transduction
 [signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
+[single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
+[sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
@@ -2966,6 +2993,7 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
+[topoisomerase]: https://en.wikipedia.org/wiki/Topoisomerase
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
