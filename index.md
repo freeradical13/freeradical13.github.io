@@ -962,6 +962,8 @@ A [phenotype][] is the set of all traits of an organism. A trait is based on the
 
 The phenotype for a trait most commonly observed in a species is called the [wild type][].
 
+An organism is [haploid][] if it has one instance of each chromosome. An organism is [diploid][] if it has two instances of each chromosome. An organism is [polyploid][] if it has three or more instances of each chromosome. Matching chromosomes in diploids and polyploids with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called an organism's [karyotype][].
+
 ### Phylogeny
 
 [Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
@@ -1212,23 +1214,21 @@ Growth factor may be inhibited in [density-dependent inhibition][] when cell-sur
 
 ##### Meiosis
 
-[Meiosis][] occurs through two rounds of cell division (meiosis I and meiosis II) to create haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
-In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (instead of gametes) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Two haploid cells of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte.
+In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (similar to gametes) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Two haploid cells of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte.
 
 In some organisms, the organism is usually in a haploid state and the only diploid is the unicellular zygote.
 
 ###### Meiosis I
 
-After nonsister chromatids are duplicated, the DNA molecules of two out of four nonsister chromatids are broken at particular loci, and the two homolog pairs are joined together at the points of broken DNA called [chiasmata][] into a [synaptonemal complex][] during the process of [synapsis][]. When the chiasmata are broken down to split the chromatids, chromosomal crossover of genes may occur to produce [recombinant chromosomes][].
+[Meiosis I][] is similar to Mitosis which creates two child diploid cells, except that for each set of four homologous DNA molecules created during DNA replication (i.e. two pairs of sister chromatids), two out of the nonsister chromatids are broken at particular loci, and the two homologous sister chromatid pairs (four DNA molecules) are joined together at the points of broken DNA called [chiasmata][] into a [synaptonemal complex][] during the process of [synapsis][]. When the chiasmata are broken down to split the chromatids in Anaphase I, chromosomal crossover of genes may occur to produce [recombinant chromosomes][].
 
-### Genetics
+### Genetics (Continued)
 
 [Genetics][] is the study of genes and heredity.
 
 An [allele][] is one variant of a gene which may create a different phenotype.
-
-A cell is [haploid][] if it has one instance of each chromosome (such as prokaryotes or gametes). A cell is [diploid][] if it has two instances of each chromosome (such as most eukaryotic cells formed through sexual reproduction). A cell is polyploid if it has two or more instances of each chromosome. In polyploids, matching chromosomes with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called a cell's [karyotype][].
 
 Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or [pollen][]), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
 
@@ -1247,6 +1247,14 @@ A [true-breeding][] organism (or purebreed) is homozygous for certain genes. The
 When crossbreeding two purebreeds (one with the dominant alleles and one with the recessive alleles) to analyze one trait, the children are called [monohybrids][]. When crossbreeding purebreeds to analyze two different traits, the children are called [dihybrids][]. The [law of independent assortment][] states that each pair of alleles on different chromosomes segregates independently amonst children.
 
 A [nondisjunction][] occurs if homologous chromosomes both go into one cell in Meiosis I, or sister chromatids both go into one cell in Mitosis or Meiosis II. A resulting zygote has an abnormal number of chromosomes and in a condition called [aneuploidy][]. If a resulting zygote is missing one chromosome, it's called [monosomic][], and if it has one extra, [trisomic][].
+
+There are various types of [chromosome abnormalities][] that may lead to problems or death:
+
+* [Chromosome Deletions][]
+* [Chromosome Insertions][]: Cut-and-paste from one part of a chromosome to another.
+* [Chromosome Duplications][]
+* [Chromosome Translocations][]: A part of a chromosome is transferred to another chromosome.
+* [Chromosome Inversions][]: A part of a chromosome breaks off, turns upside down, and reattaches.
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
 
@@ -2126,6 +2134,12 @@ if (elements.length) {
 [chorionic villus sampling]: https://en.wikipedia.org/wiki/Chorionic_villus_sampling
 [chromatid]: https://en.wikipedia.org/wiki/Chromatid
 [chromatin]: https://en.wikipedia.org/wiki/Chromatin
+[chromosome abnormalities]: https://en.wikipedia.org/wiki/Chromosome_abnormality
+[chromosome deletions]: https://en.wikipedia.org/wiki/Deletion_(genetics)
+[chromosome duplications]: https://en.wikipedia.org/wiki/Chromosomal_duplication
+[chromosome insertions]: https://en.wikipedia.org/wiki/Insertion_(genetics)
+[chromosome inversions]: https://en.wikipedia.org/wiki/Chromosomal_inversion
+[chromosome translocations]: https://en.wikipedia.org/wiki/Chromosomal_translocation
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
 [chyme]: https://en.wikipedia.org/wiki/Chyme
 [chymotrypsin]: https://en.wikipedia.org/wiki/Chymotrypsin
@@ -2557,6 +2571,8 @@ if (elements.length) {
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
+[meiosis i]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_I
+[meiosis ii]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_II
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
@@ -2765,6 +2781,7 @@ if (elements.length) {
 [polymerization]: https://en.wikipedia.org/wiki/Polymerization
 [polypeptide]: https://en.wikipedia.org/wiki/Peptide
 [polyphyletic group]: https://en.wikipedia.org/wiki/Polyphyly
+[polyploid]: https://en.wikipedia.org/wiki/Polyploidy
 [polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide
 [polytene chromosomes]: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470015902.a0001183.pub2
 [pons]: https://en.wikipedia.org/wiki/Pons
