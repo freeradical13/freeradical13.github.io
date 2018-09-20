@@ -993,7 +993,7 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 #### Ribosomes
 
-[Ribosomes][] are structures in the cytoplasm involved in protein synthesis. Ribosomes are made of various proteins and RNA called ribosomal RNA ([rRNA][]).
+[Ribosomes][] are structures in the cytoplasm involved in protein synthesis. Ribosomes are made of various proteins and RNA called ribosomal RNA ([rRNA][]). There are usually [thousands of ribosomes in a cell][campbell urry et al 11th pg 349].
 
 #### Metabolism
 
@@ -1211,7 +1211,7 @@ Some cells cycle through one of a few states called a [cell cycle][]:
     1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
     1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins (or a cell plate is formed in plants).
 
-In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids which can allow for increased gene expression.
+In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids.
 
 Movement between states in the cell cycle maybe inhibited at particular [cell cycle checkpoints][]. The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to a protein called [cyclin][]. An example of a cyclin-CDK complex is [maturation-promoting factor][] (MPF).
 
@@ -1264,6 +1264,44 @@ There are various types of [chromosome abnormalities][] that may lead to problem
 * [Chromosome Inversions][]: A part of a chromosome breaks off, turns upside down, and reattaches.
 
 Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
+
+### Gene Expression
+
+[Gene Expression][] describes when and why genes are used to create gene products such as proteins.
+
+A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
+
+A [transcription factor][] is a protein that controls the rate of gene transcription.
+
+#### Protein Synthesis
+
+[Protein synthesis][]:
+
+1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other transcription factors split double-stranded DNA and perform.
+1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA or [primary transcript][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344].
+    1. In bacteria, transcription ends at a [terminator][].
+    1. In eukaryotes:
+        1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
+        1. The pre-mRNA is made of sets of nucleotides called [exons][] (expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
+1. [Translation][]: mRNA arrives at a free ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon (Methionine). As the ribosome moves over the mRNA molecule in the 5' to 3' direction, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the new polypeptide chain at the Carboxyl end using rRNA. Translation stops at a stop codon UAG, UAA, or UGA using a [release factor][].
+    1. [Aminoacyl-tRNA Synthetases][] use ATP to create a tRNA and amino acid pair.
+    1. A tRNA exits the ribosome at the [E-site][].
+    1. A tRNA bound to the ribosome at the [P-site][] adds its amino acid to the new polypeptide chain and moves to the E-site.
+    1. A tRNA and amino acid pair for the next codon binds to the ribosome at the [A-site][] (A for aminoacyl) and moves to the P-site when the other tRNA moves from the P-site to the E-site.
+
+### DNA Self-Modification
+
+DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
+
+[Reverse Transcription][] is the use of [Reverse Transcriptase][] to create double-stranded DNA from RNA.
+
+[Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA.
+
+[DNA Transposons][] are DNA sequences that use [Transposase][] to cut-and-paste themselves in DNA.
+
+### Other DNA Behaviors
+
+[Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences (called [restriction sites][]). 
 
 ### Epigenetics
 
@@ -1415,39 +1453,6 @@ The lower epidermis includes stomata which are openings that allow diffusion of 
 #### Algae
 
 [Algae][] is a polyphyletic group of eukaryotic organisms that use photosynthesis but lack roots, stems or leaves, so they're not considered plants.
-
-#### Protein Synthesis
-
-[Protein synthesis][] in eukaryotes:
-
-1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other transcription factors split double-stranded DNA and perform transcription downstream from the 5' end.
-1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and creates a 5' to 3' RNA molecule called [pre-messenger RNA][] (pre-mRNA). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or negative strand. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or positive strand. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand.
-1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA.
-1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
-1. The pre-mRNA is made of sets of nucleotides called [exons][] which are needed for translation, and [introns][] which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA.
-1. [Translation][]: mRNA arrives at a ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon. As the mRNA molecule moves through the ribosome, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the polypeptide chain using rRNA.
-
-#### DNA Self-Modification
-
-DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
-
-[Reverse Transcription][] is the use of [Reverse Transcriptase][] to create double-stranded DNA from RNA.
-
-[Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA.
-
-[DNA Transposons][] are DNA sequences that use [Transposase][] to cut-and-paste themselves in DNA.
-
-#### Other DNA Behaviors
-
-[Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences (called [restriction sites][]). 
-
-#### Gene Expression
-
-[Gene Expression][] describes when and why genes are used to create gene products such as proteins.
-
-A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
-
-A [transcription factor][] is a protein that controls the rate of gene transcription.
 
 #### Cell Communication
 
@@ -1943,6 +1948,7 @@ if (elements.length) {
 [α-amylase]: https://en.wikipedia.org/wiki/Amylase#%CE%B1-amylase
 [α-ketoglutarate]: https://en.wikipedia.org/wiki/Alpha-Ketoglutaric_acid
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
+[a-site]: https://en.wikipedia.org/wiki/A-site
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -1985,9 +1991,11 @@ if (elements.length) {
 [allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
+[alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
+[aminoacyl-trna synthetases]: https://en.wikipedia.org/wiki/Aminoacyl_tRNA_synthetase
 [amino acid]: https://en.wikipedia.org/wiki/Amino_acid
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amniocentesis]: https://en.wikipedia.org/wiki/Amniocentesis
@@ -2103,6 +2111,8 @@ if (elements.length) {
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
+[campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
+[campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cd4]: https://en.wikipedia.org/wiki/CD4
@@ -2262,6 +2272,7 @@ if (elements.length) {
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [dyneins]: https://en.wikipedia.org/wiki/Dynein
+[e-site]: https://en.wikipedia.org/wiki/E-site
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
@@ -2666,6 +2677,7 @@ if (elements.length) {
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
+[negative strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
 [neocortex]: https://en.wikipedia.org/wiki/Neocortex
 [neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
 [nerves]: https://en.wikipedia.org/wiki/Nerve
@@ -2682,6 +2694,7 @@ if (elements.length) {
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
+[non-template strand]: https://en.wikipedia.org/wiki/Coding_strand
 [nondisjunction]: https://en.wikipedia.org/wiki/Nondisjunction
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
@@ -2730,6 +2743,7 @@ if (elements.length) {
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
+[p-site]: https://en.wikipedia.org/wiki/P-site
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
@@ -2813,11 +2827,13 @@ if (elements.length) {
 [pons]: https://en.wikipedia.org/wiki/Pons
 [porosome]: https://en.wikipedia.org/wiki/Porosome
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
+[positive strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
+[primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
 [primase]: https://en.wikipedia.org/wiki/Primase
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
@@ -2868,6 +2884,7 @@ if (elements.length) {
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [relative density]: https://en.wikipedia.org/wiki/Relative_density
+[release factor]: https://en.wikipedia.org/wiki/Release_factor
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
@@ -2979,6 +2996,7 @@ if (elements.length) {
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
 [temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
+[terminator]: https://en.wikipedia.org/wiki/Terminator_(genetics)
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
 [test cross]: https://en.wikipedia.org/wiki/Test_cross
