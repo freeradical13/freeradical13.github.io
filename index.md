@@ -938,7 +938,7 @@ Examples of damage:
 
 Types of repair:
 
-* [Nucleotide Excision Repair][] fixes a wrongly paired nucleotide in one strand such as pyrimidine dimers or an error caused during replication ([Mismatch Repair][]) by removing the wrong bases using [Nuclease][] and then using DNA polymerase to recreate the removed portion from the complementary strand and the sugar-phosphate backbone is bonded with DNA Ligase.
+* [Nucleotide Excision Repair][] fixes a wrongly paired nucleotide in one strand such as pyrimidine dimers or an error caused during replication ([Mismatch Repair][]) by removing the wrong bases using [Nuclease][] (which can break DNA bonds) and then using DNA polymerase to recreate the removed portion from the complementary strand and the sugar-phosphate backbone is bonded with DNA Ligase.
 * In some organisms, light-activated [Photolyases][] break pyrimidine dimer bonds.
 * [Base Excision Repair][] fixes damage to single bases such as oxidation by removing the bases and then using DNA polymerase to recreate them.
 * [DNA Mismatch Repair][] fixes wrongly inserted, deleted or mismatched bases created during DNA replication.
@@ -1327,7 +1327,7 @@ DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposabl
 
 ### Other DNA Behaviors
 
-[Restriction enzymes][] detect particular sequences and cut the DNA mixture into pieces at any such sequences (called [restriction sites][]). 
+[Restriction enzymes][] detect particular sequences of DNA and cut the DNA into pieces at any such sequences (called [restriction sites][]). 
 
 ### Epigenetics
 
@@ -1596,17 +1596,22 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
 
 Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
-A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] is integrated permanently without killing the cell.
+A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell (e.g. by permanently integrating into the cell's DNA).
 
 Different viruses have different structures and behaviors:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
+* [Human Immunodeficiency Virus][] (or HIV): Uses immune cells to produce
+
+## CRISPR-Cas
+
+[Clustered Regularly Interspersed Short Palindromic Repeats][] (CRISPRs) are repetitive DNA sequences in some prokaryotes that code for parts of certain phage DNA. Nucleases called [Cas][] (CRISPR-associated) proteins use RNA transcribed from CRISPR sequences to identify and cut phage DNA thus inactivating the phage.
 
 ## Adipose Tissue
 
@@ -2138,6 +2143,7 @@ if (elements.length) {
 [butane]: https://en.wikipedia.org/wiki/Butane
 [c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
 [c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
+[calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [cancer]: https://en.wikipedia.org/wiki/Cancer
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
@@ -2149,7 +2155,7 @@ if (elements.length) {
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
-[calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
+[cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
 [campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
 [campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
@@ -2222,6 +2228,7 @@ if (elements.length) {
 [cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
+[clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
@@ -2526,6 +2533,7 @@ if (elements.length) {
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
+[human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
