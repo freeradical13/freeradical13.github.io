@@ -1290,6 +1290,17 @@ A [transcription factor][] is a protein that controls the rate of gene transcrip
     1. A tRNA and amino acid pair for the next codon binds to the ribosome at the [A-site][] (A for aminoacyl) and moves to the P-site when the other tRNA moves from the P-site to the E-site.
     1. If multiple ribosomes may use a single mRNA in sequence, this complex is called a polyribosome (or [polysome][]).
 
+### Mutations
+
+Changes to the genetic code of a cell are called [mutations][]. If a mutation occurs due to physical or chemical means other than due to errors in DNA replication, such as a pyrimidine dimer, the agent is called a [mutagen][].
+
+A [point mutation][] is a mutation of a single nucleotide pair at a particular location in a gene. Types of mutations:
+
+* A [nucleotide-pair substitution][] is a point mutation where one nucleotide pair is changed for another.
+* A [frameshift mutation][] occurs when a number of nucleotide pairs that's not a multiple of three are inserted or deleted.
+
+If the same codon is generated, the mutation is called a [silent mutation][]. If a different codon is generated, the mutation is called a [missense mutation][]. If a stop codon is generated, the mutation is called a [nonsense mutation][]. 
+
 ### DNA Self-Modification
 
 DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
@@ -1326,7 +1337,7 @@ Prokaryotes may have [pili][] or [fimbriae][] which are shorter than flagella an
 
 [Chemotaxis][] occurs when bacteria move based on a chemical stimulus.
 
-Bacteria asexually reproduce through [binary fission][] where the child cell has the same genes plus any mutations. Binary fission is similar to mitosis although there's no mitotic spindle. Binary fission may be initiated when DNA begins to replicate at an origin of replication.
+Bacteria asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
@@ -2380,6 +2391,7 @@ if (elements.length) {
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
+[frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
@@ -2632,6 +2644,7 @@ if (elements.length) {
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
+[missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
 [mitochondrial matrix]: https://en.wikipedia.org/wiki/Mitochondrial_matrix
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
@@ -2668,6 +2681,8 @@ if (elements.length) {
 [mtdna]: https://en.wikipedia.org/wiki/Mitochondrial_DNA
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
+[mutagen]: https://en.wikipedia.org/wiki/Mutagen
+[mutations]: https://en.wikipedia.org/wiki/Mutation
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
 [myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
@@ -2698,6 +2713,7 @@ if (elements.length) {
 [non-template strand]: https://en.wikipedia.org/wiki/Coding_strand
 [nondisjunction]: https://en.wikipedia.org/wiki/Nondisjunction
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
+[nonsense mutation]: https://en.wikipedia.org/wiki/Nonsense_mutation
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
@@ -2713,6 +2729,7 @@ if (elements.length) {
 [nucleoside-diphosphate kinases]: https://en.wikipedia.org/wiki/Nucleoside-diphosphate_kinase
 [nucleosome]: https://en.wikipedia.org/wiki/Nucleosome
 [nucleotide]: https://en.wikipedia.org/wiki/Nucleotide
+[nucleotide-pair substitution]: https://en.wikipedia.org/wiki/Mutations#Classification_of_types
 [nucleotide excision repair]: https://en.wikipedia.org/wiki/Nucleotide_excision_repair
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
 [nylon]: https://en.wikipedia.org/wiki/Nylon
@@ -2810,6 +2827,7 @@ if (elements.length) {
 [pleiotropy]: https://en.wikipedia.org/wiki/Pleiotropy
 [pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
+[point mutation]: https://en.wikipedia.org/wiki/Point_mutation
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
 [poly-a tail]: https://en.wikipedia.org/wiki/Polyadenylation
@@ -2926,6 +2944,7 @@ if (elements.length) {
 [signal recognition particle]: https://en.wikipedia.org/wiki/Signal_recognition_particle
 [signal transduction]: https://en.wikipedia.org/wiki/Signal_transduction
 [signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
+[silent mutation]: https://en.wikipedia.org/wiki/Silent_mutation
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
