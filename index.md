@@ -1602,16 +1602,29 @@ Glycoproteins on the capsid or viral envelope help to bind with surface proteins
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
-A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell (e.g. by permanently integrating into the cell's DNA).
+A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell.
 
-Different viruses have different structures and behaviors:
+Types of viruses:
+
+* Type I: Double-Stranded DNA (dsDNA)
+* Type II: Single-Stranded DNA (ssDNA)
+* Type III: Double-Stranded RNA (dsRNA)
+* Type IV: Single-Stranded RNA (ssRNA) which serves as mRNA
+* Type V: Single-Stranded RNA (ssRNA) which serves as a template for mRNA
+* Type VI (e.g. [Retrovirus][]): Single-Stranded RNA (ssRNA) which serves as a template for DNA
+
+Examples of viruses:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
-* [Human Immunodeficiency Virus][] (or HIV): Uses immune cells to produce
+* [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. Retrovirus which uses Reverse Transcriptase to create DNA once inside the white blood cell which is permanently integrated into the cell's DNA (called a [provirus][]) and creates new HIV viruses.
 
 ## CRISPR-Cas
 
-[Clustered Regularly Interspersed Short Palindromic Repeats][] (CRISPRs) are repetitive DNA sequences in some prokaryotes that code for parts of certain phage DNA. Nucleases called [Cas][] (CRISPR-associated) proteins use RNA transcribed from CRISPR sequences to identify and cut phage DNA thus inactivating the phage.
+[Clustered Regularly Interspersed Short Palindromic Repeats][] (CRISPRs) are repetitive DNA sequences in some prokaryotes that code for parts of certain phage DNA. Nucleases called [Cas][] (CRISPR-associated) proteins (e.g. Cas9) use RNA transcribed from CRISPR sequences to identify and cut phage DNA thus inactivating the phage.
+
+## Prions
+
+[Prions][] are proteins which may infect organisms (e.g. through food) and cause brain diseases such as [Mad Cow Disease][], [Creutzfeldt-Jakob Disease][], and [Scrapie][]. The prion proteins are misfolded proteins which may cause properly folder proteins of the same type to misfold upon contact which may lead to a chain reaction.
 
 ## Adipose Tissue
 
@@ -2269,6 +2282,7 @@ if (elements.length) {
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
+[creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -2650,6 +2664,7 @@ if (elements.length) {
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [macrophages]: https://en.wikipedia.org/wiki/Macrophage
+[mad dow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [major histocompatibility complex]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
@@ -2912,6 +2927,7 @@ if (elements.length) {
 [primase]: https://en.wikipedia.org/wiki/Primase
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
+[prions]: https://en.wikipedia.org/wiki/Prion
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
@@ -2934,6 +2950,7 @@ if (elements.length) {
 [proton pump]: https://en.wikipedia.org/wiki/Proton_pump
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[provirus]: https://en.wikipedia.org/wiki/Provirus
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
@@ -2968,6 +2985,7 @@ if (elements.length) {
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
 [retrotransposons]: https://en.wikipedia.org/wiki/Retrotransposon
+[retrovirus]: https://en.wikipedia.org/wiki/Retrovirus
 [reverse transcriptase]: https://en.wikipedia.org/wiki/Reverse_transcriptase
 [reverse transcription]: https://en.wikipedia.org/wiki/Reverse_transcriptase#Process_of_reverse_transcription
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
@@ -2989,6 +3007,7 @@ if (elements.length) {
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
+[scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
