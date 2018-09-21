@@ -1882,9 +1882,21 @@ A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that f
 
 A [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
 
-Examples of oncogenes:
+Examples of proto-oncogenes and oncogenes:
 
 * [Src][] (or c-Src or sarc): Tyrosine kinase. [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
+* [Ras][] (or K-ras): Encodes the Ras G-Protein which relays a growth factor signal to a protein kinase cascade which stimulates the cell cycle. Mutations in Ras may cause over-production of the Ras protein which can trigger the protein kinase cascade without growth factor.
+
+[Tumor-suppressor genes][] encode proteins that help prevent uncontrolled cell growth.
+
+Examples of tumor-suppressor genes:
+
+* [p53][]: Synthesizes to a p53 protein which is a transcription factor that promotes the synthesis of DNA repair proteins and cell cycle-inhibiting proteins (through genes such as p21), or promotes the synthesis of apoptosis genes if DNA repair is impossible.
+* [APC][]: Regulates cell migration and adhesion.
+* [BRCA1][] and [BRCA2][]: Regulate DNA damage repair. Certain mutations increase susceptibility to breast cancer.
+* [SMAD4][]
+
+Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomavirus][], and [HTLV-I][].
 
 ## Biosphere
 
@@ -2050,6 +2062,7 @@ if (elements.length) {
 [antitoxins]: https://en.wikipedia.org/wiki/Antitoxin
 [antivenoms]: https://en.wikipedia.org/wiki/Antivenom
 [anus]: https://en.wikipedia.org/wiki/Anus
+[apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
@@ -2116,6 +2129,8 @@ if (elements.length) {
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
 [branches]: https://en.wikipedia.org/wiki/Branch
+[brca1]: https://en.wikipedia.org/wiki/BRCA1
+[brca2]: https://en.wikipedia.org/wiki/BRCA2
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
@@ -2365,6 +2380,7 @@ if (elements.length) {
 [epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
+[epstein-barr virus]: https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
@@ -2509,6 +2525,7 @@ if (elements.length) {
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
+[htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
@@ -2790,9 +2807,11 @@ if (elements.length) {
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [p-site]: https://en.wikipedia.org/wiki/P-site
+[p53]: https://en.wikipedia.org/wiki/P53
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
+[papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
@@ -2919,6 +2938,7 @@ if (elements.length) {
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
+[ras]: https://en.wikipedia.org/wiki/KRAS
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
@@ -2978,6 +2998,7 @@ if (elements.length) {
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
+[smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
 [small interfering rna]: https://en.wikipedia.org/wiki/Small_interfering_RNA
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
@@ -3093,6 +3114,7 @@ if (elements.length) {
 [true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
+[tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
 [type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
 [type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
