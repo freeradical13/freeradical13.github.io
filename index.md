@@ -975,9 +975,9 @@ An organism is [haploid][] if it has one instance of each chromosome. An organis
 
 [Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
 
-Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits.
+Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial][]) is the name of the genus followed by the name of the species.
 
-Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or clade) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor.
+Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or [clade][]) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor. A lineage that diverges early in the history of a group is a [basal taxon][].
 
 Both prokaryotes and eukaryotes are made of cells.
 
@@ -1033,7 +1033,7 @@ A cell in a hypertonic solution will lose water which may lead to the membrane b
 
 #### Flagella
 
-[Flagella][] are protrusions from a membrane that act to move a cell. Flagella are anchored into the membrane with a [basal body][] made out of microtubules.
+[Flagella][] are protrusions from a membrane that act to move a cell.
 
 #### Electron Transport Chain
 
@@ -1265,6 +1265,10 @@ There are various types of [chromosome abnormalities][] that may lead to problem
 
 [Short Tandem Repeats][] (STRs) are repeating nucleotide sequences at particular locii that vary in length across organisms of the same species.
 
+Homologous genes between two species are [orthologous][] if they came from an ancestor species. Homologous genes are [paralogous][] if they came from gene duplication within a species.
+
+[Horizontal Gene Transfer][] is the movement of genetic material other than from parents to children.
+
 #### Hardy-Weinberg Equilibrium
 
 Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the genotypes of offspring assuming random sexual reproduction, a large population, no mutations, and other conditions. If the observed genotypes of offspring match predictions, then it may be inferred that the gene frequencies are not changing (i.e. they're in Hardy-Weinberg Equilibrium):
@@ -1380,17 +1384,27 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][]. The cytoplasm includes an area called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][] made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
 
-Prokaryotes may have [pili][] or [fimbriae][] which are shorter than flagella and also help with locomotion.
+Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
+
+Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for sticking to surroundings.
+
+[Pili][] (or sex pili; singular pilus) are appendages that pull cells together for DNA transfer.
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with both a cell wall and an inner membrane. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with a peptidoglycan cell wall, an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
-[Chemotaxis][] occurs when bacteria move based on a chemical stimulus.
+[Antibiotics][] are substances which kill bacteria such as targeting peptidoglycan. Some bacteria have evolved resistance to some antibiotics with [R Plasmids][] (resistance plasmids) that code for genes to resist such antibiotics.
+
+A Gram Stain may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
+
+[Bacterial Flagella][] has a motor, hook, and filament.
 
 Bacteria asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
+
+Some bacteria may form [endospores][] when there is a lack of nutrients which are a copy of its genome surrounded by keratin and peptidoglycan and the endospore pauses metabolism until nutrients are present again.
 
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
@@ -1422,6 +1436,10 @@ The [nuclear lamina][] is an array of protein filaments that maintain the shape 
 The [nucleolus][] within the nucleus is made of fibers and DNA and where Ribosomes and rRNA are made.
 
 In linear chromosomes such as those in Eukaryotes, the RNA Primer on the last Okazaki Fragment of the lagging strand cannot be replaced with DNA because there's no 3' end of another Okazaki Fragment to which DNA Polymerase can add nucleotides. Due to this, Eukaryotic have repetitive, non-protein coding nucleotide sequences of TTAGGG on each end of each chromosome called [telomeres][] which are shortened during each replication. [Telomerase][] may be used to extend telomeres such as for germ cells.
+
+#### Eukaryotic Flagella
+
+[Eukaryotic flagella][] are anchored into the membrane with a [basal body][] made out of microtubules.
 
 #### Endoplasmic Reticulum
 
@@ -1899,11 +1917,21 @@ The amniotic sac is further enclosed by a membrane called the [chorion][] which 
 
 A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis. [Homeosis][] is the transformation of one organ into another from mutation or misexpression of homeotic genes (genes with a homeobox).
 
+[Heterochrony][] is an evolutionary change in the rate or timing of various events in an organism's development.
+
+[Paedomorphosis][] is the retaining of certain features of a child into a sexually mature age.
+
 ## History of Life
 
 [Oceans formed on Earth][history of oceans] about 4.4 billion years ago.
 
 [Geology][] is the study of the solid parts of the Earth. 
+
+The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [ecosystem][] consists of all life and the things life interacts with in a particular area.
+
+[Geography][] is the study of the biosphere, land, oceans, atmosphere, etc. A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
+
+Continents move through a process called [continental drift][].
 
 ### Fossils
 
@@ -1913,17 +1941,17 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 * Hadean (~4.6 billion years ago)
 * Archaean (~4 to ~2.5 billion years ago): The [first prokaryotes existed][origins of life] at least 3.5 billion years ago.
-* Proterozoic (~2.5 billion years ago to ~540 million years ago): The [first eukaryotes existed][origins of life] at least 2 billion years ago. The [first land-based eukaryotes existed][history of life] at least 1.3 billion years ago. The [first multi-cellular eukaryotes existed][kaplan ap biology 2017] at least 1.2 billion years ago. The [split of plants and animals occurred][origins of life] at least 1 billion years ago.
+* Proterozoic (~2.5 billion years ago to ~540 million years ago): The [first eukaryotes existed][origins of life] at least 1.8 billion years ago. The [first land-based eukaryotes existed][history of life] at least 1.3 billion years ago. The [first multi-cellular eukaryotes existed][kaplan ap biology 2017] at least 1.2 billion years ago. The [split of plants and animals occurred][origins of life] at least 1 billion years ago.
 * Paleozoic
-    * Cambrian (~540 to ~485 million years ago)
+    * Cambrian (~540 to ~485 million years ago): The first signs of predation. Larger forms of life such as fungi, plants and animals colonize land ~500 million years ago.
     * Odrovician (~485 to ~444 million years ago)
     * Silurian (~444 to ~419 million years ago)
     * Devonian (~419 to ~359 million years ago)
     * Carboniferous (~359 to ~299 million years ago)
-    * Permian (~299 to ~252 million years ago)
+    * Permian (~299 to ~252 million years ago): At the end of the Permian, the Earth had a single continent called [Pangaea][].
 * Mesozoic
-    * Triassic (~252 to ~201 million years ago): The first mammals.
-    * Jurassic (~201 to ~145 million years ago)
+    * Triassic (~252 to ~201 million years ago)
+    * Jurassic (~201 to ~145 million years ago): About 200 million years ago, Pangaea began to break apart. First mammals ~180 million years ago.
     * Cretaceous (~145 to ~66 million years ago)
 * Cenozoic
     * Paleogene
@@ -1931,7 +1959,7 @@ The [geological record][] is an analysis of strata and fossils to date different
         * Eocene (~56 to ~34 million years ago)
         * Oligocene (~34 to ~23 million years ago): The first primates.
     * Neogene
-        * Miocene (~23 to ~5.3 million years ago): Earliest direct human ancestors.
+        * Miocene (~23 to ~5.3 million years ago): Earliest direct human ancestors. About 20 million years ago, the modern 7 continents were approximately where they are now.
         * Pliocene (~5.3 to ~2.6 million years ago): The first bipedal human ancestors.
     * Quaternary
         * Pleistocene (~2.6 million years ago to ~11 thousand years ago): The first Homo Erectus.
@@ -1986,14 +2014,6 @@ Examples of tumor-suppressor genes:
 * [SMAD4][]
 
 Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomavirus][], and [HTLV-I][].
-
-## Biosphere
-
-The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [ecosystem][] consists of all life and the things life interacts with in a particular area.
-
-[Geography][] is the study of the biosphere, land, oceans, atmosphere, etc. A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
-
-Continents move through a process called [continental drift][]. About 250 millions years ago, the Earth had a single continent called [Pangaea][]. About 200 million years ago, Pangaea began to break apart. About 20 million years ago, the modern 7 continents were approximately where they are now.
 
 # Feedback
 
@@ -2148,6 +2168,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
+[antibiotics]: https://en.wikipedia.org/wiki/Antibiotic
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
 [antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
@@ -2196,10 +2217,12 @@ if (elements.length) {
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
+[bacterial flagella]: https://en.wikipedia.org/wiki/Flagellum#Bacterial
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
+[basal taxon]: https://en.wikipedia.org/wiki/Basal_(phylogenetics)
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
 [benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
@@ -2208,6 +2231,7 @@ if (elements.length) {
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
+[binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
 [biochemical ligand]: https://en.wikipedia.org/wiki/Ligand_(biochemistry)
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
@@ -2254,6 +2278,7 @@ if (elements.length) {
 [campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
 [campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
+[capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cd4]: https://en.wikipedia.org/wiki/CD4
 [cd8]: https://en.wikipedia.org/wiki/CD8
@@ -2315,8 +2340,10 @@ if (elements.length) {
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
 [citrate]: https://en.wikipedia.org/wiki/Citric_acid
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
+[clade]: https://en.wikipedia.org/wiki/Clade
 [class i mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_I
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
+[classes]: https://en.wikipedia.org/wiki/Class_(biology)
 [cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
@@ -2467,6 +2494,7 @@ if (elements.length) {
 [endometrium]: https://en.wikipedia.org/wiki/Endometrium
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosomes]: https://en.wikipedia.org/wiki/Endosome
+[endospores]: https://en.wikipedia.org/wiki/Endospore
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothelial cells]: https://en.wikipedia.org/wiki/Endothelium
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
@@ -2493,6 +2521,7 @@ if (elements.length) {
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
+[eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
 [evolution]: https://en.wikipedia.org/wiki/Evolution
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
@@ -2509,6 +2538,7 @@ if (elements.length) {
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
 [facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
+[families]: https://en.wikipedia.org/wiki/Family_(biology)
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
 [fatty acid degradation]: https://en.wikipedia.org/wiki/Fatty_acid_degradation
@@ -2564,6 +2594,7 @@ if (elements.length) {
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
 [gene flow]: https://en.wikipedia.org/wiki/Gene_flow
 [gene therapy]: https://en.wikipedia.org/wiki/Gene_therapy
+[genera]: https://en.wikipedia.org/wiki/Genus
 [genetic drift]: https://en.wikipedia.org/wiki/Genetic_drift
 [genetically modified organisms]: https://en.wikipedia.org/wiki/Genetically_modified_organism
 [genetics]: https://en.wikipedia.org/wiki/Genetics
@@ -2589,6 +2620,8 @@ if (elements.length) {
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
+[gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
+[gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
 [gravity]: https://en.wikipedia.org/wiki/Gravity
@@ -2618,6 +2651,7 @@ if (elements.length) {
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
+[heterochrony]: https://en.wikipedia.org/wiki/Heterochrony
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
@@ -2638,6 +2672,7 @@ if (elements.length) {
 [homology]: https://en.wikipedia.org/wiki/Homology_(biology)
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
+[horizontal gene transfer]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
@@ -2913,6 +2948,7 @@ if (elements.length) {
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
+[orders]: https://en.wikipedia.org/wiki/Order_(biology)
 [organelles]: https://en.wikipedia.org/wiki/Organelle
 [organic compound]: https://en.wikipedia.org/wiki/Organic_compound
 [organisms]: https://en.wikipedia.org/wiki/Organism
@@ -2921,6 +2957,7 @@ if (elements.length) {
 [origin of replication]: https://en.wikipedia.org/wiki/Origin_of_replication
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
+[orthologous]: https://en.wikipedia.org/wiki/Sequence_homology#Orthology
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [ova]: https://en.wikipedia.org/wiki/Ovum
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
@@ -2929,6 +2966,7 @@ if (elements.length) {
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
+[paedomorphosis]: https://en.wikipedia.org/wiki/Neoteny
 [paleontology]: https://en.wikipedia.org/wiki/Paleontology
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
@@ -2937,6 +2975,7 @@ if (elements.length) {
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
+[paralogous]: https://en.wikipedia.org/wiki/Sequence_homology#Paralogy
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
@@ -3061,6 +3100,7 @@ if (elements.length) {
 [quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
 [quorum sensing]: https://en.wikipedia.org/wiki/Quorum_sensing
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
+[r plasmids]: https://en.wikipedia.org/wiki/R-factor
 [r process]: https://en.wikipedia.org/wiki/R-process
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
@@ -3196,6 +3236,7 @@ if (elements.length) {
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
 [taxa]: https://en.wikipedia.org/wiki/Taxon
+[taxis]: https://en.wikipedia.org/wiki/Taxis
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
 [telomerase]: https://en.wikipedia.org/wiki/Telomerase
