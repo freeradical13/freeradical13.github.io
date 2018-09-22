@@ -959,7 +959,7 @@ Genes are [heritable][] if they are passed from one organism to another.
 
 An organism is an object with the properties of life.
 
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms.
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space. A [population][] is a group of organisms of the same species in the same area.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products.
 
@@ -1037,7 +1037,7 @@ A cell in a hypertonic solution will lose water which may lead to the membrane b
 
 #### Electron Transport Chain
 
-An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controller way, creating molecules such as ATP, and heat.
+An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controlled way, creating molecules such as ATP, and heat.
 
 #### Chemiosmosis
 
@@ -1125,7 +1125,7 @@ The [Respiratory Chain][] uses the electron carriers NADH and FADH<sub>2</sub> p
 Steps of the Respiratory Chain:
 
 1. NADH transfers electrons to [Complex I][]: flavoprotein [FMN][] (named because of its flavin mononucleotide) followed by an iron-sulfur protein FeS. Complex I also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. FeS transfer electrons to the non-protein Ubiquinone (Q or [Coenzyme Q<sub>10</sub>][coenzyme q10] or CoQ).
+1. FeS transfers electrons to the non-protein Ubiquinone (Q or [Coenzyme Q<sub>10</sub>][coenzyme q10] or CoQ).
     1. In addition, FADH<sub>2</sub> transfers electrons to [Complex II][] into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
 1. Q transfers electrons into [Complex III][] into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
 1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into [Complex IV][] into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
@@ -1263,7 +1263,16 @@ There are various types of [chromosome abnormalities][] that may lead to problem
 * [Chromosome Translocations][]: A part of a chromosome is transferred to another chromosome.
 * [Chromosome Inversions][]: A part of a chromosome breaks off, turns upside down, and reattaches.
 
-Given a frequency of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the corresponding genotypes under random sexual reproduction in the absence of non-genetic pressures.
+[Short Tandem Repeats][] (STRs) are repeating nucleotide sequences at particular locii that vary in length across organisms of the same species.
+
+#### Hardy-Weinberg Equilibrium
+
+Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the genotypes of offspring assuming random sexual reproduction, a large population, no mutations, and other conditions. If the observed genotypes of offspring match predictions, then it may be inferred that the gene frequencies are not changing (i.e. they're in Hardy-Weinberg Equilibrium):
+
+* Given two allele frequencies called p and q (i.e. <code>P(p)</code> and <code>P(q)</code>), the sum of frequencies must be 1: <code>p + q = 1</code>
+* Each gamete has probabilities p and q of having said alleles.
+* Assuming random union of gametes into zygotes, the probability of two p alleles is p<sup>2</sup>, the probability of two q alleles is q<sup>2</sup>, and the probability of one p and one q allele is 2pq (from <code>(p + q)<sup>2</sup></code>).
+* The sum of frequencies of the offspring must be 1: <code>p<sup>2</sup> + 2pq + q<sup>2</sup> = 1</code>
 
 ### Protein Synthesis
 
@@ -1313,7 +1322,9 @@ A [point mutation][] is a mutation of a single nucleotide pair at a particular l
 * A [nucleotide-pair substitution][] is a point mutation where one nucleotide pair is changed for another.
 * A [frameshift mutation][] occurs when a number of nucleotide pairs that's not a multiple of three are inserted or deleted.
 
-If the same codon is generated, the mutation is called a [silent mutation][]. If a different codon is generated, the mutation is called a [missense mutation][]. If a stop codon is generated, the mutation is called a [nonsense mutation][]. 
+A single nucleotide base-pair where variation is found in at least 1% of a population of similar organisms is called a [Single Nucleotide Polymorphism][] (SNP).
+
+If the same codon is generated, the mutation is called a [silent mutation][]. If a different codon is generated, the mutation is called a [missense mutation][]. If a stop codon is generated, the mutation is called a [nonsense mutation][].
 
 ### DNA Self-Modification
 
@@ -1327,13 +1338,19 @@ DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposabl
 
 ### Other DNA Behaviors
 
-[Restriction enzymes][] detect particular sequences of DNA and cut the DNA into pieces at any such sequences (called [restriction sites][]). 
+[Restriction enzymes][] (or restriction endonucleases) detect particular sequences of DNA and cut the DNA into pieces at any such sequences (called [restriction sites][]). 
 
 ### Epigenetics
 
 [Epigenetics][] is the study of heritable phenotype changes with causes other than changes to the DNA sequence such as methylation of histones on chromatin.
 
 In some cases called [genomic imprinting][], there may be a difference in gene expression of a heterozygous allele on an autosomal chromosome depending on whether it came from the paternal or maternal chromosome (even though the DNA sequence would be the same in both cases).
+
+### Gene Therapy
+
+[Gene Therapy][] is the insertion of genes into somatic cells to change their function.
+
+[Transgenes][] are similar but introduced into zygotes and the resulting organisms are called [Genetically Modified Organisms][] (GMOs).
 
 ### Proteomics
 
@@ -1828,7 +1845,7 @@ After fertilization between sperm and egg creates a zygote, the zygote starts to
 
 Once cleavage creates 16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
 
-The zygote and blastomeres are a type of cell called a [stem cell][] which can [differentiate][] into various types of different cells for different functions. Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into. The zygote and blastomeres are totipotent because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
+[Stem cells][] are types of cell that can [differentiate][] into various types of different cells for different functions (these include zygotes and blastomeres). Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into. The zygote and blastomeres are totipotent because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
 
 Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's [uterus][] (or womb), and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
 
@@ -1854,15 +1871,19 @@ A [homeobox][] is a DNA sequence found within genes that encodes transcription f
 
 ## History of Life
 
-Oceans formed on Earth about [4.4 billion years ago][history of oceans]. The first prokaryotes existed at least [2 to 3.5 billion years ago][origins of life]. The first eukaryotes existed at least [2 billion years ago][origins of life]. The first multi-cellular eukaryotes existed at least [1.2 billion years ago][kaplan ap biology 2017]. The first land-based eukaryotes existed at least [1.3 billion years ago][history of life]. The split of plants and animals occurred at least [1 billion years ago][origins of life].
+[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. The [first prokaryotes existed][origins of life] at least 2 to 3.5 billion years ago. The [first eukaryotes existed][origins of life] at least 2 billion years ago. The [first multi-cellular eukaryotes existed][kaplan ap biology 2017] at least 1.2 billion years ago. The [first land-based eukaryotes existed][history of life] at least 1.3 billion years ago. The [split of plants and animals occurred][origins of life] at least 1 billion years ago.
+
+### Fossils
+
+[Fossils][] are remains or traces of dead organisms. [Paleontology][] is the study of fossils. In some cases, dead organism settle into layers of sediment which are compressed over time on top of each other, with each layer called a [stratum][] (plural strata).
 
 ## Evolution
 
 [Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
 
-The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, artifical selection by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. Evolutionary fitness is specifically reproductive success.
+The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
 
-[Homology][] is the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor.
+[Homology][] (or homologous structures) is evidence of the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor. [Convergent evolution][] is the independent evolution of similar traits and the traits are called analogous rather than homologous.
 
 [Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
 
@@ -1919,6 +1940,10 @@ Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomaviru
 ## Biosphere
 
 The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [ecosystem][] consists of all life and the things life interacts with in a particular area.
+
+[Geography][] is the study of the biosphere, land, oceans, atmosphere, etc. A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
+
+Continents move through a process called [continental drift][]. About 250 millions years ago, the Earth had a single continent called [Pangaea][]. About 200 million years ago, Pangaea began to break apart. About 20 million years ago, the modern 7 continents were approximately where they are now.
 
 # Feedback
 
@@ -2018,6 +2043,7 @@ if (elements.length) {
 [acyl]: https://en.wikipedia.org/wiki/Acyl_group
 [acyl-carnitine]: https://en.wikipedia.org/wiki/Acetylcarnitine
 [acyl-coa]: https://en.wikipedia.org/wiki/Acyl-CoA
+[adaptations]: https://en.wikipedia.org/wiki/Adaptation
 [adaptive immune system]: https://en.wikipedia.org/wiki/Adaptive_immune_system
 [adduct]: https://en.wikipedia.org/wiki/Adduct
 [adenosine triphosphate]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
@@ -2092,6 +2118,7 @@ if (elements.length) {
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
 [arteriosclerosis]: https://en.wikipedia.org/wiki/Arteriosclerosis
+[artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
@@ -2269,7 +2296,10 @@ if (elements.length) {
 [connective tissues]: https://en.wikipedia.org/wiki/Connective_tissue
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [constitutive gene]: https://en.wikipedia.org/wiki/Gene_expression#Regulation_of_gene_expression
+[continent]: https://en.wikipedia.org/wiki/Continent
+[continental drift]: https://en.wikipedia.org/wiki/Continental_drift
 [control elements]: https://en.wikipedia.org/wiki/Regulatory_sequence
+[convergent evolution]: https://en.wikipedia.org/wiki/Convergent_evolution
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
@@ -2447,6 +2477,7 @@ if (elements.length) {
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[fossils]: https://en.wikipedia.org/wiki/Fossil
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
@@ -2476,10 +2507,13 @@ if (elements.length) {
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
+[gene therapy]: https://en.wikipedia.org/wiki/Gene_therapy
+[genetically modified organisms]: https://en.wikipedia.org/wiki/Genetically_modified_organism
 [genetics]: https://en.wikipedia.org/wiki/Genetics
 [genome]: https://en.wikipedia.org/wiki/Genome
 [genomic imprinting]: https://en.wikipedia.org/wiki/Genomic_imprinting
 [genotype]: https://en.wikipedia.org/wiki/Genotype
+[geography]: https://en.wikipedia.org/wiki/Physical_geography
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
@@ -2601,6 +2635,7 @@ if (elements.length) {
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
+[island]: https://en.wikipedia.org/wiki/Island
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
 [isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
@@ -2831,9 +2866,11 @@ if (elements.length) {
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
+[paleontology]: https://en.wikipedia.org/wiki/Paleontology
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
+[pangaea]: https://en.wikipedia.org/wiki/Pangaea
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
@@ -2915,6 +2952,7 @@ if (elements.length) {
 [polysome]: https://en.wikipedia.org/wiki/Polysome
 [polytene chromosomes]: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470015902.a0001183.pub2
 [pons]: https://en.wikipedia.org/wiki/Pons
+[population]: https://en.wikipedia.org/wiki/Population
 [porosome]: https://en.wikipedia.org/wiki/Porosome
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [positive strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
@@ -3014,6 +3052,7 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sexes]: https://en.wikipedia.org/wiki/Sex
+[short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
@@ -3023,6 +3062,7 @@ if (elements.length) {
 [signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
 [silent mutation]: https://en.wikipedia.org/wiki/Silent_mutation
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
+[single nucleotide polymorphism]: https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
 [smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
@@ -3057,13 +3097,14 @@ if (elements.length) {
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stator]: https://en.wikipedia.org/wiki/Stator
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
-[stem cell]: https://en.wikipedia.org/wiki/Stem_cell
 [stem cell potency]: https://en.wikipedia.org/wiki/Stem_cell#Potency_meaning
+[stem cells]: https://en.wikipedia.org/wiki/Stem_cell
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [stomach]: https://en.wikipedia.org/wiki/Stomach
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
+[stratum]: https://en.wikipedia.org/wiki/Stratum
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
@@ -3122,6 +3163,7 @@ if (elements.length) {
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transferases]: https://en.wikipedia.org/wiki/Transferase
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
+[transgenes]: https://en.wikipedia.org/wiki/Transgene
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
 [transmission electron microscope]: https://en.wikipedia.org/wiki/Transmission_electron_microscopy
