@@ -1883,9 +1883,21 @@ A [homeobox][] is a DNA sequence found within genes that encodes transcription f
 
 The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
 
+[Genetic Drift][] is evolution of certain alleles over others due to random chance (the smaller the population, the more likely). One type of genetic drift is the [Founder Effect][] when a small part of a population becomes isolated from the larger population (e.g. on an island - this often also leads to the creation of multiple species, called [allopatric speciation][] as opposed to [sympatric speciation][] in the same geographical area). Another type of genetic drift is the [Bottleneck Effect][] where a population has a significant decline due to some bottleneck such as a fire.
+
+[Gene Flow][] occurs when a new allele is introduced into a population from another population.
+
 [Homology][] (or homologous structures) is evidence of the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor. [Convergent evolution][] is the independent evolution of similar traits and the traits are called analogous rather than homologous.
 
 [Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
+
+[Sexual Selection][] is a type of natural selection where individuals of one sex with certain characteristics are more likely to obtain mates than other individuals of the same sex. In [Intrasexual Selection][], organisms of the same sex compete for mates of the opposite sex. In [Intersexual Selection][], one sex (usually females) chooses the members of the opposite sex to mate with. Sexual selection may lead to [Sexual Dimorphism][] which describes differences in characteristics between males and females.
+
+In [Frequency-Dependent Selection][], the frequency of an allele fluctuates depending on the frequency of other alleles within the same species (e.g. sexual selection) or in other species.
+
+In [Heterozygote Advantage][], organisms with two or more alleles at a locus are selected at a higher rate.
+
+A [Hybrid Zone][] is a geographical area in which multiple species are more likely to reproduce (creating hybrids). [Reinforcement][] is the process of increasing reproductive barriers between species in the case that hybrids are less fit than parents.
 
 ## Laboratory Techniques
 
@@ -2069,6 +2081,7 @@ if (elements.length) {
 [alkyl]: https://en.wikipedia.org/wiki/Alkyl
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [allele]: https://en.wikipedia.org/wiki/Allele
+[allopatric speciation]: https://en.wikipedia.org/wiki/Allopatric_speciation
 [allosomes]: https://en.wikipedia.org/wiki/Sex_chromosome
 [allosteric competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/competitive-inhibition
 [allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
@@ -2171,6 +2184,7 @@ if (elements.length) {
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
+[bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
 [branches]: https://en.wikipedia.org/wiki/Branch
@@ -2478,11 +2492,13 @@ if (elements.length) {
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [fossils]: https://en.wikipedia.org/wiki/Fossil
+[founder effect]: https://en.wikipedia.org/wiki/Founder_effect
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
+[frequency-dependent selection]: https://en.wikipedia.org/wiki/Frequency-dependent_selection
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [frontal lobe]: https://en.wikipedia.org/wiki/Frontal_lobe
 [fructose]: https://en.wikipedia.org/wiki/Fructose
@@ -2507,7 +2523,9 @@ if (elements.length) {
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
 [gene]: https://en.wikipedia.org/wiki/Gene
 [gene expression]: https://en.wikipedia.org/wiki/Gene_expression
+[gene flow]: https://en.wikipedia.org/wiki/Gene_flow
 [gene therapy]: https://en.wikipedia.org/wiki/Gene_therapy
+[genetic drift]: https://en.wikipedia.org/wiki/Genetic_drift
 [genetically modified organisms]: https://en.wikipedia.org/wiki/Genetically_modified_organism
 [genetics]: https://en.wikipedia.org/wiki/Genetics
 [genome]: https://en.wikipedia.org/wiki/Genome
@@ -2561,6 +2579,7 @@ if (elements.length) {
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
+[heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
@@ -2583,6 +2602,7 @@ if (elements.length) {
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
+[hybrid zone]: https://en.wikipedia.org/wiki/Hybrid_zone
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
 [hydride]: https://en.wikipedia.org/wiki/Hydride
@@ -2625,6 +2645,7 @@ if (elements.length) {
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
+[intrasexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
@@ -3013,6 +3034,7 @@ if (elements.length) {
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
+[reinforcement]: https://en.wikipedia.org/wiki/Reinforcement_(speciation)
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [relative density]: https://en.wikipedia.org/wiki/Relative_density
 [release factor]: https://en.wikipedia.org/wiki/Release_factor
@@ -3052,6 +3074,8 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sexes]: https://en.wikipedia.org/wiki/Sex
+[sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
+[sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
@@ -3122,6 +3146,7 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [t cells]: https://en.wikipedia.org/wiki/T_cell
