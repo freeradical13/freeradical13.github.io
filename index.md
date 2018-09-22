@@ -1237,7 +1237,7 @@ In some organisms, the organism is usually in a haploid state and the only diplo
 
 An [allele][] is one variant of a gene which may create a different phenotype.
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or [pollen][]), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or [pollen][]), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined (mate) in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
 
 When one organism asexually reproduces or multiple organisms sexually reproduce, the original organisms are called parents and the new organism(s) are called [offspring][] (or children or brood or progeny).
 
@@ -1351,6 +1351,28 @@ In some cases called [genomic imprinting][], there may be a difference in gene e
 [Gene Therapy][] is the insertion of genes into somatic cells to change their function.
 
 [Transgenes][] are similar but introduced into zygotes and the resulting organisms are called [Genetically Modified Organisms][] (GMOs).
+
+### Evolution
+
+[Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
+
+The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
+
+[Genetic Drift][] is evolution of certain alleles over others due to random chance (the smaller the population, the more likely). One type of genetic drift is the [Founder Effect][] when a small part of a population becomes isolated from the larger population (e.g. on an island - this often also leads to the creation of multiple species, called [allopatric speciation][] as opposed to [sympatric speciation][] in the same geographical area). Another type of genetic drift is the [Bottleneck Effect][] where a population has a significant decline due to some bottleneck such as a fire.
+
+[Gene Flow][] occurs when a new allele is introduced into a population from another population.
+
+[Homology][] (or homologous structures) is evidence of the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor. [Convergent evolution][] is the independent evolution of similar traits and the traits are called analogous rather than homologous.
+
+[Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
+
+[Sexual Selection][] is a type of natural selection where individuals of one sex with certain characteristics are more likely to obtain mates than other individuals of the same sex. In [Intrasexual Selection][], organisms of the same sex compete for mates of the opposite sex. In [Intersexual Selection][], one sex (usually females) chooses the members of the opposite sex to mate with. Sexual selection may lead to [Sexual Dimorphism][] which describes differences in characteristics between males and females.
+
+In [Frequency-Dependent Selection][], the frequency of an allele fluctuates depending on the frequency of other alleles within the same species (e.g. sexual selection) or in other species.
+
+In [Heterozygote Advantage][], organisms with two or more alleles at a locus are selected at a higher rate.
+
+A [Hybrid Zone][] is a geographical area in which multiple species are more likely to reproduce (creating hybrids). [Reinforcement][] is the process of increasing reproductive barriers between species in the case that hybrids are less fit than parents.
 
 ### Proteomics
 
@@ -1555,7 +1577,7 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually. [Tetrapods][] are animals with four limbs. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
 
 ##### Vertebrates
 
@@ -1577,9 +1599,17 @@ Underneath the cerebrum and connected to the brainstem are other structures such
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
+##### Synapsids
+
+[Synapsids][] are animals that have holes in their skull allowing for additional muscles to control the jaw to provide additional power. The earliest synapsids existed about 300 million years ago.
+
+##### Therapsids
+
+[Therapsids][] evolved from synapsids and have specialized teeth called canines for piercing. The earliest therapsids existed about 280 million years ago.
+
 ##### Mammals
 
-[Mammals][] are animals that have [mammary glands][] that produce milk, a neocortex, and hair.
+[Mammals][] are tetrapods evolved from therapsids and have [mammary glands][] that produce milk, a neocortex, and hair.
 
 Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, a random one of the X chromosomes deactivates into an object called a [Barr body][] (this occurs independently in multiple embryonic cells, thus some females have [mosaicism][] of some traits).
 
@@ -1871,33 +1901,41 @@ A [homeobox][] is a DNA sequence found within genes that encodes transcription f
 
 ## History of Life
 
-[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. The [first prokaryotes existed][origins of life] at least 2 to 3.5 billion years ago. The [first eukaryotes existed][origins of life] at least 2 billion years ago. The [first multi-cellular eukaryotes existed][kaplan ap biology 2017] at least 1.2 billion years ago. The [first land-based eukaryotes existed][history of life] at least 1.3 billion years ago. The [split of plants and animals occurred][origins of life] at least 1 billion years ago.
+[Oceans formed on Earth][history of oceans] about 4.4 billion years ago.
+
+[Geology][] is the study of the solid parts of the Earth. 
 
 ### Fossils
 
 [Fossils][] are remains or traces of dead organisms. [Paleontology][] is the study of fossils. In some cases, dead organism settle into layers of sediment which are compressed over time on top of each other, with each layer called a [stratum][] (plural strata).
 
-## Evolution
+The [geological record][] is an analysis of strata and fossils to date different periods of the Earth's history:
 
-[Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
-
-The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates called sexual selection, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
-
-[Genetic Drift][] is evolution of certain alleles over others due to random chance (the smaller the population, the more likely). One type of genetic drift is the [Founder Effect][] when a small part of a population becomes isolated from the larger population (e.g. on an island - this often also leads to the creation of multiple species, called [allopatric speciation][] as opposed to [sympatric speciation][] in the same geographical area). Another type of genetic drift is the [Bottleneck Effect][] where a population has a significant decline due to some bottleneck such as a fire.
-
-[Gene Flow][] occurs when a new allele is introduced into a population from another population.
-
-[Homology][] (or homologous structures) is evidence of the existence of shared ancestry between a pair of structures, or genes, in different taxa due to descent with modification from a common ancestor. [Convergent evolution][] is the independent evolution of similar traits and the traits are called analogous rather than homologous.
-
-[Stabilizing selection][] eliminates phenotypes at the extremes of a population characteristic. [Directional selection][] favors one extreme of a population characteristic. [Disruptive selection][] (or diversifying selection) favors both extremes of a population characteristic while selecting against the average.
-
-[Sexual Selection][] is a type of natural selection where individuals of one sex with certain characteristics are more likely to obtain mates than other individuals of the same sex. In [Intrasexual Selection][], organisms of the same sex compete for mates of the opposite sex. In [Intersexual Selection][], one sex (usually females) chooses the members of the opposite sex to mate with. Sexual selection may lead to [Sexual Dimorphism][] which describes differences in characteristics between males and females.
-
-In [Frequency-Dependent Selection][], the frequency of an allele fluctuates depending on the frequency of other alleles within the same species (e.g. sexual selection) or in other species.
-
-In [Heterozygote Advantage][], organisms with two or more alleles at a locus are selected at a higher rate.
-
-A [Hybrid Zone][] is a geographical area in which multiple species are more likely to reproduce (creating hybrids). [Reinforcement][] is the process of increasing reproductive barriers between species in the case that hybrids are less fit than parents.
+* Hadean (~4.6 billion years ago)
+* Archaean (~4 to ~2.5 billion years ago): The [first prokaryotes existed][origins of life] at least 3.5 billion years ago.
+* Proterozoic (~2.5 billion years ago to ~540 million years ago): The [first eukaryotes existed][origins of life] at least 2 billion years ago. The [first land-based eukaryotes existed][history of life] at least 1.3 billion years ago. The [first multi-cellular eukaryotes existed][kaplan ap biology 2017] at least 1.2 billion years ago. The [split of plants and animals occurred][origins of life] at least 1 billion years ago.
+* Paleozoic
+    * Cambrian (~540 to ~485 million years ago)
+    * Odrovician (~485 to ~444 million years ago)
+    * Silurian (~444 to ~419 million years ago)
+    * Devonian (~419 to ~359 million years ago)
+    * Carboniferous (~359 to ~299 million years ago)
+    * Permian (~299 to ~252 million years ago)
+* Mesozoic
+    * Triassic (~252 to ~201 million years ago): The first mammals.
+    * Jurassic (~201 to ~145 million years ago)
+    * Cretaceous (~145 to ~66 million years ago)
+* Cenozoic
+    * Paleogene
+        * Paleocene (~66 to ~56 million years ago)
+        * Eocene (~56 to ~34 million years ago)
+        * Oligocene (~34 to ~23 million years ago): The first primates.
+    * Neogene
+        * Miocene (~23 to ~5.3 million years ago): Earliest direct human ancestors.
+        * Pliocene (~5.3 to ~2.6 million years ago): The first bipedal human ancestors.
+    * Quaternary
+        * Pleistocene (~2.6 million years ago to ~11 thousand years ago): The first Homo Erectus.
+        * Holocene (~11 thousand years ago to present)
 
 ## Laboratory Techniques
 
@@ -2332,6 +2370,7 @@ if (elements.length) {
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cyclin]: https://en.wikipedia.org/wiki/Cyclin
 [cyclin-dependent kinases]: https://en.wikipedia.org/wiki/Cyclin-dependent_kinase
+[cynodonts]: https://en.wikipedia.org/wiki/Cynodont
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokines]: https://en.wikipedia.org/wiki/Cytokine
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
@@ -2532,6 +2571,8 @@ if (elements.length) {
 [genomic imprinting]: https://en.wikipedia.org/wiki/Genomic_imprinting
 [genotype]: https://en.wikipedia.org/wiki/Genotype
 [geography]: https://en.wikipedia.org/wiki/Physical_geography
+[geological record]: https://en.wikipedia.org/wiki/Geologic_record
+[geology]: https://en.wikipedia.org/wiki/Geology
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germline]: https://en.wikipedia.org/wiki/Germline
@@ -2691,6 +2732,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light microscope]: https://en.wikipedia.org/wiki/Optical_microscope
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[limb]: https://en.wikipedia.org/wiki/Limb_(anatomy)
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
 [lipase]: https://en.wikipedia.org/wiki/Lipase
@@ -3147,6 +3189,7 @@ if (elements.length) {
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
+[synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [t cells]: https://en.wikipedia.org/wiki/T_cell
@@ -3169,7 +3212,9 @@ if (elements.length) {
 [testosterone]: https://en.wikipedia.org/wiki/Testosterone
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
+[tetrapods]: https://en.wikipedia.org/wiki/Tetrapod
 [thalamus]: https://en.wikipedia.org/wiki/Thalamus
+[therapsids]: https://en.wikipedia.org/wiki/Therapsid
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
