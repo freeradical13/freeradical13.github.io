@@ -1223,7 +1223,7 @@ Growth factor may be inhibited in [density-dependent inhibition][] when cell-sur
 
 [Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
-In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (similar to gametes) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Two haploid cells of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte.
+In some organisms, a diploid organism called a [sporophyte][] creates both male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
 
 In some organisms, the organism is usually in a haploid state and the only diploid is the unicellular zygote.
 
@@ -1417,9 +1417,17 @@ One bacterium may transfer some genes to another bacterium through various types
 
 [Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
+Some bacteria convert atmospheric Nitrogen to Ammonia for amino acids through a process called [Nitrogen Fixation][].
+
+Some groups of bacteria coordinate metabolism in groups called [biofilms][]. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
+
 #### Archaea
 
-[Archaea][] are prokaryotes without a peptidoglycan cell wall and have genetic similarities to eukaryotes which distinguishes them from bacteria. Archaea include [extremophiles][] that exist in conditions which hurt most other organisms.
+[Archaea][] are prokaryotes without a peptidoglycan cell wall and have genetic similarities to eukaryotes which distinguishes them from bacteria.
+
+Archaea include [extremophiles][] that exist in conditions which hurt most other organisms. [Extreme Halophiles][] live in high salt environments. [Extreme Thermophiles][] live in high temperature environments.
+
+[Methanogens][] are archaea that release methane as a by-product.
 
 ### Eukaryotes
 
@@ -1501,6 +1509,12 @@ Plant organelles are called [plastids][].
 
 [Phototropism][] is the directional growth of plants towards light.
 
+Plants have alternation of generations and they are [embryophytes][] (or land plants) which nurture young embryo sporophytes within the gametophyte.
+
+Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][].
+
+Plant gametophytes have organs called [gametangia][] (female [archegonia][] and male [antheridia][]) which produce gametes that fertilize in the archegonia.
+
 ##### Chloroplasts
 
 [Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
@@ -1532,10 +1546,6 @@ Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which st
 The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
 [Meristems][] are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
-
-#### Algae
-
-[Algae][] is a polyphyletic group of eukaryotic organisms that use photosynthesis but lack roots, stems or leaves, so they're not considered plants.
 
 #### Cell Communication
 
@@ -1641,9 +1651,55 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
 
+#### Algae
+
+[Algae][] are a polyphyletic group fo photosynthetic eukaryotes which lack roots, stems or leaves, so they're not considered plants.
+
 #### Protists
 
-[Protists][] are something of a catch-all kingdom of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms.
+[Protists][] are something of a catch-all name of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms (i.e. not animals, plants, or fungi).
+
+Some protists called [mixotrophs][] are both heterotrophic and photosynthetic.
+
+The major clades including protists are:
+
+* [Excavata][]: Similarities in exoskeleton and most have an excavator feeding groove.
+    * Diplomonads: Contain mitochondria without electron transport chains called mitosomes.
+    * Parabasalids: Contain mitochondria called hydrogenosomes which release Hydrogen gas as a by-product of anaerobic respiration.
+    * Euglenozoans: Presence of a rod inside flagella. Includes Euglenids and Kinetoplastids which contain a single, large mitochondrion with mtDNA in a kinetoplast.
+* SAR
+    * Stramenopiles: Most include flagella with hair.
+        * Diatoms: Unicellular algae with a strong silicon dioxide cell wall.
+        * Golden Algae: Golden color from yellow and brown carotenoids.
+        * Brown Algae: Brown or olive color from plastids. Some include plant-like components such as the holdfast for anchoring, the stemlike stipe, and leaflike blades. Includes Kelp.
+    * Alveolates: Have sacs under the plasma membrane called alveoli.
+        * Dinoflagellates
+        * Apicomplexans: Include Plasmodium which is the parasite that causes Malaria.
+        * Ciliates
+    * Rhizarians
+        * Radiolarians
+        * Forams
+        * Cercozoans
+* Archaeplastida
+    * Red Algae
+    * Green Algae
+        * Chlorophytes
+        * Charophytes
+    * Plants (non-Protists)
+* Unikonta
+    * Amoebozoans
+        * Slime Molds
+        * Tubulinids
+        * Entamoebas
+    * Opisthokonts
+        * Nucleariids
+        * Choanoflagellates
+        * Fungi (non-Protists)
+        * Animals (non-Protists)
+
+### Organism Interactions
+
+[Symbiosis][] is a condition where multiple species (smallest ones called [symbionts][]) live in close contact with a larger species ([host][]). In [mutualism][], the species benefit each other. In [commensalism][], one species benefits and the others are not significantly affected. In [parasitism][], one species consumes the host.
 
 ### Cell Death
 
@@ -1747,7 +1803,12 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 ## Immune System
 
-The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause damage. Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
+The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may various types of damage:
+
+* [Exotoxins][]: Proteins secreted by pathogens which cause damage.
+* [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
+
+Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
 
 ### Innate Immune System
 
@@ -2145,6 +2206,7 @@ if (elements.length) {
 [allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
+[alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [amines]: https://en.wikipedia.org/wiki/Amine
@@ -2168,6 +2230,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
+[antheridia]: https://en.wikipedia.org/wiki/Antheridium
 [antibiotics]: https://en.wikipedia.org/wiki/Antibiotic
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
@@ -2186,6 +2249,7 @@ if (elements.length) {
 [aquaporins]: https://en.wikipedia.org/wiki/Aquaporin
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [archaea]: https://en.wikipedia.org/wiki/Archaea
+[archegonia]: https://en.wikipedia.org/wiki/Archegonium
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
@@ -2233,6 +2297,7 @@ if (elements.length) {
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
 [binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
 [biochemical ligand]: https://en.wikipedia.org/wiki/Ligand_(biochemistry)
+[biofilms]: https://en.wikipedia.org/wiki/Biofilm
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
@@ -2360,6 +2425,7 @@ if (elements.length) {
 [collagen]: https://en.wikipedia.org/wiki/Collagen
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
+[commensalism]: https://en.wikipedia.org/wiki/Commensalism
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
@@ -2430,6 +2496,7 @@ if (elements.length) {
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
+[diplomonads]: https://en.wikipedia.org/wiki/Diplomonad
 [dipole-dipole forces]: https://www.chem.purdue.edu/gchelp/liquids/dipdip.html
 [dipoles]: https://en.wikipedia.org/wiki/Electric_dipole_moment
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
@@ -2481,6 +2548,7 @@ if (elements.length) {
 [elevation]: https://en.wikipedia.org/wiki/Elevation
 [embryo]: https://en.wikipedia.org/wiki/Embryo
 [embryonic stem cells]: https://en.wikipedia.org/wiki/Embryonic_stem_cell
+[embryophytes]: https://en.wikipedia.org/wiki/Embryophyte
 [emission spectrum]: https://en.wikipedia.org/wiki/Emission_spectrum
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
@@ -2498,6 +2566,7 @@ if (elements.length) {
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothelial cells]: https://en.wikipedia.org/wiki/Endothelium
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
+[endotoxins]: https://en.wikipedia.org/wiki/Lipopolysaccharide
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [enhancers]: https://en.wikipedia.org/wiki/Enhancer_(genetics)
@@ -2520,18 +2589,23 @@ if (elements.length) {
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
+[euglenozoans]: https://en.wikipedia.org/wiki/Euglenozoa
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
 [evolution]: https://en.wikipedia.org/wiki/Evolution
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
+[excavata]: https://en.wikipedia.org/wiki/Excavata
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
 [exocrine gland]: https://en.wikipedia.org/wiki/Exocrine_gland
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
 [exons]: https://en.wikipedia.org/wiki/Exon
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
+[exotoxins]: https://en.wikipedia.org/wiki/Exotoxin
 [extracellular fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid
 [extracellular matrix]: https://en.wikipedia.org/wiki/Extracellular_matrix
+[extreme halophiles]: https://en.wikipedia.org/wiki/Halophile
+[extreme thermophiles]: https://en.wikipedia.org/wiki/Thermophile#Extreme_thermophiles
 [extremophiles]: https://en.wikipedia.org/wiki/Extremophile
 [f1 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [f2 generation]: https://en.wikipedia.org/wiki/F1_hybrid
@@ -2583,6 +2657,7 @@ if (elements.length) {
 [g3p]: https://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate
 [galactose]: https://en.wikipedia.org/wiki/Galactose
 [galaxies]: https://en.wikipedia.org/wiki/Galaxy
+[gametangia]: https://en.wikipedia.org/wiki/Gametangium
 [gametes]: https://en.wikipedia.org/wiki/Gamete
 [gametophyte]: https://en.wikipedia.org/wiki/Gametophyte
 [gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
@@ -2652,6 +2727,7 @@ if (elements.length) {
 [hertz]: https://en.wikipedia.org/wiki/Hertz
 [heterochromatin]: https://en.wikipedia.org/wiki/Heterochromatin
 [heterochrony]: https://en.wikipedia.org/wiki/Heterochrony
+[heterocysts]: https://en.wikipedia.org/wiki/Heterocyst
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
@@ -2675,6 +2751,7 @@ if (elements.length) {
 [horizontal gene transfer]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
+[host]: https://en.wikipedia.org/wiki/Host_(biology)
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
@@ -2750,6 +2827,7 @@ if (elements.length) {
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
+[kinetoplastids]: https://en.wikipedia.org/wiki/Kinetoplastida
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
@@ -2831,6 +2909,7 @@ if (elements.length) {
 [metastasizes]: https://en.wikipedia.org/wiki/Metastasis
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
+[methanogens]: https://en.wikipedia.org/wiki/Methanogen
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
@@ -2847,8 +2926,10 @@ if (elements.length) {
 [mitochondrial matrix]: https://en.wikipedia.org/wiki/Mitochondrial_matrix
 [mitochondrial symbiogenesis]: https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356
 [mitosis]: https://en.wikipedia.org/wiki/Mitosis
+[mitosomes]: https://en.wikipedia.org/wiki/Mitosome
 [mitotic spindle]: https://en.wikipedia.org/wiki/Spindle_apparatus
 [mixed inhibition]: https://en.wikipedia.org/wiki/Mixed_inhibition
+[mixotrophs]: https://en.wikipedia.org/wiki/Mixotroph
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -2881,6 +2962,7 @@ if (elements.length) {
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
 [mutagen]: https://en.wikipedia.org/wiki/Mutagen
 [mutations]: https://en.wikipedia.org/wiki/Mutation
+[mutualism]: https://en.wikipedia.org/wiki/Mutualism_(biology)
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
 [myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
@@ -2904,6 +2986,7 @@ if (elements.length) {
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
+[nitrogen fixation]: https://en.wikipedia.org/wiki/Nitrogen_fixation
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
@@ -2973,10 +3056,13 @@ if (elements.length) {
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [pangaea]: https://en.wikipedia.org/wiki/Pangaea
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
+[parabasalids]: https://en.wikipedia.org/wiki/Parabasalid
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paralogous]: https://en.wikipedia.org/wiki/Sequence_homology#Paralogy
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
+[parasite]: https://en.wikipedia.org/wiki/Parasitism
+[parasitism]: https://en.wikipedia.org/wiki/Parasitism
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [particles]: https://en.wikipedia.org/wiki/Particle
@@ -3192,7 +3278,9 @@ if (elements.length) {
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
+[sporangia]: https://en.wikipedia.org/wiki/Sporangium
 [spores]: https://en.wikipedia.org/wiki/Spore
+[sporocytes]: https://en.wikipedia.org/wiki/Sporogenesis#Formation_of_reproductive_spores
 [sporophyte]: https://en.wikipedia.org/wiki/Sporophyte
 [src]: https://en.wikipedia.org/wiki/Proto-oncogene_tyrosine-protein_kinase_Src
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
@@ -3228,6 +3316,8 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[symbionts]: https://en.wikipedia.org/wiki/Symbiosis
+[symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
