@@ -1505,7 +1505,19 @@ Mitochondria have their own DNA called [mtDNA][] which is passed down from the m
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients.
+
+[Yeasts][] are single-celled fungi.
+
+Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
+
+Many fungi reproduce both sexually and asexually. Two mycelia may merge into a [plasmogamy][] which shares two nuclei called [heterokaryon][] in a structure called a [zygosporangium][] or combine more fully into a [dikaryotic][], multi-nuclei cell. In the process of [karyogamy][], the two haploid nuclei fuse into diploid cells.
+
+A [lichen][] is a grouping of many photosynthetic organisms within a fungal hyphae.
+
+Infection of an organism by a parasitic fungus is called [mycosis][].
+
+Fungi and plants may combine to form [mycorrhizae][]. Branching hyphae called [arbuscules][] allow the fungi to exchange nutrients with plant hosts. [Endophytes][] are fungi or bacteria that live on plants without causing harm.
 
 #### Algae
 
@@ -2259,6 +2271,7 @@ if (elements.length) {
 [apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
 [aquaporins]: https://en.wikipedia.org/wiki/Aquaporin
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
+[arbuscules]: https://en.wikipedia.org/wiki/Arbuscular_mycorrhiza
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [archegonia]: https://en.wikipedia.org/wiki/Archegonium
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
@@ -2430,6 +2443,7 @@ if (elements.length) {
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
+[coenocytic]: https://en.wikipedia.org/wiki/Coenocyte
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
 [cofactor]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/enzyme-cofactors-and-coenzymes
@@ -2508,6 +2522,7 @@ if (elements.length) {
 [digestion]: https://en.wikipedia.org/wiki/Digestion
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dihybrids]: https://en.wikipedia.org/wiki/Dihybrid_cross
+[dikaryotic]: https://en.wikipedia.org/wiki/Dikaryon
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
@@ -2577,6 +2592,7 @@ if (elements.length) {
 [endoderm]: https://en.wikipedia.org/wiki/Endoderm
 [endomembrane system]: https://en.wikipedia.org/wiki/Endomembrane_system
 [endometrium]: https://en.wikipedia.org/wiki/Endometrium
+[endophytes]: https://en.wikipedia.org/wiki/Endophyte
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosomes]: https://en.wikipedia.org/wiki/Endosome
 [endosperm]: https://en.wikipedia.org/wiki/Endosperm
@@ -2753,6 +2769,7 @@ if (elements.length) {
 [heterochrony]: https://en.wikipedia.org/wiki/Heterochrony
 [heterocysts]: https://en.wikipedia.org/wiki/Heterocyst
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[heterokaryon]: https://en.wikipedia.org/wiki/Heterokaryon
 [heterosporous]: https://en.wikipedia.org/wiki/Spore
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
@@ -2795,6 +2812,7 @@ if (elements.length) {
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
 [hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
+[hyphae]: https://en.wikipedia.org/wiki/Hypha
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [hydrolases]: https://en.wikipedia.org/wiki/Hydrolase
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
@@ -2848,6 +2866,7 @@ if (elements.length) {
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
+[karyogamy]: https://en.wikipedia.org/wiki/Karyogamy
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [keratin]: https://en.wikipedia.org/wiki/Keratin
@@ -2869,6 +2888,7 @@ if (elements.length) {
 [leaves]: https://en.wikipedia.org/wiki/Leaf
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
+[lichen]: https://en.wikipedia.org/wiki/Lichen
 [life]: https://en.wikipedia.org/wiki/Life
 [ligand gated channels]: https://en.wikipedia.org/wiki/Ligand-gated_ion_channel
 [ligand]: https://en.wikipedia.org/wiki/Ligand
@@ -3000,6 +3020,9 @@ if (elements.length) {
 [mutagen]: https://en.wikipedia.org/wiki/Mutagen
 [mutations]: https://en.wikipedia.org/wiki/Mutation
 [mutualism]: https://en.wikipedia.org/wiki/Mutualism_(biology)
+[mycelium]: https://en.wikipedia.org/wiki/Mycelium
+[mycorrhizae]: https://en.wikipedia.org/wiki/Mycorrhiza
+[mycosis]: https://en.wikipedia.org/wiki/Mycosis
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
 [myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
@@ -3158,6 +3181,7 @@ if (elements.length) {
 [plasma cells]: https://en.wikipedia.org/wiki/Plasma_cell
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
 [plasmodesmata]: https://en.wikipedia.org/wiki/Plasmodesma
+[plasmogamy]: https://en.wikipedia.org/wiki/Plasmogamy
 [plasmolysis]: https://en.wikipedia.org/wiki/Plasmolysis
 [plastids]: https://en.wikipedia.org/wiki/Plastid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
@@ -3287,6 +3311,7 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [seeds]: https://en.wikipedia.org/wiki/Seed
 [sepals]: https://en.wikipedia.org/wiki/Sepal
+[septa]: https://en.wikipedia.org/wiki/Septum
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
@@ -3317,6 +3342,7 @@ if (elements.length) {
 [solution]: https://en.wikipedia.org/wiki/Solution
 [solvent]: https://en.wikipedia.org/wiki/Solvent
 [somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
+[soredia]: https://en.wikipedia.org/wiki/Soredium
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
 [species]: https://en.wikipedia.org/wiki/Species
@@ -3494,6 +3520,8 @@ if (elements.length) {
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
 [xylem]: https://en.wikipedia.org/wiki/Xylem
+[yeasts]: https://en.wikipedia.org/wiki/Yeast
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
+[zygosporangium]: https://en.wikipedia.org/wiki/Zygospore
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
