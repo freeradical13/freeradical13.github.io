@@ -1237,7 +1237,7 @@ In some organisms, the organism is usually in a haploid state and the only diplo
 
 An [allele][] is one variant of a gene which may create a different phenotype.
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or [pollen][]), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined (mate) in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or pollen), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined (mate) in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
 
 When one organism asexually reproduces or multiple organisms sexually reproduce, the original organisms are called parents and the new organism(s) are called [offspring][] (or children or brood or progeny).
 
@@ -1483,6 +1483,8 @@ A [tissue][] is the smallest collections of similar cells that carry out a parti
 
 An [organ][] is a collection of tissues with similar function.
 
+[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the [epidermis][] (or outermost epithelial tissue). The main type of cell in epithelium is the epithelial cell.
+
 A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
@@ -1501,19 +1503,59 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 Mitochondria have their own DNA called [mtDNA][] which is passed down from the mother in the case of sexual reproduction.
 
+#### Fungi
+
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
+
+#### Algae
+
+[Algae][] are a polyphyletic group of photosynthetic eukaryotes which lack roots, stems or leaves, so they're not considered plants.
+
 #### Plants
 
-[Plants][] are a kingdom of eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis. They have a cell wall made of cellulose.
+[Plants][] are eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis, although they do not include algae or fungi. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
 
 Plant organelles are called [plastids][].
 
-[Phototropism][] is the directional growth of plants towards light.
+Plants have alternation of generations and they are [embryophytes][] which use embroys to nurture young sporophytes within the gametophyte.
 
-Plants have alternation of generations and they are [embryophytes][] (or land plants) which nurture young embryo sporophytes within the gametophyte.
+Plants are also called [land plants][] (or [terrestrial plants][]) because they live on or are closely related to [land][] which is a solid surface of the Earth not covered in water. Plants usually require soil for survival. [Soil][] is a part of land that usually has nutrients, minerals, water, gases, and organic matter. [Topsoil][] is the uppermost layer of soil that has the highest concentration of organic matter. [Vegetation][] is a group of plants that cover soil.
 
-Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][].
+The plant [stem][] lies above soil and supports photosynthetic organs. A young stem (and its appendages) may also be called a [shoot][].
+
+Plant [roots][] are organs that lie below soil and absorb water and minerals. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes.
+
+[Meristems][] are tissues of self-renewing cells that replicate to increase the height of the plant ([primary growth][]) or the girth of the trunk ([secondary growth][]).
+
+[Branches][] are stem-like appendages that grow from the stem and hold leaves to the light and transport water and nutrients between the roots and leaves.
+
+Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+
+Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
+
+Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively).
+
+Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium which the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
 
 Plant gametophytes have organs called [gametangia][] (female [archegonia][] and male [antheridia][]) which produce gametes that fertilize in the archegonia.
+
+[Phototropism][] is the directional growth of plants towards light.
+
+[Vascular plants][] (tracheophytes) have vascular tissues which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. [Xylem][] transports most water and minerals using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products.
+
+Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
+
+[Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
+
+A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and [cotyledon][] (initial root and leaves), seeds develop into [fruits][] which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
+
+Nonvascular plants are called [bryophytes][] including liverworts, mosses, and hornworts.
+
+[Microphylls][] are leaves with no vascular branching and [megaphylls][] have high vascular branching.
+
+[Monocots][] are flowering plants that have one cotyledon in the embryo, leaves that are narrow with veins that run parallel to the length of the leaf, and other characteristics.
+
+[Eudicots][] are flowering plants that have two cotyledons in the embryo, leaves that are broad with veins arranged in a net, and other characteristics.
 
 ##### Chloroplasts
 
@@ -1526,26 +1568,6 @@ Plants have leaves which include [mesophyll cells][] that contain chloroplasts. 
 C<sub>4</sub> plants use [bundle-sheath cells][] to perform C<sub>4</sub> Carbon fixation.
 
 Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
-
-##### Vascular Plants
-
-[Vascular plants][] (tracheophytes) have vascular tissues (xylem and thinner-walled phloem) which propagate resources to the entire organism, allowing for very large plants. Such plants usually have leaves, roots, and branches.
-
-[Angiosperms][] have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate.
-
-[Monocot][] leaves are narrow with veins that run parallel to the length of the leaf. [Dicot][] leaves are broad with veins arranged in a net, although such broad leaves tend to increase evaporation. The upper surface facing sunlight is called the upper epidermis and the lower surface is called the lower epidermis.
-
-[Roots][] provide support in soil and uptake of water and minerals. Taproots have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria (such as legumes and Rhizobium) to increase surface area to acquire resources. Rooted plants help an area avoid erosion.
-
-[Branches][] hold leaves to the light and transport water and nutrients between the roots and leaves.
-
-##### Terrestrial Plants
-
-[Terrestrial plants][] are related to the land, although they may be partly in water. Their leaves have a waxy covering called a cuticle which reduces evaporation because of its hydrophibicity.
-
-The lower epidermis includes stomata which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called turgor pressure causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
-
-[Meristems][] are self-renewing cells that replicate to increase the height of the plant (primary growth) or the girth of the trunk (secondary growth).
 
 #### Cell Communication
 
@@ -1595,10 +1617,6 @@ Nervous tissue is the main component of the [central nervous system][] which is 
 
 The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
-#### Epithelial Tissue
-
-[Epithelial tissue][] lines the surface of organs, blood vessels, some inner cavities in organs, and the epidermis (or skin). The main type of cell in epithelium is the epithelial cell.
-
 #### Muscle Tissue
 
 [Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction.
@@ -1646,14 +1664,6 @@ Mammals use the [XY sex determination system][] where the two allosomal chromoso
 About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
-
-#### Fungi
-
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are similar to animals in that they are heterotrophs (no photosynthesis) but different in that they have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms.
-
-#### Algae
-
-[Algae][] are a polyphyletic group fo photosynthetic eukaryotes which lack roots, stems or leaves, so they're not considered plants.
 
 #### Protists
 
@@ -2230,6 +2240,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
+[anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
 [antheridia]: https://en.wikipedia.org/wiki/Antheridium
 [antibiotics]: https://en.wikipedia.org/wiki/Antibiotic
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
@@ -2319,6 +2330,7 @@ if (elements.length) {
 [brca2]: https://en.wikipedia.org/wiki/BRCA2
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
+[bryophytes]: https://en.wikipedia.org/wiki/Bryophyte
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle
 [butane]: https://en.wikipedia.org/wiki/Butane
@@ -2344,6 +2356,7 @@ if (elements.length) {
 [campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
+[carpels]: https://en.wikipedia.org/wiki/Gynoecium
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cd4]: https://en.wikipedia.org/wiki/CD4
 [cd8]: https://en.wikipedia.org/wiki/CD8
@@ -2452,6 +2465,7 @@ if (elements.length) {
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
 [cotransports]: https://en.wikipedia.org/wiki/Active_transport#Secondary_active_transport
+[cotyledon]: https://en.wikipedia.org/wiki/Cotyledon
 [coulomb]: https://en.wikipedia.org/wiki/Coulomb
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -2459,6 +2473,7 @@ if (elements.length) {
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
+[cuticle]: https://en.wikipedia.org/wiki/Cuticle
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cyclin]: https://en.wikipedia.org/wiki/Cyclin
@@ -2487,7 +2502,7 @@ if (elements.length) {
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
-[dicot]: https://en.wikipedia.org/wiki/Dicotyledon
+[dicots]: https://en.wikipedia.org/wiki/Dicotyledon
 [differential gene expression]: https://en.wikipedia.org/wiki/Gene_expression
 [differentiate]: https://en.wikipedia.org/wiki/Cellular_differentiation
 [digestion]: https://en.wikipedia.org/wiki/Digestion
@@ -2508,6 +2523,7 @@ if (elements.length) {
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[double fertilization]: https://en.wikipedia.org/wiki/Double_fertilization
 [dna ligase]: https://en.wikipedia.org/wiki/DNA_ligase
 [dna methylation]: https://en.wikipedia.org/wiki/DNA_methylation
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
@@ -2553,6 +2569,7 @@ if (elements.length) {
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
+[endemic]: https://en.wikipedia.org/wiki/Endemism
 [endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
 [endocrine gland]: https://en.wikipedia.org/wiki/Endocrine_gland
 [endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
@@ -2562,6 +2579,7 @@ if (elements.length) {
 [endometrium]: https://en.wikipedia.org/wiki/Endometrium
 [endoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [endosomes]: https://en.wikipedia.org/wiki/Endosome
+[endosperm]: https://en.wikipedia.org/wiki/Endosperm
 [endospores]: https://en.wikipedia.org/wiki/Endospore
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothelial cells]: https://en.wikipedia.org/wiki/Endothelium
@@ -2577,18 +2595,21 @@ if (elements.length) {
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
+[epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
 [epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
 [epstein-barr virus]: https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
+[erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
+[eudicots]: https://en.wikipedia.org/wiki/Eudicots
 [euglenozoans]: https://en.wikipedia.org/wiki/Euglenozoa
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
@@ -2625,10 +2646,12 @@ if (elements.length) {
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
 [fibronectin]: https://en.wikipedia.org/wiki/Fibronectin
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
+[filament]: https://en.wikipedia.org/wiki/Stamen
 [fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flagella]: https://en.wikipedia.org/wiki/Flagella
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
+[flower]: https://en.wikipedia.org/wiki/Flower
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
@@ -2647,6 +2670,7 @@ if (elements.length) {
 [fructose]: https://en.wikipedia.org/wiki/Fructose
 [fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
 [fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
+[fruits]: https://en.wikipedia.org/wiki/Fruit
 [fumarate]: https://en.wikipedia.org/wiki/Fumaric_acid
 [functional groups]: https://en.wikipedia.org/wiki/Functional_group
 [fungi]: https://en.wikipedia.org/wiki/Fungus
@@ -2729,6 +2753,7 @@ if (elements.length) {
 [heterochrony]: https://en.wikipedia.org/wiki/Heterochrony
 [heterocysts]: https://en.wikipedia.org/wiki/Heterocyst
 [heterogeneous mixture]: https://en.wikipedia.org/wiki/Homogeneous_and_heterogeneous_mixtures
+[heterosporous]: https://en.wikipedia.org/wiki/Spore
 [heterotroph]: https://en.wikipedia.org/wiki/Heterotroph
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
@@ -2747,6 +2772,7 @@ if (elements.length) {
 [homologs]: https://en.wikipedia.org/wiki/Homologous_chromosome
 [homology]: https://en.wikipedia.org/wiki/Homology_(biology)
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
+[homosporous]: https://en.wikipedia.org/wiki/Spore
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
 [horizontal gene transfer]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
@@ -2792,10 +2818,12 @@ if (elements.length) {
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [integrin]: https://en.wikipedia.org/wiki/Integrin
+[integument]: https://en.wikipedia.org/wiki/Integument
 [interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
+[intersexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [intrasexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
@@ -2831,11 +2859,14 @@ if (elements.length) {
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
+[land]: https://en.wikipedia.org/wiki/Land
+[land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
+[leaves]: https://en.wikipedia.org/wiki/Leaf
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [life]: https://en.wikipedia.org/wiki/Life
@@ -2845,6 +2876,7 @@ if (elements.length) {
 [light]: https://en.wikipedia.org/wiki/Light
 [light microscope]: https://en.wikipedia.org/wiki/Optical_microscope
 [light years]: https://en.wikipedia.org/wiki/Light-year
+[lignin]: https://en.wikipedia.org/wiki/Lignin
 [limb]: https://en.wikipedia.org/wiki/Limb_(anatomy)
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
@@ -2875,7 +2907,7 @@ if (elements.length) {
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [macrophages]: https://en.wikipedia.org/wiki/Macrophage
-[mad dow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
+[mad cow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [major histocompatibility complex]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
@@ -2892,6 +2924,8 @@ if (elements.length) {
 [maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
+[megaphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
+[megasporangia]: https://en.wikipedia.org/wiki/Sporangium
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
 [meiosis i]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_I
 [meiosis ii]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_II
@@ -2915,6 +2949,9 @@ if (elements.length) {
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
+[microphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
+[micropyle]: https://en.wikipedia.org/wiki/Ovule#Integuments,_micropyle_and_chalaza
+[microsporangia]: https://en.wikipedia.org/wiki/Sporangium
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
@@ -2945,7 +2982,7 @@ if (elements.length) {
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
-[monocot]: https://en.wikipedia.org/wiki/Monocotyledon
+[monocots]: https://en.wikipedia.org/wiki/Monocotyledon
 [monohybrids]: https://en.wikipedia.org/wiki/Monohybrid_cross
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
@@ -3043,6 +3080,7 @@ if (elements.length) {
 [orthologous]: https://en.wikipedia.org/wiki/Sequence_homology#Orthology
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [ova]: https://en.wikipedia.org/wiki/Ovum
+[ovule]: https://en.wikipedia.org/wiki/Ovule
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
@@ -3086,10 +3124,12 @@ if (elements.length) {
 [peristalsis]: https://en.wikipedia.org/wiki/Peristalsis
 [peroxisomes]: https://en.wikipedia.org/wiki/Peroxisome
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
+[petals]: https://en.wikipedia.org/wiki/Petal
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phagocytosis]: https://en.wikipedia.org/wiki/Phagocytosis
 [phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
+[phloem]: https://en.wikipedia.org/wiki/Phloem
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
 [phosphodiester bond]: https://en.wikipedia.org/wiki/Phosphodiester_bond
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
@@ -3108,10 +3148,12 @@ if (elements.length) {
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
+[pistil]: https://en.wikipedia.org/wiki/Gynoecium#Pistils
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
 [placenta]: https://en.wikipedia.org/wiki/Placenta
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plants]: https://en.wikipedia.org/wiki/Plant
+[plants evolved from]: http://rstb.royalsocietypublishing.org/content/royptb/367/1588/508.full.pdf
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
 [plasma cells]: https://en.wikipedia.org/wiki/Plasma_cell
 [plasmid]: https://en.wikipedia.org/wiki/Plasmid
@@ -3125,6 +3167,7 @@ if (elements.length) {
 [point mutation]: https://en.wikipedia.org/wiki/Point_mutation
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
+[pollination]: https://en.wikipedia.org/wiki/Pollination
 [poly-a tail]: https://en.wikipedia.org/wiki/Polyadenylation
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polyadenylation signal sequence]: https://en.wikipedia.org/wiki/Polyadenylation#Mechanism
@@ -3148,6 +3191,7 @@ if (elements.length) {
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[primary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
 [primase]: https://en.wikipedia.org/wiki/Primase
@@ -3239,11 +3283,15 @@ if (elements.length) {
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [second]: https://en.wikipedia.org/wiki/Second
+[secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
+[seeds]: https://en.wikipedia.org/wiki/Seed
+[sepals]: https://en.wikipedia.org/wiki/Sepal
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
 [sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
+[shoot]: https://en.wikipedia.org/wiki/Shoot
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
@@ -3261,6 +3309,7 @@ if (elements.length) {
 [small interfering rna]: https://en.wikipedia.org/wiki/Small_interfering_RNA
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
+[soil]: https://en.wikipedia.org/wiki/Soil
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
 [solubility]: https://en.wikipedia.org/wiki/Solubility
@@ -3281,28 +3330,34 @@ if (elements.length) {
 [sporangia]: https://en.wikipedia.org/wiki/Sporangium
 [spores]: https://en.wikipedia.org/wiki/Spore
 [sporocytes]: https://en.wikipedia.org/wiki/Sporogenesis#Formation_of_reproductive_spores
+[sporophylls]: https://en.wikipedia.org/wiki/Sporophyll
 [sporophyte]: https://en.wikipedia.org/wiki/Sporophyte
 [src]: https://en.wikipedia.org/wiki/Proto-oncogene_tyrosine-protein_kinase_Src
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
+[stamens]: https://en.wikipedia.org/wiki/Stamen
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stator]: https://en.wikipedia.org/wiki/Stator
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+[stem]: https://en.wikipedia.org/wiki/Plant_stem
 [stem cell potency]: https://en.wikipedia.org/wiki/Stem_cell#Potency_meaning
 [stem cells]: https://en.wikipedia.org/wiki/Stem_cell
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
+[stigma]: https://en.wikipedia.org/wiki/Stigma_(botany)
 [stoichiometry]: https://en.wikipedia.org/wiki/Stoichiometry
 [stomach]: https://en.wikipedia.org/wiki/Stomach
+[stomata]: https://en.wikipedia.org/wiki/Stoma
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [stratum]: https://en.wikipedia.org/wiki/Stratum
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [structural polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Structural_polysaccharides
+[style]: https://en.wikipedia.org/wiki/Stigma_(botany)#Style
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
@@ -3324,6 +3379,7 @@ if (elements.length) {
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [t cells]: https://en.wikipedia.org/wiki/T_cell
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
+[taproots]: https://en.wikipedia.org/wiki/Taproot
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxis]: https://en.wikipedia.org/wiki/Taxis
@@ -3358,6 +3414,8 @@ if (elements.length) {
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
 [topoisomerase]: https://en.wikipedia.org/wiki/Topoisomerase
+[topsoil]: https://en.wikipedia.org/wiki/Topsoil
+[tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
@@ -3385,6 +3443,7 @@ if (elements.length) {
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
+[turgor pressure]: https://en.wikipedia.org/wiki/Turgor_pressure
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
 [type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
 [type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
@@ -3404,6 +3463,7 @@ if (elements.length) {
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
 [vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
+[vegetation]: https://en.wikipedia.org/wiki/Vegetation
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
@@ -3433,6 +3493,7 @@ if (elements.length) {
 [wild type]: https://en.wikipedia.org/wiki/Wild_type
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
+[xylem]: https://en.wikipedia.org/wiki/Xylem
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
