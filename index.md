@@ -1,6 +1,6 @@
 # Biology Basics
 
-The purpose of this site is to explore biology and the things that make up biology. Feel free to [suggest corrections or additions][issues]. You may follow updates to this page using [this RSS feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom) and [some RSS reader](https://download.cnet.com/browsers-newsreaders/).
+The purpose of this site is to explore biology and the things that make up biology. Feel free to [suggest corrections or additions][issues]. You may follow updates to this page using [this RSS feed](https://github.com/freeradical13/freeradical13.github.io/commits/master/index.md.atom) and [some RSS reader](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators#Operating_system_support).
 
 # Big History
 
@@ -961,7 +961,7 @@ An organism is an object with the properties of life.
 
 A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space. A [population][] is a group of organisms of the same species in the same area.
 
-An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products.
+An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
 A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][].
 
@@ -1055,7 +1055,7 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 
 #### Cellular Respiration
 
-[Cellular respiration][] is the process of catabolizing chemical bonds in food (such as carbohydrates, lipids, and proteins) using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
+[Cellular respiration][] is the process of catabolizing chemical bonds in substances such as carbohydrates, lipids, and proteins using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
 
 #### Glycolysis
 
@@ -1635,11 +1635,17 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that breathe oxygen, are able to move and reproduce sexually. [Tetrapods][] are animals with four limbs. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs with tissues that develop from an embryo.
+
+[Tetrapods][] are animals with four limbs. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
+
+Animals have a [coelom][] (or body cavity) which is a fluid- or air-filled space that cushions organs.
+
+Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract with a [mouth][] entrance for food and [anus][] exit for what remains after digestion ([feces][]). Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone).
 
 ##### Vertebrates
 
-[Vertebrates][] are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
+[Vertebrates][] (phylum Chordata) are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
 
 ###### Vertebrate Brain
 
@@ -1680,8 +1686,6 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 #### Protists
 
 [Protists][] are something of a catch-all name of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms (i.e. not animals, plants, or fungi).
-
-Some protists called [mixotrophs][] are both heterotrophic and photosynthetic.
 
 The major clades including protists are:
 
@@ -1927,17 +1931,13 @@ The [pancreas][] is an organ that releases various hormones into the blood and v
 
 Digestion occurs in the [Gastrointestinal Tract][] (or GI tract) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus. Material moves through the GI tract with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
 
-The [mouth][] ingests food.
-
 The [esophagus][] passes food from the mouth to the stomach using contractions.
 
 The [stomach][] secretes enzymes and gastric acid to begin food digestion. The partly digested collection called [Chyme][] is passed on to the small intestine.
 
 The [small intestine][] completes most food digestion. The Duodenum is the first part of the small intestine which completes the breakdown of the chyme. The [Jejunum][] is the second part of the small intestine which absorbs nutrients into the blood stream through projections called [villi][] on [enterocyte cells][]. The [Ileum][] is the third part of the small intestine which absorbs mostly Vitamin B12 and bile acids.
 
-The [large intestine][] (or colon) absorbs remaining water and stores waste as [feces][].
-
-The [anus][] expels feces.
+The [large intestine][] (or colon) absorbs remaining water and stores waste as feces.
 
 ### Bile Acid
 
@@ -1980,7 +1980,7 @@ Once cleavage creates 16 cells which are grouped into a solid ball, the collecti
 
 Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's [uterus][] (or womb), and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
 
-The cells of the blastula differentiate into multiple different layers and the total collection of cells is called the [gastrula][]. The layers include the [ectoderm][] (outermost) and [endoderm][] (innermost) and may include the [mesoderm][] (middle layer). There is also an opening called the blastospore which becomes the mouth or anus, and intestinal lining.
+The cells of the blastula differentiate into multiple different layers and the total collection of cells is called the [gastrula][]. The layers include the [ectoderm][] (outermost) and [endoderm][] (innermost) in diploblastic organisms and include a third [mesoderm][] layer (middle layer) in triploblastic organisms. There is also an opening called the blastospore which becomes the mouth or anus, and intestinal lining.
 
 The differentiation of the gastrula continues into [organogenesis][] in which the layers of cells differentiate to start to create various organs.
 
@@ -2252,6 +2252,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [animals]: https://en.wikipedia.org/wiki/Animal
+[anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
 [antheridia]: https://en.wikipedia.org/wiki/Antheridium
 [antibiotics]: https://en.wikipedia.org/wiki/Antibiotic
@@ -2317,6 +2318,7 @@ if (elements.length) {
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
+[bilaterians]: https://en.wikipedia.org/wiki/Bilateria
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
 [binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
@@ -2443,6 +2445,7 @@ if (elements.length) {
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
+[coelom]: https://en.wikipedia.org/wiki/Coelom
 [coenocytic]: https://en.wikipedia.org/wiki/Coenocyte
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
@@ -2538,6 +2541,7 @@ if (elements.length) {
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[dorsal]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
 [double fertilization]: https://en.wikipedia.org/wiki/Double_fertilization
 [dna ligase]: https://en.wikipedia.org/wiki/DNA_ligase
 [dna methylation]: https://en.wikipedia.org/wiki/DNA_methylation
@@ -2986,7 +2990,7 @@ if (elements.length) {
 [mitosomes]: https://en.wikipedia.org/wiki/Mitosome
 [mitotic spindle]: https://en.wikipedia.org/wiki/Spindle_apparatus
 [mixed inhibition]: https://en.wikipedia.org/wiki/Mixed_inhibition
-[mixotrophs]: https://en.wikipedia.org/wiki/Mixotroph
+[mixotroph]: https://en.wikipedia.org/wiki/Mixotroph
 [mixture]: https://en.wikipedia.org/wiki/Mixture
 [moiety]: https://en.wikipedia.org/wiki/Moiety_(chemistry)
 [molality]: https://www.khanacademy.org/science/health-and-medicine/lab-values/v/molarity-vs-molality
@@ -3211,6 +3215,7 @@ if (elements.length) {
 [porosome]: https://en.wikipedia.org/wiki/Porosome
 [positive-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Positive-sense
 [positive strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
+[posterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
@@ -3493,6 +3498,7 @@ if (elements.length) {
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
+[ventral]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
 [vibration]: https://en.wikipedia.org/wiki/Vibration
