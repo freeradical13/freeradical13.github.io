@@ -1633,23 +1633,9 @@ The [peripheral nervous system][] includes nervous tissue besides the brain and 
 
 [Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction.
 
-#### Animals
+#### Brain
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs with tissues that develop from an embryo.
-
-[Tetrapods][] are animals with four limbs. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
-
-Animals have a [coelom][] (or body cavity) which is a fluid- or air-filled space that cushions organs.
-
-Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract with a [mouth][] entrance for food and [anus][] exit for what remains after digestion ([feces][]). Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone).
-
-##### Vertebrates
-
-[Vertebrates][] (phylum Chordata) are animals with a [backbone][] (or vertebral column or spine) made of bone which houses the spinal cord.
-
-###### Vertebrate Brain
-
-The vertebrate brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
+The brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
 
 The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][]. The upper surface of the cerebrum is called the [pallium][] and some organisms have a more advanced pallium called the [neocortex][] (e.g. language).
 
@@ -1663,21 +1649,53 @@ Underneath the cerebrum and connected to the brainstem are other structures such
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
-##### Synapsids
+#### Animals
 
-[Synapsids][] are animals that have holes in their skull allowing for additional muscles to control the jaw to provide additional power. The earliest synapsids existed about 300 million years ago.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs with tissues that develop from an embryo.
 
-##### Therapsids
+Animals have a [coelom][] (or body cavity) which is a fluid- or air-filled space that cushions organs.
+
+Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract with a [mouth][] entrance for food and [anus][] exit for what remains after digestion ([feces][]). Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+
+##### Vertebrates
+
+[Chordates][] are animals with a notochord which is a flexible rod between the digestive tube and nerve cord, and provides skeletal and muscle support.
+
+[Vertebrates][] are chordates in which the notochord develops into a series of bones called a [backbone][] (or vertebral column or spine) made of bones called vertebrae which house the spinal cord and allows for more complex movement.
+
+Vertebrates called Gnathostomes have jaws which are hinged structures in the mouth with teeth that help to grip and slice food.
+
+The three main classes of vertebrates are amphibians, reptiles, and mammals.
+
+[Amphibians][], in general, develop first in water (tadpole stage) and then go through metamorphosis to live on land.
+
+[Tetrapods][] are vertebrates with four limbs well adapted for movement on land. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
+
+[Amniotes][] are tetrapods that develop an egg adapted for land conditions. The amnion is a fluid-filled cavity that protects against shock of movement. The yolk sac contains yolk which are nutrients for the embryo.
+
+[Reptiles][] are tetrapods have scales made of the protein keratin for protection and lay shelled eggs on land. Most reptiles are [ectothermic][], meaning they regulate their body temperature using external heat, although birds are [endothermic][], meaning they regulate their body temperature through metabolism. Birds are reptiles adapted for flight.
+
+[Synapsids][] are animals that have holes in their skull (those with two holes are diapsids) allowing for muscles to control the jaw. The earliest synapsids existed about 300 million years ago.
 
 [Therapsids][] evolved from synapsids and have specialized teeth called canines for piercing. The earliest therapsids existed about 280 million years ago.
 
-##### Mammals
-
-[Mammals][] are tetrapods evolved from therapsids and have [mammary glands][] that produce milk, a neocortex, and hair.
+[Mammals][] are amniotes evolved from therapsids and usually have [mammary glands][] that produce milk for offspring and hair. The earliest mammals existed about 145 to 200 million years ago.
 
 Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, a random one of the X chromosomes deactivates into an object called a [Barr body][] (this occurs independently in multiple embryonic cells, thus some females have [mosaicism][] of some traits).
 
+[Primates][] are mammals that have hands and feet adapted for grasping. [Monkeys][] and [apes][] (anthropoids) are primates that have an opposable thumb that allows for more advanced grasping.
+
+##### Invertebrates
+
+Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate.
+
+[Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
+
+[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo [metamorphosis][] which involves an abrupt change in body type. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
+
 ##### Humans
+
+[Humans][] are apes that have bipedal movement and a large brain.
 
 About 2% of the human genome encodes for proteins.
 
@@ -1970,7 +1988,7 @@ Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach a
 
 [Birth][] is the process of one organism bearing a separate child.
 
-[Gestation][] is a process some organisms use to incubate a new organism inside the body of the parent before giving birth.
+An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][]) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
 
 After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
 
@@ -2047,6 +2065,10 @@ The [geological record][] is an analysis of strata and fossils to date different
     * Quaternary
         * Pleistocene (~2.6 million years ago to ~11 thousand years ago): The first Homo Erectus.
         * Holocene (~11 thousand years ago to present)
+
+### Noteworthy
+
+Sponges are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
 
 ## Laboratory Techniques
 
@@ -2238,9 +2260,11 @@ if (elements.length) {
 [ammonia]: https://en.wikipedia.org/wiki/Ammonia
 [amniocentesis]: https://en.wikipedia.org/wiki/Amniocentesis
 [amnion]: https://en.wikipedia.org/wiki/Amnion
+[amniotes]: https://en.wikipedia.org/wiki/Amniote
 [amniotic fluid]: https://en.wikipedia.org/wiki/Amniotic_fluid
 [amniotic sac]: https://en.wikipedia.org/wiki/Amniotic_sac
 [amperes]: https://en.wikipedia.org/wiki/Ampere
+[amphibians]: https://en.wikipedia.org/wiki/Amphibians
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
 [amygdala]: https://en.wikipedia.org/wiki/Amygdala
@@ -2266,6 +2290,7 @@ if (elements.length) {
 [antivenoms]: https://en.wikipedia.org/wiki/Antivenom
 [anus]: https://en.wikipedia.org/wiki/Anus
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
+[apes]: https://en.wikipedia.org/wiki/Ape
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
@@ -2279,6 +2304,7 @@ if (elements.length) {
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
 [arteriosclerosis]: https://en.wikipedia.org/wiki/Arteriosclerosis
+[arthropods]: https://en.wikipedia.org/wiki/Arthropods
 [artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
@@ -2413,6 +2439,7 @@ if (elements.length) {
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
 [cholesterol]: https://en.wikipedia.org/wiki/Cholesterol
+[chordates]: https://en.wikipedia.org/wiki/Chordate
 [chorion]: https://en.wikipedia.org/wiki/Chorion
 [chorionic villi]: https://en.wikipedia.org/wiki/Chorionic_villi
 [chorionic villus sampling]: https://en.wikipedia.org/wiki/Chorionic_villus_sampling
@@ -2557,6 +2584,7 @@ if (elements.length) {
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
+[ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
 [elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
 [elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
@@ -2603,6 +2631,7 @@ if (elements.length) {
 [endospores]: https://en.wikipedia.org/wiki/Endospore
 [endosymbiotic theory]: https://en.wikipedia.org/wiki/Symbiogenesis
 [endothelial cells]: https://en.wikipedia.org/wiki/Endothelium
+[endothermic]: https://en.wikipedia.org/wiki/Endotherm
 [endothermic reaction]: https://en.wikipedia.org/wiki/Endothermic_process
 [endotoxins]: https://en.wikipedia.org/wiki/Lipopolysaccharide
 [energy]: https://en.wikipedia.org/wiki/Energy
@@ -2641,6 +2670,7 @@ if (elements.length) {
 [exocrine gland]: https://en.wikipedia.org/wiki/Exocrine_gland
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
 [exons]: https://en.wikipedia.org/wiki/Exon
+[exoskeleton]: https://en.wikipedia.org/wiki/Exoskeleton
 [exothermic reaction]: https://en.wikipedia.org/wiki/Exothermic_process
 [exotoxins]: https://en.wikipedia.org/wiki/Exotoxin
 [extracellular fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid
@@ -2764,6 +2794,7 @@ if (elements.length) {
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
+[hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
 [hepatocyte cells]: https://en.wikipedia.org/wiki/Hepatocyte
 [heritable]: https://en.wikipedia.org/wiki/Heredity
@@ -2786,6 +2817,7 @@ if (elements.length) {
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
+[holometabolism]: https://en.wikipedia.org/wiki/Holometabolism
 [homeobox]: https://en.wikipedia.org/wiki/Homeobox
 [homeosis]: https://en.wikipedia.org/wiki/Homeosis
 [homeostasis]: https://en.wikipedia.org/wiki/Homeostasis
@@ -2801,6 +2833,7 @@ if (elements.length) {
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
+[humans]: https://en.wikipedia.org/wiki/Humans
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
 [hybrid zone]: https://en.wikipedia.org/wiki/Hybrid_zone
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
@@ -2839,6 +2872,7 @@ if (elements.length) {
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
+[insects]: https://en.wikipedia.org/wiki/Insects
 [integrin]: https://en.wikipedia.org/wiki/Integrin
 [integument]: https://en.wikipedia.org/wiki/Integument
 [interferons]: https://en.wikipedia.org/wiki/Interferons
@@ -2885,6 +2919,7 @@ if (elements.length) {
 [land]: https://en.wikipedia.org/wiki/Land
 [land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
+[larval]: https://en.wikipedia.org/wiki/Larval
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
@@ -2963,6 +2998,7 @@ if (elements.length) {
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
+[metamorphosis]: https://en.wikipedia.org/wiki/Metamorphosis
 [metaphase]: https://en.wikipedia.org/wiki/Metaphase
 [metastasizes]: https://en.wikipedia.org/wiki/Metastasis
 [meters]: https://en.wikipedia.org/wiki/Metre
@@ -3004,7 +3040,9 @@ if (elements.length) {
 [molecular mass]: https://en.wikipedia.org/wiki/Molecular_mass
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
+[molting]: https://en.wikipedia.org/wiki/Moulting
 [momentum]: https://en.wikipedia.org/wiki/Momentum
+[monkeys]: https://en.wikipedia.org/wiki/Monkey
 [monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
 [monocots]: https://en.wikipedia.org/wiki/Monocotyledon
 [monohybrids]: https://en.wikipedia.org/wiki/Monohybrid_cross
@@ -3107,6 +3145,8 @@ if (elements.length) {
 [orthologous]: https://en.wikipedia.org/wiki/Sequence_homology#Orthology
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [ova]: https://en.wikipedia.org/wiki/Ovum
+[oviparous]: https://en.wikipedia.org/wiki/Oviparity
+[ovoviviparous]: https://en.wikipedia.org/wiki/Ovoviviparous
 [ovule]: https://en.wikipedia.org/wiki/Ovule
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
@@ -3224,6 +3264,7 @@ if (elements.length) {
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
 [primase]: https://en.wikipedia.org/wiki/Primase
+[primates]: https://en.wikipedia.org/wiki/Primates
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
 [prions]: https://en.wikipedia.org/wiki/Prion
@@ -3251,6 +3292,7 @@ if (elements.length) {
 [protons]: https://en.wikipedia.org/wiki/Proton
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
+[pupal]: https://en.wikipedia.org/wiki/Pupal
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
@@ -3281,6 +3323,7 @@ if (elements.length) {
 [release factor]: https://en.wikipedia.org/wiki/Release_factor
 [repressible operon]: https://en.wikipedia.org/wiki/Operon#Regulation
 [repressor]: https://en.wikipedia.org/wiki/Repressor
+[reptiles]: https://en.wikipedia.org/wiki/Reptiles
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
@@ -3508,6 +3551,7 @@ if (elements.length) {
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
+[viviparous]: https://en.wikipedia.org/wiki/Viviparity
 [voltage]: https://en.wikipedia.org/wiki/Voltage
 [volume]: https://en.wikipedia.org/wiki/Volume
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
