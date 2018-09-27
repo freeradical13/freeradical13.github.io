@@ -1533,15 +1533,15 @@ Plants have alternation of generations and they are [embryophytes][] which use e
 
 Plants are also called [land plants][] (or [terrestrial plants][]) because they live on or are closely related to [land][] which is a solid surface of the Earth not covered in water. Plants usually require soil for survival. [Soil][] is a part of land that usually has nutrients, minerals, water, gases, and organic matter. [Topsoil][] is the uppermost layer of soil that has the highest concentration of organic matter. [Vegetation][] is a group of plants that cover soil.
 
-The plant [stem][] lies above soil and supports photosynthetic organs. A young stem (and its appendages) may also be called a [shoot][].
+Plant [roots][] are organs that lie below soil and absorb water and minerals and anchor the plant into the soil. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes.
 
-Plant [roots][] are organs that lie below soil and absorb water and minerals. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes.
-
-[Meristems][] are tissues of self-renewing cells that replicate to increase the height of the plant ([primary growth][]) or the girth of the trunk ([secondary growth][]).
+Plant [shoots][] are everything above ground. The plant [stem][] lies above the soil (in general) and supports photosynthetic organs. Growth mostly occurs at the terminal tip called the [apical bud][]. An [axillary bud][] may create a lateral branch, thorn, or flower.
 
 [Branches][] are stem-like appendages that grow from the stem and hold leaves to the light and transport water and nutrients between the roots and leaves.
 
 Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+
+Plants have undifferentiated tissues called [meristems][] which contain cells that can divide, allowing for unlimited growth to increase the height of the plant through [apical meristems][] ([primary growth][]) or the girth of the trunk through lateral meristems ([secondary growth][]).
 
 Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
 
@@ -1553,7 +1553,7 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 [Phototropism][] is the directional growth of plants towards light.
 
-[Vascular plants][] (tracheophytes) have vascular tissues which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. [Xylem][] transports most water and minerals using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products.
+[Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. The [xylem][] transports most water and minerals from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. The [vascular cambium][] is the main growth layer where new vascular tissue is added. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with cork cells is called the cork cambrium. Tissue that are neither vascular nor epidermal are called the ground tissue system: internal to the vascular tissue is called [pith][] and external to it is called [cortex][plant cortex].
 
 Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
@@ -1568,6 +1568,8 @@ Nonvascular plants are called [bryophytes][] including liverworts, mosses, and h
 [Monocots][] are flowering plants that have one cotyledon in the embryo, leaves that are narrow with veins that run parallel to the length of the leaf, and other characteristics.
 
 [Eudicots][] are flowering plants that have two cotyledons in the embryo, leaves that are broad with veins arranged in a net, and other characteristics.
+
+The [ABC Model of Flower Development][] describes how three genes in meristems lead to the four types of flower organs (A genes in the outer sepals and petals, B genes in the middle petals and stamens, and C genes in the inner stamens and carpels). Sepals arise where only A genes are active. Petals arise where only A and B genes are active. Carpels arise where only C genes are active.
 
 ##### Chloroplasts
 
@@ -1695,7 +1697,7 @@ Most animals are [invertebrates][] which are animals that do not have a backbone
 
 ##### Humans
 
-[Humans][] are apes that have bipedal movement and a large brain.
+[Humans][] (or Homo Sapiens) are apes that stand upright, have bipedal movement and a large brain, language, use of complex tools, etc. The human species is considered about 200,000 years old. Closely related species of the past are called hominins, going back at least 6.5 million years, although the more specific Human genus Homo goes back at least 1.6 to 2.4 million years.
 
 About 2% of the human genome encodes for proteins.
 
@@ -2205,6 +2207,7 @@ if (elements.length) {
 [α-ketoglutarate]: https://en.wikipedia.org/wiki/Alpha-Ketoglutaric_acid
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
 [a-site]: https://en.wikipedia.org/wiki/A-site
+[abc model of flower development]: https://en.wikipedia.org/wiki/ABC_model_of_flower_development
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -2291,6 +2294,8 @@ if (elements.length) {
 [anus]: https://en.wikipedia.org/wiki/Anus
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
 [apes]: https://en.wikipedia.org/wiki/Ape
+[apical bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
+[apical meristems]: https://en.wikipedia.org/wiki/Meristem#Apical_meristems
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
@@ -2325,6 +2330,7 @@ if (elements.length) {
 [autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
 [autosomes]: https://en.wikipedia.org/wiki/Autosome
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
+[axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
 [b cells]: https://en.wikipedia.org/wiki/B_cell
@@ -2334,6 +2340,7 @@ if (elements.length) {
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacterial flagella]: https://en.wikipedia.org/wiki/Flagellum#Bacterial
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
+[bark]: https://en.wikipedia.org/wiki/Bark_(botany)
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
@@ -2920,6 +2927,7 @@ if (elements.length) {
 [land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [larval]: https://en.wikipedia.org/wiki/Larval
+[lateral meristems]: https://en.wikipedia.org/wiki/Meristem#Secondary_meristems
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
@@ -3216,9 +3224,11 @@ if (elements.length) {
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pistil]: https://en.wikipedia.org/wiki/Gynoecium#Pistils
+[pith]: https://en.wikipedia.org/wiki/Pith
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
 [placenta]: https://en.wikipedia.org/wiki/Placenta
 [planets]: https://en.wikipedia.org/wiki/Planet
+[plant cortex]: https://en.wikipedia.org/wiki/Cortex_(botany)
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plants evolved from]: http://rstb.royalsocietypublishing.org/content/royptb/367/1588/508.full.pdf
 [plasma]: https://en.wikipedia.org/wiki/Plasma_(physics)
@@ -3364,7 +3374,7 @@ if (elements.length) {
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
 [sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
-[shoot]: https://en.wikipedia.org/wiki/Shoot
+[shoots]: https://en.wikipedia.org/wiki/Shoot
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
@@ -3415,6 +3425,7 @@ if (elements.length) {
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [stator]: https://en.wikipedia.org/wiki/Stator
+[steles]: https://en.wikipedia.org/wiki/Stele_(biology)
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stem]: https://en.wikipedia.org/wiki/Plant_stem
 [stem cell potency]: https://en.wikipedia.org/wiki/Stem_cell#Potency_meaning
@@ -3536,6 +3547,7 @@ if (elements.length) {
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
+[vascular cambium]: https://en.wikipedia.org/wiki/Vascular_cambium
 [vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
 [vegetation]: https://en.wikipedia.org/wiki/Vegetation
 [veins]: https://en.wikipedia.org/wiki/Vein
