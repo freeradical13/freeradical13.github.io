@@ -1020,7 +1020,7 @@ A [vesicle][] is a small sac with a membrane used for functions such as transpor
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
 
 * [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm. Many ion channels are [ligand gated channels][] which open or close in response to bound ligands on the extracellular side.
-    * A [sodium-potassium pump][] exchanges 3 Na<sup>+</sup> from the inside of the cell for 2 K<sup>+</sup> from the outside of the cell, thus pumping a net one positive charge out of the cytoplasm and decreasing the membrane potentil. This type of pump is called an [electrogenic pump][].
+    * A [sodium-potassium pump][] exchanges 3 Na<sup>+</sup> from the inside of the cell for 2 K<sup>+</sup> from the outside of the cell, thus pumping a net one positive charge out of the cytoplasm and decreasing the membrane potential. This type of pump is called an [electrogenic pump][].
     * A [proton pump][] is an electrogenic pump which pumps H<sup>+</sup> out of a cell.
 
 The decreased membrane potential created by an electrogenic pump creates potential energy which is used by transport proteins called [cotransports][] to perform various functions when the ions flow back down their concentration gradient.
@@ -1539,9 +1539,13 @@ Plant [shoots][] are everything above ground. The plant [stem][] lies above the 
 
 [Branches][] are stem-like appendages that grow from the stem and hold leaves to the light and transport water and nutrients between the roots and leaves.
 
-Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor. [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Transpiration creates negative pressure which drives additional water uptake and movement (through water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor into the cell. The arrangement of leaves on a stem is called [phyllotaxy][].
+
+[Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient.
 
 Plants have undifferentiated tissues called [meristems][] which contain cells that can divide, allowing for unlimited growth to increase the height of the plant through [apical meristems][] ([primary growth][]) or the girth of the trunk through lateral meristems ([secondary growth][]).
+
+Everything in cytosol in all the cells and the plasmodesmata is called the [symplast][]. Everything that's living in the cell, including the plasma membrane, is called the [protoplast][] which is a superset of the symplast. Everything external to the cell membranes is called the [apoplast][].
 
 Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
 
@@ -1553,7 +1557,17 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 [Phototropism][] is the directional growth of plants towards light.
 
-[Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. The [xylem][] transports most water and minerals from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. The [vascular cambium][] is the main growth layer where new vascular tissue is added. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with cork cells is called the cork cambrium. Tissue that are neither vascular nor epidermal are called the ground tissue system: internal to the vascular tissue is called [pith][] and external to it is called [cortex][plant cortex].
+[Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. Xylem and phloem transport liquid and dissolved substances (collectively called [sap][]) using [bulk flow][] from higher to lower pressure independent of solute concentration (as in osmosis).
+
+[Transpiration][] creates negative pressure which drives additional water uptake and bulk flow of sap upwards (using hydrogen bonding water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+
+The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
+
+The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions.
+
+The [vascular cambium][] is the main growth layer where new vascular tissue is added. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with cork cells is called the cork cambrium. Tissue that are neither vascular nor epidermal are called the ground tissue system: internal to the vascular tissue is called [pith][] and external to it is called [cortex][plant cortex].
+
+The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
 Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
@@ -2297,6 +2311,7 @@ if (elements.length) {
 [apical bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [apical meristems]: https://en.wikipedia.org/wiki/Meristem#Apical_meristems
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
+[apoplast]: https://en.wikipedia.org/wiki/Apoplast
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
 [apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
@@ -2380,6 +2395,7 @@ if (elements.length) {
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
 [bryophytes]: https://en.wikipedia.org/wiki/Bryophyte
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
+[bulk flow]: https://en.wikipedia.org/wiki/Mass_flow
 [bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle
 [butane]: https://en.wikipedia.org/wiki/Butane
 [c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
@@ -2405,6 +2421,7 @@ if (elements.length) {
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
+[casparian strip]: https://en.wikipedia.org/wiki/Casparian_strip
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
 [cd4]: https://en.wikipedia.org/wiki/CD4
 [cd8]: https://en.wikipedia.org/wiki/CD8
@@ -2551,6 +2568,7 @@ if (elements.length) {
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [desmosomes]: https://en.wikipedia.org/wiki/Desmosome
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
+[dew]: https://en.wikipedia.org/wiki/Dew
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
 [dicots]: https://en.wikipedia.org/wiki/Dicotyledon
@@ -2788,6 +2806,7 @@ if (elements.length) {
 [growth factor]: https://en.wikipedia.org/wiki/Growth_factor
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
+[guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
@@ -3219,6 +3238,7 @@ if (elements.length) {
 [photosystems]: https://en.wikipedia.org/wiki/Photosystem
 [phototropism]: https://en.wikipedia.org/wiki/Phototropism
 [phyla]: https://en.wikipedia.org/wiki/Phylum
+[phyllotaxy]: https://en.wikipedia.org/wiki/Phyllotaxis
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pili]: https://en.wikipedia.org/wiki/Pilus
@@ -3300,6 +3320,7 @@ if (elements.length) {
 [proton pump]: https://en.wikipedia.org/wiki/Proton_pump
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
+[protoplast]: https://en.wikipedia.org/wiki/Protoplast
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [pupal]: https://en.wikipedia.org/wiki/Pupal
@@ -3349,6 +3370,7 @@ if (elements.length) {
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
+[root pressure]: https://en.wikipedia.org/wiki/Root_pressure
 [roots]: https://en.wikipedia.org/wiki/Root
 [rrna]: https://en.wikipedia.org/wiki/Ribosomal_RNA
 [rubisco]: https://en.wikipedia.org/wiki/RuBisCO
@@ -3357,6 +3379,7 @@ if (elements.length) {
 [s process]: https://en.wikipedia.org/wiki/S-process
 [saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
+[sap]: https://en.wikipedia.org/wiki/Sap
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
@@ -3459,6 +3482,7 @@ if (elements.length) {
 [symbionts]: https://en.wikipedia.org/wiki/Symbiosis
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
+[symplast]: https://en.wikipedia.org/wiki/Symplast
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
@@ -3511,6 +3535,7 @@ if (elements.length) {
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
 [transmission electron microscope]: https://en.wikipedia.org/wiki/Transmission_electron_microscopy
+[transpiration]: https://en.wikipedia.org/wiki/Transpiration
 [transport proteins]: https://en.wikipedia.org/wiki/Transport_protein
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
