@@ -1507,7 +1507,7 @@ Mitochondria have their own DNA called [mtDNA][] which is passed down from the m
 
 #### Hormones
 
-[Hormones][] are chemical signals that are part of the [endocrine system][]. Hormones are synthesized by certain cells and help coordinate an organismic response by traveling through a fluid to receptor cells.
+[Hormones][] are chemical signals that are part of the [endocrine system][] which synthesizes and circulates such hormones, or simply primary messengers in cases where there is no endocrine system such as in plants.
 
 Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
 
@@ -1553,7 +1553,7 @@ Plant [shoots][] are everything above ground. The plant [stem][] lies above the 
 
 Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor into the cell. The arrangement of leaves on a stem is called [phyllotaxy][].
 
-[Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Under conditions of little water (e.g. drought), a hormone called [Abscisic Acid][] (ABA) is produced by roots and leaves to signal guard cells to close stomata.
+[Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient.
 
 Plants have undifferentiated tissues called [meristems][] which contain cells that can divide, allowing for unlimited growth to increase the height of the plant through [apical meristems][] ([primary growth][]) or the girth of the trunk through lateral meristems ([secondary growth][]).
 
@@ -1581,7 +1581,7 @@ The [vascular cambium][] is the main growth layer where new vascular tissue is a
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
-Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
+Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][]. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
@@ -1599,6 +1599,8 @@ The [ABC Model of Flower Development][] describes how three genes in meristems l
 
 An [epiphyte][] is a plant that grows on another plant, gathering resources independently. Parasitic plants are like epiphytes except they extract resources from the host plant.
 
+[Etiolation][] is the process of executing morphological changes in response to a lack of light. As light becomes available (e.g. to stems that break through the top layer of soil), the process of de-etiolation (or greening) executes different morphological changes to complete maturation.
+
 ##### Chloroplasts
 
 [Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
@@ -1610,6 +1612,24 @@ Plants have leaves which include [mesophyll cells][] that contain chloroplasts. 
 C<sub>4</sub> plants use [bundle-sheath cells][] to perform C<sub>4</sub> Carbon fixation.
 
 Plants in arid conditions are called [xerophytes][] and use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
+
+##### Plant Hormones
+
+Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is produced by roots and leaves to signal guard cells to close stomata to reduce transpiration.
+
+[Auxin][] stimulates stem elongation.
+
+[Cytokinins][] (usually made of Adenine) stimulate cell division and differentiation in shoots and roots.
+
+[Gibberellins][] stimulate stem elongation, fruit growth and seed germination.
+
+[Ethylene][] promotes ripening of fruits and a response to stress to strengthen the stem and/or grow horizontally to avoid obstacles.
+
+[Brassinosteroids][] promot cell expansion and division in shoots.
+
+[Jasmonates][] regulate fruit ripening, floral development, and more.
+
+[Strigolactones][] promote seed germination.
 
 #### Cell Communication
 
@@ -2354,6 +2374,7 @@ if (elements.length) {
 [autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
 [autosomes]: https://en.wikipedia.org/wiki/Autosome
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
+[auxin]: https://en.wikipedia.org/wiki/Auxin
 [axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axons]: https://en.wikipedia.org/wiki/Axon
@@ -2398,6 +2419,7 @@ if (elements.length) {
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
 [branches]: https://en.wikipedia.org/wiki/Branch
+[brassinosteroids]: https://en.wikipedia.org/wiki/Brassinosteroid
 [brca1]: https://en.wikipedia.org/wiki/BRCA1
 [brca2]: https://en.wikipedia.org/wiki/BRCA2
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
@@ -2562,6 +2584,7 @@ if (elements.length) {
 [cytochromes]: https://en.wikipedia.org/wiki/Cytochrome
 [cytokines]: https://en.wikipedia.org/wiki/Cytokine
 [cytokinesis]: https://en.wikipedia.org/wiki/Cytokinesis
+[cytokinins]: https://en.wikipedia.org/wiki/Cytokinin
 [cytoplasm]: https://en.wikipedia.org/wiki/Cytoplasm
 [cytoplasmic streaming]: https://en.wikipedia.org/wiki/Cytoplasmic_streaming
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
@@ -2695,6 +2718,8 @@ if (elements.length) {
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
+[ethylene]: https://en.wikipedia.org/wiki/Ethylene
+[etiolation]: https://en.wikipedia.org/wiki/Etiolation
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eudicots]: https://en.wikipedia.org/wiki/Eudicots
 [euglenozoans]: https://en.wikipedia.org/wiki/Euglenozoa
@@ -2793,8 +2818,10 @@ if (elements.length) {
 [geology]: https://en.wikipedia.org/wiki/Geology
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
+[germination]: https://en.wikipedia.org/wiki/Germination
 [germline]: https://en.wikipedia.org/wiki/Germline
 [gestation]: https://en.wikipedia.org/wiki/Gestation
+[gibberellins]: https://en.wikipedia.org/wiki/Gibberellin
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
@@ -2941,6 +2968,7 @@ if (elements.length) {
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[jasmonates]: https://en.wikipedia.org/wiki/Jasmonate
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
@@ -3481,6 +3509,7 @@ if (elements.length) {
 [stomata]: https://en.wikipedia.org/wiki/Stoma
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [stratum]: https://en.wikipedia.org/wiki/Stratum
+[strigolactones]: https://en.wikipedia.org/wiki/Strigolactone
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
