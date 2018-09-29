@@ -989,6 +989,8 @@ A cell includes a [cytoskeleton][] which is a network of microfilament and micro
 
 Cell motility is the ability of cell parts to move or for the whole cell to change location. Cell motility is accomplished through the interaction of the cytoskeleton and [motor proteins][] such as [dyneins][] or extensions called [pseudopodia][].
 
+A process within a cell that occurs at intervals of approximately 24 hours is called a [circadian rhythm][].
+
 For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 #### Ribosomes
@@ -1503,6 +1505,12 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 Mitochondria have their own DNA called [mtDNA][] which is passed down from the mother in the case of sexual reproduction.
 
+#### Hormones
+
+[Hormones][] are chemical signals that are part of the [endocrine system][]. Hormones are synthesized by certain cells and help coordinate an organismic response by traveling through a fluid to receptor cells.
+
+Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
+
 #### Fungi
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients.
@@ -1517,7 +1525,7 @@ A [lichen][] is a grouping of many photosynthetic organisms within a fungal hyph
 
 Infection of an organism by a parasitic fungus is called [mycosis][].
 
-Fungi and plants may combine to form [mycorrhizae][]. Branching hyphae called [arbuscules][] allow the fungi to exchange nutrients with plant hosts. [Endophytes][] are fungi or bacteria that live on plants without causing harm.
+Fungi and plants may combine to form [mycorrhizae][]. Branching hyphae called [arbuscules][] allow the fungi to exchange nutrients with plant hosts.
 
 #### Algae
 
@@ -1531,9 +1539,13 @@ Plant organelles are called [plastids][].
 
 Plants have alternation of generations and they are [embryophytes][] which use embroys to nurture young sporophytes within the gametophyte.
 
-Plants are also called [land plants][] (or [terrestrial plants][]) because they live on or are closely related to [land][] which is a solid surface of the Earth not covered in water. Plants usually require soil for survival. [Soil][] is a part of land that usually has nutrients, minerals, water, gases, and organic matter. [Topsoil][] is the uppermost layer of soil that has the highest concentration of organic matter. [Vegetation][] is a group of plants that cover soil.
+Plants are also called [land plants][] (or [terrestrial plants][]) because they live on or are closely related to [land][] which is a solid surface of the Earth not covered in water. Plants usually require soil for survival.
 
-Plant [roots][] are organs that lie below soil and absorb water and minerals and anchor the plant into the soil. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes.
+[Soil][] is a part of land that usually has nutrients, minerals, water, gases, and organic matter. Soil forms from the weathering of rock, the remains of dead organisms (called [humus][]), and other organic material. [Topsoil][] is the uppermost layer of soil that has the highest concentration of organic matter. The most fertile topsoils are called [loams][]. [Vegetation][] is a group of plants that cover soil.
+
+Plant [roots][] are organs that lie below soil and absorb water and minerals and anchor the plant into the soil. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes. Roots use [cation exchange][] by acidifying the solution with H<sup>+</sup> which displace mineral cations in the soil which the roots then absorb. [Phytoremediation][] is the use of certain plants (e.g. alpine pennycress) that extract harmful minerals for disposal.
+
+The soil immediately surrounding roots is called the [rhizosphere][] and may contain rhizobacteria which are bacteria that live in the rhizosphere. [Endophytes][] are rhizobacteria or fungi that live between plant cells. Nitrogen is an important macronutrient for plants taken up during the [Nitrogen Cycle][] and most if it comes from rhizobacteria which use nitrogen fixing to bring Nitrogen in from the air into ammonia or ammonium. [Crop rotation][] usually involves periodically planting legumes with rhizobacteria called Rhizobium that is particularly good at increasing Nitrogen concentration in the soil.
 
 Plant [shoots][] are everything above ground. The plant [stem][] lies above the soil (in general) and supports photosynthetic organs. Growth mostly occurs at the terminal tip called the [apical bud][]. An [axillary bud][] may create a lateral branch, thorn, or flower.
 
@@ -1541,7 +1553,7 @@ Plant [shoots][] are everything above ground. The plant [stem][] lies above the 
 
 Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor into the cell. The arrangement of leaves on a stem is called [phyllotaxy][].
 
-[Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient.
+[Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient. Under conditions of little water (e.g. drought), a hormone called [Abscisic Acid][] (ABA) is produced by roots and leaves to signal guard cells to close stomata.
 
 Plants have undifferentiated tissues called [meristems][] which contain cells that can divide, allowing for unlimited growth to increase the height of the plant through [apical meristems][] ([primary growth][]) or the girth of the trunk through lateral meristems ([secondary growth][]).
 
@@ -1563,7 +1575,7 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
 
-The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions.
+The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions. This transportation is called [translocation][]. Sap may travel through conduits in the phloem called [sieve-tube elements][].
 
 The [vascular cambium][] is the main growth layer where new vascular tissue is added. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with cork cells is called the cork cambrium. Tissue that are neither vascular nor epidermal are called the ground tissue system: internal to the vascular tissue is called [pith][] and external to it is called [cortex][plant cortex].
 
@@ -1573,7 +1585,7 @@ Some vascular plants use [seeds][] which are packages of nutrients, an embryo, a
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
-A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and [cotyledon][] (initial root and leaves), seeds develop into [fruits][] which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
+A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and [cotyledon][] (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
 
 Nonvascular plants are called [bryophytes][] including liverworts, mosses, and hornworts.
 
@@ -1585,6 +1597,8 @@ Nonvascular plants are called [bryophytes][] including liverworts, mosses, and h
 
 The [ABC Model of Flower Development][] describes how three genes in meristems lead to the four types of flower organs (A genes in the outer sepals and petals, B genes in the middle petals and stamens, and C genes in the inner stamens and carpels). Sepals arise where only A genes are active. Petals arise where only A and B genes are active. Carpels arise where only C genes are active.
 
+An [epiphyte][] is a plant that grows on another plant, gathering resources independently. Parasitic plants are like epiphytes except they extract resources from the host plant.
+
 ##### Chloroplasts
 
 [Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
@@ -1595,7 +1609,7 @@ Plants have leaves which include [mesophyll cells][] that contain chloroplasts. 
 
 C<sub>4</sub> plants use [bundle-sheath cells][] to perform C<sub>4</sub> Carbon fixation.
 
-Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
+Plants in arid conditions are called [xerophytes][] and use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
 
 #### Cell Communication
 
@@ -1607,19 +1621,13 @@ Plants in arid conditions use [Crassulacean Acid Metabolism][] (CAM) in which st
 
 In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][]. The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
 
-##### Hormones
-
-[Hormones][] are chemical signals that are part of the [endocrine system][] which are synthesized by special cells and help coordinate an organismic response by traveling through a fluid to receptor cells.
-
-Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
-
 ##### Paracrine Signals
 
 [Paracrine Signals][] are intracellular communication over shorter distances than hormones.
 
 ##### Signaling Pathways
 
-A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which start the process of [signal transduction][] which triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which drive the process of [signal transduction][] that triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
 
 Common transmembrane receptors:
 
@@ -2222,6 +2230,7 @@ if (elements.length) {
 [α helix]: https://en.wikipedia.org/wiki/Alpha_helix
 [a-site]: https://en.wikipedia.org/wiki/A-site
 [abc model of flower development]: https://en.wikipedia.org/wiki/ABC_model_of_flower_development
+[abscisic acid]: https://en.wikipedia.org/wiki/Abscisic_acid
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -2402,9 +2411,16 @@ if (elements.length) {
 [c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calorie]: https://en.wikipedia.org/wiki/Calorie
+[calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
+[campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
+[campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
+[campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
+[campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
+[campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [cancer]: https://en.wikipedia.org/wiki/Cancer
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
 [capsid]: https://en.wikipedia.org/wiki/Capsid
+[capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon fixation]: https://en.wikipedia.org/wiki/Carbon_fixation
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
@@ -2412,17 +2428,11 @@ if (elements.length) {
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
-[cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
-[calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
-[campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
-[campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
-[campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
-[campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
-[campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
-[capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
+[cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
 [casparian strip]: https://en.wikipedia.org/wiki/Casparian_strip
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
+[cation exchange]: https://en.wikipedia.org/wiki/Ion_exchange
 [cd4]: https://en.wikipedia.org/wiki/CD4
 [cd8]: https://en.wikipedia.org/wiki/CD8
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
@@ -2479,6 +2489,7 @@ if (elements.length) {
 [chyme]: https://en.wikipedia.org/wiki/Chyme
 [chymotrypsin]: https://en.wikipedia.org/wiki/Chymotrypsin
 [cilia]: https://en.wikipedia.org/wiki/Cilium
+[circadian rhythm]: https://en.wikipedia.org/wiki/Circadian_rhythm
 [circulatory system]: https://en.wikipedia.org/wiki/Circulatory_system
 [cis-trans isomerisms]: https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism
 [cisternae]: https://en.wikipedia.org/wiki/Cisterna
@@ -2541,6 +2552,7 @@ if (elements.length) {
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
+[crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -2671,6 +2683,7 @@ if (elements.length) {
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
+[epiphyte]: https://en.wikipedia.org/wiki/Epiphyte
 [epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
@@ -2861,6 +2874,7 @@ if (elements.length) {
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humans]: https://en.wikipedia.org/wiki/Humans
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
+[humus]: https://en.wikipedia.org/wiki/Humus
 [hybrid zone]: https://en.wikipedia.org/wiki/Hybrid_zone
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
@@ -2975,6 +2989,7 @@ if (elements.length) {
 [liquid]: https://en.wikipedia.org/wiki/Liquid
 [litre]: https://en.wikipedia.org/wiki/Litre
 [liver]: https://en.wikipedia.org/wiki/Liver
+[loams]: https://en.wikipedia.org/wiki/Loam
 [lobe]: https://en.wikipedia.org/wiki/Lobe_(anatomy)
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
@@ -3115,6 +3130,7 @@ if (elements.length) {
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
+[nitrogen cycle]: https://en.wikipedia.org/wiki/Nitrogen_cycle
 [nitrogen fixation]: https://en.wikipedia.org/wiki/Nitrogen_fixation
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
@@ -3240,6 +3256,7 @@ if (elements.length) {
 [phyla]: https://en.wikipedia.org/wiki/Phylum
 [phyllotaxy]: https://en.wikipedia.org/wiki/Phyllotaxis
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
+[phytoremediation]: https://en.wikipedia.org/wiki/Phytoremediation
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
@@ -3364,6 +3381,8 @@ if (elements.length) {
 [reverse transcriptase]: https://en.wikipedia.org/wiki/Reverse_transcriptase
 [reverse transcription]: https://en.wikipedia.org/wiki/Reverse_transcriptase#Process_of_reverse_transcription
 [reversible reaction]: https://en.wikipedia.org/wiki/Reversible_reaction
+[rhizobacteria]: https://en.wikipedia.org/wiki/Rhizobacteria
+[rhizosphere]: https://en.wikipedia.org/wiki/Rhizosphere
 [ribonucleic acid]: https://en.wikipedia.org/wiki/RNA
 [ribose]: https://en.wikipedia.org/wiki/Ribose
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
@@ -3401,6 +3420,7 @@ if (elements.length) {
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
+[sieve-tube elements]: https://en.wikipedia.org/wiki/Sieve_tube_element
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
 [signal peptide]: https://en.wikipedia.org/wiki/Signal_peptide
 [signal recognition particle]: https://en.wikipedia.org/wiki/Signal_recognition_particle
@@ -3534,6 +3554,7 @@ if (elements.length) {
 [transgenes]: https://en.wikipedia.org/wiki/Transgene
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
 [translation]: https://en.wikipedia.org/wiki/Translation_(biology)
+[translocation]: https://en.wikipedia.org/wiki/Phloem#Function
 [transmission electron microscope]: https://en.wikipedia.org/wiki/Transmission_electron_microscopy
 [transpiration]: https://en.wikipedia.org/wiki/Transpiration
 [transport proteins]: https://en.wikipedia.org/wiki/Transport_protein
@@ -3605,6 +3626,7 @@ if (elements.length) {
 [white matter]: https://en.wikipedia.org/wiki/White_matter
 [wild type]: https://en.wikipedia.org/wiki/Wild_type
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
+[xerophytes]: https://en.wikipedia.org/wiki/Xerophyte
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
 [xylem]: https://en.wikipedia.org/wiki/Xylem
 [yeasts]: https://en.wikipedia.org/wiki/Yeast
