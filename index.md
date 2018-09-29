@@ -1511,6 +1511,10 @@ Mitochondria have their own DNA called [mtDNA][] which is passed down from the m
 
 Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
 
+#### Immune System
+
+The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage. The immune system includes the [innate immune system][] (or non-specific immune system) which has particular defenses against particular types of pathogens.
+
 #### Fungi
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients.
@@ -1601,6 +1605,14 @@ An [epiphyte][] is a plant that grows on another plant, gathering resources inde
 
 [Etiolation][] is the process of executing morphological changes in response to a lack of light. As light becomes available (e.g. to stems that break through the top layer of soil), the process of de-etiolation (or greening) executes different morphological changes to complete maturation.
 
+[Photoperiodism][] is the ability to act differently based on the length of a day (thus detecting the season of the year). [Short-day plants][] flower when the length of night in a day is longer than a threshold. [Long-day plants][] flower when the length of night in a day is shorter than a threshold. [Day-neutral plants][]' flowering is unaffected by the length of light in a day.
+
+Some plants require certain temperature thresholds before flowering and this may be induced through a process called [vernalization][].
+
+Some plants respond to the effects of gravity through the process of [gravitropism][] which detects the settling of cytoplasmic components called statoliths.
+
+Some plants respond to mechanical stimuli such as wind through the process of [thigmotropism][].
+
 ##### Chloroplasts
 
 [Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
@@ -1630,6 +1642,12 @@ Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is prod
 [Jasmonates][] regulate fruit ripening, floral development, and more.
 
 [Strigolactones][] promote seed germination.
+
+##### Plant Immune System
+
+Plants recognize [Pathogen-Associated Molecular Patterns][] (PAMPs) which lead to a chain of defensive events such as the production of phytoalexins.
+
+[Effector-Triggered Immunity][] deals with pathogens that avoid detection by PAMPs (through the use of effectors that block PAMP perception) by defensive genes that are stimulated by the effectors. Effector-trigger immunity initiates the hypersensitive response which leads to localized cell death near the infection site. Systemic Acquired Resistance occurs is a plant-wide expression of defensive genes through signaling molecules such as Salicylic Acid.
 
 #### Cell Communication
 
@@ -1803,6 +1821,10 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 [Necroptosis][] is a programmed form of necrosis and may be an alternative or backup to apoptosis.
 
+### Etcetera
+
+[Heat-shock proteins][] in both animals and plants are synthesized in response to temperature over a threshold and help protect other proteins from denaturing.
+
 ## Viruses
 
 [Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
@@ -1889,14 +1911,14 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 [Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood.
 
-## Immune System
+## Animal Immune System
 
-The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may various types of damage:
+Types of damage that pathogens may inflict:
 
 * [Exotoxins][]: Proteins secreted by pathogens which cause damage.
 * [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
 
-Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens. The [innate immune system][] (or non-specific immune system) is the remainder of the immune system.
+Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
 
 ### Innate Immune System
 
@@ -2590,6 +2612,7 @@ if (elements.length) {
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
 [cytosol]: https://en.wikipedia.org/wiki/Cytosol
 [cytotoxic t cells]: https://en.wikipedia.org/wiki/Cytotoxic_T_cell
+[day-neutral plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
@@ -2645,6 +2668,7 @@ if (elements.length) {
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
+[effector-triggered immunity]: https://en.wikipedia.org/wiki/Effector-triggered_immunity
 [elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
 [elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
@@ -2838,6 +2862,7 @@ if (elements.length) {
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
+[gravitropism]: https://en.wikipedia.org/wiki/Gravitropism
 [gravity]: https://en.wikipedia.org/wiki/Gravity
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
@@ -2854,6 +2879,7 @@ if (elements.length) {
 [hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
+[heat-shock proteins]: https://en.wikipedia.org/wiki/Heat_shock_protein
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [helicases]: https://en.wikipedia.org/wiki/Helicase
 [helper t cells]: https://en.wikipedia.org/wiki/T_helper_cell
@@ -3022,6 +3048,7 @@ if (elements.length) {
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
 [london dispersion forces]: https://en.wikipedia.org/wiki/London_dispersion_force
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
+[long-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [long noncoding rna]: https://en.wikipedia.org/wiki/Long_non-coding_RNA
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
 [lyases]: https://en.wikipedia.org/wiki/Lyase
@@ -3244,6 +3271,7 @@ if (elements.length) {
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [passive immunity]: https://en.wikipedia.org/wiki/Passive_immunity
+[pathogen-associated molecular patterns]: https://en.wikipedia.org/wiki/Pathogen-associated_molecular_pattern
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pectins]: https://en.wikipedia.org/wiki/Pectin
@@ -3275,6 +3303,7 @@ if (elements.length) {
 [phosphatases]: https://en.wikipedia.org/wiki/Phosphatase
 [photolyases]: https://en.wikipedia.org/wiki/Photolyase
 [photon]: https://en.wikipedia.org/wiki/Photon
+[photoperiodism]: https://en.wikipedia.org/wiki/Photoperiodism
 [photophosphorylation]: https://en.wikipedia.org/wiki/Photophosphorylation
 [photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
 [photosystem i]: https://en.wikipedia.org/wiki/Photosystem_I
@@ -3445,6 +3474,7 @@ if (elements.length) {
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
 [sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [shoots]: https://en.wikipedia.org/wiki/Shoot
+[short-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
@@ -3564,6 +3594,7 @@ if (elements.length) {
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
+[thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
@@ -3629,6 +3660,7 @@ if (elements.length) {
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [ventral]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
+[vernalization]: https://en.wikipedia.org/wiki/Vernalization
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
 [vibration]: https://en.wikipedia.org/wiki/Vibration
