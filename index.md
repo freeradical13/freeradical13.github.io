@@ -1284,7 +1284,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
 
 [Protein synthesis][]:
 
-1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other transcription factors split double-stranded DNA and perform transcription of genes into proteins. One promoter may transcribe one or more genes.
+1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other factors split double-stranded DNA and perform transcription of genes into proteins. One promoter may transcribe one or more genes.
 1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA or [primary transcript][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344].
     1. In bacteria, transcription ends at a [terminator][].
     1. In eukaryotes:
@@ -1479,21 +1479,29 @@ Material is first sorted inside [endosomes][] before being processed by the lyso
 
 [Cilia][] are protrusions from a cell membrane that participate in sensing stimuli.
 
-#### Tissues
+#### Anatomy
+
+[Anatomy][] is the study of the structure of organisms. [Physiology][] is the study of biological function, often a consequence of anatomy.
 
 A [tissue][] is the smallest collections of similar cells that carry out a particular function, along with an [extracellular matrix][] that provides support for the tissue. The extracellular matrix is created by [fibroblast cells][]. [Integrin][] proteins on cell membranes bind to glycoproteins such as [fibronectin][] in the extracellular matrix.
 
 An [organ][] is a collection of tissues with similar function.
 
-[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the [epidermis][] (or outermost epithelial tissue). The main type of cell in epithelium is the epithelial cell.
-
 A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
 
-[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
-
 [Keratin][] is a strong protein like Chitin that creates various structures in organisms.
+
+#### Morphogenesis
+
+[Morphogenesis][] is the process that causes an organism to develop its shape such as the organized spatial distribution of cells during embryonic development.
+
+A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis. [Homeosis][] is the transformation of one organ into another from mutation or misexpression of homeotic genes (genes with a homeobox).
+
+[Heterochrony][] is an evolutionary change in the rate or timing of various events in an organism's development.
+
+[Paedomorphosis][] is the retaining of certain features of a child into a sexually mature age.
 
 #### Energy Generation
 
@@ -1681,6 +1689,72 @@ Second messengers are either proteins or:
 
 [Scaffolding proteins][] bind to a transmembrane receptor and multiple relay proteins together to increase the speed of signal transduction.
 
+#### Epithelial Tissue
+
+[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body or [epidermis][]. The main type of cell in epithelium is the epithelial cell.
+
+#### Connective Tissue
+
+[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
+
+[Bone][] is a strong and rigid mineralized connective tissue made by bone-forming cells called osteoblasts which deposit calcium, magnesium, and phosphate ions into a solidified matrix. [Ligaments][] connect bones at joints.
+
+[Cartilage][] is a strong yet flexible material that contains fibers made of collagen embedded in a carbohydrate-protein complex called chondroitin sulfate. Cartilage is excreted by cells called chondrocytes.
+
+#### Circulatory System
+
+The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels.
+
+#### Blood
+
+[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors.
+
+##### Blood Cells
+
+Blood cells are creted in the bone marrow and may be red blood cells, white blood cells or platelets.
+
+[Red Blood Cells][] (or erythrocytes, or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
+
+[Platelets][] (or thrombocytes) lack a nucleus and help with forming blood clots in response to injury.
+
+[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
+
+##### Blood Vessels
+
+[Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
+
+[Arteries][] carry blood away from the heart.
+
+[Capillaries][] are small blood vessels that perform the exchange of chemicals blood and tissues.
+
+[Veins][] carry blood from the capillaries back to the heart.
+
+#### Lymphatic System
+
+All the fluid outside of cells is called [extracellular fluid][]. The majority of extracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
+
+The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
+
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood.
+
+#### Heart
+
+The [heart][] is an organ that pumps blood through the circulatory system.
+
+[Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
+
+[Atherosclerosis][] is a type of arteriosclerosis where the thickening of the cell wall is caused by a build up of a fatty plaque.
+
+#### Muscle Tissue
+
+[Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction.
+
+[Skeletal muscle][] (or striated muscle) is attached to bones by [tendons][] and is responsible for voluntary movements.
+
+[Smooth muscle][] is responsible for involuntary body movements.
+
+[Cardiac muscle][] performs contractions in the heart.
+
 #### Neurons
 
 [Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
@@ -1690,10 +1764,6 @@ Second messengers are either proteins or:
 Nervous tissue is the main component of the [central nervous system][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
 
 The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
-
-#### Muscle Tissue
-
-[Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction.
 
 #### Brain
 
@@ -1711,11 +1781,29 @@ Underneath the cerebrum and connected to the brainstem are other structures such
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
+#### Adipose Tissue
+
+[Adipose Tissue][] (or body fat) is a loose connective tissue that stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
+
+##### Fatty acid degradation
+
+[Fatty Acid Degradation][] is the process of converting stored fat into Acetyl-CoA which enters the Citric Acid Cycle to produce energy.
+
+When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose cells into fatty acids and glycerol. 
+
+1. Hormones such as Epinephrine and Glucagon are released which bind to receptors on adipocytes that activate [perilipin][] proteins on the surface of lipids.
+1. Phosphorylation of perilipins causes phosphorylated [hormone-sensitive lipase][] to hydrolyze triglycerides in the lipid droplets which produces glycerol and fatty acids.
+1. The fatty acids exit the adipocyte, bind to the plasma protein [serum albumin][], and enter the blood. Glycerol also enters the blood and travels to the liver.
+1. Fatty acids then enter cells and are attached to CoA to create [Acyl-CoA][].
+1. A [Carnitine][] is added to Acyl-CoA to create Acyl-Carnitine.
+1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [beta oxidation][] (or β-oxidation).
+1. Acetyl-CoA enters the Citric Acid Cycle.
+
 #### Animals
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs with tissues that develop from an embryo.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually.
 
-Animals have a [coelom][] (or body cavity) which is a fluid- or air-filled space that cushions organs.
+Animals have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
 
 Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract with a [mouth][] entrance for food and [anus][] exit for what remains after digestion ([feces][]). Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
 
@@ -1857,60 +1945,6 @@ Examples of viruses:
 
 [Prions][] are proteins which may infect organisms (e.g. through food) and cause brain diseases such as [Mad Cow Disease][], [Creutzfeldt-Jakob Disease][], and [Scrapie][]. The prion proteins are misfolded proteins which may cause properly folder proteins of the same type to misfold upon contact which may lead to a chain reaction.
 
-## Adipose Tissue
-
-[Adipose Tissue][] (or body fat) stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
-
-### Fatty acid degradation
-
-[Fatty Acid Degradation][] is the process of converting stored fat into Acetyl-CoA which enters the Citric Acid Cycle to produce energy.
-
-When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose cells into fatty acids and glycerol. 
-
-1. Hormones such as Epinephrine and Glucagon are released which bind to receptors on adipocytes that activate [perilipin][] proteins on the surface of lipids.
-1. Phosphorylation of perilipins causes phosphorylated [hormone-sensitive lipase][] to hydrolyze triglycerides in the lipid droplets which produces glycerol and fatty acids.
-1. The fatty acids exit the adipocyte, bind to the plasma protein [serum albumin][], and enter the blood. Glycerol also enters the blood and travels to the liver.
-1. Fatty acids then enter cells and are attached to CoA to create [Acyl-CoA][].
-1. A [Carnitine][] is added to Acyl-CoA to create Acyl-Carnitine.
-1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [beta oxidation][] (or β-oxidation).
-1. Acetyl-CoA enters the Citric Acid Cycle.
-
-## Circulatory System
-
-The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels. Blood is pumped through blood vessels by an organ called the heart. 
-
-### Blood
-
-[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting cators, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] includes blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors.
-
-#### Blood Cells
-
-Blood cells are creted in the bone marrow and may be red blood cells, white blood cells or platelets.
-
-[Red Blood Cells][] (or erythrocytes, or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
-
-[Platelets][] (or thrombocytes) lack a nucleus and help with forming blood clots in response to injury.
-
-[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
-
-#### Blood Vessels
-
-[Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
-
-[Arteries][] carry blood away from the heart.
-
-[Capillaries][] are small blood vessels that perform the exchange of chemicals blood and tissues.
-
-[Veins][] carry blood from the capillaries back to the heart.
-
-### Lymphatic System
-
-All the fluid outside of cells is called [extracellular fluid][]. The majority of exracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
-
-The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
-
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood.
-
 ## Animal Immune System
 
 Types of damage that pathogens may inflict:
@@ -1980,14 +2014,6 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 [Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
 
 [Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
-
-### Heart
-
-The [heart][] is an organ that pumps blood through the circulatory system.
-
-[Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
-
-[Atherosclerosis][] is a type of arteriosclerosis where the thickening of the cell wall is caused by a build up of a fatty plaque.
 
 ### Lipoproteins
 
@@ -2077,16 +2103,6 @@ The amniotic sac is further enclosed by a membrane called the [chorion][] which 
 [Amniocentesis][] uses a needle to extract amniotic fluid which contains fetal cells that may be sequenced.
 
 [Chorionic Villus Sampling][] extracts some chorionic villi cells which were made by the fetus and which may be sequenced.
-
-### Morphogenesis
-
-[Morphogenesis][] is the process that causes an organism to develop its shape such as the organized spatial distribution of cells during embryonic development.
-
-A [homeobox][] is a DNA sequence found within genes that encodes transcription factors related to morphogenesis. [Homeosis][] is the transformation of one organ into another from mutation or misexpression of homeotic genes (genes with a homeobox).
-
-[Heterochrony][] is an evolutionary change in the rate or timing of various events in an organism's development.
-
-[Paedomorphosis][] is the retaining of certain features of a child into a sexually mature age.
 
 ## History of Life
 
@@ -2192,7 +2208,7 @@ Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomaviru
 
 # Methodology/Meta
 
-* Every time I "context switch" into this after some time away, I re-read the entire page before re-starting. Along with the process of writing itself, this seems to maximize retention.
+* Every time a "context switch" occurs into this material after some time away, re-reading the entire page before re-starting is helpful. Along with the process of writing itself, this seems to maximize retention.
 
 <style>
 .page-header {
@@ -2340,6 +2356,7 @@ if (elements.length) {
 [amylose]: https://en.wikipedia.org/wiki/Amylose
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
+[anatomy]: https://en.wikipedia.org/wiki/Anatomy
 [anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
@@ -2437,6 +2454,7 @@ if (elements.length) {
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
+[bone]: https://en.wikipedia.org/wiki/Bone
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
@@ -2471,8 +2489,10 @@ if (elements.length) {
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
+[cardiac muscle]: https://en.wikipedia.org/wiki/Cardiac_muscle
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
+[cartilage]: https://en.wikipedia.org/wiki/Cartilage
 [cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
 [casparian strip]: https://en.wikipedia.org/wiki/Casparian_strip
 [catabolism]: https://en.wikipedia.org/wiki/Catabolism
@@ -2551,7 +2571,7 @@ if (elements.length) {
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
-[coelom]: https://en.wikipedia.org/wiki/Coelom
+[coeloms]: https://en.wikipedia.org/wiki/Coelom
 [coenocytic]: https://en.wikipedia.org/wiki/Coenocyte
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
@@ -3024,6 +3044,7 @@ if (elements.length) {
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [lichen]: https://en.wikipedia.org/wiki/Lichen
 [life]: https://en.wikipedia.org/wiki/Life
+[ligaments]: https://en.wikipedia.org/wiki/Ligament
 [ligand gated channels]: https://en.wikipedia.org/wiki/Ligand-gated_ion_channel
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [ligases]: https://en.wikipedia.org/wiki/Ligase
@@ -3313,6 +3334,7 @@ if (elements.length) {
 [phyla]: https://en.wikipedia.org/wiki/Phylum
 [phyllotaxy]: https://en.wikipedia.org/wiki/Phyllotaxis
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
+[physiology]: https://en.wikipedia.org/wiki/Physiology
 [phytoremediation]: https://en.wikipedia.org/wiki/Phytoremediation
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pili]: https://en.wikipedia.org/wiki/Pilus
@@ -3488,10 +3510,12 @@ if (elements.length) {
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [single nucleotide polymorphism]: https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
+[skeletal muscle]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
 [smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
 [small interfering rna]: https://en.wikipedia.org/wiki/Small_interfering_RNA
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
+[smooth muscle]: https://en.wikipedia.org/wiki/Smooth_muscle
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [soil]: https://en.wikipedia.org/wiki/Soil
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
@@ -3580,6 +3604,7 @@ if (elements.length) {
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
 [temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
+[tendons]: https://en.wikipedia.org/wiki/Tendon
 [terminator]: https://en.wikipedia.org/wiki/Terminator_(genetics)
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
