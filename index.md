@@ -719,7 +719,7 @@ Common disaccharides:
 
 [Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
-[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). [Glycogen][] is like amylopectin but even more branched.
+[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). Glycogen is like amylopectin but even more branched.
 
 [Structural polysaccharides][] are used by organisms to build strong structural material. [Cellulose][] and [Chitin][] (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form [microfibrils][].
 
@@ -1845,9 +1845,9 @@ At the end of the esophagus, food reaches a [sphincter][] which is a muscle that
 
 [Digestion][] is the breakdown of food into small, water-soluble nutrients (e.g. amino acids, sugars, etc.) in the blood and non-water soluble molecules (e.g. lipids, etc.) in the lymph.
 
-Digestion occurs in the [Gastrointestinal Tract][] (or GI tract or [Alimentary Canal][]) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
+Digestion occurs in the [Gastrointestinal Tract][] (or GI tract, or [Alimentary Canal][], or gut) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
 
-The [stomach][] secretes enzymes and [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. Hcl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested collection called [Chyme][] is passed onto the small intestine.
+The [stomach][] is an organ that stores food and starts its processing. As food stretches the walls of the stomach, the hormone Gastrin is released which causes the secretion of [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. Hcl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested, acidic collection called [Chyme][] is passed onto the small intestine.
 
 The [small intestine][] completes most food digestion. The [Duodenum][] is the first part of the small intestine which completes the breakdown of the chyme using juices from the pancreas, liver, and gallbladder. The entry of chyme into the small intestine stimulates secretion of the hormone [Secretin][] which stimulates the pancreas to secrete Biocarbonate into the duodenum which acts as a buffer for digestion. The pancreas also secretes the proteases [Trypsin][] and [Chymotrypsin][] into the duodenum.
 
@@ -1855,7 +1855,9 @@ The [Jejunum][] is the second part of the small intestine which absorbs nutrient
 
 The [Ileum][] is the third part of the small intestine which absorbs any remaining Vitamin B12, bile acids, ions and most water.
 
-The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and leads to the remains of digestion called [feces][] to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion through the [anus][].
+The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and leads to the remains of digestion called [feces][] to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion of feces through the [anus][].
+
+The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help produce nutrients.
 
 ##### Bile Acid
 
@@ -1872,6 +1874,18 @@ A [lipase][] is an enzyme that hydrolyzes fats. Dietary triglycerides and choles
 ##### Protein Digestion
 
 [Carboxypeptidase][] is produced in the pancreas.
+
+#### Blood Sugar
+
+When blood glucose levels rise above a certain level, the hormone [Insulin][] is secreted by [Beta Cells][] in the pancrease which triggers cells to uptake Glucose and liver and muscle cells may store Glucose in the form of [Glycogen][].
+
+When blood glucose levels decrease below a certain level, the hormone [Glucagon][] is secreted by [Alpha Cells][] which triggers the release of Glucose from Glycogen stores.
+
+Diabetes Mellitus is a disease in which insufficient insulin is produced (Type 1 Diabetes) or cells have a decreased response to insulin (Type 2 Diabetes).
+
+#### Appetite
+
+Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormone [Ghrelin][] secreted by the stomach wall triggers feelings of hunger. Insulin, the hormone [Leptin][] produced by adipose tissue, and the hormone [PYY][] produced by the small intestine after meals trigger feelings of satiety.
 
 #### Glands
 
@@ -2354,6 +2368,7 @@ if (elements.length) {
 [allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
+[alpha cells]: https://en.wikipedia.org/wiki/Alpha_cell
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
@@ -2454,6 +2469,7 @@ if (elements.length) {
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
 [benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
 [benzene]: https://en.wikipedia.org/wiki/Benzene
+[beta cells]: https://en.wikipedia.org/wiki/Beta_cell
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [bilaterians]: https://en.wikipedia.org/wiki/Bilateria
@@ -2896,9 +2912,11 @@ if (elements.length) {
 [germination]: https://en.wikipedia.org/wiki/Germination
 [germline]: https://en.wikipedia.org/wiki/Germline
 [gestation]: https://en.wikipedia.org/wiki/Gestation
+[ghrelin]: https://en.wikipedia.org/wiki/Ghrelin
 [gibberellins]: https://en.wikipedia.org/wiki/Gibberellin
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
+[glucagon]: https://en.wikipedia.org/wiki/Glucagon
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
@@ -3020,6 +3038,7 @@ if (elements.length) {
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [insects]: https://en.wikipedia.org/wiki/Insects
+[insulin]: https://en.wikipedia.org/wiki/Insulin
 [integrin]: https://en.wikipedia.org/wiki/Integrin
 [integument]: https://en.wikipedia.org/wiki/Integument
 [integumentary system]: https://en.wikipedia.org/wiki/Integumentary_system
@@ -3076,6 +3095,7 @@ if (elements.length) {
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [leaves]: https://en.wikipedia.org/wiki/Leaf
+[leptin]: https://en.wikipedia.org/wiki/Leptin
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [lichen]: https://en.wikipedia.org/wiki/Lichen
@@ -3162,6 +3182,7 @@ if (elements.length) {
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
+[microbiome]: https://en.wikipedia.org/wiki/Microbiota
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
 [microphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
@@ -3468,6 +3489,7 @@ if (elements.length) {
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
 [pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
 [pyruvate oxidation]: https://en.wikipedia.org/wiki/Pyruvate_decarboxylation
+[pyy]: https://en.wikipedia.org/wiki/Peptide_YY
 [quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
 [quorum sensing]: https://en.wikipedia.org/wiki/Quorum_sensing
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
