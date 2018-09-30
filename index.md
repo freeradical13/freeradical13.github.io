@@ -999,7 +999,7 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 #### Metabolism
 
-[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature, pH, etc.
+[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor.
 
 [Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
@@ -1693,6 +1693,8 @@ Second messengers are either proteins or:
 
 [Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body or [epidermis][]. The main type of cell in epithelium is the epithelial cell.
 
+The outer covering of the body is called the [integumentary system][] which includes the outer epidermis, hair, and nails.
+
 #### Connective Tissue
 
 [Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
@@ -1779,7 +1781,7 @@ The cerebrum is attached to the [brainstem][] which connects to the spinal cord 
 
 Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
 
-The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
 #### Adipose Tissue
 
@@ -1799,13 +1801,91 @@ When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose 
 1. [Acyl-Carnitine][] enters the mitochondria and is broken down into Acetyl-CoA through a process called [beta oxidation][] (or β-oxidation).
 1. Acetyl-CoA enters the Citric Acid Cycle.
 
+### Lipoproteins
+
+[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
+
+Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
+
+Endothelial cells in the walls of the capillaries of adipose and muscle tissue have an enzyme called [Lipoprotein Lipase][] (LPL) which interacts with [Apoprotein C-II][] on chylomicrons to hydrolyze the packaged triglycerides into glycerol and fatty acids and send them into adipose and muscle cells. The remaining chylomicrons are transported to the liver and cleaned up in a process mediated by [Apoprotein E][].
+
+#### Liver
+
+The [liver][] (hepat in Greek) is an organ with hundreds of functions such as detoxification, regulating Glucose and Glycogen, producing hormones, decomposing red blood cells, and producing bile. The liver is made mostly of [Hepatocyte cells][].
+
+The liver may synthesize lipoproteins such as LDL and VLDL which carry cholesterol and triglycerides to tissues.
+
+[HDL][] transports cholesterol from tissues to the liver.
+
+#### Pancreas
+
+The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
+
+#### Nutrition
+
+[Nutrition][] is the ingestion, digestion, and usage of food by an organism.
+
+[Essential Nutrients][] are substances required to be ingested because they cannot be synthesized for simpler molecules. [Essential Amino Acids][] are any amino acids that cannot be synthesized by the organism. [Essential Fatty Acids][] are some fatty acids that cannot be synthesized such as Linoleic Acid.
+
+[Vitamins][] are small organic molecules required in metabolism. Some vitamins cannot be synthesized so they are essential nutrients. Some vitamins are water soluable and some are fat soluable.
+
+[Minerals][] are inorganic, solid chemical compounds such as Iron and Sulfer which are required in metabolism by some organisms.
+
+#### Ingestion
+
+The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubrciates food for processing.
+
+Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the [trachea][] that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
+
+Material moves through the esophagus and other areas with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
+
+At the end of the esophagus, food reaches a [sphincter][] which is a muscle that regulates passage into the stomach.
+
+#### Digestion
+
+[Digestion][] is the breakdown of food into small, water-soluble nutrients (e.g. amino acids, sugars, etc.) in the blood and non-water soluble molecules (e.g. lipids, etc.) in the lymph.
+
+Digestion occurs in the [Gastrointestinal Tract][] (or GI tract or [Alimentary Canal][]) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
+
+The [stomach][] secretes enzymes and [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. Hcl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested collection called [Chyme][] is passed onto the small intestine.
+
+The [small intestine][] completes most food digestion. The [Duodenum][] is the first part of the small intestine which completes the breakdown of the chyme using juices from the pancreas, liver, and gallbladder. The entry of chyme into the small intestine stimulates secretion of the hormone [Secretin][] which stimulates the pancreas to secrete Biocarbonate into the duodenum which acts as a buffer for digestion. The pancreas also secretes the proteases [Trypsin][] and [Chymotrypsin][] into the duodenum.
+
+The [Jejunum][] is the second part of the small intestine which absorbs nutrients into the blood stream through projections called [villi][] on epithelial cells called [enterocyte cells][]. The villi have further [microvilli][] projections that increase surface area. Water-soluble nutrients enter the blood into the [hepatic portal vein][] which leads to the liver which transforms and filters some nutrients and sends them in blood to the heart which pumps them to the whole body.
+
+The [Ileum][] is the third part of the small intestine which absorbs any remaining Vitamin B12, bile acids, ions and most water.
+
+The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and leads to the remains of digestion called [feces][] to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion through the [anus][].
+
+##### Bile Acid
+
+[Bile acid][] is secreted in the duodenum and is used for digestion and absorption of fat from food. Bile acid emulsifies and breaks apart fat and lipid complexes. Bile acid is a large part of [bile][] which is secreted by the liver and stored and concentrated in the gallbladder.
+
+##### Lipid Digestion
+
+A [lipase][] is an enzyme that hydrolyzes fats. Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein), absorbed by enterocytes, recombined into triglycerides, coated with phospholipids, cholesterol and proteins into water-soluble [chylomicrons][], and sent into [lacteal vessels][] that are part of the lymphatic system, and ultimately into blood pumped by the heart to the rest of the body.
+
+##### Carbohydrate Digestion
+
+[α-Amylase][] breaks down starch into maltose (and other small carbohydrates).
+
+##### Protein Digestion
+
+[Carboxypeptidase][] is produced in the pancreas.
+
+#### Glands
+
+[Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
+
 #### Animals
 
 [Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually.
 
 Animals have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
 
-Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract with a [mouth][] entrance for food and [anus][] exit for what remains after digestion ([feces][]). Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+
+[Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
 
 ##### Vertebrates
 
@@ -2014,67 +2094,6 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 [Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
 
 [Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
-
-### Lipoproteins
-
-[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
-
-Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
-
-Endothelial cells in the walls of the capillaries of adipose and muscle tissue have an enzyme called [Lipoprotein Lipase][] (LPL) which interacts with [Apoprotein C-II][] on chylomicrons to hydrolyze the packaged triglycerides into glycerol and fatty acids and send them into adipose and muscle cells. The remaining chylomicrons are transported to the liver and cleaned up in a process mediated by [Apoprotein E][].
-
-## Liver
-
-The [liver][] (hepat in Greek) is an organ with hundreds of functions such as detoxification, regulating Glucose and Glycogen, producing hormones, decomposing red blood cells, and producing bile. The liver is made mostly of [Hepatocyte cells][].
-
-The liver may synthesize lipoproteins such as LDL and VLDL which carry cholesterol and triglycerides to tissues.
-
-[HDL][] transports cholesterol from tissues to the liver.
-
-## Pancreas
-
-The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
-
-## Digestion
-
-[Digestion][] is the breakdown of food into small, water-soluable molecules in the blood.
-
-Digestion occurs in the [Gastrointestinal Tract][] (or GI tract) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus. Material moves through the GI tract with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
-
-The [esophagus][] passes food from the mouth to the stomach using contractions.
-
-The [stomach][] secretes enzymes and gastric acid to begin food digestion. The partly digested collection called [Chyme][] is passed on to the small intestine.
-
-The [small intestine][] completes most food digestion. The Duodenum is the first part of the small intestine which completes the breakdown of the chyme. The [Jejunum][] is the second part of the small intestine which absorbs nutrients into the blood stream through projections called [villi][] on [enterocyte cells][]. The [Ileum][] is the third part of the small intestine which absorbs mostly Vitamin B12 and bile acids.
-
-The [large intestine][] (or colon) absorbs remaining water and stores waste as feces.
-
-### Bile Acid
-
-[Bile acid][] is created in the liver, stored in the gallbladder, and secreted in the duodenum, and it's used for digestion and absorption of fat from food.
-
-### Lipid Digestion
-
-A [lipase][] is an enzyme that hydrolyzes fats.
-
-Dietary triglycerides and cholesterol are hydrolyzed by lipases in the stomach and duodenum into monoglycerides and [free fatty acids][] (fatty acids bound to an [albumin][] protein) which are absorbed by enterocytes, packaged into chylomicrons, and sent through the lymphatic system into the blood.
-
-### Carbohydrate Digestion
-
-[α-Amylase][] in a fluid called [saliva][] in the mouth breaks down starch into maltose (and other small carbohydrates).
-
-### Protein Digestion
-
-[Proteases][] are enzymes that break down proteins into amino acids:
-
-* [Pepsin][] is produced in and acts in the stomach.
-* [Chymotrypsin][] is produced in the pancreas and acts in the duodenum.
-* [Trypsin][] is produced in and acts in the small intestine.
-* [Carboxypeptidase][] is produced in the pancreas.
-
-## Glands
-
-[Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
 
 ## Birth
 
@@ -2317,6 +2336,7 @@ if (elements.length) {
 [aldolase]: https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase
 [algae]: https://en.wikipedia.org/wiki/Algae
 [algebra]: https://www.khanacademy.org/math/algebra
+[alimentary canal]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
@@ -2383,6 +2403,7 @@ if (elements.length) {
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
 [apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
+[appendix]: https://en.wikipedia.org/wiki/Appendix_(anatomy)
 [aquaporins]: https://en.wikipedia.org/wiki/Aquaporin
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
 [arbuscules]: https://en.wikipedia.org/wiki/Arbuscular_mycorrhiza
@@ -2436,6 +2457,7 @@ if (elements.length) {
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
 [big bang]: https://en.wikipedia.org/wiki/Big_Bang
 [bilaterians]: https://en.wikipedia.org/wiki/Bilateria
+[bile]: https://en.wikipedia.org/wiki/Bile
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
 [binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
@@ -2454,6 +2476,7 @@ if (elements.length) {
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
+[bolus]: https://en.wikipedia.org/wiki/Bolus_(digestion)
 [bone]: https://en.wikipedia.org/wiki/Bone
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
 [brain]: https://en.wikipedia.org/wiki/Brain
@@ -2491,6 +2514,7 @@ if (elements.length) {
 [carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
 [cardiac muscle]: https://en.wikipedia.org/wiki/Cardiac_muscle
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
+[carnivores]: https://en.wikipedia.org/wiki/Carnivore
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
 [cartilage]: https://en.wikipedia.org/wiki/Cartilage
 [cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
@@ -2550,6 +2574,7 @@ if (elements.length) {
 [chromosome inversions]: https://en.wikipedia.org/wiki/Chromosomal_inversion
 [chromosome translocations]: https://en.wikipedia.org/wiki/Chromosomal_translocation
 [chromosomes]: https://en.wikipedia.org/wiki/Chromosome
+[chylomicrons]: https://en.wikipedia.org/wiki/Chylomicron
 [chyme]: https://en.wikipedia.org/wiki/Chyme
 [chymotrypsin]: https://en.wikipedia.org/wiki/Chymotrypsin
 [cilia]: https://en.wikipedia.org/wiki/Cilium
@@ -2581,6 +2606,7 @@ if (elements.length) {
 [collagen]: https://en.wikipedia.org/wiki/Collagen
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
+[colon]: https://en.wikipedia.org/wiki/Large_intestine
 [commensalism]: https://en.wikipedia.org/wiki/Commensalism
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
@@ -2680,6 +2706,7 @@ if (elements.length) {
 [dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
+[duodenum]: https://en.wikipedia.org/wiki/Duodenum
 [dyneins]: https://en.wikipedia.org/wiki/Dynein
 [e-site]: https://en.wikipedia.org/wiki/E-site
 [earth]: https://en.wikipedia.org/wiki/Earth
@@ -2759,6 +2786,9 @@ if (elements.length) {
 [erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
+[essential amino acids]: https://en.wikipedia.org/wiki/Essential_amino_acid
+[essential fatty acids]: https://en.wikipedia.org/wiki/Essential_fatty_acid
+[essential nutrients]: https://en.wikipedia.org/wiki/Nutrient#Essential_nutrients
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
@@ -2843,6 +2873,7 @@ if (elements.length) {
 [gametophyte]: https://en.wikipedia.org/wiki/Gametophyte
 [gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
 [gas]: https://en.wikipedia.org/wiki/Gas
+[gastric acid]: https://en.wikipedia.org/wiki/Gastric_acid
 [gastrointestinal tract]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
 [gastrula]: https://en.wikipedia.org/wiki/Gastrulation
 [gel electrophoresis]: https://en.wikipedia.org/wiki/Gel_electrophoresis
@@ -2908,7 +2939,9 @@ if (elements.length) {
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
+[hepatic portal vein]: https://en.wikipedia.org/wiki/Portal_vein
 [hepatocyte cells]: https://en.wikipedia.org/wiki/Hepatocyte
+[herbivores]: https://en.wikipedia.org/wiki/Herbivore
 [heritable]: https://en.wikipedia.org/wiki/Heredity
 [hermaphrodites]: https://en.wikipedia.org/wiki/Hermaphrodite
 [hertz]: https://en.wikipedia.org/wiki/Hertz
@@ -2922,6 +2955,7 @@ if (elements.length) {
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
+[hibernation]: https://en.wikipedia.org/wiki/Hibernation
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
 [histamines]: https://en.wikipedia.org/wiki/Histamine
 [histone]: https://en.wikipedia.org/wiki/Histone
@@ -2988,6 +3022,7 @@ if (elements.length) {
 [insects]: https://en.wikipedia.org/wiki/Insects
 [integrin]: https://en.wikipedia.org/wiki/Integrin
 [integument]: https://en.wikipedia.org/wiki/Integument
+[integumentary system]: https://en.wikipedia.org/wiki/Integumentary_system
 [interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -3028,6 +3063,7 @@ if (elements.length) {
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [kinetoplastids]: https://en.wikipedia.org/wiki/Kinetoplastida
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
+[lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [land]: https://en.wikipedia.org/wiki/Land
@@ -3112,6 +3148,7 @@ if (elements.length) {
 [meristems]: https://en.wikipedia.org/wiki/Meristem
 [mesoderm]: https://en.wikipedia.org/wiki/Mesoderm
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
+[metabolic rate]: https://en.wikipedia.org/wiki/Basal_metabolic_rate
 [metabolism]: https://en.wikipedia.org/wiki/Metabolism
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
 [metals]: https://en.wikipedia.org/wiki/Metal
@@ -3132,9 +3169,11 @@ if (elements.length) {
 [microsporangia]: https://en.wikipedia.org/wiki/Sporangium
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
+[microvilli]: https://en.wikipedia.org/wiki/Microvillus
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[minerals]: https://en.wikipedia.org/wiki/Mineral
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
@@ -3235,6 +3274,7 @@ if (elements.length) {
 [nucleotide-pair substitution]: https://en.wikipedia.org/wiki/Mutations#Classification_of_types
 [nucleotide excision repair]: https://en.wikipedia.org/wiki/Nucleotide_excision_repair
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
+[nutrition]: https://en.wikipedia.org/wiki/Nutrition
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [obligate]: https://en.wikipedia.org/wiki/Obligate
@@ -3245,6 +3285,7 @@ if (elements.length) {
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
+[omnivores]: https://en.wikipedia.org/wiki/Omnivore
 [oncogene]: https://en.wikipedia.org/wiki/Oncogene
 [oocytes]: https://en.wikipedia.org/wiki/Oocyte
 [operator]: https://en.wikipedia.org/wiki/Operon#General_structure
@@ -3299,6 +3340,7 @@ if (elements.length) {
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
 [pepsin]: https://en.wikipedia.org/wiki/Pepsin
+[pepsinogen]: https://en.wikipedia.org/wiki/Pepsin#Precursor
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -3314,6 +3356,7 @@ if (elements.length) {
 [petals]: https://en.wikipedia.org/wiki/Petal
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phagocytosis]: https://en.wikipedia.org/wiki/Phagocytosis
+[pharynx]: https://en.wikipedia.org/wiki/Pharynx
 [phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
 [phloem]: https://en.wikipedia.org/wiki/Phloem
@@ -3441,6 +3484,7 @@ if (elements.length) {
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [recombinant chromosomes]: https://en.wikipedia.org/wiki/Chromosomal_crossover
 [recombinase]: https://en.wikipedia.org/wiki/Recombinase
+[rectum]: https://en.wikipedia.org/wiki/Rectum
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
@@ -3488,6 +3532,7 @@ if (elements.length) {
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
+[secretin]: https://en.wikipedia.org/wiki/Secretin
 [seeds]: https://en.wikipedia.org/wiki/Seed
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
@@ -3533,6 +3578,7 @@ if (elements.length) {
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
 [speed]: https://en.wikipedia.org/wiki/Speed
 [sperm]: https://en.wikipedia.org/wiki/Sperm
+[sphincter]: https://en.wikipedia.org/wiki/Sphincter
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
@@ -3582,6 +3628,7 @@ if (elements.length) {
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[swallowing]: https://en.wikipedia.org/wiki/Swallowing
 [symbionts]: https://en.wikipedia.org/wiki/Symbiosis
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
@@ -3621,6 +3668,7 @@ if (elements.length) {
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
 [thiols]: https://en.wikipedia.org/wiki/Thiol
+[throat]: https://en.wikipedia.org/wiki/Throat
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
 [tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
@@ -3629,6 +3677,8 @@ if (elements.length) {
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
 [topoisomerase]: https://en.wikipedia.org/wiki/Topoisomerase
 [topsoil]: https://en.wikipedia.org/wiki/Topsoil
+[torpor]: https://en.wikipedia.org/wiki/Torpor
+[trachea]: https://en.wikipedia.org/wiki/Trachea
 [tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
@@ -3695,6 +3745,7 @@ if (elements.length) {
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
+[vitamins]: https://en.wikipedia.org/wiki/Vitamin
 [viviparous]: https://en.wikipedia.org/wiki/Viviparity
 [voltage]: https://en.wikipedia.org/wiki/Voltage
 [volume]: https://en.wikipedia.org/wiki/Volume
