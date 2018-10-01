@@ -1711,19 +1711,17 @@ The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxyg
 
 #### Blood
 
-[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors.
+[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
 
 ##### Blood Cells
 
 Blood cells are secreted in the bone marrow from stem cells and may be red blood cells, white blood cells or platelets.
 
-[Red Blood Cells][] (or [erythrocytes][], or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
+[Red Blood Cells][] (or [erythrocytes][], or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body.
 
 [Platelets][] (or [thrombocytes][]) lack a nucleus and help with forming blood clots in response to injury. Thrombocytes also lack mitochondria and generate ATP through anaerobic respiration.
 
 [White Blood Cells][] (or [leukocytes][], or WBCs) have a nucleus and are the cells of the immune system.
-
-In [Sickle-Cell Disease][], abnormal forms of hemoglobin distort the shape of red blood cells which increases the probability of lodging in arterioles, causing vessel blockage and incomplete O<sub>2</sub> and CO<sub>2</sub> exchange.
 
 A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
 
@@ -1809,6 +1807,32 @@ Underneath the cerebrum and connected to the brainstem are other structures such
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
+Some organisms use proteins called Myoglobins to store Oxygen in muscles.
+
+#### Gas Exchange
+
+[Gas Exchange][] is the process by which gases diffuse across a surface.
+
+[Partial Pressure][] is the pressure exerted by one gas within a mixture of gases. A gas diffuses from a region of higher partial pressure to lower partial pressure.
+
+Breathing (or respiration, or ventilation) is a process of alternating inhalation and exhalation that facilitates gas exchange of O<sub>2</sub> and CO<sub>2</sub> in organs that are part of a [respiratory system][].
+
+In some aquatic organisms, [gills][] move water through the mouth and across gills to extract dissolved O<sub>2</sub> and expel CO<sub>2</sub>. Some animals use [countercurrent exchange][] to maximize gas exchange which moves substances or heat in substances in opposite directions next to each other which creates a partial pressure gradient that favors diffusion of O<sub>2</sub> from water to blood.
+
+In some non-aquatic organisms, in a [tracheal system][] (network of tubes throughout a body) or in organs called [lungs][] (localized respiratory organs), moist epithelial cells exposed to air perform gas exchange.
+
+For lungs, air passes down a tube called the [trachea][] (or wind pipe) and branches into one or more tubes called [bronchi][] each of which leads to a lung. Within a lung, the bronchi branch further into [bronchioles][]. At the tips of bronchioles, sacs called [alveoli][] perform gas exchange. Alveoli are covered with a liquid that would produce high surface tension on the small-diameter alveoli if not for phospholipids and proteins called [surfactants][] (or surface-active agents) coating the alveoli to reduce surface tension.
+
+The volume of air inhaled and exhaled in one breath is called the [tidal volume][]. The maximum tidal volume is called the [vital capacity][]. Air that remains in the lungs after an exhalation is called the residual volume.
+
+Positive Pressure Breathing pushes air into lungs whereas Negative Pressure Breathing pulls air into lungs. For example, in some animals, contracting rib muscles around lungs and contracting the diaphragm at the bottom of the rib cage increases the volume of the thoracic cavity which pulls in air into the lungs.
+
+CO<sub>2</sub> is acidic because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. When blood pH falls, the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
+
+O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
+
+In [Sickle-Cell Disease][], abnormal forms of hemoglobin distort the shape of red blood cells which increases the probability of lodging in arterioles, causing vessel blockage and incomplete O<sub>2</sub> and CO<sub>2</sub> exchange.
+
 #### Adipose Tissue
 
 [Adipose Tissue][] (or body fat) is a loose connective tissue that stores triglycerides, cushions an organism, produces heat, and produces hormones. Adipose tissue is composed mostly of [adipocyte cells][] along with some other cell types. [White adipose tissue][] stores triglycerides. [Brown adipose tissue][] generates heat.
@@ -1867,7 +1891,7 @@ When O<sub>2</sub> levels fall, the kidneys secrete a hormone called Erythropoie
 
 The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubrciates food for processing.
 
-Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the [trachea][] that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
+Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the trachea that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
 
 Material moves through the esophagus and other areas with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
 
@@ -2404,6 +2428,7 @@ if (elements.length) {
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[alveoli]: https://en.wikipedia.org/wiki/Pulmonary_alveolus
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
 [aminoacyl-trna synthetases]: https://en.wikipedia.org/wiki/Aminoacyl_tRNA_synthetase
@@ -2529,6 +2554,7 @@ if (elements.length) {
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
+[bohr shift]: https://en.wikipedia.org/wiki/Bohr_effect
 [bolus]: https://en.wikipedia.org/wiki/Bolus_(digestion)
 [bone]: https://en.wikipedia.org/wiki/Bone
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
@@ -2538,6 +2564,8 @@ if (elements.length) {
 [brassinosteroids]: https://en.wikipedia.org/wiki/Brassinosteroid
 [brca1]: https://en.wikipedia.org/wiki/BRCA1
 [brca2]: https://en.wikipedia.org/wiki/BRCA2
+[bronchi]: https://en.wikipedia.org/wiki/Bronchus
+[bronchioles]: https://en.wikipedia.org/wiki/Bronchiole
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
 [brown adipose tissue]: https://en.wikipedia.org/wiki/Brown_adipose_tissue
 [bryophytes]: https://en.wikipedia.org/wiki/Bryophyte
@@ -2693,6 +2721,7 @@ if (elements.length) {
 [coulomb]: https://en.wikipedia.org/wiki/Coulomb
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
+[countercurrent exchange]: https://en.wikipedia.org/wiki/Countercurrent_exchange
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
@@ -2933,6 +2962,7 @@ if (elements.length) {
 [gametophyte]: https://en.wikipedia.org/wiki/Gametophyte
 [gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
 [gas]: https://en.wikipedia.org/wiki/Gas
+[gas exchange]: https://en.wikipedia.org/wiki/Gas_exchange
 [gastric acid]: https://en.wikipedia.org/wiki/Gastric_acid
 [gastrointestinal tract]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
 [gastrula]: https://en.wikipedia.org/wiki/Gastrulation
@@ -2958,6 +2988,7 @@ if (elements.length) {
 [gestation]: https://en.wikipedia.org/wiki/Gestation
 [ghrelin]: https://en.wikipedia.org/wiki/Ghrelin
 [gibberellins]: https://en.wikipedia.org/wiki/Gibberellin
+[gills]: https://en.wikipedia.org/wiki/Gill
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [glucagon]: https://en.wikipedia.org/wiki/Glucagon
@@ -3175,6 +3206,7 @@ if (elements.length) {
 [long-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [long noncoding rna]: https://en.wikipedia.org/wiki/Long_non-coding_RNA
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
+[lungs]: https://en.wikipedia.org/wiki/Lung
 [lyases]: https://en.wikipedia.org/wiki/Lyase
 [lymph]: https://en.wikipedia.org/wiki/Lymph
 [lymph nodes]: https://en.wikipedia.org/wiki/Lymph_node
@@ -3400,6 +3432,7 @@ if (elements.length) {
 [parasitism]: https://en.wikipedia.org/wiki/Parasitism
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
+[partial pressure]: https://en.wikipedia.org/wiki/Partial_pressure
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [passive immunity]: https://en.wikipedia.org/wiki/Passive_immunity
@@ -3568,6 +3601,8 @@ if (elements.length) {
 [repressor]: https://en.wikipedia.org/wiki/Repressor
 [reptiles]: https://en.wikipedia.org/wiki/Reptiles
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
+[respiratory pigments]: https://en.wikipedia.org/wiki/Respiratory_pigment
+[respiratory system]: https://en.wikipedia.org/wiki/Respiratory_system
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
@@ -3701,6 +3736,7 @@ if (elements.length) {
 [sulci]: https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
+[surfactants]: https://en.wikipedia.org/wiki/Surfactant
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
 [swallowing]: https://en.wikipedia.org/wiki/Swallowing
@@ -3749,6 +3785,7 @@ if (elements.length) {
 [thrombus]: https://en.wikipedia.org/wiki/Thrombus
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
+[tidal volume]: https://en.wikipedia.org/wiki/Tidal_volume
 [tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
@@ -3758,6 +3795,7 @@ if (elements.length) {
 [torpor]: https://en.wikipedia.org/wiki/Torpor
 [totipotent stem cells]: https://en.wikipedia.org/wiki/Cell_potency#Totipotency
 [trachea]: https://en.wikipedia.org/wiki/Trachea
+[tracheal system]: https://en.wikipedia.org/wiki/Respiratory_system_of_insects
 [tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
@@ -3826,6 +3864,7 @@ if (elements.length) {
 [viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
+[vital capacity]: https://en.wikipedia.org/wiki/Vital_capacity
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
 [vitamins]: https://en.wikipedia.org/wiki/Vitamin
 [viviparous]: https://en.wikipedia.org/wiki/Viviparity
