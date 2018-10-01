@@ -991,6 +991,8 @@ Cell motility is the ability of cell parts to move or for the whole cell to chan
 
 A process within a cell that occurs at intervals of approximately 24 hours is called a [circadian rhythm][].
 
+[Stem cells][] are types of cells that can [differentiate][] into various types of different cells for different functions. Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into.
+
 For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
 
 #### Ribosomes
@@ -1011,7 +1013,7 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 #### Membranes
 
-[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. An area enclosed by a membrane may be called a [lumen][]. The voltage across a membrane (called the [membrane potential][]) is typically about -50 to -200 mV, with the negative meaning that the inside of the cell is negatively charged.
+[Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. A cavity enclosed by a membrane may be called a [lumen][]. The voltage across a membrane (called the [membrane potential][]) is typically about -50 to -200 mV, with the negative meaning that the inside of the cell is negatively charged.
 
 Membranes usually have carbohydrates bonded to the outside for various functions (called the [glycocalyx][]), either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
 
@@ -1705,7 +1707,7 @@ The outer covering of the body is called the [integumentary system][] which incl
 
 #### Circulatory System
 
-The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood through tubes called blood vessels.
+The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood (in a closed circulatory system) or hemolymph (in an open circulatory system) through tubes called vessels.
 
 #### Blood
 
@@ -1713,23 +1715,25 @@ The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxyg
 
 ##### Blood Cells
 
-Blood cells are creted in the bone marrow and may be red blood cells, white blood cells or platelets.
+Blood cells are secreted in the bone marrow from stem cells and may be red blood cells, white blood cells or platelets.
 
-[Red Blood Cells][] (or erythrocytes, or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
+[Red Blood Cells][] (or [erythrocytes][], or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> from lungs to tissues using [Hemoglobin][] which binds to Oxygen.
 
-[Platelets][] (or thrombocytes) lack a nucleus and help with forming blood clots in response to injury.
+[Platelets][] (or [thrombocytes][]) lack a nucleus and help with forming blood clots in response to injury. Thrombocytes also lack mitochondria and generate ATP through anaerobic respiration.
 
-[White Blood Cells][] (or leukocytes, or WBCs) have a nucleus and are the cells of the immune system.
+[White Blood Cells][] (or [leukocytes][], or WBCs) have a nucleus and are the cells of the immune system.
+
+In [Sickle-Cell Disease][], abnormal forms of hemoglobin distort the shape of red blood cells which increases the probability of lodging in arterioles, causing vessel blockage and incomplete O<sub>2</sub> and CO<sub>2</sub> exchange.
+
+A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
 
 ##### Blood Vessels
 
 [Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
 
-[Arteries][] carry blood away from the heart.
+[Arteries][] carry blood away from the heart to organs. Within organs, arteries branch into smell vessels called [arterioles][]. Arterioles pass blood to [capillaries][] which are very small, porous blood vessels that perform the exchange of gases and other chemicals between blood and cells. The ends of capillaries converge into venules which converge into [veins][] that carry blood back to the heart.
 
-[Capillaries][] are small blood vessels that perform the exchange of chemicals blood and tissues.
-
-[Veins][] carry blood from the capillaries back to the heart.
+A blood vessel contains a lumen surrounded by a single layer of endothelial cells. Blood pressure in vessels may be regulated by changing the diameter of vessels. [Vasoconstriction][] increases blood pressure by reducing the diameter by constricting muscle cells around the vessel. [Vasodilation][] decreases blood pressure by increasing the diameter by relaxing muscle cells around the vessel.
 
 #### Lymphatic System
 
@@ -1737,15 +1741,37 @@ All the fluid outside of cells is called [extracellular fluid][]. The majority o
 
 The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
 
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood.
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls.
 
 #### Heart
 
-The [heart][] is an organ that pumps blood through the circulatory system.
+The [heart][] is an organ that pumps blood through the circulatory system. The combination of the heart and blood vessels is called the [Cardiovascular System][].
+
+Hearts contain two or more chambers. Chambers that receive blood in as part of the systemic circuit are called [atria][] and chambers that pump blood out as part of pulmonary circuit are called [ventricles][]. The major steps of heart function are:
+
+* Contraction of the right ventricle pumps blood to the lungs via pulmonary arteries where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
+* Oxygenated blood returns from the lungs via the pulmonary veins into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
+* After the arteries and veins weave through the body, de-oxygenated blood from the head, neck and forelimbs flows into a vein called the superior vena cava which feeds back into the right atrium, and de-oxygenated blood from the trunk and hind limbs flows into a vein called the inferior vena cava which feeds back into the right atrium.
+
+When the heart muscles contract ([systole][]), the heart pumps blood. The blood pressue at the time of the systole is called the systolic pressure. A [pulse][] is the rhythmic bulging of the artery walls during systole.
+
+When the heart muscles relax ([diastole][]), the heart chambers are filled with blood. The blood pressure at the time of the diastole is called the diastolic pressure.
+
+[Hypertension][] is higher blood pressure than average.
+
+One cycle (or beat) of contractions and relaxation is a [cardiac cycle][]. The cardiac output is the volume of blood pumped by a ventricle per minute. The heart rate is the number of cycles per minute. The stroke volume is the volume of blood pumped per cycle.
+
+Valves prevent backflow in the wrong direction. [Atrioventricular Valves][] lie between each atrium and ventricle and inhibit blood from flowing from the ventricles into the atria. [Semilunar Valves][] lie at the two ventricle exits and inhibit blood from flowing backflow from the arteries into the ventricles.
+
+A set of cells in the right atrium called the pacemaker (or [Sinoatrial Node][]) sets the rate and timing when cardiac muscles contract together (coupled through gap junctions). Impulses from the sinoatrial node are delayed at the [Atrioventricular Node][] to allow emptying of the atria completely before passing the signals on through bundle branches and Purkinje fibres throughout the rest of the heart.
+
+The [Epinephrine][] hormone (or Adrenaline, or the fight-or-flight response) secreted by the adrenal glands speeds up the pacemaker, as does an increase in temperature.
+
+An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time measuring cardiac muscle electrical impulses as they reach the skin via body fluids.
 
 [Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
 
-[Atherosclerosis][] is a type of arteriosclerosis where the thickening of the cell wall is caused by a build up of a fatty plaque.
+[Atherosclerosis][] is a type of arteriosclerosis where the blood vessel lumen accumulates fatty deposits called plaques. Ruptured plaques may cause a thrombus which leads to a the damage or death of cardiac muscle cells called a heart attack (or [myocardial infarction][]) or the damage or death of neurons called a stroke.
 
 #### Muscle Tissue
 
@@ -1820,6 +1846,12 @@ The liver may synthesize lipoproteins such as LDL and VLDL which carry cholester
 #### Pancreas
 
 The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
+
+#### Kidney
+
+The [Kidneys][] are two organs which filter blood.
+
+When O<sub>2</sub> levels fall, the kidneys secrete a hormone called Erythropoietin (or EPO) that stimulates the creation of more erythrocytes.
 
 #### Nutrition
 
@@ -2119,7 +2151,7 @@ After fertilization between sperm and egg creates a zygote, the zygote starts to
 
 Once cleavage creates 16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
 
-[Stem cells][] are types of cell that can [differentiate][] into various types of different cells for different functions (these include zygotes and blastomeres). Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into. The zygote and blastomeres are totipotent because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
+The zygote and blastomeres are [totipotent stem cells][] because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
 
 Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's [uterus][] (or womb), and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
 
@@ -2215,7 +2247,7 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 ## Cancer
 
-A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor spreads to another part of the body ([metastasizes][]), then it's called a [cancer][] (or malignant tumor). If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
+A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
 
 A [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
 
@@ -2409,6 +2441,7 @@ if (elements.length) {
 [antitoxins]: https://en.wikipedia.org/wiki/Antitoxin
 [antivenoms]: https://en.wikipedia.org/wiki/Antivenom
 [anus]: https://en.wikipedia.org/wiki/Anus
+[aorta]: https://en.wikipedia.org/wiki/Aorta
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
 [apes]: https://en.wikipedia.org/wiki/Ape
 [apical bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
@@ -2427,6 +2460,7 @@ if (elements.length) {
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
+[arterioles]: https://en.wikipedia.org/wiki/Arteriole
 [arteriosclerosis]: https://en.wikipedia.org/wiki/Arteriosclerosis
 [arthropods]: https://en.wikipedia.org/wiki/Arthropods
 [artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
@@ -2444,6 +2478,9 @@ if (elements.length) {
 [atoms in e coli]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
+[atria]: https://en.wikipedia.org/wiki/Atrium_(heart)
+[atrioventricular node]: https://en.wikipedia.org/wiki/Atrioventricular_node
+[atrioventricular valves]: https://en.wikipedia.org/wiki/Heart_valve
 [autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
 [autophagosomes]: https://en.wikipedia.org/wiki/Autophagosome
 [autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
@@ -2528,7 +2565,9 @@ if (elements.length) {
 [carbonyl]: https://en.wikipedia.org/wiki/Carbonyl
 [carboxyl]: https://en.wikipedia.org/wiki/Carboxyl
 [carboxypeptidase]: https://en.wikipedia.org/wiki/Carboxypeptidase
+[cardiac cycle]: https://en.wikipedia.org/wiki/Cardiac_cycle
 [cardiac muscle]: https://en.wikipedia.org/wiki/Cardiac_muscle
+[cardiovascular system]: https://en.wikipedia.org/wiki/Circulatory_system#Cardiovascular_system
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
 [carnivores]: https://en.wikipedia.org/wiki/Carnivore
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
@@ -2691,6 +2730,7 @@ if (elements.length) {
 [dew]: https://en.wikipedia.org/wiki/Dew
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
+[diastole]: https://en.wikipedia.org/wiki/Diastole
 [dicots]: https://en.wikipedia.org/wiki/Dicotyledon
 [differential gene expression]: https://en.wikipedia.org/wiki/Gene_expression
 [differentiate]: https://en.wikipedia.org/wiki/Cellular_differentiation
@@ -2737,6 +2777,7 @@ if (elements.length) {
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
 [electric potential]: https://en.wikipedia.org/wiki/Electric_potential
 [electrically conductive]: https://en.wikipedia.org/wiki/Electrical_conductor
+[electrocardiogram]: https://en.wikipedia.org/wiki/Electrocardiography
 [electrogenic pump]: https://en.wikipedia.org/wiki/Bioelectrogenesis
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
@@ -2793,6 +2834,7 @@ if (elements.length) {
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
+[epinephrine]: https://en.wikipedia.org/wiki/Adrenaline
 [epiphyte]: https://en.wikipedia.org/wiki/Epiphyte
 [epistasis]: https://en.wikipedia.org/wiki/Epistasis
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
@@ -2801,6 +2843,8 @@ if (elements.length) {
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+[erythrocytes]: https://en.wikipedia.org/wiki/Red_blood_cell
+[erythropoietin]: https://en.wikipedia.org/wiki/Erythropoietin
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
 [essential amino acids]: https://en.wikipedia.org/wiki/Essential_amino_acid
 [essential fatty acids]: https://en.wikipedia.org/wiki/Essential_fatty_acid
@@ -3013,6 +3057,7 @@ if (elements.length) {
 [hydrophobic]: https://en.wikipedia.org/wiki/Hydrophobic
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
+[hypertension]: https://en.wikipedia.org/wiki/Hypertension
 [hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
 [hyphae]: https://en.wikipedia.org/wiki/Hypha
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -3076,6 +3121,7 @@ if (elements.length) {
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [keratin]: https://en.wikipedia.org/wiki/Keratin
+[kidneys]: https://en.wikipedia.org/wiki/Kidney
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
@@ -3096,6 +3142,7 @@ if (elements.length) {
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [leaves]: https://en.wikipedia.org/wiki/Leaf
 [leptin]: https://en.wikipedia.org/wiki/Leptin
+[leukocytes]: https://en.wikipedia.org/wiki/White_blood_cell
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [lewis acids and bases]: https://en.wikipedia.org/wiki/Lewis_acids_and_bases
 [lichen]: https://en.wikipedia.org/wiki/Lichen
@@ -3175,7 +3222,7 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [metamorphosis]: https://en.wikipedia.org/wiki/Metamorphosis
 [metaphase]: https://en.wikipedia.org/wiki/Metaphase
-[metastasizes]: https://en.wikipedia.org/wiki/Metastasis
+[metastasized]: https://en.wikipedia.org/wiki/Metastasis
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methanogens]: https://en.wikipedia.org/wiki/Methanogen
@@ -3235,6 +3282,7 @@ if (elements.length) {
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [mtdna]: https://en.wikipedia.org/wiki/Mitochondrial_DNA
+[mucus]: https://en.wikipedia.org/wiki/Mucus
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
 [mutagen]: https://en.wikipedia.org/wiki/Mutagen
@@ -3243,6 +3291,7 @@ if (elements.length) {
 [mycelium]: https://en.wikipedia.org/wiki/Mycelium
 [mycorrhizae]: https://en.wikipedia.org/wiki/Mycorrhiza
 [mycosis]: https://en.wikipedia.org/wiki/Mycosis
+[myocardial infarction]: https://en.wikipedia.org/wiki/Myocardial_infarction
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
 [myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
@@ -3483,6 +3532,7 @@ if (elements.length) {
 [protoplast]: https://en.wikipedia.org/wiki/Protoplast
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
+[pulse]: https://en.wikipedia.org/wiki/Pulse
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
@@ -3556,6 +3606,7 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [secretin]: https://en.wikipedia.org/wiki/Secretin
 [seeds]: https://en.wikipedia.org/wiki/Seed
+[semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
@@ -3566,6 +3617,7 @@ if (elements.length) {
 [short-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [short tandem repeats]: https://en.wikipedia.org/wiki/Microsatellite
 [sialic acid]: https://en.wikipedia.org/wiki/Sialic_acid
+[sickle-cell disease]: https://en.wikipedia.org/wiki/Sickle_cell_disease
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sieve-tube elements]: https://en.wikipedia.org/wiki/Sieve_tube_element
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
@@ -3576,6 +3628,7 @@ if (elements.length) {
 [silent mutation]: https://en.wikipedia.org/wiki/Silent_mutation
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [single nucleotide polymorphism]: https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
+[sinoatrial node]: https://en.wikipedia.org/wiki/Sinoatrial_node
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [skeletal muscle]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
@@ -3658,6 +3711,7 @@ if (elements.length) {
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
+[systole]: https://en.wikipedia.org/wiki/Systole
 [t cells]: https://en.wikipedia.org/wiki/T_cell
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taproots]: https://en.wikipedia.org/wiki/Taproot
@@ -3691,6 +3745,8 @@ if (elements.length) {
 [thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [throat]: https://en.wikipedia.org/wiki/Throat
+[thrombocytes]: https://en.wikipedia.org/wiki/Platelet
+[thrombus]: https://en.wikipedia.org/wiki/Thrombus
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
 [tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
@@ -3700,6 +3756,7 @@ if (elements.length) {
 [topoisomerase]: https://en.wikipedia.org/wiki/Topoisomerase
 [topsoil]: https://en.wikipedia.org/wiki/Topsoil
 [torpor]: https://en.wikipedia.org/wiki/Torpor
+[totipotent stem cells]: https://en.wikipedia.org/wiki/Cell_potency#Totipotency
 [trachea]: https://en.wikipedia.org/wiki/Trachea
 [tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
@@ -3752,11 +3809,14 @@ if (elements.length) {
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
 [vascular cambium]: https://en.wikipedia.org/wiki/Vascular_cambium
 [vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
+[vasoconstriction]: https://en.wikipedia.org/wiki/Vasoconstriction
+[vasodilation]: https://en.wikipedia.org/wiki/Vasodilation
 [vegetation]: https://en.wikipedia.org/wiki/Vegetation
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
 [ventral]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
+[ventricles]: https://en.wikipedia.org/wiki/Ventricle_(heart)
 [vernalization]: https://en.wikipedia.org/wiki/Vernalization
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
