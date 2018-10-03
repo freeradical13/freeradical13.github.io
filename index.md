@@ -344,7 +344,7 @@ The amount of a substance is usually measured in mass, moles or volume (e.g. 1g 
 
 A [hypertonic][] solution has a higher concentration of a solute compared to another solution. A [hypotonic][] solution has a lower concentration of a solute compared to another solution. An [isotonic][] solution has the same concentration of a solute compared to another solution. Like a dynamic equilibrium in chemical reactions, even in an isotonic solution, solvent and solution may move back and forth, but the rates of movement are equalized.
 
-In solution, molecules naturally diffuse from areas of higher concentration to areas of lower concentration if possible. This is called moving down or with the concentration gradient. [Osmosis][] is a particular type of diffusion which creates an osmotic gradient of a solvent from a hypotonic area to a hypertonic area because the concentration of the solvent is lower in the hypertonic area.
+In solution, molecules naturally diffuse from areas of higher concentration to areas of lower concentration if possible. This is called moving down or with the concentration gradient. [Osmosis][] is a particular type of diffusion which creates an osmotic gradient of a solvent from a hypotonic area to a hypertonic area because the concentration of the solvent is lower in the hypertonic area. [Osmotic Pressure][] is the minimum pressure which needs to be applied to a solution to prevent the inflow of solvent across a membrane. An [osmole][] is the number of moles of a solute that contribute to the osmotic pressure of a solution that contribute to osmotic pressure. [Osmolarity][] is the number of osmoles of solute per liter of solution, with the difference from molarity being that some substances dissolve in solution and don't affect osmotic pressure.
 
 ## Acids and Bases
 
@@ -1001,7 +1001,9 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 #### Metabolism
 
-[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released). [Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor.
+[Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released).
+
+[Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), solute concentrations ([osmoregulation][]), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor. An [osmoconformer][] is always [isoosmotic][] with its surroundings whereas an osmoregulator regulates osmolarity by excreting excess water or taking in in water if needed. [Anhydrobiosis][] is a reduced metabolic state when there is insufficient water.
 
 [Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
@@ -1697,6 +1699,8 @@ Second messengers are either proteins or:
 
 The outer covering of the body is called the [integumentary system][] which includes the outer epidermis, hair, and nails.
 
+[Transport Epithelia][] are layers of cells that move solutes in different directions to help with osmoregulation.
+
 #### Connective Tissue
 
 [Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
@@ -1871,6 +1875,10 @@ The liver may synthesize lipoproteins such as LDL and VLDL which carry cholester
 
 The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
 
+#### Fluid Waste
+
+Some organisms create a fluid waste called [urine][] which is excreted. In the process of [filtration][], blood or hemolymph interact with transport epithelia and due to their liquid pressure (e.g. blood pressure), water and small solutes cross the epithelial membrane into an excratory tubule, forming the urine solution called [filtrate][]. Some non-wastes are recovered back into the blood or hemolympy through a process of [reabsorption][]. Additional wastes from capillaries neighboring the excratory tubule enter the filtrate through a process of secretion.
+
 #### Kidney
 
 The [Kidneys][] are two organs which filter blood.
@@ -1930,6 +1938,14 @@ A [lipase][] is an enzyme that hydrolyzes fats. Dietary triglycerides and choles
 ##### Protein Digestion
 
 [Carboxypeptidase][] is produced in the pancreas.
+
+#### Nitrogenous Waste
+
+A byproduct of protein and nucleic acid digestion is ammonia which may be toxic. Organisms have different ways of dealing with [nitrogenous waste][]:
+
+* Excreting ammonia (most common in aquatic organisms).
+* Converting ammonia to [Urea][] which is ammonia combined with CO<sub>2</sub> in the liver.
+* Converting ammonia to [Uric Acid][]
 
 #### Blood Sugar
 
@@ -2101,6 +2117,8 @@ Types of damage that pathogens may inflict:
 
 * [Exotoxins][]: Proteins secreted by pathogens which cause damage.
 * [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
+
+Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacterial cell walls.
 
 Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
 
@@ -2452,6 +2470,7 @@ if (elements.length) {
 [anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
+[anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
 [animals]: https://en.wikipedia.org/wiki/Animal
 [anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
@@ -2923,6 +2942,8 @@ if (elements.length) {
 [fibronectin]: https://en.wikipedia.org/wiki/Fibronectin
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [filament]: https://en.wikipedia.org/wiki/Stamen
+[filtrate]: https://en.wikipedia.org/wiki/Filtration
+[filtration]: https://en.wikipedia.org/wiki/Filtration
 [fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flagella]: https://en.wikipedia.org/wiki/Flagella
@@ -3140,6 +3161,7 @@ if (elements.length) {
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
 [isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
+[isoosmotic]: https://en.wikipedia.org/wiki/Osmotic_concentration
 [isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
@@ -3215,6 +3237,7 @@ if (elements.length) {
 [lymphocytes]: https://en.wikipedia.org/wiki/Lymphocyte
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
+[lysozyme]: https://en.wikipedia.org/wiki/Lysozyme
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
@@ -3350,6 +3373,7 @@ if (elements.length) {
 [nitrogen cycle]: https://en.wikipedia.org/wiki/Nitrogen_cycle
 [nitrogen fixation]: https://en.wikipedia.org/wiki/Nitrogen_fixation
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
+[nitrogenous waste]: https://en.wikipedia.org/wiki/Metabolic_waste#Nitrogen_wastes
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
@@ -3405,7 +3429,13 @@ if (elements.length) {
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
 [orthologous]: https://en.wikipedia.org/wiki/Sequence_homology#Orthology
+[osmoconformer]: https://en.wikipedia.org/wiki/Osmoconformer
+[osmolarity]: https://en.wikipedia.org/wiki/Osmotic_concentration
+[osmole]: https://en.wikipedia.org/wiki/Osmotic_concentration#Unit
+[osmoregulation]: https://en.wikipedia.org/wiki/Osmoregulation
+[osmoregulator]: https://en.wikipedia.org/wiki/Osmoregulation
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
+[osmotic pressure]: https://en.wikipedia.org/wiki/Osmotic_pressure
 [ova]: https://en.wikipedia.org/wiki/Ovum
 [oviparous]: https://en.wikipedia.org/wiki/Oviparity
 [ovoviviparous]: https://en.wikipedia.org/wiki/Ovoviviparous
@@ -3583,6 +3613,7 @@ if (elements.length) {
 [ras]: https://en.wikipedia.org/wiki/KRAS
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
+[reabsorption]: https://en.wikipedia.org/wiki/Reabsorption
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
 [receptor tyrosine kinases]: https://en.wikipedia.org/wiki/Receptor_tyrosine_kinase
@@ -3809,6 +3840,7 @@ if (elements.length) {
 [translocation]: https://en.wikipedia.org/wiki/Phloem#Function
 [transmission electron microscope]: https://en.wikipedia.org/wiki/Transmission_electron_microscopy
 [transpiration]: https://en.wikipedia.org/wiki/Transpiration
+[transport epithelia]: https://www.sciencedirect.com/science/article/pii/S008525381531560X
 [transport proteins]: https://en.wikipedia.org/wiki/Transport_protein
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
@@ -3837,6 +3869,9 @@ if (elements.length) {
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
+[urea]: https://en.wikipedia.org/wiki/Urea
+[uric acid]: https://en.wikipedia.org/wiki/Uric_acid
+[urine]: https://en.wikipedia.org/wiki/Urine
 [uterus]: https://en.wikipedia.org/wiki/Uterus
 [v(d)j recombination]: https://en.wikipedia.org/wiki/V(D)J_recombination
 [vaccines]: https://en.wikipedia.org/wiki/Vaccines
