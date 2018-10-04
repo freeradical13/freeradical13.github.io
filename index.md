@@ -1877,13 +1877,23 @@ The [pancreas][] is an organ that releases various hormones into the blood and v
 
 #### Fluid Waste
 
-Some organisms create a fluid waste called [urine][] which is excreted. In the process of [filtration][], blood or hemolymph interact with transport epithelia and due to their liquid pressure (e.g. blood pressure), water and small solutes cross the epithelial membrane into an excratory tubule, forming the urine solution called [filtrate][]. Some non-wastes are recovered back into the blood or hemolympy through a process of [reabsorption][]. Additional wastes from capillaries neighboring the excratory tubule enter the filtrate through a process of secretion.
+Some organisms create a fluid waste called [urine][] which is excreted. In the process of [filtration][], blood or hemolymph interact with transport epithelia and due to their liquid pressure (e.g. blood pressure), water and small solutes cross the epithelial membrane into an excretory tubule, forming the urine solution called [filtrate][]. Some non-wastes are recovered back into the blood or hemolympy through a process of [reabsorption][]. Additional wastes from capillaries neighboring the excratory tubule enter the filtrate through a process of secretion.
 
 #### Kidney
 
-The [Kidneys][] are two organs which filter blood.
+The [Kidneys][] are organs which filter blood. Urine exits a kideny in a tube called the [ureter][] and drains into the urinary bladder. Urine is excreted from the bladder and through the urethra in the process of urination.
 
-When O<sub>2</sub> levels fall, the kidneys secrete a hormone called Erythropoietin (or EPO) that stimulates the creation of more erythrocytes.
+The outside of a kidney is the [renal cortex][] within which is the [renal medulla][] and both are supplied with blood by a renal artery which interacts with excretory tubules called nephrons and [juxtamedullary nephrons][] to produce urine filtrate which is collected in the [renal pelvis][] before leaving in the ureter.
+
+[Nephrons][] are made of a ball of capillaries called the [glomerulus][], an excretory tubule called the [proximal tubule][], and a part of the tubule which encapsulates the glomerulus called [Bowman's Capsule][]. Nephrons are supplied with blood from afferent arterioles. Blood pressure in the glomerulus creates filtrate in Bowman's Capsule and the filtrate passes through the proximal tubule to the [Loop of Henle][] wrapped with arterioles called the [vasa recta][], and then the [Distal Tubule][] before entering collecting ducts in the renal pelvis. As filtrate descends the Loop of Henle through the medulla, water is extracted through aquaporins and increases in solute concentration. As filtrate moves up the Loop of Henle, salt diffuses into the interstitial fluid. The nephrons are countercurrent multiplier systems which create an osmolarity gradient for extracting water from filtrate in the collecting duct.
+
+Urine volume and osmolarity are regulated in response to the availability of salt and water. If salt is ingested or water is lost from the body, then blood osmolarity increases. Over a certain blood osmolarity threshold, the hypothalamus triggers release of [Antidiuretic Hormone][] (or ADH, or [vasopressin][]) from the Posterior Pituitary Gland which binds to collecting duct cells that activate a signal transduction cascade that adds aquaporin proteins into the cell membrane which enhance reabsorption of water from the collecting duct.
+
+If both salt and water are lost from the body, the [Renin-Angiotensin-Aldosterone System][] (or RAAS) also regulates kidneys. A tissue called the [Juxtaglomerular Apparatus][] (or JGA) around the afferent arterioles releases the enzyme Renin that creates a hormone Angiotensin II which triggers vasoconstriction and the release of the hormone Aldosterone which causes the collecting duct cells to reabsorb more water and sodium.
+
+In response to an increase in blood volume and pressure, the walls of the atria of the heart release the hormone [Atrial Natriuretic Peptide][] (or ANP) which inhibits the release of Renin from the JGA, inhibits reabsorption of salt, and inhibits Aldosterone release.
+
+When O<sub>2</sub> levels fall, the kidneys secrete a hormone called [Erythropoietin][] (or EPO) that stimulates the creation of more erythrocytes.
 
 #### Nutrition
 
@@ -2478,6 +2488,7 @@ if (elements.length) {
 [antibiotics]: https://en.wikipedia.org/wiki/Antibiotic
 [antibodies]: https://en.wikipedia.org/wiki/Antibody
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
+[antidiuretic hormone]: https://en.wikipedia.org/wiki/Vasopressin
 [antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
@@ -2523,6 +2534,7 @@ if (elements.length) {
 [atoms in human body]: http://book.bionumbers.org/what-is-the-elemental-composition-of-a-cell/
 [atp per second]: http://book.bionumbers.org/what-is-the-power-consumption-of-a-cell/
 [atria]: https://en.wikipedia.org/wiki/Atrium_(heart)
+[atrial natriuretic peptide]: https://en.wikipedia.org/wiki/Atrial_natriuretic_peptide
 [atrioventricular node]: https://en.wikipedia.org/wiki/Atrioventricular_node
 [atrioventricular valves]: https://en.wikipedia.org/wiki/Heart_valve
 [autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
@@ -2577,6 +2589,7 @@ if (elements.length) {
 [bolus]: https://en.wikipedia.org/wiki/Bolus_(digestion)
 [bone]: https://en.wikipedia.org/wiki/Bone
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
+[bowman's capsule]: https://en.wikipedia.org/wiki/Bowman%27s_capsule
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
 [branches]: https://en.wikipedia.org/wiki/Branch
@@ -2796,6 +2809,7 @@ if (elements.length) {
 [directional selection]: https://en.wikipedia.org/wiki/Directional_selection
 [disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
 [disruptive selection]: https://en.wikipedia.org/wiki/Disruptive_selection
+[distal tubule]: https://en.wikipedia.org/wiki/Distal_convoluted_tubule
 [distance]: https://en.wikipedia.org/wiki/Distance
 [disulfide bridges]: https://en.wikipedia.org/wiki/Disulfide
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
@@ -3012,6 +3026,7 @@ if (elements.length) {
 [gills]: https://en.wikipedia.org/wiki/Gill
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
+[glomerulus]: https://en.wikipedia.org/wiki/Glomerulus_(kidney)
 [glucagon]: https://en.wikipedia.org/wiki/Glucagon
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
@@ -3169,6 +3184,8 @@ if (elements.length) {
 [jasmonates]: https://en.wikipedia.org/wiki/Jasmonate
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
+[juxtaglomerular apparatus]: https://en.wikipedia.org/wiki/Juxtaglomerular_apparatus
+[juxtamedullary nephrons]: https://en.wikipedia.org/wiki/Juxtamedullary_nephron
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [karyogamy]: https://en.wikipedia.org/wiki/Karyogamy
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
@@ -3227,6 +3244,7 @@ if (elements.length) {
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [long-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [long noncoding rna]: https://en.wikipedia.org/wiki/Long_non-coding_RNA
+[loop of henle]: https://en.wikipedia.org/wiki/Loop_of_Henle
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
 [lungs]: https://en.wikipedia.org/wiki/Lung
 [lyases]: https://en.wikipedia.org/wiki/Lyase
@@ -3360,6 +3378,7 @@ if (elements.length) {
 [negative strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
 [neocortex]: https://en.wikipedia.org/wiki/Neocortex
 [neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
+[nephrons]: https://en.wikipedia.org/wiki/Nephron
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neural crest]: https://en.wikipedia.org/wiki/Neural_crest
@@ -3594,6 +3613,7 @@ if (elements.length) {
 [protons]: https://en.wikipedia.org/wiki/Proton
 [protoplast]: https://en.wikipedia.org/wiki/Protoplast
 [provirus]: https://en.wikipedia.org/wiki/Provirus
+[proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [pulse]: https://en.wikipedia.org/wiki/Pulse
 [pupal]: https://en.wikipedia.org/wiki/Pupal
@@ -3628,6 +3648,10 @@ if (elements.length) {
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
 [relative density]: https://en.wikipedia.org/wiki/Relative_density
 [release factor]: https://en.wikipedia.org/wiki/Release_factor
+[renal cortex]: https://en.wikipedia.org/wiki/Renal_cortex
+[renal medulla]: https://en.wikipedia.org/wiki/Renal_medulla
+[renal pelvis]: https://en.wikipedia.org/wiki/Renal_pelvis
+[renin-angiotensin-aldosterone system]: https://en.wikipedia.org/wiki/Renin%E2%80%93angiotensin_system
 [repressible operon]: https://en.wikipedia.org/wiki/Operon#Regulation
 [repressor]: https://en.wikipedia.org/wiki/Repressor
 [reptiles]: https://en.wikipedia.org/wiki/Reptiles
@@ -3870,6 +3894,7 @@ if (elements.length) {
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
 [urea]: https://en.wikipedia.org/wiki/Urea
+[ureter]: https://en.wikipedia.org/wiki/Ureter
 [uric acid]: https://en.wikipedia.org/wiki/Uric_acid
 [urine]: https://en.wikipedia.org/wiki/Urine
 [uterus]: https://en.wikipedia.org/wiki/Uterus
@@ -3880,10 +3905,12 @@ if (elements.length) {
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
+[vasa recta]: https://en.wikipedia.org/wiki/Straight_arterioles_of_kidney
 [vascular cambium]: https://en.wikipedia.org/wiki/Vascular_cambium
 [vascular plants]: https://en.wikipedia.org/wiki/Vascular_plant
 [vasoconstriction]: https://en.wikipedia.org/wiki/Vasoconstriction
 [vasodilation]: https://en.wikipedia.org/wiki/Vasodilation
+[vasopressin]: https://en.wikipedia.org/wiki/Vasopressin
 [vegetation]: https://en.wikipedia.org/wiki/Vegetation
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
