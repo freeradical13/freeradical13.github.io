@@ -1519,9 +1519,25 @@ Mitochondria have their own DNA called [mtDNA][] which is passed down from the m
 
 #### Hormones
 
-[Hormones][] are chemical signals that are part of the [endocrine system][] which synthesizes and circulates such hormones, or simply primary messengers in cases where there is no endocrine system such as in plants.
+[Hormones][] are an intercellular communication mechanism over long distances and made of chemical signals that are part of the [endocrine system][] which synthesizes and circulates such hormones, or simply primary messengers in cases where there is no endocrine system (such as in plants). Hormones are proteins, steroids, or amines. Amine Hormones are made from a single amino acid. Protein Hormones and most Amine Hormones are hydrophilic. Steroids and some Amine Hormones are hydrophobic.
 
-Hormones include steroids such as the sex hormones [testosterone][] (predominant in males) and progesterone (predominant in females).
+Steroid hormones diffuse across the lipid membrane and bind to receptors in the cytosol or nucleus.
+
+[Tropic Hormones][] are hormones created in one endocrine organ but their target is another endocrine organ rather than a total body effect.
+
+#### Paracrine Signals
+
+[Paracrine Signals][] are intercellular communication over shorter distances than hormones.
+
+#### Autocrine Signals
+
+[Autocrine Signals][] are secreted molecules which trigger a response on the cells that secrete them.
+
+[Prostaglandins][] are either paracrine or autocrine signals which promote inflammation and the sensation of pain in response to injury.
+
+#### Pheromones
+
+Organisms may communicate which each other using chemical signals called [Pheromones][].
 
 #### Immune System
 
@@ -1671,10 +1687,6 @@ Plants recognize [Pathogen-Associated Molecular Patterns][] (PAMPs) which lead t
 
 In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][]. The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
 
-##### Paracrine Signals
-
-[Paracrine Signals][] are intracellular communication over shorter distances than hormones.
-
 ##### Signaling Pathways
 
 A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which drive the process of [signal transduction][] that triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
@@ -1686,7 +1698,7 @@ Common transmembrane receptors:
 
 Second messengers are either proteins or:
 
-* [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA). [Adenylyl Cyclase][] transmits a signal by converting ATP to cAMP.
+* [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA). [Adenylyl Cyclase][] transmits a signal by converting ATP to cAMP, often activated by a G Protein.
 * [1,2-diacylglycerol][] (or DAG) activates the effector [Protein Kinase C][] (PKC).
 * [Inositol trisphosphate][] (or inositol 1,4,5-trisphosphate or IP<sub>3</sub>) which can travel through the cytoplasm to the endoplasmic reticulum to stimulate the release of Ca<sup>2+</sup> inside the cytosol.
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
@@ -1767,8 +1779,6 @@ Valves prevent backflow in the wrong direction. [Atrioventricular Valves][] lie 
 
 A set of cells in the right atrium called the pacemaker (or [Sinoatrial Node][]) sets the rate and timing when cardiac muscles contract together (coupled through gap junctions). Impulses from the sinoatrial node are delayed at the [Atrioventricular Node][] to allow emptying of the atria completely before passing the signals on through bundle branches and Purkinje fibres throughout the rest of the heart.
 
-The [Epinephrine][] hormone (or Adrenaline, or the fight-or-flight response) secreted by the adrenal glands speeds up the pacemaker, as does an increase in temperature.
-
 An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time measuring cardiac muscle electrical impulses as they reach the skin via body fluids.
 
 [Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
@@ -1788,6 +1798,10 @@ An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time me
 #### Neurons
 
 [Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
+
+In [Synaptic Signaling][], neurons excrete [Neurotransmitters][] diffuse across special junctions called [Synapses][] to trigger target cells.
+
+In Neuroendocrine Signaling, neurons called [Neurosecretory Cells][] excrete [Neurohormones][] which diffuse into the bloodstream.
 
 [Nervous tissue][] is a tissue of neurons along with [glial cells][] (or neuroglia) which assist signal propagation and provide nutrients to neurons.
 
@@ -1809,9 +1823,15 @@ The cerebrum is attached to the [brainstem][] which connects to the spinal cord 
 
 Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
 
-The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+The pineal gland produces the hormone [Melatonin][] which regulates responses to light and the seasons.
 
-Some organisms use proteins called Myoglobins to store Oxygen in muscles.
+[Oxytocin][] secreted by the Posterior Pituitary Gland contracts mammary gland cells to excrete milk and influences pair bonding and sexual activity.
+
+[Prolactin][] secreted by the Anterior Pituitary Gland stimulates milk production.
+
+[Melanocyte-Stimulating Hormone][] (or MSH) secreted by the Anterior Pituitary Gland functions in hunger, metabolism, and skin coloration.
+
+The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
 #### Gas Exchange
 
@@ -1833,7 +1853,9 @@ Positive Pressure Breathing pushes air into lungs whereas Negative Pressure Brea
 
 CO<sub>2</sub> is acidic because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. When blood pH falls, the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
 
-O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
+O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][]. Some organisms use proteins called Myoglobins to store Oxygen in muscles.
+
+When the level of Oxygen in the blood falls, blood vessel endothelial cells synthesize and release [Nitric Oxide][] (NO) which diffuses into surrounding smooth muscle cells, activating an enzyme that relaxes them which increases blood flow.
 
 In [Sickle-Cell Disease][], abnormal forms of hemoglobin distort the shape of red blood cells which increases the probability of lodging in arterioles, causing vessel blockage and incomplete O<sub>2</sub> and CO<sub>2</sub> exchange.
 
@@ -1871,6 +1893,8 @@ The liver may synthesize lipoproteins such as LDL and VLDL which carry cholester
 
 [HDL][] transports cholesterol from tissues to the liver.
 
+[Growth Hormone][] (or GH) is released by the Anterior Pituitary Gland and stimulates growth of the organism, primarily by causing the liver to release [Insulin-Like Growth Factors][] (or IGFs) which stimulate bone and cartilage growth.
+
 #### Pancreas
 
 The [pancreas][] is an organ that releases various hormones into the blood and various digestive enzymes into the small intestine.
@@ -1894,6 +1918,30 @@ If both salt and water are lost from the body, the [Renin-Angiotensin-Aldosteron
 In response to an increase in blood volume and pressure, the walls of the atria of the heart release the hormone [Atrial Natriuretic Peptide][] (or ANP) which inhibits the release of Renin from the JGA, inhibits reabsorption of salt, and inhibits Aldosterone release.
 
 When O<sub>2</sub> levels fall, the kidneys secrete a hormone called [Erythropoietin][] (or EPO) that stimulates the creation of more erythrocytes.
+
+#### Adrenal Glands
+
+The [Adrenal Glands][] on top of the kidneys. The adrenal glands are made of the outer Adrenal Cortex and inner Adrenal Medulla.
+
+Under stress of physical threat, exercise, or cold exposure, the hypothalamus activates the adrenal medulla via nerve impulses which excrete the hydrophilic hormones [Epinephrine][] (or Adrenaline, or the fight-or-flight response) and [Norepinephrine][] (or Noradrenaline) which are Catecholamines. Catecholamines increase the rate of Glycogen breakdown in the liver and skeletal muscles, increase the release of Glucose in the liver, and increase Lipolysis in adipose tissue. Catecholamines also increase heart rate and stroke volume and change blood vessel constriction and dilation to direct more blood to the heart, brain, and skeletal muscles, and dilate the bronchioles in the lungs. Under certain types of stress
+
+Under stress of low blood sugar, decreased blood pressure or volume, or shock, the hypothalamus releases a hormone which stimulates the Anterior Pituitary Gland to release Adrenocorticotropic Hormone (or ACTH) which stimulates the adrenal cortex to secrete [Corticosteroids][]. [Glucocorticoids][] are corticosteroids which promote Glucose synthesis from noncarbohydrate sources and promote skeletal muscle to break down protein into amino acids for conversion into Glucose in the liver. [Mineralocorticoids][] are corticosteroids which help maintain salt and water balance.
+
+#### Thyroid Gland
+
+The [Thyroid Gland][] is an organ in the neck with two lobes on top of the trachea. The thyroid gland produces [Thyroid Hormones][] which help with regulating metabolism, maintaining normal blood pressure, heart rate, and muscle tone, and regulating digestive and reproductive functions.
+
+When the levels of thyroid hormones drop below a threshold, the hypothalamus releases [Thyrotropin-Releasing Hormone][] (or TRH) which causes the Anterior Pituitary Gland to release [Thyrotropin-Stimulating Hormone][] (or TSH, or Thyrotropin) which stimulates the thyroid gland to secrete Thyroid Hormones. Thyroid Hormones are [Triiodothyronine][] (or T<sub>3</sub>) which contains three Iodine atoms and [Thyroxine][] (T<sub>4</sub>) which contains four.
+
+If Ca<sup>2+</sup> levels increase beyond a threshold, the thyroid gland releases [Calcitonin][] hormone which inhibits bone breakdown and increases Ca<sup>2+</sup> secretion in the kidneys.
+
+#### Parathyroid Glands
+
+The [Parathyroid Glands][] are four small structures on the surface of the thyroid. If Ca<sup>2+</sup> levels drop below a threshold, the Parathyroid Glands produce [Parathyroid Hormone][] (or PTH) which causes the increase of Ca<sup>2+</sup> in the blood by causing breakdown of bone into Calcium and reabsorption of Calcium in the kidneys.
+
+#### Sex Hormones
+
+[Sex Hormones][] contribute to growth, development, reproductive cycles, and sexual behavior. Organs called the Testes in males synthesize much more [Androgen Hormones][] than females such as [Testosterone][] which affect male development. [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] are synthesized in much larger amounts in females and affect development and the support and growth of an embryo.
 
 #### Nutrition
 
@@ -2426,6 +2474,8 @@ if (elements.length) {
 [adenylyl cyclase]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 [adipocyte cells]: https://en.wikipedia.org/wiki/Adipocyte
 [adipose tissue]: https://en.wikipedia.org/wiki/Adipose_tissue
+[adrenal glands]: https://en.wikipedia.org/wiki/Adrenal_gland
+[adrenaline]: https://en.wikipedia.org/wiki/Adrenaline
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [albumin]: https://en.wikipedia.org/wiki/Albumin
@@ -2478,6 +2528,7 @@ if (elements.length) {
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [anatomy]: https://en.wikipedia.org/wiki/Anatomy
 [anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
+[androgen hormones]: https://en.wikipedia.org/wiki/Androgen
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
@@ -2537,6 +2588,7 @@ if (elements.length) {
 [atrial natriuretic peptide]: https://en.wikipedia.org/wiki/Atrial_natriuretic_peptide
 [atrioventricular node]: https://en.wikipedia.org/wiki/Atrioventricular_node
 [atrioventricular valves]: https://en.wikipedia.org/wiki/Heart_valve
+[autocrine signals]: https://en.wikipedia.org/wiki/Autocrine_signaling
 [autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
 [autophagosomes]: https://en.wikipedia.org/wiki/Autophagosome
 [autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
@@ -2607,6 +2659,7 @@ if (elements.length) {
 [butane]: https://en.wikipedia.org/wiki/Butane
 [c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
 [c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
+[calcitonin]: https://en.wikipedia.org/wiki/Calcitonin
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
@@ -2748,6 +2801,7 @@ if (elements.length) {
 [corepressor]: https://en.wikipedia.org/wiki/Corepressor
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
+[corticosteroids]: https://en.wikipedia.org/wiki/Corticosteroid
 [cotransports]: https://en.wikipedia.org/wiki/Active_transport#Secondary_active_transport
 [cotyledon]: https://en.wikipedia.org/wiki/Cotyledon
 [coulomb]: https://en.wikipedia.org/wiki/Coulomb
@@ -2913,6 +2967,8 @@ if (elements.length) {
 [essential nutrients]: https://en.wikipedia.org/wiki/Nutrient#Essential_nutrients
 [ester]: https://en.wikipedia.org/wiki/Ester
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
+[estradiol]: https://en.wikipedia.org/wiki/Estradiol
+[estrogen hormones]: https://en.wikipedia.org/wiki/Estrogen
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [ethylene]: https://en.wikipedia.org/wiki/Ethylene
 [etiolation]: https://en.wikipedia.org/wiki/Etiolation
@@ -3028,6 +3084,7 @@ if (elements.length) {
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
 [glomerulus]: https://en.wikipedia.org/wiki/Glomerulus_(kidney)
 [glucagon]: https://en.wikipedia.org/wiki/Glucagon
+[glucocorticoids]: https://en.wikipedia.org/wiki/Glucocorticoid
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
@@ -3049,6 +3106,7 @@ if (elements.length) {
 [grey matter]: https://en.wikipedia.org/wiki/Grey_matter
 [ground substance]: https://en.wikipedia.org/wiki/Ground_substance
 [growth factor]: https://en.wikipedia.org/wiki/Growth_factor
+[growth hormone]: https://en.wikipedia.org/wiki/Growth_hormone
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [guttation]: https://en.wikipedia.org/wiki/Guttation
@@ -3151,6 +3209,7 @@ if (elements.length) {
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [insects]: https://en.wikipedia.org/wiki/Insects
 [insulin]: https://en.wikipedia.org/wiki/Insulin
+[insulin-like growth factors]: https://en.wikipedia.org/wiki/Insulin-like_growth_factor
 [integrin]: https://en.wikipedia.org/wiki/Integrin
 [integument]: https://en.wikipedia.org/wiki/Integument
 [integumentary system]: https://en.wikipedia.org/wiki/Integumentary_system
@@ -3282,6 +3341,8 @@ if (elements.length) {
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
 [meiosis i]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_I
 [meiosis ii]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_II
+[melanocyte-stimulating hormone]: https://en.wikipedia.org/wiki/Melanocyte-stimulating_hormone
+[melatonin]: https://en.wikipedia.org/wiki/Melatonin
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
@@ -3314,6 +3375,7 @@ if (elements.length) {
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
+[mineralocorticoids]: https://en.wikipedia.org/wiki/Mineralocorticoid
 [minerals]: https://en.wikipedia.org/wiki/Mineral
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
@@ -3382,12 +3444,17 @@ if (elements.length) {
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neural crest]: https://en.wikipedia.org/wiki/Neural_crest
+[neuroendocrine signaling]: https://en.wikipedia.org/wiki/Neuroendocrine_cell
+[neurohormones]: https://en.wikipedia.org/wiki/Neurohormone
 [neurons]: https://en.wikipedia.org/wiki/Neuron
+[neurosecretory cells]: https://en.wikipedia.org/wiki/Neuroendocrine_cell
+[neurotransmitters]: https://en.wikipedia.org/wiki/Neurotransmitter
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
 [neutrophils]: https://en.wikipedia.org/wiki/Neutrophil
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
+[nitric oxide]: https://en.wikipedia.org/wiki/Nitric_oxide
 [nitrocellulose]: https://en.wikipedia.org/wiki/Nitrocellulose
 [nitrogen cycle]: https://en.wikipedia.org/wiki/Nitrogen_cycle
 [nitrogen fixation]: https://en.wikipedia.org/wiki/Nitrogen_fixation
@@ -3401,6 +3468,7 @@ if (elements.length) {
 [nondisjunction]: https://en.wikipedia.org/wiki/Nondisjunction
 [nonmetals]: https://en.wikipedia.org/wiki/Nonmetal
 [nonsense mutation]: https://en.wikipedia.org/wiki/Nonsense_mutation
+[norepinephrine]: https://en.wikipedia.org/wiki/Norepinephrine
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
@@ -3463,6 +3531,7 @@ if (elements.length) {
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
+[oxytocin]: https://en.wikipedia.org/wiki/Oxytocin
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
 [paedomorphosis]: https://en.wikipedia.org/wiki/Neoteny
@@ -3479,6 +3548,8 @@ if (elements.length) {
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [parasite]: https://en.wikipedia.org/wiki/Parasitism
 [parasitism]: https://en.wikipedia.org/wiki/Parasitism
+[parathyroid glands]: https://en.wikipedia.org/wiki/Parathyroid_gland
+[parathyroid hormone]: https://en.wikipedia.org/wiki/Parathyroid_hormone
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [partial pressure]: https://en.wikipedia.org/wiki/Partial_pressure
@@ -3511,6 +3582,7 @@ if (elements.length) {
 [pharynx]: https://en.wikipedia.org/wiki/Pharynx
 [phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
+[pheromones]: https://en.wikipedia.org/wiki/Pheromone
 [phloem]: https://en.wikipedia.org/wiki/Phloem
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
 [phosphodiester bond]: https://en.wikipedia.org/wiki/Phosphodiester_bond
@@ -3592,9 +3664,11 @@ if (elements.length) {
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
+[prolactin]: https://en.wikipedia.org/wiki/Prolactin
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
 [prophase]: https://en.wikipedia.org/wiki/Prophase
+[prostaglandins]: https://en.wikipedia.org/wiki/Prostaglandin
 [proteases]: https://en.wikipedia.org/wiki/Protease
 [protein kinase a]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [protein kinase c]: https://en.wikipedia.org/wiki/Protein_kinase_C
@@ -3700,6 +3774,7 @@ if (elements.length) {
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
+[sex hormones]: https://en.wikipedia.org/wiki/Sex_steroid
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
 [sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
@@ -3799,8 +3874,10 @@ if (elements.length) {
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
 [symplast]: https://en.wikipedia.org/wiki/Symplast
+[synapses]: https://en.wikipedia.org/wiki/Synapse
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
+[synaptic signaling]: https://en.wikipedia.org/wiki/Chemical_synapse
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [systole]: https://en.wikipedia.org/wiki/Systole
 [t cells]: https://en.wikipedia.org/wiki/T_cell
@@ -3840,6 +3917,11 @@ if (elements.length) {
 [thrombus]: https://en.wikipedia.org/wiki/Thrombus
 [thylakoids]: https://en.wikipedia.org/wiki/Thylakoid
 [thymus]: https://en.wikipedia.org/wiki/Thymus
+[thyroid gland]: https://en.wikipedia.org/wiki/Thyroid
+[thyroid hormones]: https://en.wikipedia.org/wiki/Thyroid_hormones
+[thyrotropin-releasing hormone]: https://en.wikipedia.org/wiki/Thyrotropin-releasing_hormone
+[thyrotropin-stimulating hormone]: https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
+[thyroxine]: https://en.wikipedia.org/wiki/Thyroid_hormones
 [tidal volume]: https://en.wikipedia.org/wiki/Tidal_volume
 [tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
 [time]: https://en.wikipedia.org/wiki/Time
@@ -3871,6 +3953,7 @@ if (elements.length) {
 [tree of life]: https://en.wikipedia.org/wiki/Tree_of_life_(biology)
 [transposase]: https://en.wikipedia.org/wiki/Transposase
 [triglyceride]: https://en.wikipedia.org/wiki/Triglyceride
+[triiodothyronine]: https://en.wikipedia.org/wiki/Triiodothyronine
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
@@ -3878,6 +3961,7 @@ if (elements.length) {
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
+[tropic hormones]: https://en.wikipedia.org/wiki/Tropic_hormone
 [true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
