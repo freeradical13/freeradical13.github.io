@@ -1870,6 +1870,30 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 [Microglia][] are glia cells which are immune cells.
 
+#### Senses
+
+[Senses][] are physical capacities that provide data about the world to the organism. A [Sensory Receptor][] in a sensory neuron cell detects a stimulus and opens or closes ion channels creating a voltage [Receptor Potential][] in a process called [Sensory Transduction][]. [Perception][] is the process in the brain of neurons processing the action potentials created by the sensory receptors.
+
+[Sensory Amplification][] is the process of strengthening the sensory signal during transduction. [Sensory Adaptation][] is a decreased responsiveness of sensory receptors upon continued stimulation.
+
+[Mechanoreceptors][] are sensory receptors that respond to pressure, touch, stretching, motion, and sound.
+
+[Chemoreceptors][] are sensory receptors that respond to changes in solute concentrations and respond to certain molecules such as Glucose, Oxygen, Carbon Dioxide, and Amino Acids.
+
+[Electromagnetic Receptors][] are sensory receptors that respond to changes in electromagnetic energy.
+
+[Thermoreceptors][] are sensory receptors that respond to changes in temperature.
+
+[Nociceptors][] (or pain receptors) are sensory receptors that respond to extreme pressure, extreme temperature, and certain damaging chemicals.
+
+##### Sensing Gravity
+
+Gravity is sensed with mechanoreceptor organs called [Statocysts][] which include dense material called Statoliths inside which settle on certain ciliated cells depending on the position of the organism.
+
+##### Sensing Sound
+
+[Sound][] is a vibration that propagates as a wave of pressure through some substance.
+
 #### Gas Exchange
 
 [Gas Exchange][] is the process by which gases diffuse across a surface.
@@ -2782,6 +2806,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
+[chemoreceptors]: https://en.wikipedia.org/wiki/Chemoreceptor
 [chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
 [chiasmata]: https://en.wikipedia.org/wiki/Chiasma_(genetics)
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
@@ -2959,6 +2984,7 @@ if (elements.length) {
 [electrogenic pump]: https://en.wikipedia.org/wiki/Bioelectrogenesis
 [electromagnetic field]: https://en.wikipedia.org/wiki/Electromagnetic_field
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
+[electromagnetic receptors]: https://en.wikipedia.org/wiki/Sensory_neuron
 [electron affinity]: https://www.khanacademy.org/v/electron-affinity
 [electron configuration]: https://en.wikipedia.org/wiki/Electron_configuration
 [electron microscope]: https://en.wikipedia.org/wiki/Electron_microscope
@@ -3411,6 +3437,7 @@ if (elements.length) {
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
+[mechanoreceptors]: https://en.wikipedia.org/wiki/Mechanoreceptor
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [megaphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
 [megasporangia]: https://en.wikipedia.org/wiki/Sporangium
@@ -3543,6 +3570,7 @@ if (elements.length) {
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [nitrogenous waste]: https://en.wikipedia.org/wiki/Metabolic_waste#Nitrogen_wastes
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
+[nociceptors]: https://en.wikipedia.org/wiki/Nociceptor
 [nodes of ranvier]: https://en.wikipedia.org/wiki/Node_of_Ranvier
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
@@ -3656,6 +3684,7 @@ if (elements.length) {
 [peptides]: https://en.wikipedia.org/wiki/Peptide
 [peptidoglycan cell wall]: https://en.wikipedia.org/wiki/Peptidoglycan
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[perception]: https://en.wikipedia.org/wiki/Perception
 [perforin]: https://en.wikipedia.org/wiki/Perforin
 [perilipin]: https://en.wikipedia.org/wiki/Perilipin-1
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
@@ -3800,6 +3829,7 @@ if (elements.length) {
 [reabsorption]: https://en.wikipedia.org/wiki/Reabsorption
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
+[receptor potential]: https://en.wikipedia.org/wiki/Receptor_potential
 [receptor tyrosine kinases]: https://en.wikipedia.org/wiki/Receptor_tyrosine_kinase
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [recombinant chromosomes]: https://en.wikipedia.org/wiki/Chromosomal_crossover
@@ -3865,6 +3895,11 @@ if (elements.length) {
 [seeds]: https://en.wikipedia.org/wiki/Seed
 [semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
 [seminiferous tubules]: https://en.wikipedia.org/wiki/Seminiferous_tubule
+[senses]: https://en.wikipedia.org/wiki/Sense
+[sensory adaptation]: https://en.wikipedia.org/wiki/Neural_adaptation
+[sensory amplification]: https://en.wikipedia.org/wiki/Amplification_(psychology)
+[sensory receptor]: https://en.wikipedia.org/wiki/Sensory_receptor
+[sensory transduction]: https://en.wikipedia.org/wiki/Transduction_(physiology)
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
@@ -3905,6 +3940,7 @@ if (elements.length) {
 [solvent]: https://en.wikipedia.org/wiki/Solvent
 [somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
 [soredia]: https://en.wikipedia.org/wiki/Soredium
+[sound]: https://en.wikipedia.org/wiki/Sound
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
 [species]: https://en.wikipedia.org/wiki/Species
@@ -3929,6 +3965,7 @@ if (elements.length) {
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
+[statocysts]: https://en.wikipedia.org/wiki/Statocyst
 [stator]: https://en.wikipedia.org/wiki/Stator
 [steles]: https://en.wikipedia.org/wiki/Stele_(biology)
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
@@ -4008,6 +4045,7 @@ if (elements.length) {
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
+[thermoreceptors]: https://en.wikipedia.org/wiki/Thermoreceptor
 [thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [throat]: https://en.wikipedia.org/wiki/Throat
