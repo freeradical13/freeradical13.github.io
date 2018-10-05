@@ -1227,7 +1227,7 @@ Growth factor may be inhibited in [density-dependent inhibition][] when cell-sur
 
 ##### Meiosis
 
-[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction, or conception). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
 In some organisms, a diploid organism called a [sporophyte][] creates both male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
 
@@ -1947,11 +1947,15 @@ The [Parathyroid Glands][] are four small structures on the surface of the thyro
 
 Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecteding duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
 
-Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development.
+Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. Females also produce androgens in a much smaller amount.
 
 Gonads in females are called [Ovaries][]. The outer layer of ovaries include Follicles which consist of an Oocyte that is a partially developed egg. Tubes called [Oviducts][] (or fallopian tubes) extend from the ovaries into an organ called the [Uterus][] (or womb) where zygotes develop. Cilia in the oviducts move eggs down into the uterus. The inner lining of the uterus is called the [Endometrium][]. The bottom of the uterus is called the [Cervix][] and opens into the Vagina. The [Vagina][] is a muscular and elastic chamber where sperm fertilize eggs. The vagina opens into the [Vulva][] which describes all external female genitalia, including thick skin folds on the outside called the [Labia Majora][], slender skin folds on the inside called the [Labia Minora][], and the [Clitoris][] which has a glans and prepuce.
 
-Ovaries produce [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] which affect development and the support and growth of an embryo.
+Some organisms have cycles of reproductive activity controlled by hormones related to seasons or an internal clock so that reproduction only occurs in favorable conditions. In females, during the [Ovarian Cycle][], [Ovulation][] occurs in the midpoint of a reproductive cycle to release mature eggs available for fertilization. Changes in the uterus define the Uterine Cycle which in some organisms is called the [Menstrual Cycle][] wherein the endometrium thickens with additional blood supply. In some organisms, if an egg is not fertilized, a process called [Menstruation][] excretes the excess endometrium out of the body in preparation for the next cycle, whereas in other organisms with an Estrous Cycle, the excess endometrium is not excreted. The menstrual cycle stops working permanently at a time in life called [Menopause][].
+
+Ovaries produce [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] which affect development and the support and growth of an embryo. Males also produce estrogens in a much smaller amount.
+
+The hypothalamus secretes Gonadotropin-Releasing Hormone (or GnRH) which causes the Anterior Pituitary Gland to secrete the gonadotropins Follicle-Stimulating Hormone (or FSH) and Luteinizing Hormone (or LH) which regulate activity of the gonads.
 
 #### Mammary Glands
 
@@ -2259,9 +2263,7 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Birth][] is the process of one organism bearing a separate child.
 
-Most animals have cycles of reproductive activity controlled by hormones related to seasons or an internal clock so that animals only reproduce in favorable conditions. [Ovulation][] occurs in the midpoint of a reproductive cycle to release mature eggs available for fertilization.
-
-An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][]) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
+An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][] or pregnancy) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
 
 After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
 
@@ -3369,6 +3371,9 @@ if (elements.length) {
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
+[menopause]: https://en.wikipedia.org/wiki/Menopause
+[menstrual cycle]: https://en.wikipedia.org/wiki/Menstrual_cycle
+[menstruation]: https://en.wikipedia.org/wiki/Menstruation
 [meristems]: https://en.wikipedia.org/wiki/Meristem
 [mesoderm]: https://en.wikipedia.org/wiki/Mesoderm
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
@@ -3547,6 +3552,7 @@ if (elements.length) {
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [osmotic pressure]: https://en.wikipedia.org/wiki/Osmotic_pressure
 [ova]: https://en.wikipedia.org/wiki/Ovum
+[ovarian cycle]: https://en.wikipedia.org/wiki/Menstrual_cycle#Ovarian_cycle
 [ovaries]: https://en.wikipedia.org/wiki/Ovary
 [oviducts]: https://en.wikipedia.org/wiki/Oviduct
 [oviparous]: https://en.wikipedia.org/wiki/Oviparity
