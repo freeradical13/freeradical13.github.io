@@ -1025,7 +1025,8 @@ A [vesicle][] is a small sac with a membrane used for functions such as transpor
 
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
 
-* [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm. Many ion channels are [ligand gated channels][] which open or close in response to bound ligands on the extracellular side.
+* [Ion channels][] (or [ion transporters][] or ion pumps) create electrochemical gradients that let in cations since otherwise they cannot get in due to the negatively charged cytoplasm.
+    * [Ligand-gated ion channels][] open or close in response to bound ligands on the extracellular side.
     * A [sodium-potassium pump][] exchanges 3 Na<sup>+</sup> from the inside of the cell for 2 K<sup>+</sup> from the outside of the cell, thus pumping a net one positive charge out of the cytoplasm and decreasing the membrane potential. This type of pump is called an [electrogenic pump][].
     * A [proton pump][] is an electrogenic pump which pumps H<sup>+</sup> out of a cell.
 
@@ -1797,17 +1798,47 @@ An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time me
 
 #### Neurons
 
-[Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. [Axons][] are protrusions from neurons which transmit signals. [Dendrites][] are protrusions from neurons which receive signals.
+[Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. A [ganglion][] is a cluster of neurons.
 
-In [Synaptic Signaling][], neurons excrete [Neurotransmitters][] diffuse across special junctions called [Synapses][] to trigger target cells.
+[Nervous tissue][] is a tissue of neurons along with [glial cells][] (or glia) which assist signal propagation and provide nutrients to neurons.
+
+[Dendrites][] are protrusions from neurons which receive signals near the main neuron cell body.
+
+An [axon][] is an extension of the neuron which transmits signals.
+
+[Nerves][] are bundles of axons.
+
+Nervous tissue is the main component of the [Central Nervous System][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
+
+The [Peripheral Nervous System][] includes nervous tissue besides the brain and spinal cord.
+
+There are a few major types of neurons:
+
+* Sensory Neurons transmit information about external stimuli.
+* [Interneurons][] form local circuits within a brain or ganglion.
+* Motor Neurons transmit signals to muscle cells to cause contraction and movement.
+
+When a neuron is not signaling, it has a [Resting Potential][] that's usually -60 to -80 mV since the inside of a neuron is negatively charged due to higher concentrations of K<sup>+</sup> inside and higher concentration of Na<sup>+</sup> outside which creates a voltage across the membrane. Sodium-Potassium Pumps use ATP to actively pump two K<sup>+</sup> in and three Na<sup>+</sup> out against their concentration gradients. There are Potassium channels which are always open to allow K<sup>+</sup> ions to diffuse out of the cell to maintain the resting potential. There are Sodium channels which are mostly closed so that few Na<sup>+</sup> ions diffuse into the cell. This combination of diffusions creates the resting potential.
+
+[Hyperpolarization][] occurs when the inside of the neuron becomes more negative. Depolarization occurs when the inside of the neuron becomes more positive.
+
+Some of the ion channels in a neuron are [Voltage-Gated Ion Channels][] which open or close in response to stimuli. In the case of a [Graded Potential][], a small hyperpolarization or depolarization (depending on which gates are opened and closed) causes a temporary change in voltage which dissipates over a short period of time.
+
+If a stimulus depolarizes the voltage past a certain threshold (around -55mV), a large change in voltage occurs called the [Action Potential][] because Sodium channels open, letting Na<sup>+</sup> ions into the cell resulting in further depolarization. The increased depolarization leads to additional Sodium channels opening, and thus further depolarization while most Potassium voltage-gated ion channels stay closed. After a certain point, voltage-gated sodium ion channels close and potassium channels open thus bringing the voltage back down. During this phase called the [Refractory Period][], the sodium channels are inactivated so that a second signal cannot simulataneously affect the neuron. Because of the inactivated sodium channels, the current can only move in one direction, thus a series of action potentials moves a signal along an axon as Sodium and Potassium voltage-gated ion channels respond sequentially. An action potential is binary: it either reaches the threshold and initiates or it doesn't.
+
+For some axons, glial cells called [Oligodendrocytes][] in the central nervous system and [Schwann Cells][] in the peripheral nervous system produce electrical insulation around axons called [Myelin Sheaths][]. In such myelinated axons, voltage-gated sodium channels are only in between the myelinated sections, in areas called [Nodes of Ranvier][], thus signals travel faster because the action potential simply passes down the myelinated portions to the next node of ranvier in a process called Saltatory Conduction.
+
+In [Synaptic Signaling][], signals pass between neurons through electrical or chemical [Synapses][] across short gaps called [Synaptic Clefts][]. In chemical synapses, neurons excrete [Neurotransmitters][] diffuse across to trigger target cells. As an action potential arrives at the presynaptic membrane of the signaling cell, depolarization opens voltage-gated ion channels that let in Ca<sup>2+</sup> from the outside which cause vesicles to release neurotransmitters to the target cells. At the target dendrites, [Ligand-Gated Ion Channels][] are opened by the neurotransmitters to allow Na<sup>+</sup> and K<sup>+</sup> to diffuse to depolarize the membrane to create an [Excitatory Postsynaptic Potential][], or to allow K<sup>+</sup> and Cl<sup>-</sup> to diffuse to hyperpolarize to create an [Inhibitory Postsynaptic Potential][]. In the process of [Summation][], postsynaptic potentials in rapid succession may combine to exceed the action potential threshold at the integration center called the [Axon Hillock][] to start another action potential. Some neurotransmitters activate G protein-coupled receptors which activate a signal cascade that opens and closes ion channels.
+
+Example neurotransmitters include:
+
+* [Acetylcholine][] participates in muscle stimulation, memory formation, and learning.
+* Amino acids that may act as neurotransmitters such as [Glutamate][] which participates in long-term memory formation, and in some organisms funtions the role of acetylcholine.
+* [Biogenic Amines][] which are synthesized from amino acids such as Dopamine and Serotonin.
+* [Neuropeptides][] which are short peptides that may act as neurotransmitters such as Endorphins that decrease pain perception.
+* Gases that may act as neurotransmitters such as Nitric Oxide (NO).
 
 In Neuroendocrine Signaling, neurons called [Neurosecretory Cells][] excrete [Neurohormones][] which diffuse into the bloodstream.
-
-[Nervous tissue][] is a tissue of neurons along with [glial cells][] (or neuroglia) which assist signal propagation and provide nutrients to neurons.
-
-Nervous tissue is the main component of the [central nervous system][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
-
-The [peripheral nervous system][] includes nervous tissue besides the brain and spinal cord. [Nerves][] are bundles of axons.
 
 #### Brain
 
@@ -1832,6 +1863,12 @@ The pineal gland produces the hormone [Melatonin][] which regulates responses to
 [Melanocyte-Stimulating Hormone][] (or MSH) secreted by the Anterior Pituitary Gland functions in hunger, metabolism, and skin coloration.
 
 The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+
+[Radial Glia][] are glial cells that form tracks along which new neurons migrate.
+
+[Astrocytes][] are glial cells that facilitate information transfer, regulate ion concentrations, promote blood flow, and help form the blood-brain barrier. The [Blood-Brain Barrier][] is a mechanism that restricts certain substances from entering the central nervous system.
+
+[Microglia][] are glia cells which are immune cells.
 
 #### Gas Exchange
 
@@ -2283,10 +2320,6 @@ A sac forms around the fetus called the [amniotic sac][] which contains the fetu
 
 The amniotic sac is further enclosed by a membrane called the [chorion][] which have cells called [chorionic villi][] on the outside the interact with the uterus for nutrient exchange.
 
-[Amniocentesis][] uses a needle to extract amniotic fluid which contains fetal cells that may be sequenced.
-
-[Chorionic Villus Sampling][] extracts some chorionic villi cells which were made by the fetus and which may be sequenced.
-
 ## History of Life
 
 [Oceans formed on Earth][history of oceans] about 4.4 billion years ago.
@@ -2476,8 +2509,10 @@ if (elements.length) {
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
+[acetylcholine]: https://en.wikipedia.org/wiki/Acetylcholine
 [acrosome]: https://en.wikipedia.org/wiki/Acrosome
 [actin]: https://en.wikipedia.org/wiki/Actin
+[action potential]: https://en.wikipedia.org/wiki/Action_potential
 [activation energy]: https://en.wikipedia.org/wiki/Activation_energy
 [activator]: https://en.wikipedia.org/wiki/Activator_(genetics)
 [active sites]: https://en.wikipedia.org/wiki/Active_site
@@ -2592,6 +2627,7 @@ if (elements.length) {
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
+[astrocytes]: https://en.wikipedia.org/wiki/Astrocyte
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atherosclerosis]: https://en.wikipedia.org/wiki/Atherosclerosis
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
@@ -2616,7 +2652,8 @@ if (elements.length) {
 [auxin]: https://en.wikipedia.org/wiki/Auxin
 [axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
-[axons]: https://en.wikipedia.org/wiki/Axon
+[axon]: https://en.wikipedia.org/wiki/Axon
+[axon hillock]: https://en.wikipedia.org/wiki/Axon_hillock
 [b cells]: https://en.wikipedia.org/wiki/B_cell
 [β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
@@ -2643,6 +2680,7 @@ if (elements.length) {
 [binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
 [biochemical ligand]: https://en.wikipedia.org/wiki/Ligand_(biochemistry)
 [biofilms]: https://en.wikipedia.org/wiki/Biofilm
+[biogenic amines]: https://en.wikipedia.org/wiki/Biogenic_amine
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
@@ -2653,6 +2691,7 @@ if (elements.length) {
 [blastomeres]: https://en.wikipedia.org/wiki/Blastomere
 [blastula]: https://en.wikipedia.org/wiki/Blastula
 [blood]: https://en.wikipedia.org/wiki/Blood
+[blood-brain barrier]: https://en.wikipedia.org/wiki/Blood%E2%80%93brain_barrier
 [blood plasma]: https://en.wikipedia.org/wiki/Blood_plasma
 [blood serum]: https://en.wikipedia.org/wiki/Serum_(blood)
 [blood vessels]: https://en.wikipedia.org/wiki/Blood_vessel
@@ -2860,6 +2899,7 @@ if (elements.length) {
 [density-dependent inhibition]: https://en.wikipedia.org/wiki/Density_dependence
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
+[depolarization]: https://en.wikipedia.org/wiki/Depolarization
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [desmosomes]: https://en.wikipedia.org/wiki/Desmosome
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
@@ -3003,6 +3043,7 @@ if (elements.length) {
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [excavata]: https://en.wikipedia.org/wiki/Excavata
+[excitatory postsynaptic potential]: https://en.wikipedia.org/wiki/Excitatory_postsynaptic_potential
 [exergonic]: https://en.wikipedia.org/wiki/Exergonic_reaction
 [exocrine gland]: https://en.wikipedia.org/wiki/Exocrine_gland
 [exocytosis]: https://en.wikipedia.org/wiki/Exocytosis
@@ -3073,6 +3114,7 @@ if (elements.length) {
 [gametangia]: https://en.wikipedia.org/wiki/Gametangium
 [gametes]: https://en.wikipedia.org/wiki/Gamete
 [gametophyte]: https://en.wikipedia.org/wiki/Gametophyte
+[ganglion]: https://en.wikipedia.org/wiki/Ganglion
 [gap junctions]: https://en.wikipedia.org/wiki/Gap_junction
 [gas]: https://en.wikipedia.org/wiki/Gas
 [gas exchange]: https://en.wikipedia.org/wiki/Gas_exchange
@@ -3109,6 +3151,7 @@ if (elements.length) {
 [glucocorticoids]: https://en.wikipedia.org/wiki/Glucocorticoid
 [gluconeogenesis]: https://en.wikipedia.org/wiki/Gluconeogenesis
 [glucose]: https://en.wikipedia.org/wiki/Glucose
+[glutamate]: https://en.wikipedia.org/wiki/Glutamic_acid
 [glycerides]: https://en.wikipedia.org/wiki/Glyceride
 [glycerol]: https://en.wikipedia.org/wiki/Glycerol
 [glycocalyx]: https://en.wikipedia.org/wiki/Glycocalyx
@@ -3118,6 +3161,7 @@ if (elements.length) {
 [glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [gonads]: https://en.wikipedia.org/wiki/Gonad
+[graded potential]: https://en.wikipedia.org/wiki/Graded_potential
 [gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
@@ -3210,6 +3254,7 @@ if (elements.length) {
 [hyphae]: https://en.wikipedia.org/wiki/Hypha
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [hydrolases]: https://en.wikipedia.org/wiki/Hydrolase
+[hyperpolarization]: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
@@ -3226,6 +3271,7 @@ if (elements.length) {
 [inertia]: https://en.wikipedia.org/wiki/Inertia
 [inflammatory response]: https://en.wikipedia.org/wiki/Inflammation
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
+[inhibitory postsynaptic potential]: https://en.wikipedia.org/wiki/Inhibitory_postsynaptic_potential
 [initial velocity]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/basics-of-enzyme-kinetics-graphs
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
@@ -3240,6 +3286,7 @@ if (elements.length) {
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
+[interneurons]: https://en.wikipedia.org/wiki/Interneuron
 [intersexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
@@ -3302,7 +3349,7 @@ if (elements.length) {
 [lichen]: https://en.wikipedia.org/wiki/Lichen
 [life]: https://en.wikipedia.org/wiki/Life
 [ligaments]: https://en.wikipedia.org/wiki/Ligament
-[ligand gated channels]: https://en.wikipedia.org/wiki/Ligand-gated_ion_channel
+[ligand-gated ion channels]: https://en.wikipedia.org/wiki/Ligand-gated_ion_channel
 [ligand]: https://en.wikipedia.org/wiki/Ligand
 [ligases]: https://en.wikipedia.org/wiki/Ligase
 [light]: https://en.wikipedia.org/wiki/Light
@@ -3394,6 +3441,7 @@ if (elements.length) {
 [microbiome]: https://en.wikipedia.org/wiki/Microbiota
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
+[microglia]: https://en.wikipedia.org/wiki/Microglia
 [microphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
 [micropyle]: https://en.wikipedia.org/wiki/Ovule#Integuments,_micropyle_and_chalaza
 [microsporangia]: https://en.wikipedia.org/wiki/Sporangium
@@ -3454,6 +3502,7 @@ if (elements.length) {
 [mycelium]: https://en.wikipedia.org/wiki/Mycelium
 [mycorrhizae]: https://en.wikipedia.org/wiki/Mycorrhiza
 [mycosis]: https://en.wikipedia.org/wiki/Mycosis
+[myelin sheaths]: https://en.wikipedia.org/wiki/Myelin_sheaths
 [myocardial infarction]: https://en.wikipedia.org/wiki/Myocardial_infarction
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
 [myosin]: https://en.wikipedia.org/wiki/Myosin
@@ -3475,6 +3524,7 @@ if (elements.length) {
 [neuroendocrine signaling]: https://en.wikipedia.org/wiki/Neuroendocrine_cell
 [neurohormones]: https://en.wikipedia.org/wiki/Neurohormone
 [neurons]: https://en.wikipedia.org/wiki/Neuron
+[neuropeptides]: https://en.wikipedia.org/wiki/Neuropeptide
 [neurosecretory cells]: https://en.wikipedia.org/wiki/Neuroendocrine_cell
 [neurotransmitters]: https://en.wikipedia.org/wiki/Neurotransmitter
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
@@ -3489,6 +3539,7 @@ if (elements.length) {
 [nitrogenous base]: https://en.wikipedia.org/wiki/Nitrogenous_base
 [nitrogenous waste]: https://en.wikipedia.org/wiki/Metabolic_waste#Nitrogen_wastes
 [noble gases]: https://en.wikipedia.org/wiki/Noble_gas
+[nodes of ranvier]: https://en.wikipedia.org/wiki/Node_of_Ranvier
 [non-competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/noncompetitive-inhibition
 [non-michaelis-menten kinetics]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Non-Michaelis%E2%80%93Menten_kinetics
 [non-template strand]: https://en.wikipedia.org/wiki/Coding_strand
@@ -3524,6 +3575,7 @@ if (elements.length) {
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
+[oligodendrocytes]: https://en.wikipedia.org/wiki/Oligodendrocyte
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
 [omnivores]: https://en.wikipedia.org/wiki/Omnivore
@@ -3734,6 +3786,7 @@ if (elements.length) {
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
 [r plasmids]: https://en.wikipedia.org/wiki/R-factor
 [r process]: https://en.wikipedia.org/wiki/R-process
+[radial glia]: https://en.wikipedia.org/wiki/Radial_glial_cell
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
 [ras]: https://en.wikipedia.org/wiki/KRAS
@@ -3749,6 +3802,7 @@ if (elements.length) {
 [rectum]: https://en.wikipedia.org/wiki/Rectum
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
+[refractory period]: https://en.wikipedia.org/wiki/Refractory_period_(physiology)
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [reinforcement]: https://en.wikipedia.org/wiki/Reinforcement_(speciation)
 [relative atomic mass]: https://en.wikipedia.org/wiki/Relative_atomic_mass
@@ -3764,6 +3818,7 @@ if (elements.length) {
 [respiratory chain]: https://en.wikipedia.org/wiki/Electron_transport_chain
 [respiratory pigments]: https://en.wikipedia.org/wiki/Respiratory_pigment
 [respiratory system]: https://en.wikipedia.org/wiki/Respiratory_system
+[resting potential]: https://en.wikipedia.org/wiki/Resting_potential
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
@@ -3793,6 +3848,7 @@ if (elements.length) {
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
+[schwann cells]: https://en.wikipedia.org/wiki/Schwann_cell
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
 [scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
@@ -3898,6 +3954,7 @@ if (elements.length) {
 [sugar suffix]: https://en.wikipedia.org/wiki/-ose
 [sulci]: https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
+[summation]: https://en.wikipedia.org/wiki/Summation_(neurophysiology)
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [surfactants]: https://en.wikipedia.org/wiki/Surfactant
 [sun]: https://en.wikipedia.org/wiki/Sun
@@ -3910,6 +3967,7 @@ if (elements.length) {
 [synapses]: https://en.wikipedia.org/wiki/Synapse
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
+[synaptic clefts]: https://en.wikipedia.org/wiki/Synaptic_cleft
 [synaptic signaling]: https://en.wikipedia.org/wiki/Chemical_synapse
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
 [systole]: https://en.wikipedia.org/wiki/Systole
@@ -4050,6 +4108,7 @@ if (elements.length) {
 [vitamins]: https://en.wikipedia.org/wiki/Vitamin
 [viviparous]: https://en.wikipedia.org/wiki/Viviparity
 [voltage]: https://en.wikipedia.org/wiki/Voltage
+[voltage-gated ion channels]: https://en.wikipedia.org/wiki/Voltage-gated_ion_channel
 [volume]: https://en.wikipedia.org/wiki/Volume
 [vulva]: https://en.wikipedia.org/wiki/Vulva
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
