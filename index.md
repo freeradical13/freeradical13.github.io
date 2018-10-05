@@ -1939,9 +1939,23 @@ If Ca<sup>2+</sup> levels increase beyond a threshold, the thyroid gland release
 
 The [Parathyroid Glands][] are four small structures on the surface of the thyroid. If Ca<sup>2+</sup> levels drop below a threshold, the Parathyroid Glands produce [Parathyroid Hormone][] (or PTH) which causes the increase of Ca<sup>2+</sup> in the blood by causing breakdown of bone into Calcium and reabsorption of Calcium in the kidneys.
 
-#### Sex Hormones
+#### Gonads
 
-[Sex Hormones][] contribute to growth, development, reproductive cycles, and sexual behavior. Organs called the Testes in males synthesize much more [Androgen Hormones][] than females such as [Testosterone][] which affect male development. [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] are synthesized in much larger amounts in females and affect development and the support and growth of an embryo.
+[Gonads][] are organs that produce gametes and hormones related to sexual reproduction.
+
+[Sex Hormones][] contribute to growth, development, reproductive cycles, and sexual behavior.
+
+Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecteding duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
+
+Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development.
+
+Gonads in females are called [Ovaries][]. The outer layer of ovaries include Follicles which consist of an Oocyte that is a partially developed egg. Tubes called [Oviducts][] (or fallopian tubes) extend from the ovaries into an organ called the [Uterus][] (or womb) where zygotes develop. Cilia in the oviducts move eggs down into the uterus. The inner lining of the uterus is called the [Endometrium][]. The bottom of the uterus is called the [Cervix][] and opens into the Vagina. The [Vagina][] is a muscular and elastic chamber where sperm fertilize eggs. The vagina opens into the [Vulva][] which describes all external female genitalia, including thick skin folds on the outside called the [Labia Majora][], slender skin folds on the inside called the [Labia Minora][], and the [Clitoris][] which has a glans and prepuce.
+
+Ovaries produce [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] which affect development and the support and growth of an embryo.
+
+#### Mammary Glands
+
+The [Mammary Glands][], while present in both sexes, only produce milk (for nurturing children) in females.
 
 #### Nutrition
 
@@ -2053,7 +2067,7 @@ The three main classes of vertebrates are amphibians, reptiles, and mammals.
 
 [Therapsids][] evolved from synapsids and have specialized teeth called canines for piercing. The earliest therapsids existed about 280 million years ago.
 
-[Mammals][] are amniotes evolved from therapsids and usually have [mammary glands][] that produce milk for offspring and hair. The earliest mammals existed about 145 to 200 million years ago.
+[Mammals][] are amniotes evolved from therapsids and usually have mammary glands that produce milk for offspring and hair. The earliest mammals existed about 145 to 200 million years ago.
 
 Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, a random one of the X chromosomes deactivates into an object called a [Barr body][] (this occurs independently in multiple embryonic cells, thus some females have [mosaicism][] of some traits).
 
@@ -2245,6 +2259,8 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Birth][] is the process of one organism bearing a separate child.
 
+Most animals have cycles of reproductive activity controlled by hormones related to seasons or an internal clock so that animals only reproduce in favorable conditions. [Ovulation][] occurs in the midpoint of a reproductive cycle to release mature eggs available for fertilization.
+
 An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][]) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
 
 After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
@@ -2253,7 +2269,7 @@ Once cleavage creates 16 cells which are grouped into a solid ball, the collecti
 
 The zygote and blastomeres are [totipotent stem cells][] because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
 
-Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's [uterus][] (or womb), and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
+Trophoblast cells induce the creation of a fluid-filled cavity (using Na<sup>+</sup> ions and osmosis) called the [blastocoel][] inside the morula which contains the embryoblast and the collection of cells is now called the [blastula][] (or blastocyst). In mammals, the trophoblasts of the blastocyst [implant into the endometrium][] which is the inner epithelial layer of the mother's uterus, and this implantation creates the [placenta][] organ which allows for growth, nutrient exchange, waste disposal, etc.
 
 The cells of the blastula differentiate into multiple different layers and the total collection of cells is called the [gastrula][]. The layers include the [ectoderm][] (outermost) and [endoderm][] (innermost) in diploblastic organisms and include a third [mesoderm][] layer (middle layer) in triploblastic organisms. There is also an opening called the blastospore which becomes the mouth or anus, and intestinal lining.
 
@@ -2458,6 +2474,7 @@ if (elements.length) {
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
+[acrosome]: https://en.wikipedia.org/wiki/Acrosome
 [actin]: https://en.wikipedia.org/wiki/Actin
 [activation energy]: https://en.wikipedia.org/wiki/Activation_energy
 [activator]: https://en.wikipedia.org/wiki/Activator_(genetics)
@@ -2710,6 +2727,7 @@ if (elements.length) {
 [cerebral cortex]: https://en.wikipedia.org/wiki/Cerebral_cortex
 [cerebral hemispheres]: https://en.wikipedia.org/wiki/Cerebral_hemisphere
 [cerebrum]: https://en.wikipedia.org/wiki/Cerebrum
+[cervix]: https://en.wikipedia.org/wiki/Cervix
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
@@ -2757,6 +2775,7 @@ if (elements.length) {
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
 [classes]: https://en.wikipedia.org/wiki/Class_(biology)
 [cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
+[clitoris]: https://en.wikipedia.org/wiki/Clitoris
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
@@ -2949,6 +2968,7 @@ if (elements.length) {
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
+[epididymis]: https://en.wikipedia.org/wiki/Epididymis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
 [epinephrine]: https://en.wikipedia.org/wiki/Adrenaline
 [epiphyte]: https://en.wikipedia.org/wiki/Epiphyte
@@ -3095,6 +3115,7 @@ if (elements.length) {
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
+[gonads]: https://en.wikipedia.org/wiki/Gonad
 [gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
@@ -3257,6 +3278,8 @@ if (elements.length) {
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [kinetoplastids]: https://en.wikipedia.org/wiki/Kinetoplastida
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
+[labia majora]: https://en.wikipedia.org/wiki/Labia_majora
+[labia minora]: https://en.wikipedia.org/wiki/Labia_minora
 [lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
@@ -3524,8 +3547,11 @@ if (elements.length) {
 [osmosis]: https://en.wikipedia.org/wiki/Osmosis
 [osmotic pressure]: https://en.wikipedia.org/wiki/Osmotic_pressure
 [ova]: https://en.wikipedia.org/wiki/Ovum
+[ovaries]: https://en.wikipedia.org/wiki/Ovary
+[oviducts]: https://en.wikipedia.org/wiki/Oviduct
 [oviparous]: https://en.wikipedia.org/wiki/Oviparity
 [ovoviviparous]: https://en.wikipedia.org/wiki/Ovoviviparous
+[ovulation]: https://en.wikipedia.org/wiki/Ovulation
 [ovule]: https://en.wikipedia.org/wiki/Ovule
 [oxaloacetate]: https://en.wikipedia.org/wiki/Oxaloacetic_acid
 [oxidation states]: https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction
@@ -3771,6 +3797,7 @@ if (elements.length) {
 [secretin]: https://en.wikipedia.org/wiki/Secretin
 [seeds]: https://en.wikipedia.org/wiki/Seed
 [semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
+[seminiferous tubules]: https://en.wikipedia.org/wiki/Seminiferous_tubule
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
@@ -3900,6 +3927,7 @@ if (elements.length) {
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
 [test cross]: https://en.wikipedia.org/wiki/Test_cross
+[testes]: https://en.wikipedia.org/wiki/Testicle
 [testosterone]: https://en.wikipedia.org/wiki/Testosterone
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
@@ -3986,6 +4014,7 @@ if (elements.length) {
 [vaccines]: https://en.wikipedia.org/wiki/Vaccines
 [vacuoles]: https://en.wikipedia.org/wiki/Vacuole
 [vacuum]: https://en.wikipedia.org/wiki/Vacuum
+[vagina]: https://en.wikipedia.org/wiki/Vagina
 [valence electrons]: https://en.wikipedia.org/wiki/Valence_electrons
 [valence shell]: https://en.wikipedia.org/wiki/Electron_shell#Valence_shell
 [van der waals forces]: https://en.wikipedia.org/wiki/Van_der_Waals_force
@@ -4016,6 +4045,7 @@ if (elements.length) {
 [viviparous]: https://en.wikipedia.org/wiki/Viviparity
 [voltage]: https://en.wikipedia.org/wiki/Voltage
 [volume]: https://en.wikipedia.org/wiki/Volume
+[vulva]: https://en.wikipedia.org/wiki/Vulva
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
 [water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
