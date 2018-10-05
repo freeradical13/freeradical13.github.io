@@ -1808,9 +1808,9 @@ An [axon][] is an extension of the neuron which transmits signals.
 
 [Nerves][] are bundles of axons.
 
-Nervous tissue is the main component of the [Central Nervous System][] which is made of a brain and spinal cord. A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain.
+Nervous tissue is the main component of the [Central Nervous System][] which is made of a brain and spinal cord.
 
-The [Peripheral Nervous System][] includes nervous tissue besides the brain and spinal cord.
+The [Peripheral Nervous System][] includes nervous tissue besides the brain and spinal cord. The motor system which carries signals to skeletal muscles. The [Autonomic Nervous System][] regulates various muscles and is generally involuntary. The autonomic nervous system is further divided into the sympathetic nervous system, parasympathetic nervous system, and enteric nervous system. The [Sympathetic Nervous System][] contributes to arrousal and energy generation in a fight-or-flight response. The [Parasympathetic Nervous System][] contributes to the opposite, contributing to calming and returning to self-maintenance. The [Enteric Nervous System][] contributes to regulation of the digestive tract, pancreas, and gallbladder.
 
 There are a few major types of neurons:
 
@@ -1842,7 +1842,7 @@ In Neuroendocrine Signaling, neurons called [Neurosecretory Cells][] excrete [Ne
 
 #### Brain
 
-The brain is made of two large collections of neurons called the cerebrum and the cerebellum, with the cerebrum usually being much larger.
+A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain. A brain is made of three regions: The [Forebrain][] which contains the Cerebrum and Olfactory Bulb, the [Midbrain][] which coordinates routing sensory input, and the [Hindbrain][] which contains the Cerebellum and controls involuntary activities.
 
 The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][]. The upper surface of the cerebrum is called the [pallium][] and some organisms have a more advanced pallium called the [neocortex][] (e.g. language).
 
@@ -1850,7 +1850,7 @@ Grey matter is different from white matter in that grey matter contains more cel
 
 Each cerebral hemisphere is made of parts called the [frontal lobe][] (partly for dopamine processing), [parietal lobe][] (partly for integrating sensory information), [occipital lobe][] (partly for visual processing), [temporal lobe][] (partly for visual memory), limbic lobe, and insular cortex (partly for consciousness). The [sulci][] are the grooves in the brain that increase surface area.
 
-The cerebrum is attached to the [brainstem][] which connects to the spinal cord and is made of three parts: the [midbrain][], [pons][], and the [medulla oblongata][] (partly regulating breathing, heart rate, and blood pressure).
+The cerebrum is attached to the [brainstem][] which connects to the spinal cord and is made of the [pons][] and the [medulla oblongata][] (partly regulating breathing, heart rate, and blood pressure).
 
 Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
 
@@ -1862,7 +1862,7 @@ The pineal gland produces the hormone [Melatonin][] which regulates responses to
 
 [Melanocyte-Stimulating Hormone][] (or MSH) secreted by the Anterior Pituitary Gland functions in hunger, metabolism, and skin coloration.
 
-The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm in the Suprachiasmatic Nucleus), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
 [Radial Glia][] are glial cells that form tracks along which new neurons migrate.
 
@@ -2645,6 +2645,7 @@ if (elements.length) {
 [atrioventricular valves]: https://en.wikipedia.org/wiki/Heart_valve
 [autocrine signals]: https://en.wikipedia.org/wiki/Autocrine_signaling
 [autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
+[autonomic nervous system]: https://en.wikipedia.org/wiki/Autonomic_nervous_system
 [autophagosomes]: https://en.wikipedia.org/wiki/Autophagosome
 [autophagy]: https://en.wikipedia.org/wiki/Autophagy#Programmed_cell_death
 [autosomes]: https://en.wikipedia.org/wiki/Autosome
@@ -3002,6 +3003,7 @@ if (elements.length) {
 [energy]: https://en.wikipedia.org/wiki/Energy
 [energy level]: https://en.wikipedia.org/wiki/Energy_level
 [enhancers]: https://en.wikipedia.org/wiki/Enhancer_(genetics)
+[enteric nervous system]: https://en.wikipedia.org/wiki/Enteric_nervous_system
 [enterocyte cells]: https://en.wikipedia.org/wiki/Enterocyte
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
@@ -3087,6 +3089,7 @@ if (elements.length) {
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
+[forebrain]: https://en.wikipedia.org/wiki/Forebrain
 [fossils]: https://en.wikipedia.org/wiki/Fossil
 [founder effect]: https://en.wikipedia.org/wiki/Founder_effect
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
@@ -3210,6 +3213,7 @@ if (elements.length) {
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
 [hibernation]: https://en.wikipedia.org/wiki/Hibernation
+[hindbrain]: https://en.wikipedia.org/wiki/Hindbrain
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
 [histamines]: https://en.wikipedia.org/wiki/Histamine
 [histone]: https://en.wikipedia.org/wiki/Histone
@@ -3632,6 +3636,7 @@ if (elements.length) {
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
 [parasite]: https://en.wikipedia.org/wiki/Parasitism
 [parasitism]: https://en.wikipedia.org/wiki/Parasitism
+[parasympathetic nervous system]: https://en.wikipedia.org/wiki/Parasympathetic_nervous_system
 [parathyroid glands]: https://en.wikipedia.org/wiki/Parathyroid_gland
 [parathyroid hormone]: https://en.wikipedia.org/wiki/Parathyroid_hormone
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
@@ -3962,6 +3967,7 @@ if (elements.length) {
 [swallowing]: https://en.wikipedia.org/wiki/Swallowing
 [symbionts]: https://en.wikipedia.org/wiki/Symbiosis
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
+[sympathetic nervous system]: https://en.wikipedia.org/wiki/Sympathetic_nervous_system
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
 [symplast]: https://en.wikipedia.org/wiki/Symplast
 [synapses]: https://en.wikipedia.org/wiki/Synapse
