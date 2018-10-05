@@ -1164,7 +1164,7 @@ The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called pigments, and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
+    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
         1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
     1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
@@ -1880,7 +1880,7 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 [Chemoreceptors][] are sensory receptors that respond to changes in solute concentrations and respond to certain molecules such as Glucose, Oxygen, Carbon Dioxide, and Amino Acids.
 
-[Electromagnetic Receptors][] are sensory receptors that respond to changes in electromagnetic energy.
+[Electromagnetic Receptors][] and [Photoreceptors][] are sensory receptors that respond to changes in electromagnetic energy.
 
 [Thermoreceptors][] are sensory receptors that respond to changes in temperature.
 
@@ -1890,9 +1890,23 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 Gravity is sensed with mechanoreceptor organs called [Statocysts][] which include dense material called Statoliths inside which settle on certain ciliated cells depending on the position of the organism.
 
-##### Sensing Sound
+##### Sensing Sound and Equilibrium
 
-[Sound][] is a vibration that propagates as a wave of pressure through some substance.
+[Sound][] is a vibration that propagates as a wave of pressure through some substance. An organ called an [Ear][] has mechanoreceptor neurons called [Hair Cells][] that transduce the pressure wave into signals in the brain. The outside of the ear is called the Pinna and sounds travel down the Auditory Canal until they are collected at the [Tympanic Membrane][] (or eardrum). Behind the eardrum is the Middle Ear where three small bones - the Malleus (or hammer), the Incus (or anvil), and the Stapes (or stirrup) - transmit sound to the Oval Window, and opens the [Eustachian Tube][] which equalizes pressure with the atmosphere. The bones in the middle ear transfer the sound waves to the inner ear which has fluid-filled chambers and the sounds go into the coiled cochlea bony chamber. The [Cochlea][] has two fluid-filled canals separated by a smaller duct. The floor of the cochlear duct has the [Organ of Corti][] which has the hair cells. Sound waves cause the membrane of the organ of corti to vibrate which bends hairs on the hair cells causing a release of a neurotransmitter across a synapse to sensory neurons.
+
+The inner ear also has organs that sense body movement, position, and [balance][] (or equilibrium).
+
+##### Sensing Light
+
+Light is sensed by organs called [Eyes][] in the process of Vision.
+
+In some organisms with Compound Eyes, there are several thousand light detectors called Ommatidia each of which have a photoreceptor.
+
+In some organisms with eyes that have a Refractive Cornea, light enters through a transparent [Cornea][] and into the [Pupil][], the diameter of which is controlled by the [Iris][]. Behind the pupil, a [Lens][] directs the light onto a layer of photoreceptors called the [Retina][] (with a dip in the center called the [Fovea][]) and the Lens is moved in or out by muscles to change [Focus][].
+
+The photoreceptor cells are either cone cells or red cells. [Cone Cells][] detect color but are not very sensitive to act poorly in low light. [Rod Cells][] do not detect color but are more sensitive to light so they allow organisms to see in low light in black and white. Within rod and cone cells, there is a stack of membranous disks called pigments which have a light-absorbing molecule called [Retinal][] bound to a membrane protein called [Opsin][]. As retinal absorbs light, it changes from a cis isomer to a trans isomer. which activates opsin.
+
+The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], and the signals of multiple bipolar cells are combined at [Retinal Ganglion Cells][]. Additional [Horizontal Cells][] and [Amacrine Cells][] help to integrate information across the retina. All of this visual information is passed to the [Optic Nerve][] and on to the brain.
 
 #### Gas Exchange
 
@@ -2585,6 +2599,7 @@ if (elements.length) {
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [alveoli]: https://en.wikipedia.org/wiki/Pulmonary_alveolus
+[amacrine cells]: https://en.wikipedia.org/wiki/Amacrine_cell
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
 [aminoacyl-trna synthetases]: https://en.wikipedia.org/wiki/Aminoacyl_tRNA_synthetase
@@ -2686,6 +2701,7 @@ if (elements.length) {
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacterial flagella]: https://en.wikipedia.org/wiki/Flagellum#Bacterial
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
+[balance]: https://en.wikipedia.org/wiki/Sense_of_balance
 [bark]: https://en.wikipedia.org/wiki/Bark_(botany)
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
@@ -2710,6 +2726,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [biosphere]: https://en.wikipedia.org/wiki/Biosphere
+[bipolar cells]: https://en.wikipedia.org/wiki/Bipolar_neuron
 [birth]: https://en.wikipedia.org/wiki/Birth
 [black-body radiation]: https://en.wikipedia.org/wiki/Black-body_radiation
 [blastocoel]: https://en.wikipedia.org/wiki/Blastocoel
@@ -2848,6 +2865,7 @@ if (elements.length) {
 [clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
+[cochlea]: https://en.wikipedia.org/wiki/Cochlea
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
 [coeloms]: https://en.wikipedia.org/wiki/Coelom
@@ -2871,6 +2889,7 @@ if (elements.length) {
 [complex iv]: https://en.wikipedia.org/wiki/Cytochrome_c_oxidase
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
+[cone cells]: https://en.wikipedia.org/wiki/Cone_cell
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conjugation]: https://en.wikipedia.org/wiki/Bacterial_conjugation
@@ -2885,6 +2904,7 @@ if (elements.length) {
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [corepressor]: https://en.wikipedia.org/wiki/Corepressor
+[cornea]: https://en.wikipedia.org/wiki/Cornea
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
 [corticosteroids]: https://en.wikipedia.org/wiki/Corticosteroid
@@ -2968,6 +2988,7 @@ if (elements.length) {
 [duodenum]: https://en.wikipedia.org/wiki/Duodenum
 [dyneins]: https://en.wikipedia.org/wiki/Dynein
 [e-site]: https://en.wikipedia.org/wiki/E-site
+[ear]: https://en.wikipedia.org/wiki/Ear
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
@@ -3067,6 +3088,7 @@ if (elements.length) {
 [euglenozoans]: https://en.wikipedia.org/wiki/Euglenozoa
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
+[eustachian tube]: https://en.wikipedia.org/wiki/Eustachian_tube
 [evolution]: https://en.wikipedia.org/wiki/Evolution
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
@@ -3084,6 +3106,7 @@ if (elements.length) {
 [extreme halophiles]: https://en.wikipedia.org/wiki/Halophile
 [extreme thermophiles]: https://en.wikipedia.org/wiki/Thermophile#Extreme_thermophiles
 [extremophiles]: https://en.wikipedia.org/wiki/Extremophile
+[eyes]: https://en.wikipedia.org/wiki/Eye
 [f1 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [f2 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
@@ -3111,6 +3134,7 @@ if (elements.length) {
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [flower]: https://en.wikipedia.org/wiki/Flower
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
+[focus]: https://en.wikipedia.org/wiki/Focus_(optics)
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
@@ -3118,6 +3142,7 @@ if (elements.length) {
 [forebrain]: https://en.wikipedia.org/wiki/Forebrain
 [fossils]: https://en.wikipedia.org/wiki/Fossil
 [founder effect]: https://en.wikipedia.org/wiki/Founder_effect
+[fovea]: https://en.wikipedia.org/wiki/Fovea_centralis
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
@@ -3207,6 +3232,7 @@ if (elements.length) {
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
+[hair cells]: https://en.wikipedia.org/wiki/Hair_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
@@ -3257,6 +3283,7 @@ if (elements.length) {
 [homopolymer]: https://en.wikipedia.org/wiki/Homopolymer
 [homosporous]: https://en.wikipedia.org/wiki/Spore
 [homozygous]: https://en.wikipedia.org/wiki/Zygosity#Homozygous
+[horizontal cells]: https://en.wikipedia.org/wiki/Retina_horizontal_cell
 [horizontal gene transfer]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
@@ -3330,6 +3357,7 @@ if (elements.length) {
 [ionic compound]: https://en.wikipedia.org/wiki/Ionic_compound
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
+[iris]: https://en.wikipedia.org/wiki/Iris_(anatomy)
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
 [island]: https://en.wikipedia.org/wiki/Island
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
@@ -3372,6 +3400,7 @@ if (elements.length) {
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [leaves]: https://en.wikipedia.org/wiki/Leaf
+[lens]: https://en.wikipedia.org/wiki/Lens_(anatomy)
 [leptin]: https://en.wikipedia.org/wiki/Leptin
 [leukocytes]: https://en.wikipedia.org/wiki/White_blood_cell
 [levorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
@@ -3615,7 +3644,9 @@ if (elements.length) {
 [oocytes]: https://en.wikipedia.org/wiki/Oocyte
 [operator]: https://en.wikipedia.org/wiki/Operon#General_structure
 [operon]: https://en.wikipedia.org/wiki/Operon
+[opsin]: https://en.wikipedia.org/wiki/Opsin
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
+[optic nerve]: https://en.wikipedia.org/wiki/Optic_nerve
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [orders]: https://en.wikipedia.org/wiki/Order_(biology)
@@ -3627,6 +3658,7 @@ if (elements.length) {
 [origin of replication]: https://en.wikipedia.org/wiki/Origin_of_replication
 [origins of life]: https://www.scientificamerican.com/article/when-did-eukaryotic-cells/
 [organ]: https://en.wikipedia.org/wiki/Organ_(anatomy)
+[organ of corti]: https://en.wikipedia.org/wiki/Organ_of_Corti
 [orthologous]: https://en.wikipedia.org/wiki/Sequence_homology#Orthology
 [osmoconformer]: https://en.wikipedia.org/wiki/Osmoconformer
 [osmolarity]: https://en.wikipedia.org/wiki/Osmotic_concentration
@@ -3711,6 +3743,7 @@ if (elements.length) {
 [photon]: https://en.wikipedia.org/wiki/Photon
 [photoperiodism]: https://en.wikipedia.org/wiki/Photoperiodism
 [photophosphorylation]: https://en.wikipedia.org/wiki/Photophosphorylation
+[photoreceptors]: https://en.wikipedia.org/wiki/Photoreceptor_cell
 [photosynthesis]: https://en.wikipedia.org/wiki/Photosynthesis
 [photosystem i]: https://en.wikipedia.org/wiki/Photosystem_I
 [photosystem ii]: https://en.wikipedia.org/wiki/Photosystem_II
@@ -3722,6 +3755,7 @@ if (elements.length) {
 [physiology]: https://en.wikipedia.org/wiki/Physiology
 [phytoremediation]: https://en.wikipedia.org/wiki/Phytoremediation
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
+[pigments]: https://en.wikipedia.org/wiki/Photopigment
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pistil]: https://en.wikipedia.org/wiki/Gynoecium#Pistils
@@ -3809,6 +3843,7 @@ if (elements.length) {
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [pulse]: https://en.wikipedia.org/wiki/Pulse
 [pupal]: https://en.wikipedia.org/wiki/Pupal
+[pupil]: https://en.wikipedia.org/wiki/Pupil
 [purines]: https://en.wikipedia.org/wiki/Purine
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
@@ -3857,6 +3892,9 @@ if (elements.length) {
 [restriction enzymes]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [restriction sites]: https://en.wikipedia.org/wiki/Restriction_site
 [retained name]: https://en.wikipedia.org/wiki/Retained_name
+[retina]: https://en.wikipedia.org/wiki/Retina
+[retinal]: https://en.wikipedia.org/wiki/Retinal
+[retinal ganglion cells]: https://en.wikipedia.org/wiki/Retinal_ganglion_cell
 [retrotransposons]: https://en.wikipedia.org/wiki/Retrotransposon
 [retrovirus]: https://en.wikipedia.org/wiki/Retrovirus
 [reverse transcriptase]: https://en.wikipedia.org/wiki/Reverse_transcriptase
@@ -3870,6 +3908,7 @@ if (elements.length) {
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
+[rod cells]: https://en.wikipedia.org/wiki/Rod_cell
 [root pressure]: https://en.wikipedia.org/wiki/Root_pressure
 [roots]: https://en.wikipedia.org/wiki/Root
 [rrna]: https://en.wikipedia.org/wiki/Ribosomal_RNA
@@ -4103,6 +4142,7 @@ if (elements.length) {
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
 [turgor pressure]: https://en.wikipedia.org/wiki/Turgor_pressure
+[tympanic membrane]: https://en.wikipedia.org/wiki/Eardrum
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
 [type-II compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-II_ionic_binary_compounds
 [type-III compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-III_binary_compounds
@@ -4147,6 +4187,7 @@ if (elements.length) {
 [viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
+[visual pigments]: https://en.wikipedia.org/wiki/Ommochrome
 [vital capacity]: https://en.wikipedia.org/wiki/Vital_capacity
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
 [vitamins]: https://en.wikipedia.org/wiki/Vitamin
