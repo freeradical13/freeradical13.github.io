@@ -2424,7 +2424,18 @@ One or more ecosystems may be classified as part of [Biomes][] (with intersectio
 * A [Chaparral][] biome has a seasonal climate and consists largely of shrubs and small trees.
 * A [Tundra][] biome has a seasonal but cold climate.
 
-An [Ocean][] (or Sea) is a body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with the top layer being the [Photic Zone][] where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
+An [Ocean][] (or Sea) is a large body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with the top layer being the [Photic Zone][] where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
+
+Aquatic biomes are largely characterized by chemical or physical properties:
+
+* A [Lake][] biome is a large body of water other than an ocean. [Oligotrophic Lakes][] are Oxygen-rich and [Eutrophic Lakes][] are Oxygen-poor depending on depth, season and ice cover. Some plants may be rooted in shallow, well-lit areas near the shore of a lake called the [Littoral Zone][]. Away from shore but still bathed with light is the [Limnetic Zone][].
+* A [Wetland][] biome is an area that is submerged in shallow water at least part of the year.
+* A [River][] or Stream biome is characterized by a high speed flow of water.
+* An [Estuary][] biome is a transition area between a river and ocean.
+* An [Intertidal Zone][] biome is a shore area that is periodically submerged and exposed by the tides.
+* An [Oceanic Pelagic Zone][] biome is a large area of an ocean away from shore that is constantly mixed by wind driven currents.
+* A [Coral Reef][] biome is a shallow marine area with Calcium Carbonate skeletons formed by Corals.
+* A [Marine Benthic Zone][] (or Neritic Zone) biome consists of a seafloor area away from shore but still well-illuminated.
 
 ### History of Life
 
@@ -2975,6 +2986,7 @@ if (elements.length) {
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
+[coral reef]: https://en.wikipedia.org/wiki/Coral_reef
 [corepressor]: https://en.wikipedia.org/wiki/Corepressor
 [cornea]: https://en.wikipedia.org/wiki/Cornea
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
@@ -3159,6 +3171,7 @@ if (elements.length) {
 [ester suffix]: https://en.wikipedia.org/wiki/-oate
 [estradiol]: https://en.wikipedia.org/wiki/Estradiol
 [estrogen hormones]: https://en.wikipedia.org/wiki/Estrogen
+[estuary]: https://en.wikipedia.org/wiki/Estuary
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [ethylene]: https://en.wikipedia.org/wiki/Ethylene
 [etiolation]: https://en.wikipedia.org/wiki/Etiolation
@@ -3168,6 +3181,7 @@ if (elements.length) {
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
 [eustachian tube]: https://en.wikipedia.org/wiki/Eustachian_tube
+[eutrophic lakes]: https://en.wikipedia.org/wiki/Trophic_state_index#Eutrophic
 [evolution]: https://en.wikipedia.org/wiki/Evolution
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
@@ -3433,6 +3447,7 @@ if (elements.length) {
 [interneurons]: https://en.wikipedia.org/wiki/Interneuron
 [intersexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
+[intertidal zone]: https://en.wikipedia.org/wiki/Intertidal_zone
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [intrasexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [introns]: https://en.wikipedia.org/wiki/Intron
@@ -3478,6 +3493,7 @@ if (elements.length) {
 [lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
+[lake]: https://en.wikipedia.org/wiki/Lake
 [land]: https://en.wikipedia.org/wiki/Land
 [land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
@@ -3506,6 +3522,7 @@ if (elements.length) {
 [lignin]: https://en.wikipedia.org/wiki/Lignin
 [limb]: https://en.wikipedia.org/wiki/Limb_(anatomy)
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
+[limnetic Zone]: https://en.wikipedia.org/wiki/Limnetic_zone
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
 [lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
@@ -3514,6 +3531,7 @@ if (elements.length) {
 [lipoprotein lipase]: https://en.wikipedia.org/wiki/Lipoprotein_lipase
 [lipoproteins]: https://en.wikipedia.org/wiki/Lipoprotein
 [liquid]: https://en.wikipedia.org/wiki/Liquid
+[littoral zone]: https://en.wikipedia.org/wiki/Littoral_zone
 [litre]: https://en.wikipedia.org/wiki/Litre
 [liver]: https://en.wikipedia.org/wiki/Liver
 [loams]: https://en.wikipedia.org/wiki/Loam
@@ -3547,6 +3565,7 @@ if (elements.length) {
 [maltose]: https://en.wikipedia.org/wiki/Maltose
 [mammals]: https://en.wikipedia.org/wiki/Mammal
 [mammary glands]: https://en.wikipedia.org/wiki/Mammary_gland
+[marine benthic zone]: https://en.wikipedia.org/wiki/Neritic_zone
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
@@ -3732,6 +3751,7 @@ if (elements.length) {
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [ocean]: https://en.wikipedia.org/wiki/Ocean
+[oceanic pelagic zone]: https://en.wikipedia.org/wiki/Ocean#Oceanic_zones
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
@@ -3740,6 +3760,7 @@ if (elements.length) {
 [oligodendrocytes]: https://en.wikipedia.org/wiki/Oligodendrocyte
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
 [oligosaccharides]: https://en.wikipedia.org/wiki/Oligosaccharide
+[oligotrophic lakes]: https://en.wikipedia.org/wiki/Trophic_state_index#Oligotrophic
 [omnivores]: https://en.wikipedia.org/wiki/Omnivore
 [oncogene]: https://en.wikipedia.org/wiki/Oncogene
 [oocytes]: https://en.wikipedia.org/wiki/Oocyte
@@ -4012,6 +4033,7 @@ if (elements.length) {
 [ribose]: https://en.wikipedia.org/wiki/Ribose
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
+[river]: https://en.wikipedia.org/wiki/River
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
 [rod cells]: https://en.wikipedia.org/wiki/Rod_cell
@@ -4334,6 +4356,7 @@ if (elements.length) {
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
+[wetland]: https://en.wikipedia.org/wiki/Wetland
 [white adipose tissue]: https://en.wikipedia.org/wiki/White_adipose_tissue
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
