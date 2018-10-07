@@ -959,7 +959,7 @@ Genes are [heritable][] if they are passed from one organism to another.
 
 An organism is an object with the properties of life.
 
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space. A [population][] is a group of organisms of the same species in the same area.
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
@@ -2399,6 +2399,10 @@ A sac forms around the fetus called the [amniotic sac][] which contains the fetu
 
 The amniotic sac is further enclosed by a membrane called the [chorion][] which have cells called [chorionic villi][] on the outside the interact with the uterus for nutrient exchange.
 
+In [Semelparity][], an organism reproduces once and then dies. In [Iteroparity][], an organism may reproduce multiple times.
+
+There is a trade off between number of offspring and the amount of resources parents may devote to each offspring. Selection for traits that are advantageous at high density is called [K Selection][]. Selection for traits that are advantageous at low density is called [R Selection][].
+
 ## Biosphere
 
 [Geology][] is the study of the solid parts of the Earth. 
@@ -2476,6 +2480,8 @@ Sponges are animals that are filter feeders, meaning they filter suspended food 
 ## Ecology
 
 [Ecology][] is the study of interactions between organisms and the environment.
+
+[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time.
 
 ## Laboratory Techniques
 
@@ -2963,6 +2969,7 @@ if (elements.length) {
 [colon]: https://en.wikipedia.org/wiki/Large_intestine
 [commensalism]: https://en.wikipedia.org/wiki/Commensalism
 [communication]: https://en.wikipedia.org/wiki/Communication
+[community]: https://en.wikipedia.org/wiki/Community_(ecology)
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
@@ -3025,6 +3032,7 @@ if (elements.length) {
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
+[demography]: https://en.wikipedia.org/wiki/Demography
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
@@ -3470,11 +3478,13 @@ if (elements.length) {
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[iteroparity]: https://en.wikipedia.org/wiki/Semelparity_and_iteroparity
 [jasmonates]: https://en.wikipedia.org/wiki/Jasmonate
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [juxtaglomerular apparatus]: https://en.wikipedia.org/wiki/Juxtaglomerular_apparatus
 [juxtamedullary nephrons]: https://en.wikipedia.org/wiki/Juxtamedullary_nephron
+[k selection]: https://en.wikipedia.org/wiki/R/K_selection_theory
 [kaplan ap biology 2017]: https://duckduckgo.com/?q=isbn+9781506203331
 [karyogamy]: https://en.wikipedia.org/wiki/Karyogamy
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
@@ -3981,6 +3991,7 @@ if (elements.length) {
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
 [r plasmids]: https://en.wikipedia.org/wiki/R-factor
 [r process]: https://en.wikipedia.org/wiki/R-process
+[r selection]: https://en.wikipedia.org/wiki/R/K_selection_theory
 [radial glia]: https://en.wikipedia.org/wiki/Radial_glial_cell
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radius]: https://en.wikipedia.org/wiki/Radius
@@ -4064,6 +4075,7 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [secretin]: https://en.wikipedia.org/wiki/Secretin
 [seeds]: https://en.wikipedia.org/wiki/Seed
+[semelparity]: https://en.wikipedia.org/wiki/Semelparity_and_iteroparity
 [semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
 [seminiferous tubules]: https://en.wikipedia.org/wiki/Seminiferous_tubule
 [senses]: https://en.wikipedia.org/wiki/Sense
