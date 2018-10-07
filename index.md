@@ -985,7 +985,7 @@ Both prokaryotes and eukaryotes are made of cells.
 
 A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
-A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
+A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [Actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
 
 Cell motility is the ability of cell parts to move or for the whole cell to change location. Cell motility is accomplished through the interaction of the cytoskeleton and [motor proteins][] such as [dyneins][] or extensions called [pseudopodia][].
 
@@ -1786,16 +1786,6 @@ An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time me
 
 [Atherosclerosis][] is a type of arteriosclerosis where the blood vessel lumen accumulates fatty deposits called plaques. Ruptured plaques may cause a thrombus which leads to a the damage or death of cardiac muscle cells called a heart attack (or [myocardial infarction][]) or the damage or death of neurons called a stroke.
 
-#### Muscle Tissue
-
-[Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction.
-
-[Skeletal muscle][] (or striated muscle) is attached to bones by [tendons][] and is responsible for voluntary movements.
-
-[Smooth muscle][] is responsible for involuntary body movements.
-
-[Cardiac muscle][] performs contractions in the heart.
-
 #### Neurons
 
 [Neurons][] (or nerve cells) are electrically excitable cells that receive, process, and transmit information through electrical and chemical signals. A [ganglion][] is a cluster of neurons.
@@ -1808,9 +1798,9 @@ An [axon][] is an extension of the neuron which transmits signals.
 
 [Nerves][] are bundles of axons.
 
-Nervous tissue is the main component of the [Central Nervous System][] which is made of a brain and spinal cord.
+Nervous tissue is the main component of the [Central Nervous System][] which is made of a brain and spinal cord. The central nervous system includes the [Motor System][] which carries signals to skeletal muscles to perform movement.
 
-The [Peripheral Nervous System][] includes nervous tissue besides the brain and spinal cord. The motor system which carries signals to skeletal muscles. The [Autonomic Nervous System][] regulates various muscles and is generally involuntary. The autonomic nervous system is further divided into the sympathetic nervous system, parasympathetic nervous system, and enteric nervous system. The [Sympathetic Nervous System][] contributes to arrousal and energy generation in a fight-or-flight response. The [Parasympathetic Nervous System][] contributes to the opposite, contributing to calming and returning to self-maintenance. The [Enteric Nervous System][] contributes to regulation of the digestive tract, pancreas, and gallbladder.
+The [Peripheral Nervous System][] includes nervous tissue besides the brain and spinal cord. The [Autonomic Nervous System][] regulates various muscles and is generally involuntary. The autonomic nervous system is further divided into the sympathetic nervous system, parasympathetic nervous system, and enteric nervous system. The [Sympathetic Nervous System][] contributes to arrousal and energy generation in a fight-or-flight response. The [Parasympathetic Nervous System][] contributes to the opposite, contributing to calming and returning to self-maintenance. The [Enteric Nervous System][] contributes to regulation of the digestive tract, pancreas, and gallbladder.
 
 There are a few major types of neurons:
 
@@ -1870,6 +1860,37 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 [Microglia][] are glia cells which are immune cells.
 
+#### Muscle Tissue
+
+[Muscle tissue][] is composed of muscle which contracts to produce force and motion. [Muscle][] is made of parallel [myocyte cells][] which contain the proteins actin and [myosin][] that slide past each other to produce contraction. In [Thin Filaments][] (similar to microfilaments), two strands of actin coil around each other. In [Thick Filaments][], myosin molecules are stacked on each other. Myocytes have parallel [Myofibrils][] which are bundles of thin and thick filaments made of repeating sections called [Sarcomeres][] which perform contractions, connected together at Z Lines, and surrounded by endoplasmic reticulum.
+
+[Skeletal muscle][] (or striated muscle) is attached to bones by [tendons][] and is responsible for voluntary movements.
+
+[Smooth muscle][] is responsible for involuntary body movements.
+
+[Cardiac muscle][] performs contractions in the heart.
+
+[Movement][] (or motion) is the contraction of many muscle cells together:
+
+1. In a relaxed muscle, the myosin binding sites on actin are blocked by a protein complex made of [Tropomyosin][] and [Troponin][], and an ATP is bound to each projection on myosin called a myosin head.
+1. An action potential in a motor neuron releases the neurotransmitter Acetylcholine which binds to receptors on the myocyte membrane and triggers an action potential down [Transverse Tubules][] (or T Tubules) in the myocyte. The action potential causes the myofibril endoplasmic reticulum (or [Sarcoplasmic Reticulum][]) to release Ca<sup>2+</sup> ions which bind to Troponin on actin to expose the myosin binding sites.
+1. The myosin head hydrolyzes ATP to ADP and Phosphate which extends the myosin head and binds to actin which releases the ADP and Phosphate from the myosin head which causes the myosin head to bend back down and this pulls the actin filament (called the [Power Stroke][]).
+1. The simultaneous contraction of the sarcomeres shortens the myofibrils and the entire muscle cell contracts.
+1. ATP binds to the myosin head causing it to detach from actin and relax to its original position. As long as Ca<sup>2+</sup> ions are present, the sequence repeats.
+1. When the action potential stops, Ca<sup>2+</sup> ions go back into the sarcoplasmic reticulum, the myosin binding sites on actin are blocked, and the actin filaments relax.
+
+A [motor unit][] is a single motor neuron that controls a set of myocytes.
+
+Action potential summation increases the frequency of contractions and when the rate exceeds a threshold, the tension is maximized in a contraction called [Tetanic Contraction][].
+
+Powering repetitive contractions requires additional ATP by using stores of [Creatine Phosphate][] and Glycogen within the myocyte. Muscles that rely on aerobic respiration also have Oxygen-storing protein called [Myoglobin][].
+
+[Fast-Twitch Fibers][] contract faster than Slow-Twitch Fibers because fast-twitch fibers have more sarcoplasmic reticulum.
+
+Skeletal muscles cause movement with antagonistic contracting and relaxing muscles.
+
+A hydroskeleton is made of fluid held under pressure in a closed body area with movement accomplished in the process [peristalsis][] which is rhythmic muscle activity that changes the shape of the hydroskeleton.
+
 #### Senses
 
 [Senses][] are physical capacities that provide data about the world to the organism. A [Sensory Receptor][] in a sensory neuron cell detects a stimulus and opens or closes ion channels creating a voltage [Receptor Potential][] in a process called [Sensory Transduction][]. [Perception][] is the process in the brain of neurons processing the action potentials created by the sensory receptors.
@@ -1908,6 +1929,14 @@ The photoreceptor cells are either cone cells or red cells. [Cone Cells][] detec
 
 The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], and the signals of multiple bipolar cells are combined at [Retinal Ganglion Cells][]. Additional [Horizontal Cells][] and [Amacrine Cells][] help to integrate information across the retina. All of this visual information is passed to the [Optic Nerve][] and on to the brain.
 
+##### Sensing Chemicals in Solutions
+
+[Taste][] (or [Gustation][]) is the sensing of chemicals (called Tastants) in a solution. An organ such as the Tongue has epithelial cells called Taste Buds which detect various types of chemicals in solutions and connect to sensory neurons.
+
+##### Sensing Chemicals in Air
+
+[Smell][] (or [Olfaction][]) is the sensing of chemicals (called Odorants) in the air. An organ such as the Nose has Olfactory Receptor Cells with chemoreceptors that trigger action potentials.
+
 #### Gas Exchange
 
 [Gas Exchange][] is the process by which gases diffuse across a surface.
@@ -1928,7 +1957,7 @@ Positive Pressure Breathing pushes air into lungs whereas Negative Pressure Brea
 
 CO<sub>2</sub> is acidic because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. When blood pH falls, the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
 
-O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][]. Some organisms use proteins called Myoglobins to store Oxygen in muscles.
+O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
 
 When the level of Oxygen in the blood falls, blood vessel endothelial cells synthesize and release [Nitric Oxide][] (NO) which diffuses into surrounding smooth muscle cells, activating an enzyme that relaxes them which increases blood flow.
 
@@ -2052,7 +2081,7 @@ The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is create
 
 Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the trachea that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
 
-Material moves through the esophagus and other areas with the process of [peristalsis][] which is a wave of muscle contraction and relaxation.
+Material moves through the esophagus and other areas with the process of peristalsis.
 
 At the end of the esophagus, food reaches a [sphincter][] which is a muscle that regulates passage into the stomach.
 
@@ -2154,7 +2183,7 @@ Mammals use the [XY sex determination system][] where the two allosomal chromoso
 
 ##### Invertebrates
 
-Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate.
+Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate and Chitin.
 
 [Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
 
@@ -2916,6 +2945,7 @@ if (elements.length) {
 [countercurrent exchange]: https://en.wikipedia.org/wiki/Countercurrent_exchange
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
+[creatine phosphate]: https://en.wikipedia.org/wiki/Phosphocreatine
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
@@ -3113,6 +3143,7 @@ if (elements.length) {
 [facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [families]: https://en.wikipedia.org/wiki/Family_(biology)
+[fast-twitch fibers]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [fat]: https://en.wikipedia.org/wiki/Fat
 [fatty acid]: https://en.wikipedia.org/wiki/Fatty_acid
 [fatty acid degradation]: https://en.wikipedia.org/wiki/Fatty_acid_degradation
@@ -3230,6 +3261,7 @@ if (elements.length) {
 [growth hormone]: https://en.wikipedia.org/wiki/Growth_hormone
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
+[gustation]: https://en.wikipedia.org/wiki/Taste
 [guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
 [hair cells]: https://en.wikipedia.org/wiki/Hair_cell
@@ -3551,7 +3583,10 @@ if (elements.length) {
 [mosaicism]: https://en.wikipedia.org/wiki/Mosaic_(genetics)
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
+[motor system]: https://en.wikipedia.org/wiki/Motor_system
+[motor unit]: https://en.wikipedia.org/wiki/Motor_unit
 [mouth]: https://en.wikipedia.org/wiki/Mouth
+[movement]: https://en.wikipedia.org/wiki/Motion_(physics)
 [mtdna]: https://en.wikipedia.org/wiki/Mitochondrial_DNA
 [mucus]: https://en.wikipedia.org/wiki/Mucus
 [muscle]: https://en.wikipedia.org/wiki/Muscle
@@ -3565,6 +3600,8 @@ if (elements.length) {
 [myelin sheaths]: https://en.wikipedia.org/wiki/Myelin_sheaths
 [myocardial infarction]: https://en.wikipedia.org/wiki/Myocardial_infarction
 [myocyte cells]: https://en.wikipedia.org/wiki/Myocyte
+[myofibrils]: https://en.wikipedia.org/wiki/Myofibril
+[myoglobin]: https://en.wikipedia.org/wiki/Myoglobin
 [myosin]: https://en.wikipedia.org/wiki/Myosin
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
@@ -3635,6 +3672,7 @@ if (elements.length) {
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
+[olfaction]: https://en.wikipedia.org/wiki/Olfaction
 [olfactory bulbs]: https://en.wikipedia.org/wiki/Olfactory_bulb
 [oligodendrocytes]: https://en.wikipedia.org/wiki/Oligodendrocyte
 [oligomers]: https://en.wikipedia.org/wiki/Oligomer
@@ -3802,6 +3840,7 @@ if (elements.length) {
 [positive strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
 [posterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
+[power stroke]: https://en.wikipedia.org/wiki/Myosin#Power_stroke
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
@@ -3919,6 +3958,8 @@ if (elements.length) {
 [saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [sap]: https://en.wikipedia.org/wiki/Sap
+[sarcomeres]: https://en.wikipedia.org/wiki/Sarcomere
+[sarcoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
@@ -3965,9 +4006,11 @@ if (elements.length) {
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [skeletal muscle]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
+[slow-twitch fibers]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
 [small interfering rna]: https://en.wikipedia.org/wiki/Small_interfering_RNA
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
+[smell]: https://en.wikipedia.org/wiki/Olfaction
 [smooth muscle]: https://en.wikipedia.org/wiki/Smooth_muscle
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [soil]: https://en.wikipedia.org/wiki/Soil
@@ -4057,6 +4100,7 @@ if (elements.length) {
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taproots]: https://en.wikipedia.org/wiki/Taproot
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
+[taste]: https://en.wikipedia.org/wiki/Taste
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxis]: https://en.wikipedia.org/wiki/Taxis
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
@@ -4075,6 +4119,7 @@ if (elements.length) {
 [test cross]: https://en.wikipedia.org/wiki/Test_cross
 [testes]: https://en.wikipedia.org/wiki/Testicle
 [testosterone]: https://en.wikipedia.org/wiki/Testosterone
+[tetanic contraction]: https://en.wikipedia.org/wiki/Tetanic_contraction
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
 [tetrapods]: https://en.wikipedia.org/wiki/Tetrapod
@@ -4085,7 +4130,9 @@ if (elements.length) {
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
 [thermoreceptors]: https://en.wikipedia.org/wiki/Thermoreceptor
+[thick filaments]: https://en.wikipedia.org/wiki/Myosin
 [thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
+[thin filaments]: https://en.wikipedia.org/wiki/Actin
 [thiols]: https://en.wikipedia.org/wiki/Thiol
 [throat]: https://en.wikipedia.org/wiki/Throat
 [thrombocytes]: https://en.wikipedia.org/wiki/Platelet
@@ -4125,6 +4172,7 @@ if (elements.length) {
 [transport proteins]: https://en.wikipedia.org/wiki/Transport_protein
 [transport vesicle]: https://en.wikipedia.org/wiki/Golgi_apparatus#Vesicular_transport
 [transposition]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
+[transverse tubules]: https://en.wikipedia.org/wiki/T-tubule
 [tree of life]: https://en.wikipedia.org/wiki/Tree_of_life_(biology)
 [transposase]: https://en.wikipedia.org/wiki/Transposase
 [triglyceride]: https://en.wikipedia.org/wiki/Triglyceride
@@ -4137,6 +4185,8 @@ if (elements.length) {
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
 [tropic hormones]: https://en.wikipedia.org/wiki/Tropic_hormone
+[tropomyosin]: https://en.wikipedia.org/wiki/Tropomyosin
+[troponin]: https://en.wikipedia.org/wiki/Troponin
 [true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
