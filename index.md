@@ -1536,10 +1536,6 @@ Steroid hormones diffuse across the lipid membrane and bind to receptors in the 
 
 [Prostaglandins][] are either paracrine or autocrine signals which promote inflammation and the sensation of pain in response to injury.
 
-#### Pheromones
-
-Organisms may communicate which each other using chemical signals called [Pheromones][].
-
 #### Immune System
 
 The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage. The immune system includes the [innate immune system][] (or non-specific immune system) which has particular defenses against particular types of pathogens.
@@ -2197,6 +2193,22 @@ About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
+##### Animal Behavior
+
+A stimulus transmitted from one organism to another is called a [Signal][]. The transmission and reception of signals between organisms is called [Communication][]. Organisms may communicate which each other through odor and taste using chemical signals called [Pheromones][].
+
+Animals have various behaviors that are movements in response to stimuli. A simple [Sign Stimulus][] may cause a behavior called a [Fixed Action Pattern][]. Some behaviors such as fixed action patterns, pheromone signaling, etc., are approximately the same across a species and are called [Innate Behaviors][] (or Instincts).
+
+[Learning][] is the process of changing behavior by using [Memories][] which store informationin about experiences. In some species, learning called [Imprinting][] is the establishment of a long-lasting behavior in response to some organism or object during an early phase of life called the [Sensitive Period][] (or Critical Period). [Spatial Learning][] is learning an environment's spatial structure (e.g. memories of objects in space). [Associative Learning][] is learning which associates a feature of an environment (e.g. color) with some meaning (e.g. bad taste). [Social Learning][] is learning by observing other organisms which is a large part of what creats a [Culture][]. The most advanced forms of learning involve [Cognition][] which is the process of Knowing using awareness, reasoning, recollection, problem solving, and judgment.
+
+A long-distance change in location is called [Migration][].
+
+[Foraging][] is food-obtaining behavior, including searching, recognition, and capture.
+
+In [Promiscous Mating][], no long-term bonds form between mating males and female. In [Monogamous Mating][], a male and a female may form a longer-term relationship. In [Polygamous Mating][], an individual of one sex and multiple individuals of the other sex form a longer-term relationship (in Polygyny, a single male and in Polyandry, a single female). [Mate-Choice Copying][] is a form of social learning in which sexual selection is partly driven by the sexual selection of other individuals.
+
+An individual animal's behavior is [Altruistic][] if it reduces its fitness but increases the fitness of other individuals (e.g. parents sacrificing for children). [Hamilton's Rule][] (natural selection favors altruism if <code>r×B &gt; C</code>) is a hypothesis that altruism is related to the benefit to the recipient (B), the cost to the altruist (C), and the coefficient of relatedness (r; the average fraction of shared genes). Hamilton's Rule predicts the hypothesis of [Kin Selection][] in which altruism is higher amongst relatives (Kin). Altruism amongst individuals that are unrelated or weakly related is called [Reciprocal Altruism][].
+
 #### Protists
 
 [Protists][] are something of a catch-all name of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms (i.e. not animals, plants, or fungi).
@@ -2627,6 +2639,7 @@ if (elements.length) {
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[altruistic]: https://en.wikipedia.org/wiki/Altruism
 [alveoli]: https://en.wikipedia.org/wiki/Pulmonary_alveolus
 [amacrine cells]: https://en.wikipedia.org/wiki/Amacrine_cell
 [amines]: https://en.wikipedia.org/wiki/Amine
@@ -2694,6 +2707,7 @@ if (elements.length) {
 [artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
+[associative learning]: https://en.wikipedia.org/wiki/Learning#Associative_learning
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [astrocytes]: https://en.wikipedia.org/wiki/Astrocyte
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -2902,6 +2916,7 @@ if (elements.length) {
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
 [cofactor]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/enzyme-cofactors-and-coenzymes
+[cognition]: https://en.wikipedia.org/wiki/Cognition
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [collagen]: https://en.wikipedia.org/wiki/Collagen
@@ -2909,6 +2924,7 @@ if (elements.length) {
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [colon]: https://en.wikipedia.org/wiki/Large_intestine
 [commensalism]: https://en.wikipedia.org/wiki/Commensalism
+[communication]: https://en.wikipedia.org/wiki/Communication
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
@@ -2949,6 +2965,7 @@ if (elements.length) {
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
+[culture]: https://en.wikipedia.org/wiki/Culture
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -3159,6 +3176,7 @@ if (elements.length) {
 [filament]: https://en.wikipedia.org/wiki/Stamen
 [filtrate]: https://en.wikipedia.org/wiki/Filtration
 [filtration]: https://en.wikipedia.org/wiki/Filtration
+[fixed action pattern]: https://en.wikipedia.org/wiki/Fixed_action_pattern
 [fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flagella]: https://en.wikipedia.org/wiki/Flagella
@@ -3167,6 +3185,7 @@ if (elements.length) {
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
 [focus]: https://en.wikipedia.org/wiki/Focus_(optics)
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
+[foraging]: https://en.wikipedia.org/wiki/Foraging
 [force]: https://en.wikipedia.org/wiki/Force
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
@@ -3266,6 +3285,7 @@ if (elements.length) {
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
 [hair cells]: https://en.wikipedia.org/wiki/Hair_cell
 [halogens]: https://en.wikipedia.org/wiki/Halogen
+[hamilton's rule]: https://en.wikipedia.org/wiki/Kin_selection#Hamilton's_rule
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
 [hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
@@ -3351,6 +3371,7 @@ if (elements.length) {
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
 [implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
+[imprinting]: https://en.wikipedia.org/wiki/Imprinting_(psychology)
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
 [incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
@@ -3362,6 +3383,7 @@ if (elements.length) {
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [inhibitory postsynaptic potential]: https://en.wikipedia.org/wiki/Inhibitory_postsynaptic_potential
 [initial velocity]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/basics-of-enzyme-kinetics-graphs
+[innate behaviors]: https://en.wikipedia.org/wiki/Instinct
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
@@ -3412,6 +3434,7 @@ if (elements.length) {
 [keratin]: https://en.wikipedia.org/wiki/Keratin
 [kidneys]: https://en.wikipedia.org/wiki/Kidney
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
+[kin selection]: https://en.wikipedia.org/wiki/Kin_selection
 [kinases]: https://en.wikipedia.org/wiki/Kinase
 [kinetic energy]: https://en.wikipedia.org/wiki/Kinetic_energy
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
@@ -3431,6 +3454,7 @@ if (elements.length) {
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
+[learning]: https://en.wikipedia.org/wiki/Learning
 [leaves]: https://en.wikipedia.org/wiki/Leaf
 [lens]: https://en.wikipedia.org/wiki/Lens_(anatomy)
 [leptin]: https://en.wikipedia.org/wiki/Leptin
@@ -3494,6 +3518,7 @@ if (elements.length) {
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
 [mast cells]: https://en.wikipedia.org/wiki/Mast_cell
+[mate-choice copying]: https://en.wikipedia.org/wiki/Mate_choice_copying
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
@@ -3509,6 +3534,7 @@ if (elements.length) {
 [melatonin]: https://en.wikipedia.org/wiki/Melatonin
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
+[memories]: https://en.wikipedia.org/wiki/Memory
 [memory cells]: https://en.wikipedia.org/wiki/Immune_system#Immunological_memory
 [menopause]: https://en.wikipedia.org/wiki/Menopause
 [menstrual cycle]: https://en.wikipedia.org/wiki/Menstrual_cycle
@@ -3542,6 +3568,7 @@ if (elements.length) {
 [microvilli]: https://en.wikipedia.org/wiki/Microvillus
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
+[migration]: https://en.wikipedia.org/wiki/Migration_(ecology)
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mineralocorticoids]: https://en.wikipedia.org/wiki/Mineralocorticoid
 [minerals]: https://en.wikipedia.org/wiki/Mineral
@@ -3573,6 +3600,7 @@ if (elements.length) {
 [monkeys]: https://en.wikipedia.org/wiki/Monkey
 [monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
 [monocots]: https://en.wikipedia.org/wiki/Monocotyledon
+[monogamous mating]: https://en.wikipedia.org/wiki/Monogamy
 [monohybrids]: https://en.wikipedia.org/wiki/Monohybrid_cross
 [monomers]: https://en.wikipedia.org/wiki/Monomer
 [monophyletic group]: https://en.wikipedia.org/wiki/Monophyly
@@ -3823,6 +3851,7 @@ if (elements.length) {
 [polyacrylamide]: https://en.wikipedia.org/wiki/Polyacrylamide
 [polyadenylation signal sequence]: https://en.wikipedia.org/wiki/Polyadenylation#Mechanism
 [polyclonal]: https://en.wikipedia.org/wiki/Polyclonal_B_cell_response#Basis_of_polyclonality
+[polygamous mating]: https://en.wikipedia.org/wiki/Polygamy
 [polygenic inheritance]: https://en.wikipedia.org/wiki/Quantitative_trait_locus
 [polymer]: https://en.wikipedia.org/wiki/Polymer
 [polymerase chain reaction]: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
@@ -3857,6 +3886,7 @@ if (elements.length) {
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
 [prolactin]: https://en.wikipedia.org/wiki/Prolactin
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
+[promiscous mating]: https://en.wikipedia.org/wiki/Promiscuity
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
 [prophase]: https://en.wikipedia.org/wiki/Prophase
 [prostaglandins]: https://en.wikipedia.org/wiki/Prostaglandin
@@ -3906,6 +3936,7 @@ if (elements.length) {
 [receptor potential]: https://en.wikipedia.org/wiki/Receptor_potential
 [receptor tyrosine kinases]: https://en.wikipedia.org/wiki/Receptor_tyrosine_kinase
 [recessive]: https://en.wikipedia.org/wiki/Dominance_(genetics)
+[reciprocal altruism]: https://en.wikipedia.org/wiki/Reciprocal_altruism
 [recombinant chromosomes]: https://en.wikipedia.org/wiki/Chromosomal_crossover
 [recombinase]: https://en.wikipedia.org/wiki/Recombinase
 [rectum]: https://en.wikipedia.org/wiki/Rectum
@@ -3976,6 +4007,7 @@ if (elements.length) {
 [semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
 [seminiferous tubules]: https://en.wikipedia.org/wiki/Seminiferous_tubule
 [senses]: https://en.wikipedia.org/wiki/Sense
+[sensitive period]: https://en.wikipedia.org/wiki/Critical_period
 [sensory adaptation]: https://en.wikipedia.org/wiki/Neural_adaptation
 [sensory amplification]: https://en.wikipedia.org/wiki/Amplification_(psychology)
 [sensory receptor]: https://en.wikipedia.org/wiki/Sensory_receptor
@@ -3995,6 +4027,8 @@ if (elements.length) {
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sieve-tube elements]: https://en.wikipedia.org/wiki/Sieve_tube_element
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
+[sign stimulus]: https://en.wikipedia.org/wiki/Fixed_action_pattern
+[signal]: https://en.wikipedia.org/wiki/Signal
 [signal peptide]: https://en.wikipedia.org/wiki/Signal_peptide
 [signal recognition particle]: https://en.wikipedia.org/wiki/Signal_recognition_particle
 [signal transduction]: https://en.wikipedia.org/wiki/Signal_transduction
@@ -4012,6 +4046,7 @@ if (elements.length) {
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [smell]: https://en.wikipedia.org/wiki/Olfaction
 [smooth muscle]: https://en.wikipedia.org/wiki/Smooth_muscle
+[social learning]: https://en.wikipedia.org/wiki/Observational_learning
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [soil]: https://en.wikipedia.org/wiki/Soil
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
@@ -4025,6 +4060,7 @@ if (elements.length) {
 [sound]: https://en.wikipedia.org/wiki/Sound
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
+[spatial learning]: https://en.wikipedia.org/wiki/Spatial_memory
 [species]: https://en.wikipedia.org/wiki/Species
 [specific gravity]: https://en.wikipedia.org/wiki/Specific_gravity
 [specific heat]: https://en.wikipedia.org/wiki/Specific_Heat
