@@ -2399,19 +2399,34 @@ A sac forms around the fetus called the [amniotic sac][] which contains the fetu
 
 The amniotic sac is further enclosed by a membrane called the [chorion][] which have cells called [chorionic villi][] on the outside the interact with the uterus for nutrient exchange.
 
-## History of Life
-
-[Oceans formed on Earth][history of oceans] about 4.4 billion years ago.
+## Biosphere
 
 [Geology][] is the study of the solid parts of the Earth. 
 
-The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [ecosystem][] consists of all life and the things life interacts with in a particular area.
+The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [Ecosystem][] consists of all life and their [Environment][] (the things life interacts with in a particular area).
 
 [Geography][] is the study of the biosphere, land, oceans, atmosphere, etc. A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
 
 Continents move through a process called [continental drift][].
 
-### Fossils
+[Climate][] describes the long-term conditions in a given area. Climate may vary by [Season][], which is a cyclic period in which the length of the day and temperature change, largely due to the tilt of the Earth's axis of rotation and distance to the sun.
+
+An area of vegetation has many layers and the topmost layer is called the [Canopy][].
+
+One or more ecosystems may be classified as part of [Biomes][] (with intersections called [Ecotones][]) based on terrestrial vegetation type or aquatic physical characteristics:
+
+* A [Tropical Rainforest][] biome has relatively constant and high rainfall throughout the year.
+* A [Savanna][] biome has relatively warm and constant temperature throughout the year with some seasonal variation.
+* A [Northern Coniferous Forest][] (or Taiga) biome has a seasonal climate and consists largely of Conifers (gymnosperms, cone-bearing seed plants).
+* A [Temperate Broadleaf Forest][] biome has a seasonal climate and consists largely of deciduous trees which drop their leaves before winter.
+* A [Temperate Grassland][] biome has a seasonal climate and consists largely of grass.
+* A [Desert][] biome is an area of land with little precipitation.
+* A [Chaparral][] biome has a seasonal climate and consists largely of shrubs and small trees.
+* A [Tundra][] biome has a seasonal but cold climate.
+
+An [Ocean][] (or Sea) is a body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with the top layer being the [Photic Zone][] where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
+
+### History of Life
 
 [Fossils][] are remains or traces of dead organisms. [Paleontology][] is the study of fossils. In some cases, dead organism settle into layers of sediment which are compressed over time on top of each other, with each layer called a [stratum][] (plural strata).
 
@@ -2446,6 +2461,10 @@ The [geological record][] is an analysis of strata and fossils to date different
 ### Noteworthy
 
 Sponges are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
+
+## Ecology
+
+[Ecology][] is the study of interactions between organisms and the environment.
 
 ## Laboratory Techniques
 
@@ -2585,6 +2604,7 @@ if (elements.length) {
 [abc model of flower development]: https://en.wikipedia.org/wiki/ABC_model_of_flower_development
 [abscisic acid]: https://en.wikipedia.org/wiki/Abscisic_acid
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
+[abyssal zone]: https://en.wikipedia.org/wiki/Abyssal_zone
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
@@ -2685,6 +2705,7 @@ if (elements.length) {
 [aorta]: https://en.wikipedia.org/wiki/Aorta
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
 [apes]: https://en.wikipedia.org/wiki/Ape
+[aphotic zone]: https://en.wikipedia.org/wiki/Aphotic_zone
 [apical bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [apical meristems]: https://en.wikipedia.org/wiki/Meristem#Apical_meristems
 [apoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
@@ -2753,6 +2774,8 @@ if (elements.length) {
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
 [benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
+[benthic zone]: https://en.wikipedia.org/wiki/Benthic_zone
+[benthos]: https://en.wikipedia.org/wiki/Benthos
 [benzene]: https://en.wikipedia.org/wiki/Benzene
 [beta cells]: https://en.wikipedia.org/wiki/Beta_cell
 [beta oxidation]: https://en.wikipedia.org/wiki/Beta_oxidation
@@ -2767,6 +2790,7 @@ if (elements.length) {
 [biogenic amines]: https://en.wikipedia.org/wiki/Biogenic_amine
 [biology history]: https://en.wikipedia.org/wiki/Biology#History
 [biology numbers]: http://bionumbers.hms.harvard.edu/
+[biomes]: https://en.wikipedia.org/wiki/Biome
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
 [biosphere]: https://en.wikipedia.org/wiki/Biosphere
 [bipolar cells]: https://en.wikipedia.org/wiki/Bipolar_neuron
@@ -2812,6 +2836,7 @@ if (elements.length) {
 [campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [cancer]: https://en.wikipedia.org/wiki/Cancer
+[canopy]: https://en.wikipedia.org/wiki/Canopy_(biology)
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
 [capsid]: https://en.wikipedia.org/wiki/Capsid
 [capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
@@ -2855,6 +2880,7 @@ if (elements.length) {
 [cerebrum]: https://en.wikipedia.org/wiki/Cerebrum
 [cervix]: https://en.wikipedia.org/wiki/Cervix
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
+[chaparral]: https://en.wikipedia.org/wiki/Chaparral
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
@@ -2902,6 +2928,7 @@ if (elements.length) {
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
 [classes]: https://en.wikipedia.org/wiki/Class_(biology)
 [cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
+[climate]: https://en.wikipedia.org/wiki/Climate
 [clitoris]: https://en.wikipedia.org/wiki/Clitoris
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
@@ -2994,7 +3021,9 @@ if (elements.length) {
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
 [depolarization]: https://en.wikipedia.org/wiki/Depolarization
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
+[desert]: https://en.wikipedia.org/wiki/Desert
 [desmosomes]: https://en.wikipedia.org/wiki/Desmosome
+[detritus]: https://en.wikipedia.org/wiki/Detritus
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
 [dew]: https://en.wikipedia.org/wiki/Dew
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
@@ -3039,7 +3068,9 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[ecology]: https://en.wikipedia.org/wiki/Ecology
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
+[ecotones]: https://en.wikipedia.org/wiki/Ecotone
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
 [effector-triggered immunity]: https://en.wikipedia.org/wiki/Effector-triggered_immunity
@@ -3101,6 +3132,7 @@ if (elements.length) {
 [enterocyte cells]: https://en.wikipedia.org/wiki/Enterocyte
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
+[environment]: https://en.wikipedia.org/wiki/Biophysical_environment
 [enzyme commission number]: https://en.wikipedia.org/wiki/Enzyme_Commission_number
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
@@ -3190,6 +3222,7 @@ if (elements.length) {
 [force carrier]: https://en.wikipedia.org/wiki/Force_carrier
 [force third law]: https://en.wikipedia.org/wiki/Force#Third_law
 [forebrain]: https://en.wikipedia.org/wiki/Forebrain
+[forest]: https://en.wikipedia.org/wiki/Forest
 [fossils]: https://en.wikipedia.org/wiki/Fossil
 [founder effect]: https://en.wikipedia.org/wiki/Founder_effect
 [fovea]: https://en.wikipedia.org/wiki/Fovea_centralis
@@ -3676,6 +3709,7 @@ if (elements.length) {
 [norepinephrine]: https://en.wikipedia.org/wiki/Norepinephrine
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
+[northern coniferous forest]: https://en.wikipedia.org/wiki/Taiga
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
 [nuclease]: https://en.wikipedia.org/wiki/Nuclease
@@ -3697,6 +3731,7 @@ if (elements.length) {
 [object]: https://en.wikipedia.org/wiki/Physical_body
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
+[ocean]: https://en.wikipedia.org/wiki/Ocean
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
@@ -3805,6 +3840,7 @@ if (elements.length) {
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [phosphorylation]: https://en.wikipedia.org/wiki/Phosphorylation
 [phosphatases]: https://en.wikipedia.org/wiki/Phosphatase
+[photic zone]: https://en.wikipedia.org/wiki/Photic_zone
 [photolyases]: https://en.wikipedia.org/wiki/Photolyase
 [photon]: https://en.wikipedia.org/wiki/Photon
 [photoperiodism]: https://en.wikipedia.org/wiki/Photoperiodism
@@ -3992,6 +4028,7 @@ if (elements.length) {
 [sarcomeres]: https://en.wikipedia.org/wiki/Sarcomere
 [sarcoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
+[savanna]: https://en.wikipedia.org/wiki/Savanna
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
 [schwann cells]: https://en.wikipedia.org/wiki/Schwann_cell
@@ -3999,6 +4036,7 @@ if (elements.length) {
 [scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
+[season]: https://en.wikipedia.org/wiki/Season
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
@@ -4144,6 +4182,8 @@ if (elements.length) {
 [telomerase]: https://en.wikipedia.org/wiki/Telomerase
 [telomeres]: https://en.wikipedia.org/wiki/Telomere
 [telophase]: https://en.wikipedia.org/wiki/Telophase
+[temperate broadleaf forest]: https://en.wikipedia.org/wiki/Temperate_broadleaf_and_mixed_forest
+[temperate grassland]: https://en.wikipedia.org/wiki/Temperate_grasslands,_savannas,_and_shrublands
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
@@ -4165,6 +4205,7 @@ if (elements.length) {
 [thermal convection]: https://en.wikipedia.org/wiki/Convective_heat_transfer
 [thermal equilibrium]: https://en.wikipedia.org/wiki/Thermal_equilibrium
 [thermal radiation]: https://en.wikipedia.org/wiki/Thermal_radiation
+[thermocline]: https://en.wikipedia.org/wiki/Thermocline
 [thermoreceptors]: https://en.wikipedia.org/wiki/Thermoreceptor
 [thick filaments]: https://en.wikipedia.org/wiki/Myosin
 [thigmotropism]: https://en.wikipedia.org/wiki/Thigmotropism
@@ -4221,12 +4262,14 @@ if (elements.length) {
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
 [tropic hormones]: https://en.wikipedia.org/wiki/Tropic_hormone
+[tropical rainforest]: https://en.wikipedia.org/wiki/Tropical_rainforest
 [tropomyosin]: https://en.wikipedia.org/wiki/Tropomyosin
 [troponin]: https://en.wikipedia.org/wiki/Troponin
 [true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
+[tundra]: https://en.wikipedia.org/wiki/Tundra
 [turgor pressure]: https://en.wikipedia.org/wiki/Turgor_pressure
 [tympanic membrane]: https://en.wikipedia.org/wiki/Eardrum
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
