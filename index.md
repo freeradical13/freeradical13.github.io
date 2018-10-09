@@ -1177,7 +1177,7 @@ Steps of photosynthesis:
     1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
 
-An alternative method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][].
+An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][].
 
 #### Gluconeogenesis
 
@@ -1208,10 +1208,10 @@ Both prokyarotes and eukaryotes perform [cell division][] to replicate themselve
 Some cells cycle through one of a few states called a [cell cycle][]:
 
 1. Interphase:
-    1. [G<sub>1</sub> phase][g1]: Cell grows.
-    1. [S phase][] (synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
-    1. [G<sub>2</sub>phase ][g2]: Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
-1. [M phase][] (mitosis): Cell divides
+    1. [G<sub>1</sub> phase][g1] (G for Growth): Cell grows.
+    1. [S phase][] (S for Synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
+    1. [G<sub>2</sub>phase ][g2] (G for Growth): Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+1. [M phase][] (M for Mitosis): Cell divides
     1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] (or sister chromatid pair). A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
     1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
@@ -1646,9 +1646,9 @@ Within the inner membrane, in the fluid called the [stroma][], chloroplasts are 
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
 
-C<sub>4</sub> plants use [bundle-sheath cells][] to perform C<sub>4</sub> Carbon fixation.
+C<sub>4</sub> plants use [bundle-sheath cells][] to finish the Calvin cycle by concentrating CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
 
-Plants in arid conditions are called [xerophytes][] and use [Crassulacean Acid Metabolism][] (CAM) in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
+Some plants in arid conditions are called [xerophytes][] and use [Crassulacean Acid Metabolism][] (or CAM) as opposed to C<sub>3</sub> or C<sub>4</sub> in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
 
 ##### Plant Hormones
 
@@ -2045,7 +2045,7 @@ The [Parathyroid Glands][] are four small structures on the surface of the thyro
 
 [Sex Hormones][] contribute to growth, development, reproductive cycles, and sexual behavior.
 
-Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecteding duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
+Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecting duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
 
 Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. Females also produce androgens in a much smaller amount.
 
@@ -2197,9 +2197,9 @@ Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
 A stimulus transmitted from one organism to another is called a [Signal][]. The transmission and reception of signals between organisms is called [Communication][]. Organisms may communicate which each other through odor and taste using chemical signals called [Pheromones][].
 
-Animals have various behaviors that are movements in response to stimuli. A simple [Sign Stimulus][] may cause a behavior called a [Fixed Action Pattern][]. Some behaviors such as fixed action patterns, pheromone signaling, etc., are approximately the same across a species and are called [Innate Behaviors][] (or Instincts).
+Animals have various behaviors that are movements in response to stimuli. A simple [Sign Stimulus][] may cause a behavior called a [Fixed Action Pattern][]. Some behaviors such as fixed action patterns, pheromone signaling, etc., are approximately the same across a species and do not require previous experiences and are called [Innate Behaviors][] (or Instincts).
 
-[Learning][] is the process of changing behavior by using [Memories][] which store informationin about experiences. In some species, learning called [Imprinting][] is the establishment of a long-lasting behavior in response to some organism or object during an early phase of life called the [Sensitive Period][] (or Critical Period). [Spatial Learning][] is learning an environment's spatial structure (e.g. memories of objects in space). [Associative Learning][] is learning which associates a feature of an environment (e.g. color) with some meaning (e.g. bad taste). [Social Learning][] is learning by observing other organisms which is a large part of what creats a [Culture][]. The most advanced forms of learning involve [Cognition][] which is the process of Knowing using awareness, reasoning, recollection, problem solving, and judgment.
+[Learning][] is the process of changing behavior by using [Memories][] which store information about experiences and thus such behaviors are not innate. In some species, learning called [Imprinting][] is the establishment of a long-lasting behavior in response to some organism or object during an early phase of life called the [Sensitive Period][] (or Critical Period). [Spatial Learning][] is learning an environment's spatial structure (e.g. memories of objects in space). [Associative Learning][] is learning which associates a feature of an environment (e.g. color) with some meaning (e.g. bad taste). [Social Learning][] is learning by observing other organisms which is a large part of what creates a [Culture][]. The most advanced forms of learning involve [Cognition][] which is the process of [Knowing][] using awareness, reasoning, recollection, problem solving, and judgment.
 
 A long-distance change in location is called [Migration][].
 
@@ -2382,6 +2382,8 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][] or pregnancy) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
 
 After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
+
+In some animals, the egg is partly composed of stored nutrients called the [Yolk][] which is concentrated to one pole of the egg called the Vegetal Pole and the blastocoel forms at the other end called the Animal Pole. In some animals such as frogs, after fertilization, the contents of the animal pole shift slightly towards the point at which the sperm entered thus creating a crescent shaped area between the poles with diffuse pigments that look gray called the [gray crescent][].
 
 Once cleavage creates 16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
 
@@ -2839,7 +2841,7 @@ if (elements.length) {
 [bryophytes]: https://en.wikipedia.org/wiki/Bryophyte
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [bulk flow]: https://en.wikipedia.org/wiki/Mass_flow
-[bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle
+[bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle#Bundle-sheath_cells
 [butane]: https://en.wikipedia.org/wiki/Butane
 [c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
 [c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
@@ -3327,6 +3329,7 @@ if (elements.length) {
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
 [gravitropism]: https://en.wikipedia.org/wiki/Gravitropism
 [gravity]: https://en.wikipedia.org/wiki/Gravity
+[gray crescent]: https://www.ncbi.nlm.nih.gov/books/NBK10004/
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 [grey matter]: https://en.wikipedia.org/wiki/Grey_matter
@@ -3499,6 +3502,7 @@ if (elements.length) {
 [kinetochores]: https://en.wikipedia.org/wiki/Kinetochore
 [kinetoplastids]: https://en.wikipedia.org/wiki/Kinetoplastida
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
+[knowing]: https://en.wikipedia.org/wiki/Knowledge
 [labia majora]: https://en.wikipedia.org/wiki/Labia_majora
 [labia minora]: https://en.wikipedia.org/wiki/Labia_minora
 [lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
@@ -4382,6 +4386,7 @@ if (elements.length) {
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
 [xylem]: https://en.wikipedia.org/wiki/Xylem
 [yeasts]: https://en.wikipedia.org/wiki/Yeast
+[yolk]: https://en.wikipedia.org/wiki/Yolk
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
 [zygosporangium]: https://en.wikipedia.org/wiki/Zygospore
 [zygote]: https://en.wikipedia.org/wiki/Zygote
