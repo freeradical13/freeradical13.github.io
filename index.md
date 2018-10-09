@@ -1616,7 +1616,7 @@ Some vascular plants use [seeds][] which are packages of nutrients, an embryo, a
 
 A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and [cotyledon][] (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
 
-Nonvascular plants are called [bryophytes][] including liverworts, mosses, and hornworts.
+Nonvascular plants are called [bryophytes][] including [liverworts][], [mosses][], and [hornworts][].
 
 [Microphylls][] are leaves with no vascular branching and [megaphylls][] have high vascular branching.
 
@@ -2475,7 +2475,7 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 ### Noteworthy
 
-Sponges are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
+[Sponges][] are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
 
 ## Ecology
 
@@ -3394,6 +3394,7 @@ if (elements.length) {
 [horizontal gene transfer]: https://en.wikipedia.org/wiki/Horizontal_gene_transfer
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
+[hornworts]: https://en.wikipedia.org/wiki/Hornwort
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
@@ -3544,6 +3545,7 @@ if (elements.length) {
 [littoral zone]: https://en.wikipedia.org/wiki/Littoral_zone
 [litre]: https://en.wikipedia.org/wiki/Litre
 [liver]: https://en.wikipedia.org/wiki/Liver
+[liverworts]: https://en.wikipedia.org/wiki/Marchantiophyta
 [loams]: https://en.wikipedia.org/wiki/Loam
 [lobe]: https://en.wikipedia.org/wiki/Lobe_(anatomy)
 [locus]: https://en.wikipedia.org/wiki/Locus_(genetics)
@@ -3671,6 +3673,7 @@ if (elements.length) {
 [morphogenesis]: https://en.wikipedia.org/wiki/Morphogenesis
 [morula]: https://en.wikipedia.org/wiki/Morula
 [mosaicism]: https://en.wikipedia.org/wiki/Mosaic_(genetics)
+[mosses]: https://en.wikipedia.org/wiki/Moss
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [motor system]: https://en.wikipedia.org/wiki/Motor_system
@@ -4141,6 +4144,7 @@ if (elements.length) {
 [sphincter]: https://en.wikipedia.org/wiki/Sphincter
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
+[sponges]: https://en.wikipedia.org/wiki/Sponge
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
 [sporangia]: https://en.wikipedia.org/wiki/Sporangium
 [spores]: https://en.wikipedia.org/wiki/Spore
