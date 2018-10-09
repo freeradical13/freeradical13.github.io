@@ -1953,7 +1953,7 @@ The volume of air inhaled and exhaled in one breath is called the [tidal volume]
 
 Positive Pressure Breathing pushes air into lungs whereas Negative Pressure Breathing pulls air into lungs. For example, in some animals, contracting rib muscles around lungs and contracting the diaphragm at the bottom of the rib cage increases the volume of the thoracic cavity which pulls in air into the lungs.
 
-CO<sub>2</sub> is acidic because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. When blood pH falls, the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
+[CO<sub>2</sub> is acidic][co2 acidic] because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. [When blood pH falls][campbell urry et al 11th pg 944], the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
 
 O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
 
@@ -2855,6 +2855,7 @@ if (elements.length) {
 [campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
 [campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
 [campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
+[campbell urry et al 11th pg 944]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+944
 [campbell urry et al 11th pg 961]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+961
 [cancer]: https://en.wikipedia.org/wiki/Cancer
 [canopy]: https://en.wikipedia.org/wiki/Canopy_(biology)
@@ -2955,6 +2956,7 @@ if (elements.length) {
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
+[co2 acidic]: https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [cochlea]: https://en.wikipedia.org/wiki/Cochlea
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
