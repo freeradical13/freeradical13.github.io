@@ -1584,8 +1584,6 @@ Plant [leaves][] are organs that project from branches and perform photosynthesi
 
 [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient.
 
-Plants have undifferentiated tissues called [meristems][] which contain cells that can divide, allowing for unlimited growth to increase the height of the plant through [apical meristems][] ([primary growth][]) or the girth of the trunk through lateral meristems ([secondary growth][]).
-
 Everything in cytosol in all the cells and the plasmodesmata is called the [symplast][]. Everything that's living in the cell, including the plasma membrane, is called the [protoplast][] which is a superset of the symplast. Everything external to the cell membranes is called the [apoplast][].
 
 Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
@@ -1606,7 +1604,9 @@ The [xylem][] transports most water and minerals in sap from the roots to the sh
 
 The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions. This transportation is called [translocation][]. Sap may travel through conduits in the phloem called [sieve-tube elements][].
 
-The [vascular cambium][] is the main growth layer where new vascular tissue is added. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with cork cells is called the cork cambrium. Tissue that are neither vascular nor epidermal are called the ground tissue system: internal to the vascular tissue is called [pith][] and external to it is called [cortex][plant cortex].
+Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][]. Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis and the [Pith][]).
+
+Woody plants also have growth in thickness (called [secondary growth][]) through [lateral meristems][] called the vascular cambium and cork cambium. The [vascular cambium][] is the main lateral growth layer where vascular tissue is added called secondary xylem (or [Wood][]) and secondary phloem. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with tougher [periderm][] is called the [cork cambrium][] which laterally grows [Cork][] cells.
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
@@ -2997,6 +2997,8 @@ if (elements.length) {
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [coral reef]: https://en.wikipedia.org/wiki/Coral_reef
 [corepressor]: https://en.wikipedia.org/wiki/Corepressor
+[cork]: https://en.wikipedia.org/wiki/Cork_(material)
+[cork cambrium]: https://en.wikipedia.org/wiki/Cork_cambium
 [cornea]: https://en.wikipedia.org/wiki/Cornea
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
@@ -3135,6 +3137,7 @@ if (elements.length) {
 [endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
 [endocytosis]: https://en.wikipedia.org/wiki/Endocytosis
 [endoderm]: https://en.wikipedia.org/wiki/Endoderm
+[endodermis]: https://en.wikipedia.org/wiki/Endodermis
 [endomembrane system]: https://en.wikipedia.org/wiki/Endomembrane_system
 [endometrium]: https://en.wikipedia.org/wiki/Endometrium
 [endophytes]: https://en.wikipedia.org/wiki/Endophyte
@@ -3333,7 +3336,9 @@ if (elements.length) {
 [greek delta]: https://en.wikipedia.org/wiki/Delta_%28letter%29
 [greek letters]: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 [grey matter]: https://en.wikipedia.org/wiki/Grey_matter
+[ground meristem]: https://en.wikipedia.org/wiki/Meristem#Primary_meristems
 [ground substance]: https://en.wikipedia.org/wiki/Ground_substance
+[ground tissue]: https://en.wikipedia.org/wiki/Ground_tissue
 [growth factor]: https://en.wikipedia.org/wiki/Growth_factor
 [growth hormone]: https://en.wikipedia.org/wiki/Growth_hormone
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
@@ -3857,6 +3862,8 @@ if (elements.length) {
 [per prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [perception]: https://en.wikipedia.org/wiki/Perception
 [perforin]: https://en.wikipedia.org/wiki/Perforin
+[pericycle]: https://en.wikipedia.org/wiki/Pericycle
+[periderm]: https://en.wikipedia.org/wiki/Bark_(botany)#Periderm
 [perilipin]: https://en.wikipedia.org/wiki/Perilipin-1
 [periodic table]: https://en.wikipedia.org/wiki/Periodic_table
 [periodic table image]: images/32-column_periodic_table-a_modified.png
@@ -3955,6 +3962,7 @@ if (elements.length) {
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
 [prions]: https://en.wikipedia.org/wiki/Prion
+[procambium]: https://en.wikipedia.org/wiki/Meristem#Primary_meristems
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
@@ -3977,6 +3985,7 @@ if (elements.length) {
 [protium]: https://en.wikipedia.org/wiki/Isotopes_of_hydrogen#Hydrogen-1_(protium)
 [protists]: https://en.wikipedia.org/wiki/Protist
 [proto-oncogene]: https://en.wikipedia.org/wiki/Oncogene#Proto-oncogene
+[protoderm]: https://en.wikipedia.org/wiki/Meristem#Primary_meristems
 [proton pump]: https://en.wikipedia.org/wiki/Proton_pump
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
@@ -4381,6 +4390,7 @@ if (elements.length) {
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
 [wild type]: https://en.wikipedia.org/wiki/Wild_type
+[wood]: https://en.wikipedia.org/wiki/Wood
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
 [xerophytes]: https://en.wikipedia.org/wiki/Xerophyte
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
