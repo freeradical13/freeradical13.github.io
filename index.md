@@ -1610,7 +1610,9 @@ Woody plants also have growth in thickness (called [secondary growth][]) through
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
-Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][]. Vascular plants that do not produce seeds are either lycophytes or monilophytes.
+Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][]. A seed embryo attached to the Plumule which includes Cotyledons, the [Hypocotyl][] (the embryonic axis) which terminates in the [Radicle][] (or embryonic root), the [Epicotyl][] (above the Hypocotyl), and in some plants, shoots are sheathed in Coleoptiles, and roots are sheathed in Coleorhizas.
+
+Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
@@ -3162,6 +3164,7 @@ if (elements.length) {
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
+[epicotyl]: https://en.wikipedia.org/wiki/Epicotyl
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epididymis]: https://en.wikipedia.org/wiki/Epididymis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
@@ -3426,6 +3429,7 @@ if (elements.length) {
 [hypertonic]: https://en.wikipedia.org/wiki/Tonicity#Hypertonicity
 [hyphae]: https://en.wikipedia.org/wiki/Hypha
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[hypocotyl]: https://en.wikipedia.org/wiki/Hypocotyl
 [hydrolases]: https://en.wikipedia.org/wiki/Hydrolase
 [hyperpolarization]: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
@@ -4010,6 +4014,7 @@ if (elements.length) {
 [r selection]: https://en.wikipedia.org/wiki/R/K_selection_theory
 [radial glia]: https://en.wikipedia.org/wiki/Radial_glial_cell
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
+[radicle]: https://en.wikipedia.org/wiki/Radicle
 [radius]: https://en.wikipedia.org/wiki/Radius
 [ras]: https://en.wikipedia.org/wiki/KRAS
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
