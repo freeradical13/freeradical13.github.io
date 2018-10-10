@@ -1385,6 +1385,8 @@ In [Heterozygote Advantage][], organisms with two or more alleles at a locus are
 
 A [Hybrid Zone][] is a geographical area in which multiple species are more likely to reproduce (creating hybrids). [Reinforcement][] is the process of increasing reproductive barriers between species in the case that hybrids are less fit than parents.
 
+[Allopolyploidy][] occurs when gametes of two different diploid species overcome sexual barriers and form a haploid zygote with non-homologus chromosomes. This zygote may develop into a mature organism through mitosis although it cannot reproduce sexually because meiosis requires polyploidy. However, nondisjunctions during mitosis may create a duplicated cell which has homologous chromosomes which will allow meiosis and subsequent sexual reproduction.
+
 ### Proteomics
 
 [Proteomics][] is the study of proteins. The entire set of proteins expressed by a genome is called a [proteome][].
@@ -2671,6 +2673,7 @@ if (elements.length) {
 [alkyne]: https://en.wikipedia.org/wiki/Alkynes
 [allele]: https://en.wikipedia.org/wiki/Allele
 [allopatric speciation]: https://en.wikipedia.org/wiki/Allopatric_speciation
+[allopolyploidy]: https://en.wikipedia.org/wiki/Polyploidy#Allopolyploidy
 [allosomes]: https://en.wikipedia.org/wiki/Sex_chromosome
 [allosteric competitive inhibition]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/v/competitive-inhibition
 [allosteric enzyme]: https://www.khanacademy.org/science/biology/energy-and-enzymes/enzyme-regulation/a/enzyme-regulation
