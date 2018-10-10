@@ -1417,10 +1417,10 @@ Some bacteria may form [endospores][] when there is a lack of nutrients which ar
 
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
-1. [Transformation][]: When one bacterium dies, pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
-1. [Transduction][]: A virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
-1. [Conjugation][]: Transfer of genes between a bacterium with F-factor (fertility factor) and another bacterium through direct contact through a pilus.
-1. [Transposition][]: Movement of DNA segments (transposons) between chromosomes and plasmids within a cell.
+1. [Transformation][] occurs when one bacterium dies and pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
+1. [Conjugation][] is the transfer of genes between a bacterium with [F-Factor][] (or fertility factor) which is a part of the donating cell genome and another bacterium through direct contact through a mating bridge. The donor cell is called the [F<sup>+</sup> Cell][f+ cell] if the genes are in a plasmid and the F-Factor genes are transferred or an [Hfr Cell][] if the genes are part of the main chromosome and the F-Factor is used to perform the conjugation but the actual transfer of genes is from another part of the chromosome that tagged along with the F-Factor.
+1. [Transduction][] occurs when a virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
+1. [Transposition][] is the movement of DNA segments (transposons) between chromosomes and plasmids across cells.
 
 [Quorum sensing][] occurs when one bacterium releases a signal molecule to communicate with other bacteria to detect and respond to bacteria population density.
 
@@ -3221,6 +3221,8 @@ if (elements.length) {
 [extreme thermophiles]: https://en.wikipedia.org/wiki/Thermophile#Extreme_thermophiles
 [extremophiles]: https://en.wikipedia.org/wiki/Extremophile
 [eyes]: https://en.wikipedia.org/wiki/Eye
+[f-factor]: https://en.wikipedia.org/wiki/Fertility_factor_(bacteria)
+[f+ cell]: https://en.wikipedia.org/wiki/Fertility_factor_(bacteria)#Relation_to_the_genome
 [f1 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [f2 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
@@ -3387,6 +3389,7 @@ if (elements.length) {
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
+[hrf cell]: https://en.wikipedia.org/wiki/Hfr_cell
 [hibernation]: https://en.wikipedia.org/wiki/Hibernation
 [hindbrain]: https://en.wikipedia.org/wiki/Hindbrain
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
