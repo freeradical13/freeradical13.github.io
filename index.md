@@ -1760,7 +1760,7 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 The [heart][] is an organ that pumps blood through the circulatory system. The combination of the heart and blood vessels is called the [Cardiovascular System][].
 
-Hearts contain two or more chambers. Chambers that receive blood in as part of [systemic circulation][] are called [atria][] and chambers that pump blood out as part [pulmonary circulation][] are called [ventricles][]. The major steps of heart function are:
+Hearts contain two or more chambers. Chambers that receive blood in as part are called [atria][] and chambers that pump blood out are called [ventricles][]. [Systemic Circulation][] carries oxygenated blood from the lungs to the heart. [Pulmonary Circulation][] carries deoxygenated blood from the heart to the lungs. The major steps of heart function are:
 
 * Contraction of the right ventricle pumps blood to the lungs via pulmonary arteries where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
 * Oxygenated blood returns from the lungs via the pulmonary veins into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
