@@ -1770,13 +1770,13 @@ When the heart muscles contract ([systole][]), the heart pumps blood. The blood 
 
 When the heart muscles relax ([diastole][]), the heart chambers are filled with blood. The blood pressure at the time of the diastole is called the diastolic pressure.
 
-[Hypertension][] is higher blood pressure than average.
+[Hypertension][] is higher blood pressure than average. The systole and diastole refer to the blood pressure of systemic circulation. The blood pressures of pulmonary circulation and venous and arterial pressures are much smaller than that of systemic circulation.
 
 One cycle (or beat) of contractions and relaxation is a [cardiac cycle][]. The cardiac output is the volume of blood pumped by a ventricle per minute. The heart rate is the number of cycles per minute. The stroke volume is the volume of blood pumped per cycle.
 
 Valves prevent backflow in the wrong direction. [Atrioventricular Valves][] lie between each atrium and ventricle and inhibit blood from flowing from the ventricles into the atria. [Semilunar Valves][] lie at the two ventricle exits and inhibit blood from flowing backflow from the arteries into the ventricles.
 
-A set of cells in the right atrium called the pacemaker (or [Sinoatrial Node][]) sets the rate and timing when cardiac muscles contract together (coupled through gap junctions). Impulses from the sinoatrial node are delayed at the [Atrioventricular Node][] to allow emptying of the atria completely before passing the signals on through bundle branches and Purkinje fibres throughout the rest of the heart.
+A set of cells in the right atrium called the pacemaker (or [Sinoatrial Node][]) set the rate and timing when cardiac muscles contract together (coupled through gap junctions). Impulses from the sinoatrial node are delayed at the [Atrioventricular Node][] to allow emptying of the atria completely before passing the signals on through bundle branches and Purkinje fibres throughout the rest of the heart.
 
 An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time measuring cardiac muscle electrical impulses as they reach the skin via body fluids.
 
