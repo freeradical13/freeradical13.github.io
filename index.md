@@ -1177,8 +1177,6 @@ Steps of photosynthesis:
     1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
 
-An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][].
-
 #### Gluconeogenesis
 
 [Gluconeogenesis][] is the process of anabolizing Glucose from non-Carbohydrate substances such as Pyruvate, Glycerol, Lactate, and some Amino Acids. It is effectively the opposite of Glycolysis. The whole process uses 2 ATP, 2 GTP, and 1 NADH. Glucose may also be formed by catabolizing polysaccharides such as Starch and Glycogen.
@@ -1600,11 +1598,11 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
 
-The [phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions. This transportation is called [translocation][]. Sap may travel through conduits in the phloem called [sieve-tube elements][].
+The [Phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions. This transportation is called [Translocation][]. Sap travels through conduits in the phloem called [Sieve-Tube Elements][] in concert with [Companion Cells][] and supported by [Bast Fibers][].
 
 The soil immediately surrounding roots is called the [Rhizosphere][] and may contain rhizobacteria which are bacteria that live in the rhizosphere. [Endophytes][] are rhizobacteria or fungi that live between plant cells. Nitrogen is an important macronutrient for plants taken up during the [Nitrogen Cycle][] and it comes from [Rhizobacteria][] which use [Nitrogen Fixation][] to convert Nitrogen gas from the air (N<sub>2</sub>) into Ammonia (NH<sub>3</sub>) which combines with H<sup>+</sup> in the soil to form Ammonium (NH<sub>4</sub>), or Nitrogen from humus directly into Ammonium. Ammonium may be taken up directly by plant roots, or it may be further processed by Nitrifying bacteria into Nitrite (NO<sub>2</sub><sup>-</sup>) which is then processed by other nitrifying bacteria into Nitrate (NO<sub>3</sub><sup>-</sup>) which is taken up by plant roots. Weathering of rock and lightning striking Nitrogen gas may also create Nitrate which is taken up by plant roots. Nitrate may by converted into Ammonium in the plant root, or sent up the xylem and converted into Ammonium near where it's needed. Ammonium absorbed from soil is also taken up the xylem. [Crop rotation][] usually involves periodically planting legumes with rhizobacteria called Rhizobium which are particularly good at increasing Nitrogen concentration in the soil.
 
-Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][]. Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis and the [Pith][]).
+Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][] ([Parenchyma][] cells in soft tissues, [Collenchyma][] cells for structure in new growth, and [Sclerenchyma][] cells as the main structural support). Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis and the [Pith][]).
 
 Woody plants also have growth in thickness (called [secondary growth][]) through [lateral meristems][] called the vascular cambium and cork cambium. The [vascular cambium][] is the main lateral growth layer where vascular tissue is added called secondary xylem (or [Wood][]) to the outside of the primary xylem, and secondary phloem to the inside of the primary phloem. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with tougher [periderm][] is called the [cork cambrium][] which laterally grows [Cork][] cells.
 
@@ -1642,13 +1640,13 @@ Some plants respond to mechanical stimuli such as wind through the process of [t
 
 ##### Chloroplasts
 
-[Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (although the outer two membranes are not used for ATP synthesis like in mitochondria, but are just a relic of endosymbiosis).
+[Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (the outer membrane is not used for ATP synthesis like in mitochondria but is a relic of endosymbiosis).
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
-Plants have leaves which include [mesophyll cells][] that contain chloroplasts. CO<sub>2</sub> enters the leaf through pores called stomata (singular stoma).
+Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the veins (e.g. phloem) are vein-protecting [Bundle-Sheath Cells][].
 
-C<sub>4</sub> plants use [bundle-sheath cells][] to finish the Calvin cycle by concentrating CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
+An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][]. C<sub>4</sub> plants finish the Calvin cycle in the chloroplasts of bundle-sheath cells instead of mesophyll cells and concentrate more CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
 
 Some plants in arid conditions are called [xerophytes][] and use [Crassulacean Acid Metabolism][] (or CAM) as opposed to C<sub>3</sub> or C<sub>4</sub> in which stomata open during the night and fix Carbon into vacuoles which are used during the day in the Calvin Cycle.
 
@@ -2799,6 +2797,7 @@ if (elements.length) {
 [basal taxon]: https://en.wikipedia.org/wiki/Basal_(phylogenetics)
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
+[bast fibers]: https://en.wikipedia.org/wiki/Bast_fibre
 [benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
 [benthic zone]: https://en.wikipedia.org/wiki/Benthic_zone
 [benthos]: https://en.wikipedia.org/wiki/Benthos
@@ -2833,6 +2832,7 @@ if (elements.length) {
 [bohr shift]: https://en.wikipedia.org/wiki/Bohr_effect
 [bolus]: https://en.wikipedia.org/wiki/Bolus_(digestion)
 [bone]: https://en.wikipedia.org/wiki/Bone
+[both chloroplasts and mitochondria]: https://doi.org/10.1007/s10265-017-0947-z
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
 [bowman's capsule]: https://en.wikipedia.org/wiki/Bowman%27s_capsule
 [brain]: https://en.wikipedia.org/wiki/Brain
@@ -2975,12 +2975,14 @@ if (elements.length) {
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
 [collagen]: https://en.wikipedia.org/wiki/Collagen
+[collenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Collenchyma
 [colloids]: https://en.wikipedia.org/wiki/Colloid
 [cologarithm]: https://en.wikipedia.org/wiki/Cologarithm
 [colon]: https://en.wikipedia.org/wiki/Large_intestine
 [commensalism]: https://en.wikipedia.org/wiki/Commensalism
 [communication]: https://en.wikipedia.org/wiki/Communication
 [community]: https://en.wikipedia.org/wiki/Community_(ecology)
+[companion cells]: https://en.wikipedia.org/wiki/Phloem#Companion_cells
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
@@ -3849,6 +3851,7 @@ if (elements.length) {
 [p53]: https://en.wikipedia.org/wiki/P53
 [paedomorphosis]: https://en.wikipedia.org/wiki/Neoteny
 [paleontology]: https://en.wikipedia.org/wiki/Paleontology
+[palisade cells]: https://en.wikipedia.org/wiki/Palisade_cell
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
@@ -3865,6 +3868,7 @@ if (elements.length) {
 [parathyroid glands]: https://en.wikipedia.org/wiki/Parathyroid_gland
 [parathyroid hormone]: https://en.wikipedia.org/wiki/Parathyroid_hormone
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
+[parenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Parenchyma
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [partial pressure]: https://en.wikipedia.org/wiki/Partial_pressure
 [particles]: https://en.wikipedia.org/wiki/Particle
@@ -4107,6 +4111,7 @@ if (elements.length) {
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
 [schwann cells]: https://en.wikipedia.org/wiki/Schwann_cell
 [scientific notation]: https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/v/scientific-notation-old
+[sclerenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Sclerenchyma
 [scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
