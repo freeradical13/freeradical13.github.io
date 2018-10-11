@@ -595,7 +595,7 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply an organic molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction (lysis is Greak for the word break) and produces energy. The verb is to hydrolyze.
+Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction ([lysis][] is Greak for the word break) and produces energy. The verb is to hydrolyze.
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
@@ -1870,8 +1870,8 @@ The [limbic system][] (partly the source of emotions) is made of structures such
 
 [Movement][] (or motion) is the contraction of many muscle cells together:
 
-1. In a relaxed muscle, the myosin binding sites on actin are blocked by a protein complex made of [Tropomyosin][] and [Troponin][], and an ATP is bound to each projection on myosin called a myosin head.
-1. An action potential in a motor neuron releases the neurotransmitter Acetylcholine which binds to receptors on the myocyte membrane and triggers an action potential down [Transverse Tubules][] (or T Tubules) in the myocyte. The action potential causes the myofibril endoplasmic reticulum (or [Sarcoplasmic Reticulum][]) to release Ca<sup>2+</sup> ions which bind to Troponin on actin to expose the myosin binding sites.
+1. In a relaxed muscle, the myosin binding sites on actin are bound to long proteins running along-side actin made of [Tropomyosin][], and an ATP is bound to each projection on myosin called a myosin head.
+1. An action potential in a motor neuron releases the neurotransmitter Acetylcholine which binds to receptors on the myocyte membrane and triggers an action potential down [Transverse Tubules][] (or T Tubules) in the myocyte. The action potential causes the myofibril endoplasmic reticulum (or [Sarcoplasmic Reticulum][]) to release Ca<sup>2+</sup> ions which bind to [Troponin][] on tropomyosin which unbinds tropomyosin from the myosin binding sites on actin.
 1. The myosin head hydrolyzes ATP to ADP and Phosphate which extends the myosin head and binds to actin which releases the ADP and Phosphate from the myosin head which causes the myosin head to bend back down and this pulls the actin filament (called the [Power Stroke][]).
 1. The simultaneous contraction of the sarcomeres shortens the myofibrils and the entire muscle cell contracts.
 1. ATP binds to the myosin head causing it to detach from actin and relax to its original position. As long as Ca<sup>2+</sup> ions are present, the sequence repeats.
@@ -3589,6 +3589,7 @@ if (elements.length) {
 [lymphatic system]: https://en.wikipedia.org/wiki/Lymphatic_system
 [lymphatic vessels]: https://en.wikipedia.org/wiki/Lymphatic_vessel
 [lymphocytes]: https://en.wikipedia.org/wiki/Lymphocyte
+[lysis]: https://en.wikipedia.org/wiki/Lysis
 [lysogenic virus]: https://en.wikipedia.org/wiki/Lysogenic_cycle
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lysozyme]: https://en.wikipedia.org/wiki/Lysozyme
