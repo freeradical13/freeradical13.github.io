@@ -1606,7 +1606,7 @@ The soil immediately surrounding roots is called the [Rhizosphere][] and may con
 
 Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][]. Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis and the [Pith][]).
 
-Woody plants also have growth in thickness (called [secondary growth][]) through [lateral meristems][] called the vascular cambium and cork cambium. The [vascular cambium][] is the main lateral growth layer where vascular tissue is added called secondary xylem (or [Wood][]) and secondary phloem. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with tougher [periderm][] is called the [cork cambrium][] which laterally grows [Cork][] cells.
+Woody plants also have growth in thickness (called [secondary growth][]) through [lateral meristems][] called the vascular cambium and cork cambium. The [vascular cambium][] is the main lateral growth layer where vascular tissue is added called secondary xylem (or [Wood][]) to the outside of the primary xylem, and secondary phloem to the inside of the primary phloem. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with tougher [periderm][] is called the [cork cambrium][] which laterally grows [Cork][] cells.
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
@@ -2482,6 +2482,8 @@ The [geological record][] is an analysis of strata and fossils to date different
 [Sponges][] are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
 
 [Echinoderms][] are a phylum of marine animals with a five-point symmetry including sea stars, sea urchins, sand dollars, sea cucumbers, and sea lillies.
+
+[Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
 
 ## Ecology
 
@@ -4108,6 +4110,7 @@ if (elements.length) {
 [scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
+[seabirds]: https://en.wikipedia.org/wiki/Seabird
 [season]: https://en.wikipedia.org/wiki/Season
 [second]: https://en.wikipedia.org/wiki/Second
 [secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
@@ -4230,6 +4233,7 @@ if (elements.length) {
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [summation]: https://en.wikipedia.org/wiki/Summation_(neurophysiology)
 [superior vena cava]: https://en.wikipedia.org/wiki/Superior_vena_cava
+[supraorbital glands]: https://en.wikipedia.org/wiki/Supraorbital_gland
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [surfactants]: https://en.wikipedia.org/wiki/Surfactant
 [sun]: https://en.wikipedia.org/wiki/Sun
