@@ -49,7 +49,7 @@ Examples of electrically charged matter are protons, which are positively charge
 
 An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
 
-The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths). [Fluorescent][] substances absorb ultraviolet radiation and emit visible light.
+The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths), where white is a combination of all colors and black is the lack of all colors. [Fluorescent][] substances absorb ultraviolet radiation (~10nm to ~400nm wavelengths) and emit visible light.
 
 # Energy
 
@@ -77,7 +77,7 @@ Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on
 
 Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
-Roughly, the scale of celsius is defined with 0°C being when water freezes at 1 atm, 100°C when water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
+Roughly, the scale of celsius is defined with 0°C being when pure water freezes at 1 atm, 100°C when pure water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
@@ -959,7 +959,7 @@ Genes are [heritable][] if they are passed from one organism to another.
 
 An organism is an object with the properties of life.
 
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations.
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may breed with each other. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
@@ -1746,7 +1746,7 @@ A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
 
 [Arteries][] carry blood away from the heart to organs. Within organs, arteries branch into smell vessels called [arterioles][]. Arterioles pass blood to [capillaries][] which are very small, porous blood vessels that perform the exchange of gases and other chemicals between blood and cells. The ends of capillaries converge into venules which converge into [veins][] that carry blood back to the heart.
 
-A blood vessel contains a lumen surrounded by a single layer of endothelial cells. Blood pressure in vessels may be regulated by changing the diameter of vessels. [Vasoconstriction][] increases blood pressure by reducing the diameter by constricting muscle cells around the vessel. [Vasodilation][] decreases blood pressure by increasing the diameter by relaxing muscle cells around the vessel.
+A blood vessel contains a lumen surrounded by a single layer of endothelial cells. Blood pressure in vessels may be regulated by changing the diameter of vessels. [Vasoconstriction][] increases blood pressure by reducing the diameter by constricting muscle cells around the vessel. [Vasodilation][] decreases blood pressure by increasing the diameter of blood vessels ([dilation][]) by relaxing muscle cells around the vessel.
 
 #### Lymphatic System
 
@@ -1760,7 +1760,7 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 The [heart][] is an organ that pumps blood through the circulatory system. The combination of the heart and blood vessels is called the [Cardiovascular System][].
 
-Hearts contain two or more chambers. Chambers that receive blood in as part of the systemic circuit are called [atria][] and chambers that pump blood out as part of pulmonary circuit are called [ventricles][]. The major steps of heart function are:
+Hearts contain two or more chambers. Chambers that receive blood in as part of [systemic circulation][] are called [atria][] and chambers that pump blood out as part [pulmonary circulation][] are called [ventricles][]. The major steps of heart function are:
 
 * Contraction of the right ventricle pumps blood to the lungs via pulmonary arteries where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
 * Oxygenated blood returns from the lungs via the pulmonary veins into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
@@ -1943,7 +1943,7 @@ The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], a
 
 Breathing (or respiration, or ventilation) is a process of alternating inhalation and exhalation that facilitates gas exchange of O<sub>2</sub> and CO<sub>2</sub> in organs that are part of a [respiratory system][].
 
-In some aquatic organisms, [gills][] move water through the mouth and across gills to extract dissolved O<sub>2</sub> and expel CO<sub>2</sub>. Some animals use [countercurrent exchange][] to maximize gas exchange which moves substances or heat in substances in opposite directions next to each other which creates a partial pressure gradient that favors diffusion of O<sub>2</sub> from water to blood.
+In some aquatic organisms, [gills][] move water through the mouth and across [lamellae][] to extract dissolved O<sub>2</sub> and expel CO<sub>2</sub>. Some animals use [countercurrent exchange][] to maximize gas exchange which moves substances or heat in substances in opposite directions next to each other which creates a partial pressure gradient that favors diffusion of O<sub>2</sub> from water to blood.
 
 In some non-aquatic organisms, in a [tracheal system][] (network of tubes throughout a body) or in organs called [lungs][] (localized respiratory organs), moist epithelial cells exposed to air perform gas exchange.
 
@@ -2007,7 +2007,7 @@ Some organisms create a fluid waste called [urine][] which is excreted. In the p
 
 #### Kidney
 
-The [Kidneys][] are organs which filter blood. Urine exits a kideny in a tube called the [ureter][] and drains into the urinary bladder. Urine is excreted from the bladder and through the urethra in the process of urination.
+The [Kidneys][] are organs which filter blood to eliminate waste and excess salt while conserving water. Urine exits a kidney in a tube called the [ureter][] and drains into the urinary bladder. Urine is excreted from the bladder and through the urethra in the process of urination.
 
 The outside of a kidney is the [renal cortex][] within which is the [renal medulla][] and both are supplied with blood by a renal artery which interacts with excretory tubules called nephrons and [juxtamedullary nephrons][] to produce urine filtrate which is collected in the [renal pelvis][] before leaving in the ureter.
 
@@ -3065,6 +3065,7 @@ if (elements.length) {
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
 [dihybrids]: https://en.wikipedia.org/wiki/Dihybrid_cross
 [dikaryotic]: https://en.wikipedia.org/wiki/Dikaryon
+[dilation]: https://en.wikipedia.org/wiki/Dilation#Physiology_or_medicine
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
@@ -3387,7 +3388,7 @@ if (elements.length) {
 [heterozygote advantage]: https://en.wikipedia.org/wiki/Heterozygote_advantage
 [heterozygous]: https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 [hexokinase]: https://en.wikipedia.org/wiki/Hexokinase
-[hrf cell]: https://en.wikipedia.org/wiki/Hfr_cell
+[hfr cell]: https://en.wikipedia.org/wiki/Hfr_cell
 [hibernation]: https://en.wikipedia.org/wiki/Hibernation
 [hindbrain]: https://en.wikipedia.org/wiki/Hindbrain
 [hippocampus]: https://en.wikipedia.org/wiki/Hippocampus
@@ -3524,6 +3525,7 @@ if (elements.length) {
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [lake]: https://en.wikipedia.org/wiki/Lake
+[lamellae]: https://en.wikipedia.org/wiki/Lamella_(surface_anatomy)
 [land]: https://en.wikipedia.org/wiki/Land
 [land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
@@ -4003,6 +4005,7 @@ if (elements.length) {
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
+[pulmonary circulation]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulse]: https://en.wikipedia.org/wiki/Pulse
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [pupil]: https://en.wikipedia.org/wiki/Pupil
@@ -4231,6 +4234,7 @@ if (elements.length) {
 [synaptic clefts]: https://en.wikipedia.org/wiki/Synaptic_cleft
 [synaptic signaling]: https://en.wikipedia.org/wiki/Chemical_synapse
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
+[systemic circulation]: https://en.wikipedia.org/wiki/Circulatory_system#Systemic_circulation
 [systole]: https://en.wikipedia.org/wiki/Systole
 [t cells]: https://en.wikipedia.org/wiki/T_cell
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
