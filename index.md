@@ -1760,11 +1760,11 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 The [heart][] is an organ that pumps blood through the circulatory system. The combination of the heart and blood vessels is called the [Cardiovascular System][].
 
-Hearts contain two or more chambers. Chambers that receive blood in as part are called [atria][] and chambers that pump blood out are called [ventricles][]. [Systemic Circulation][] carries oxygenated blood from the lungs to the heart. [Pulmonary Circulation][] carries deoxygenated blood from the heart to the lungs. The major steps of heart function are:
+Hearts contain two or more chambers. Chambers that receive blood in as part are called [atria][] and chambers that pump blood out are called [ventricles][]. [Systemic Circulation][] carries oxygenated blood from the heart to the body. [Pulmonary Circulation][] carries deoxygenated blood from the heart to the lungs. The major steps of heart function are:
 
-* Contraction of the right ventricle pumps blood to the lungs via pulmonary arteries where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
-* Oxygenated blood returns from the lungs via the pulmonary veins into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
-* After the arteries and veins weave through the body, de-oxygenated blood from the head, neck and forelimbs flows into a vein called the superior vena cava which feeds back into the right atrium, and de-oxygenated blood from the trunk and hind limbs flows into a vein called the inferior vena cava which feeds back into the right atrium.
+* Contraction of the right ventricle pumps blood to the lungs via [Pulmonary Arteries][] where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
+* Oxygenated blood returns from the lungs via the [Pulmonary Veins][] into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
+* After the arteries and veins weave through the body, de-oxygenated blood from the head, neck and forelimbs flows into a vein called the [Superior Vena Cava][] which feeds back into the right atrium, and de-oxygenated blood from the trunk and hind limbs flows into a vein called the [Inferior Vena Cava][] which feeds back into the right atrium.
 
 When the heart muscles contract ([systole][]), the heart pumps blood. The blood pressue at the time of the systole is called the systolic pressure. A [pulse][] is the rhythmic bulging of the artery walls during systole.
 
@@ -3454,6 +3454,7 @@ if (elements.length) {
 [inducible operon]: https://en.wikipedia.org/wiki/Operon#Regulation
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
 [inertia]: https://en.wikipedia.org/wiki/Inertia
+[inferior vena cava]: https://en.wikipedia.org/wiki/Inferior_vena_cava
 [inflammatory response]: https://en.wikipedia.org/wiki/Inflammation
 [influenza virus]: https://en.wikipedia.org/wiki/Influenza
 [inhibitory postsynaptic potential]: https://en.wikipedia.org/wiki/Inhibitory_postsynaptic_potential
@@ -4005,7 +4006,9 @@ if (elements.length) {
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
+[pulmonary arteries]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulmonary circulation]: https://en.wikipedia.org/wiki/Pulmonary_circulation
+[pulmonary veins]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulse]: https://en.wikipedia.org/wiki/Pulse
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [pupil]: https://en.wikipedia.org/wiki/Pupil
@@ -4218,6 +4221,7 @@ if (elements.length) {
 [sulci]: https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [summation]: https://en.wikipedia.org/wiki/Summation_(neurophysiology)
+[superior vena cava]: https://en.wikipedia.org/wiki/Superior_vena_cava
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [surfactants]: https://en.wikipedia.org/wiki/Surfactant
 [sun]: https://en.wikipedia.org/wiki/Sun
