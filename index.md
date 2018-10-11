@@ -1706,9 +1706,9 @@ Second messengers are either proteins or:
 
 #### Epithelial Tissue
 
-[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body or [epidermis][]. The main type of cell in epithelium is the epithelial cell.
+[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body. The main type of cell in epithelium is the epithelial cell.
 
-The outer covering of the body is called the [integumentary system][] which includes the outer epidermis, hair, and nails.
+In some organisms, the outside of the body forms a tissue called Skin which is made of the outermost [epidermis][], the inner [dermis][], and the innermost [subcutaneous tissue][] (or [hypodermis][]). In some organisms, the skin is part of the [integumentary system][] which also includes hair and nails.
 
 [Transport Epithelia][] are layers of cells that move solutes in different directions to help with osmoregulation.
 
@@ -2481,6 +2481,8 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Sponges][] are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
 
+[Echinoderms][] are a phylum of marine animals with a five-point symmetry including sea stars, sea urchins, sand dollars, sea cucumbers, and sea lillies.
+
 ## Ecology
 
 [Ecology][] is the study of interactions between organisms and the environment.
@@ -3050,6 +3052,7 @@ if (elements.length) {
 [deoxyribose]: https://en.wikipedia.org/wiki/Deoxyribose
 [depolarization]: https://en.wikipedia.org/wiki/Depolarization
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
+[dermis]: https://en.wikipedia.org/wiki/Dermis
 [desert]: https://en.wikipedia.org/wiki/Desert
 [desmosomes]: https://en.wikipedia.org/wiki/Desmosome
 [detritus]: https://en.wikipedia.org/wiki/Detritus
@@ -3098,6 +3101,7 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
 [ecology]: https://en.wikipedia.org/wiki/Ecology
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
 [ecotones]: https://en.wikipedia.org/wiki/Ecotone
@@ -3437,6 +3441,7 @@ if (elements.length) {
 [hyphae]: https://en.wikipedia.org/wiki/Hypha
 [hypo prefix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [hypocotyl]: https://en.wikipedia.org/wiki/Hypocotyl
+[hypodermis]: https://en.wikipedia.org/wiki/Subcutaneous_tissue
 [hydrolases]: https://en.wikipedia.org/wiki/Hydrolase
 [hyperpolarization]: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
@@ -4144,6 +4149,7 @@ if (elements.length) {
 [sinoatrial node]: https://en.wikipedia.org/wiki/Sinoatrial_node
 [skeletal formulas]: https://en.wikipedia.org/wiki/Skeletal_formula
 [skeletal muscle]: https://en.wikipedia.org/wiki/Skeletal_muscle
+[skin]: https://en.wikipedia.org/wiki/Skin
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
 [slow-twitch fibers]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
@@ -4210,6 +4216,7 @@ if (elements.length) {
 [structural isomers]: https://en.wikipedia.org/wiki/Structural_isomers
 [structural polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Structural_polysaccharides
 [style]: https://en.wikipedia.org/wiki/Stigma_(botany)#Style
+[subcutaneous tissue]: https://en.wikipedia.org/wiki/Subcutaneous_tissue
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
