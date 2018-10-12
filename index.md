@@ -1540,9 +1540,7 @@ The [immune system][] in an organism is a defense system against [pathogens][] (
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients.
-
-[Yeasts][] are single-celled fungi.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
 
 Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
 
@@ -1804,7 +1802,7 @@ There are a few major types of neurons:
 * [Interneurons][] form local circuits within a brain or ganglion.
 * Motor Neurons transmit signals to muscle cells to cause contraction and movement.
 
-When a neuron is not signaling, it has a [Resting Potential][] that's usually -60 to -80 mV since the inside of a neuron is negatively charged due to higher concentrations of K<sup>+</sup> inside and higher concentration of Na<sup>+</sup> outside which creates a voltage across the membrane. Sodium-Potassium Pumps use ATP to actively pump two K<sup>+</sup> in and three Na<sup>+</sup> out against their concentration gradients. There are Potassium channels which are always open to allow K<sup>+</sup> ions to diffuse out of the cell to maintain the resting potential. There are Sodium channels which are mostly closed so that few Na<sup>+</sup> ions diffuse into the cell. This combination of diffusions creates the resting potential.
+When a neuron is not signaling, it has a [Resting Potential][] (measured in millivolts) since the inside of a neuron is negatively charged due to higher concentrations of K<sup>+</sup> inside (and a different higher concentration of Na<sup>+</sup> outside) which creates a voltage across the membrane. Sodium-Potassium Pumps use ATP to actively pump two K<sup>+</sup> in and three Na<sup>+</sup> out against their concentration gradients. There are Potassium channels which are always open to allow K<sup>+</sup> ions to diffuse out of the cell to maintain the resting potential. There are Sodium channels which are mostly closed so that few Na<sup>+</sup> ions diffuse into the cell. This combination of diffusions creates the resting potential. At the resting potential, even though some ion channels are always or partly open, the chemical gradient doesn't reach equilibrium because there's an oposing electrical gradient created by the build-up of charge; for example, as K<sup>+</sup> ions flow out of the cell, the additional negative charge inside the cell has an attractive pull on the remaining K<sup>+</sup> ions inside the cell. Each ion thus has an [Equilibrium Potential][] (E<sub>ion</sub>). The Nernst Equation models the equilibrium potential of a membrane permeable to a single ion with net charge 1<sup>+</sup> at 37°C as <code>E<sub>ion</sub> = 62mV×(log(concentration(ion<sub>outside</sub>) / concentration(ion<sub>inside</sub>)))</code>
 
 Some of the ion channels in a neuron are [Voltage-Gated Ion Channels][] which open or close in response to a change in membrane voltage thus allowing diffusion of certain ions down their concentration gradients and thus causing a change in the membrane voltage. [Hyperpolarization][] occurs when the inside of the neuron becomes more negative. [Depolarization][] occurs when the inside of the neuron becomes more positive.
 
@@ -3188,6 +3186,7 @@ if (elements.length) {
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
 [epstein-barr virus]: https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
+[equilibrium potential]: https://biology.stackexchange.com/questions/7103/question-about-equilibrium-potential-formula
 [erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [erythrocytes]: https://en.wikipedia.org/wiki/Red_blood_cell
@@ -3742,6 +3741,7 @@ if (elements.length) {
 [neocortex]: https://en.wikipedia.org/wiki/Neocortex
 [neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
 [nephrons]: https://en.wikipedia.org/wiki/Nephron
+[nernst equation]: https://en.wikipedia.org/wiki/Nernst_equation
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neural crest]: https://en.wikipedia.org/wiki/Neural_crest
