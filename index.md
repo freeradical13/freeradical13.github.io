@@ -2411,6 +2411,8 @@ In [Semelparity][], an organism reproduces once and then dies. In [Iteroparity][
 
 There is a trade off between number of offspring and the amount of resources parents may devote to each offspring. Selection for traits that are advantageous at high density is called [K Selection][]. Selection for traits that are advantageous at low density is called [R Selection][].
 
+[Precocial Species][] are those in which children are relatively mature and mobile when born, whereas [Altricial Species][] require significant nursing after birth.
+
 ## Biosphere
 
 [Geology][] is the study of the solid parts of the Earth. 
@@ -2693,6 +2695,7 @@ if (elements.length) {
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
+[altricial species]: https://en.wikipedia.org/wiki/Altriciality
 [altruistic]: https://en.wikipedia.org/wiki/Altruism
 [alveoli]: https://en.wikipedia.org/wiki/Pulmonary_alveolus
 [amacrine cells]: https://en.wikipedia.org/wiki/Amacrine_cell
@@ -4000,6 +4003,7 @@ if (elements.length) {
 [power stroke]: https://en.wikipedia.org/wiki/Myosin#Power_stroke
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
+[precocial species]: https://en.wikipedia.org/wiki/Precociality
 [predator]: https://en.wikipedia.org/wiki/Predation
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [pressure flow hypothesis]: https://en.wikipedia.org/wiki/Pressure_Flow_Hypothesis
