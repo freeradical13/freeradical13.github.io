@@ -965,7 +965,7 @@ An [autotroph][] (or producer) is a self-feeding organism and produces its own o
 
 A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][].
 
-A [phenotype][] is the set of all traits of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes.
+A [phenotype][] is the set of all traits of an organism. A trait is based on the underlying gene(s) (the [genotype][]) and environmental factors that produced it. Different genotypes may produce the same phenotype, and equivalent genotypes may produce different phenotypes. A [haplotype][] is a set of genes that tend to be inherited together.
 
 The phenotype for a trait most commonly observed in a species is called the [wild type][].
 
@@ -2501,6 +2501,10 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 A [Keystone Species][] is a species that has a disproportionately large effect on its environment relative to its abundance.
 
+[Interspecific Competition][] is competition among different species in a particular area for the same limited resources.
+
+[Linkage Disequilibrium][] is a condition in which multiple alleles of different genes in genotypes of a population exhibit non-random associations (e.g. haplotype genetic association, mating behavior, etc.).
+
 ## Laboratory Techniques
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
@@ -3386,6 +3390,7 @@ if (elements.length) {
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [hamilton's rule]: https://en.wikipedia.org/wiki/Kin_selection#Hamilton's_rule
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
+[haplotype]: https://en.wikipedia.org/wiki/Haplotype
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
 [hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
 [heart]: https://en.wikipedia.org/wiki/Heart
@@ -3504,6 +3509,7 @@ if (elements.length) {
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
 [interneurons]: https://en.wikipedia.org/wiki/Interneuron
 [intersexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
+[interspecific competition]: https://en.wikipedia.org/wiki/Interspecific_competition
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intertidal zone]: https://en.wikipedia.org/wiki/Intertidal_zone
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
@@ -3588,6 +3594,7 @@ if (elements.length) {
 [limbic system]: https://en.wikipedia.org/wiki/Limbic_system
 [limnetic Zone]: https://en.wikipedia.org/wiki/Limnetic_zone
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
+[linkage disequilibrium]: https://en.wikipedia.org/wiki/Linkage_disequilibrium
 [lipase]: https://en.wikipedia.org/wiki/Lipase
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
