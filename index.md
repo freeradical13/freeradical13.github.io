@@ -1550,7 +1550,7 @@ A [lichen][] is a grouping of many photosynthetic organisms within a fungal hyph
 
 Infection of an organism by a parasitic fungus is called [mycosis][].
 
-Fungi and plants may combine to form [mycorrhizae][]. Branching hyphae called [arbuscules][] allow the fungi to exchange nutrients with plant hosts.
+Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutrients (e.g. Phosphorous), minerals, and some antibiotics to plants and plants supply sugar to the fungi. Branching hyphae called [arbuscules][] allow the fungi to exchange nutrients with plant hosts.
 
 #### Algae
 
