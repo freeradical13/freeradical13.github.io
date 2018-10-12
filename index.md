@@ -2211,7 +2211,9 @@ An individual animal's behavior is [Altruistic][] if it reduces its fitness but 
 
 ##### Defense Mechanisms
 
-A [predator][] is an organism that kills and eats a [prey][] organism. Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them. [Masting][] occurs in some plants which produces a large number of germinated offspring at the same time to exceed predation capacity.
+A [Predator][] is an organism that kills and eats a [Prey][] organism. An [Apex Predator][] is a predator with no other predators within its environment.
+
+Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them. [Masting][] occurs in some plants which produces a large number of germinated offspring at the same time to exceed predation capacity.
 
 #### Protists
 
@@ -2493,7 +2495,9 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time.
 
-[Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
+[Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms (as part of [Primary Succession][]) are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
+
+A [Keystone Species][] is a species that has a disproportionately large effect on its environment relative to its abundance.
 
 ## Laboratory Techniques
 
@@ -2735,6 +2739,7 @@ if (elements.length) {
 [aorta]: https://en.wikipedia.org/wiki/Aorta
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
 [apes]: https://en.wikipedia.org/wiki/Ape
+[apex predator]: https://en.wikipedia.org/wiki/Apex_predator
 [aphotic zone]: https://en.wikipedia.org/wiki/Aphotic_zone
 [apical bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [apical meristems]: https://en.wikipedia.org/wiki/Meristem#Apical_meristems
@@ -3532,6 +3537,7 @@ if (elements.length) {
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [keratin]: https://en.wikipedia.org/wiki/Keratin
+[keystone species]: https://en.wikipedia.org/wiki/Keystone_species
 [kidneys]: https://en.wikipedia.org/wiki/Kidney
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
 [kin selection]: https://en.wikipedia.org/wiki/Kin_selection
@@ -4000,6 +4006,7 @@ if (elements.length) {
 [prey]: https://en.wikipedia.org/wiki/Prey
 [primary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
+[primary succession]: https://en.wikipedia.org/wiki/Primary_succession
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
 [primase]: https://en.wikipedia.org/wiki/Primase
 [primates]: https://en.wikipedia.org/wiki/Primates
