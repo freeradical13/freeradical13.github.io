@@ -2207,6 +2207,10 @@ In [Promiscous Mating][], no long-term bonds form between mating males and femal
 
 An individual animal's behavior is [Altruistic][] if it reduces its fitness but increases the fitness of other individuals (e.g. parents sacrificing for children). [Hamilton's Rule][] (natural selection favors altruism if <code>r×B &gt; C</code>) is a hypothesis that altruism is related to the benefit to the recipient (B), the cost to the altruist (C), and the coefficient of relatedness (r; the average fraction of shared genes). Hamilton's Rule predicts the hypothesis of [Kin Selection][] in which altruism is higher amongst relatives (Kin). Altruism amongst individuals that are unrelated or weakly related is called [Reciprocal Altruism][].
 
+##### Defense Mechanisms
+
+A [predator][] is an organism that kills and eats a [prey][] organism. Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them.
+
 #### Protists
 
 [Protists][] are something of a catch-all name of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms (i.e. not animals, plants, or fungi).
@@ -2737,6 +2741,7 @@ if (elements.length) {
 [apoprotein c-II]: https://en.wikipedia.org/wiki/Apolipoprotein_C2
 [apoprotein e]: https://en.wikipedia.org/wiki/Apolipoprotein_E
 [apoptosis]: https://en.wikipedia.org/wiki/Apoptosis
+[aposematic traits]: https://en.wikipedia.org/wiki/Aposematism
 [appendix]: https://en.wikipedia.org/wiki/Appendix_(anatomy)
 [aquaporins]: https://en.wikipedia.org/wiki/Aquaporin
 [aqueous solution]: https://en.wikipedia.org/wiki/Aqueous_solution
@@ -3985,8 +3990,10 @@ if (elements.length) {
 [power stroke]: https://en.wikipedia.org/wiki/Myosin#Power_stroke
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
+[predator]: https://en.wikipedia.org/wiki/Predation
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [pressure flow hypothesis]: https://en.wikipedia.org/wiki/Pressure_Flow_Hypothesis
+[prey]: https://en.wikipedia.org/wiki/Prey
 [primary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
