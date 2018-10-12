@@ -2487,6 +2487,8 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time.
 
+[Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
+
 ## Laboratory Techniques
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
@@ -3105,6 +3107,7 @@ if (elements.length) {
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
 [echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
+[ecological succession]: https://en.wikipedia.org/wiki/Ecological_succession
 [ecology]: https://en.wikipedia.org/wiki/Ecology
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
 [ecotones]: https://en.wikipedia.org/wiki/Ecotone
@@ -3244,6 +3247,7 @@ if (elements.length) {
 [feces]: https://en.wikipedia.org/wiki/Feces
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
+[ferns]: https://en.wikipedia.org/wiki/Fern
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fetus]: https://en.wikipedia.org/wiki/Fetus
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
