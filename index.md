@@ -1652,7 +1652,7 @@ Some plants in arid conditions are called [xerophytes][] and use [Crassulacean A
 
 Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is produced by roots and leaves to signal guard cells to close stomata to reduce transpiration.
 
-[Auxin][] stimulates stem elongation.
+[Auxin][] stimulates stem elongation by stimulating cell wall proton pumps which lowers the pH inside the cell and the acidification activates Expansins which break down parts of the cell wall that inhibit growth, and additional ion uptake from the Auxin creates a hyperosmotic cell which brings in more water and the cell wall flexibility and increased turgor pressure elongates the cell.
 
 [Cytokinins][] (usually made of Adenine) stimulate cell division and differentiation in shoots and roots.
 
