@@ -1274,6 +1274,8 @@ Homologous genes between two species are [orthologous][] if they came from an an
 
 [Horizontal Gene Transfer][] is the movement of genetic material other than from parents to children.
 
+A [Pedigree Chart][] may be used to visualize phenotypes across generations where circles represent females, squares represent males, and individuals that have the phenotype under investigation are colored in. If a phenotype is shown in approximately half of males and females, it is autosomal, and if it appears mostly in men, it is allosomal. If a phenootype skips a generation, it is recessive.
+
 #### Hardy-Weinberg Equilibrium
 
 Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the genotypes of offspring assuming random sexual reproduction, a large population, no mutations, and other conditions. If the observed genotypes of offspring match predictions, then it may be inferred that the gene frequencies are not changing (i.e. they're in Hardy-Weinberg Equilibrium):
@@ -3909,6 +3911,7 @@ if (elements.length) {
 [pathogens]: https://en.wikipedia.org/wiki/Pathogen
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pectins]: https://en.wikipedia.org/wiki/Pectin
+[pedigree chart]: https://en.wikipedia.org/wiki/Pedigree_chart
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
 [pepsin]: https://en.wikipedia.org/wiki/Pepsin
