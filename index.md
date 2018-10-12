@@ -1596,7 +1596,7 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 [Transpiration][] creates negative pressure which drives additional water uptake and bulk flow of sap upwards (using hydrogen bonding water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
-The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] which have walls strengthened with the polymer [lignin][]. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
+The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] and [vessel element cells][] which have walls strengthened with the polymer [lignin][]. In a mature xylem, both cell types are dead even as they function. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
 
 The [Phloem][] has cells arranged in tubes that transport sugars, amino acids, and other organic products from the leaves to where they are needed or stored. Phloem sap can flow in both directions. This transportation is called [Translocation][]. Sap travels through conduits in the phloem called [Sieve-Tube Elements][] in concert with [Companion Cells][] and supported by [Bast Fibers][].
 
@@ -4397,6 +4397,7 @@ if (elements.length) {
 [vernalization]: https://en.wikipedia.org/wiki/Vernalization
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
+[vessel element cells]: https://en.wikipedia.org/wiki/Vessel_element
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
 [villi]: https://en.wikipedia.org/wiki/Intestinal_villus
