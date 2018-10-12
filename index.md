@@ -2207,9 +2207,11 @@ In [Promiscous Mating][], no long-term bonds form between mating males and femal
 
 An individual animal's behavior is [Altruistic][] if it reduces its fitness but increases the fitness of other individuals (e.g. parents sacrificing for children). [Hamilton's Rule][] (natural selection favors altruism if <code>r×B &gt; C</code>) is a hypothesis that altruism is related to the benefit to the recipient (B), the cost to the altruist (C), and the coefficient of relatedness (r; the average fraction of shared genes). Hamilton's Rule predicts the hypothesis of [Kin Selection][] in which altruism is higher amongst relatives (Kin). Altruism amongst individuals that are unrelated or weakly related is called [Reciprocal Altruism][].
 
+[Lekking][] is a behavior in some organisms in which males gather in an area and compete for access to females.
+
 ##### Defense Mechanisms
 
-A [predator][] is an organism that kills and eats a [prey][] organism. Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them.
+A [predator][] is an organism that kills and eats a [prey][] organism. Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them. [Masting][] occurs in some plants which produces a large number of germinated offspring at the same time to exceed predation capacity.
 
 #### Protists
 
@@ -3557,6 +3559,7 @@ if (elements.length) {
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [learning]: https://en.wikipedia.org/wiki/Learning
 [leaves]: https://en.wikipedia.org/wiki/Leaf
+[lekking]: https://en.wikipedia.org/wiki/Lek_mating
 [lens]: https://en.wikipedia.org/wiki/Lens_(anatomy)
 [leptin]: https://en.wikipedia.org/wiki/Leptin
 [leukocytes]: https://en.wikipedia.org/wiki/White_blood_cell
@@ -3624,6 +3627,7 @@ if (elements.length) {
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
 [mast cells]: https://en.wikipedia.org/wiki/Mast_cell
+[masting]: https://en.wikipedia.org/wiki/Mast_(botany)#Mast_seeding
 [mate-choice copying]: https://en.wikipedia.org/wiki/Mate_choice_copying
 [math]: https://www.khanacademy.org/math
 [matter]: https://en.wikipedia.org/wiki/Matter
