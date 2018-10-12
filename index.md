@@ -1644,7 +1644,7 @@ Some plants respond to mechanical stimuli such as wind through the process of [t
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
-Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the veins (e.g. phloem) are vein-protecting [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, into companion cells (using an active transport that needs ATP called [Phloem Loading][]) and finally into the sieve-tube elements in the phloem.
+Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the veins (e.g. phloem) are vein-protecting [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, into companion cells (using an active transport that needs ATP called [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient with the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
 
 An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][]. C<sub>4</sub> plants finish the Calvin cycle in the chloroplasts of bundle-sheath cells instead of mesophyll cells and concentrate more CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
 
@@ -3980,6 +3980,7 @@ if (elements.length) {
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [pressure]: https://en.wikipedia.org/wiki/Pressure
+[pressure flow hypothesis]: https://en.wikipedia.org/wiki/Pressure_Flow_Hypothesis
 [primary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
