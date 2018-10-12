@@ -911,6 +911,8 @@ RNA usually has a single polynucleotide strand; however, base pairing may still 
 
 RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
 
+[Ribozymes][] are enzymatic RNA. In general, RNA does not self-replicate although [RNA Self-Replication][] is possible in principle.
+
 ### DNA
 
 DNA has two polynucleotide strands that together create a double helix structure. The two strands run in [antiparallel][] (opposite) directions: starting from one end of the molecule, one strand starts at 5' and the other strands starts at 3'. The sugar-phosphate backbones are on the outside of the helix, and the Nitrogenous bases are paired through Hydrogen bonds on the inside (2 for A-T and 3 for C-G).
@@ -1294,7 +1296,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
     1. In bacteria, transcription ends at a [terminator][].
     1. In eukaryotes:
         1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
-        1. The pre-mRNA is made of sets of nucleotides called [exons][] (expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and enzymatic RNA ([ribozymes][]) cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
+        1. The pre-mRNA is made of sets of nucleotides called [exons][] (expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and ribozymes cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
 1. [Translation][]: mRNA arrives at a free ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon (Methionine). As the ribosome moves over the mRNA molecule in the 5' to 3' direction, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the new polypeptide chain at the Carboxyl end using rRNA. Translation stops at a stop codon UAG, UAA, or UGA using a [release factor][].
     1. [Aminoacyl-tRNA Synthetases][] use ATP to create a tRNA and amino acid pair.
     1. A tRNA exits the ribosome at the [E-site][].
@@ -2508,6 +2510,8 @@ A [Keystone Species][] is a species that has a disproportionately large effect o
 [Linkage Disequilibrium][] is a condition in which multiple alleles of different genes in genotypes of a population exhibit non-random associations (e.g. haplotype genetic association, mating behavior, etc.).
 
 A species has a [Cosmopolitan Distribution][] if its range extends through most parts of the world which are habitable.
+
+[Punctuated Equilibrium][] occurs when there are bursts of speciation with relatively unchanging species in between.
 
 ## Laboratory Techniques
 
@@ -4065,6 +4069,7 @@ if (elements.length) {
 [pulmonary circulation]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulmonary veins]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulse]: https://en.wikipedia.org/wiki/Pulse
+[punctuated equilibrium]: https://en.wikipedia.org/wiki/Punctuated_equilibrium
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [pupil]: https://en.wikipedia.org/wiki/Pupil
 [purines]: https://en.wikipedia.org/wiki/Purine
@@ -4133,8 +4138,9 @@ if (elements.length) {
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
 [river]: https://en.wikipedia.org/wiki/River
-[rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
+[rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
+[rna self-replication]: https://dx.doi.org/10.1126/science.1200752
 [rod cells]: https://en.wikipedia.org/wiki/Rod_cell
 [root pressure]: https://en.wikipedia.org/wiki/Root_pressure
 [roots]: https://en.wikipedia.org/wiki/Root
