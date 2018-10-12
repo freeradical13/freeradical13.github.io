@@ -2507,6 +2507,8 @@ A [Keystone Species][] is a species that has a disproportionately large effect o
 
 [Linkage Disequilibrium][] is a condition in which multiple alleles of different genes in genotypes of a population exhibit non-random associations (e.g. haplotype genetic association, mating behavior, etc.).
 
+A species has a [Cosmopolitan Distribution][] if its range extends through most parts of the world which are habitable.
+
 ## Laboratory Techniques
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
@@ -3036,6 +3038,7 @@ if (elements.length) {
 [corpus callosum]: https://en.wikipedia.org/wiki/Corpus_callosum
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
 [corticosteroids]: https://en.wikipedia.org/wiki/Corticosteroid
+[cosmopolitan distribution]: https://en.wikipedia.org/wiki/Cosmopolitan_distribution
 [cotransports]: https://en.wikipedia.org/wiki/Active_transport#Secondary_active_transport
 [cotyledons]: https://en.wikipedia.org/wiki/Cotyledon
 [coulomb]: https://en.wikipedia.org/wiki/Coulomb
