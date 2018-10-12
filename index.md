@@ -1608,13 +1608,13 @@ Woody plants also have growth in thickness (called [secondary growth][]) through
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
-Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][]. A seed embryo attached to the Plumule which includes Cotyledons, the [Hypocotyl][] (the embryonic axis) which terminates in the [Radicle][] (or embryonic root), the [Epicotyl][] (above the Hypocotyl), and in some plants, shoots are sheathed in Coleoptiles, and roots are sheathed in Coleorhizas.
+Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The first round of mitosis of a plant zygote creates the [terminal cell][] which will create most of the embryo and the [basal cell][] which creates a structure of cells called the [suspensor][] which anchors to the endosperm and parent plant to exchange nutrients. The [cotyledons][] (which will nourish the embryo) form from the proembryo created by the apical terminal cells. A seed embryo is attached to the Plumule which includes Cotyledons, the [Hypocotyl][] (the embryonic axis) which terminates in the [Radicle][] (or embryonic root), the [Epicotyl][] (above the Hypocotyl), and in some plants, shoots are sheathed in Coleoptiles, and roots are sheathed in Coleorhizas. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][] which is started by [imhibition][] that uptakes water because the seed is so dry. A seed is broken and starts germination depending on various conditions such as environmental cues and most seeds can last up to a few years.
 
 Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
-A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and [cotyledon][] (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
+A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
 
 Nonvascular plants are called [bryophytes][] including [liverworts][], [mosses][], and [hornworts][].
 
@@ -2793,6 +2793,7 @@ if (elements.length) {
 [bark]: https://en.wikipedia.org/wiki/Bark_(botany)
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
+[basal cell]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
 [basal taxon]: https://en.wikipedia.org/wiki/Basal_(phylogenetics)
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
@@ -3015,7 +3016,7 @@ if (elements.length) {
 [cortex]: https://en.wikipedia.org/wiki/Cortex_(anatomy)
 [corticosteroids]: https://en.wikipedia.org/wiki/Corticosteroid
 [cotransports]: https://en.wikipedia.org/wiki/Active_transport#Secondary_active_transport
-[cotyledon]: https://en.wikipedia.org/wiki/Cotyledon
+[cotyledons]: https://en.wikipedia.org/wiki/Cotyledon
 [coulomb]: https://en.wikipedia.org/wiki/Coulomb
 [coulomb's constant]: https://en.wikipedia.org/wiki/Coulomb%27s_constant
 [coulomb's law]: https://en.wikipedia.org/wiki/Coulomb%27s_law
@@ -3453,6 +3454,7 @@ if (elements.length) {
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
+[imhibition]: https://en.wikipedia.org/wiki/Imbibition
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
 [implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
 [imprinting]: https://en.wikipedia.org/wiki/Imprinting_(psychology)
@@ -4245,6 +4247,7 @@ if (elements.length) {
 [surfactants]: https://en.wikipedia.org/wiki/Surfactant
 [sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[suspensor]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [swallowing]: https://en.wikipedia.org/wiki/Swallowing
 [symbionts]: https://en.wikipedia.org/wiki/Symbiosis
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
@@ -4278,6 +4281,7 @@ if (elements.length) {
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
 [temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
 [tendons]: https://en.wikipedia.org/wiki/Tendon
+[terminal cell]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [terminator]: https://en.wikipedia.org/wiki/Terminator_(genetics)
 [terrestrial plants]: https://en.wikipedia.org/wiki/Terrestrial_plant
 [tertiary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Tertiary_structure
