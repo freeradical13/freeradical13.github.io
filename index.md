@@ -1203,7 +1203,7 @@ The Palmitic Acid is released into the cytosol where it is esterified to Glycero
 
 #### Cell Division
 
-Both prokyarotes and eukaryotes perform [cell division][] to replicate themselves under the right conditions. The combination of [Mitosis][] - which duplicates DNA - and [Cytokinesis][] (or creating a [cell plate][] in plants) - which divides the cytoplasm into two cells - is cell division that produces a copy of a cell (also called asexual reproduction).
+Both prokyarotic and eukaryotic cells perform [cell division][] to replicate themselves under the right conditions. The process of [Mitosis][] duplicates DNA and the process of [Cytokinesis][] (or, alternatively, the creation of a [Cell Plate][] in some organisms) divides the cytoplasm into two cells. When the result of mitosis is a new organism, the process is called [Asexual Reproduction][] (or [Parthenogenesis][]).
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
@@ -1228,7 +1228,7 @@ Growth factor may be inhibited in [density-dependent inhibition][] when cell-sur
 
 ##### Meiosis
 
-[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or sexual reproduction, or conception). When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or conception). In [Sexual Reproduction][], gemetes from two different organisms combine to create the zygote. When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
 In some organisms, a diploid organism called a [sporophyte][] creates both male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
 
@@ -2785,6 +2785,7 @@ if (elements.length) {
 [artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
+[asexual reproduction]: https://en.wikipedia.org/wiki/Asexual_reproduction
 [associative learning]: https://en.wikipedia.org/wiki/Learning#Associative_learning
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [astrocytes]: https://en.wikipedia.org/wiki/Astrocyte
@@ -3923,6 +3924,7 @@ if (elements.length) {
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Parenchyma
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
+[parthenogenesis]: https://en.wikipedia.org/wiki/Parthenogenesis
 [partial pressure]: https://en.wikipedia.org/wiki/Partial_pressure
 [particles]: https://en.wikipedia.org/wiki/Particle
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
