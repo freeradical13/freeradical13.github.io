@@ -2473,7 +2473,7 @@ The [geological record][] is an analysis of strata and fossils to date different
     * Permian (~299 to ~252 million years ago): At the end of the Permian, the Earth had a single continent called [Pangaea][].
 * Mesozoic
     * Triassic (~252 to ~201 million years ago)
-    * Jurassic (~201 to ~145 million years ago): About 200 million years ago, Pangaea began to break apart. First mammals ~180 million years ago.
+    * Jurassic (~201 to ~145 million years ago): About 175 million years ago, Pangaea began to break apart into the northern continent of Laurasia and the souther continent of Gondwana. First mammals ~180 million years ago.
     * Cretaceous (~145 to ~66 million years ago)
 * Cenozoic
     * Paleogene
@@ -3374,6 +3374,7 @@ if (elements.length) {
 [glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [gonads]: https://en.wikipedia.org/wiki/Gonad
+[gondwana]: https://en.wikipedia.org/wiki/Gondwana
 [graded potential]: https://en.wikipedia.org/wiki/Graded_potential
 [gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
@@ -3577,6 +3578,7 @@ if (elements.length) {
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [larval]: https://en.wikipedia.org/wiki/Larval
 [lateral meristems]: https://en.wikipedia.org/wiki/Meristem#Secondary_meristems
+[laurasia]: https://en.wikipedia.org/wiki/Laurasia
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
 [le chatelier's principle]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium/v/le-chatelier-s-principle
