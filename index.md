@@ -2203,6 +2203,8 @@ Animals have various behaviors that are movements in response to stimuli. A simp
 
 [Learning][] is the process of changing behavior by using [Memories][] which store information about experiences and thus such behaviors are not innate. In some species, learning called [Imprinting][] is the establishment of a long-lasting behavior in response to some organism or object during an early phase of life called the [Sensitive Period][] (or Critical Period). [Spatial Learning][] is learning an environment's spatial structure (e.g. memories of objects in space). [Associative Learning][] is learning which associates a feature of an environment (e.g. color) with some meaning (e.g. bad taste). [Social Learning][] is learning by observing other organisms which is a large part of what creates a [Culture][]. The most advanced forms of learning involve [Cognition][] which is the process of [Knowing][] using awareness, reasoning, recollection, problem solving, and judgment.
 
+Activities that only occur during the day time are [diurnal][].
+
 A long-distance change in location is called [Migration][].
 
 [Foraging][] is food-obtaining behavior, including searching, recognition, and capture.
@@ -3117,6 +3119,7 @@ if (elements.length) {
 [distal tubule]: https://en.wikipedia.org/wiki/Distal_convoluted_tubule
 [distance]: https://en.wikipedia.org/wiki/Distance
 [disulfide bridges]: https://en.wikipedia.org/wiki/Disulfide
+[diurnal]: https://en.wikipedia.org/wiki/Diurnality
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
