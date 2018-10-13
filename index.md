@@ -1291,7 +1291,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
 
 [Protein synthesis][]:
 
-1. At a sequence of nucleotides called the [promoter][] (sequence TATA), [RNA polymerase II][] and other factors split double-stranded DNA and perform transcription of genes into proteins. One promoter may transcribe one or more genes.
+1. At a sequence of nucleotides called the [Promoter][], [RNA Polymerase][] attaches and splits double-stranded DNA to perform transcription of genes into proteins. In eukaryotic cells, certain proteins must first bind to a part of the Promotor called the [TATA Box][] before RNA polymerase may bind. One promoter may transcribe one or more genes.
 1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA or [primary transcript][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344].
     1. In bacteria, transcription ends at a [terminator][].
     1. In eukaryotes:
@@ -2431,7 +2431,7 @@ Continents move through a process called [continental drift][].
 
 An area of vegetation has many layers and the topmost layer is called the [Canopy][].
 
-One or more ecosystems may be classified as part of [Biomes][] (with intersections called [Ecotones][]) based on terrestrial vegetation type or aquatic physical characteristics:
+One or more ecosystems may be classified as part of [Biomes][] based on terrestrial vegetation type or aquatic physical characteristics (with intersections called [Ecotones][]):
 
 * A [Tropical Rainforest][] biome has relatively constant and high rainfall throughout the year.
 * A [Savanna][] biome has relatively warm and constant temperature throughout the year with some seasonal variation.
@@ -4144,7 +4144,7 @@ if (elements.length) {
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
 [river]: https://en.wikipedia.org/wiki/River
-[rna polymerase II]: https://en.wikipedia.org/wiki/RNA_polymerase_II
+[rna polymerase]: https://en.wikipedia.org/wiki/RNA_polymerase
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna self-replication]: https://dx.doi.org/10.1126/science.1200752
 [rod cells]: https://en.wikipedia.org/wiki/Rod_cell
@@ -4318,6 +4318,7 @@ if (elements.length) {
 [taproots]: https://en.wikipedia.org/wiki/Taproot
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
 [taste]: https://en.wikipedia.org/wiki/Taste
+[tata box]: https://en.wikipedia.org/wiki/TATA_box
 [taxa]: https://en.wikipedia.org/wiki/Taxon
 [taxis]: https://en.wikipedia.org/wiki/Taxis
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
