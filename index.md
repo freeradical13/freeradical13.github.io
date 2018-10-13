@@ -2495,11 +2495,11 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
 
-## Ecology
+## EcoloBgy
 
 [Ecology][] is the study of interactions between organisms and the environment.
 
-[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time.
+[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time. A [metapopulation][] is a group of populations in some area that immigrate and emmigrate between populations based on population flux.
 
 [Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms (as part of [Primary Succession][]) are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
 
@@ -3689,6 +3689,7 @@ if (elements.length) {
 [metalloids]: https://en.wikipedia.org/wiki/Metalloid
 [metamorphosis]: https://en.wikipedia.org/wiki/Metamorphosis
 [metaphase]: https://en.wikipedia.org/wiki/Metaphase
+[metapopulation]: https://en.wikipedia.org/wiki/Metapopulation
 [metastasized]: https://en.wikipedia.org/wiki/Metastasis
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
