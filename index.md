@@ -1278,6 +1278,10 @@ Homologous genes between two species are [orthologous][] if they came from an an
 
 A [Pedigree Chart][] may be used to visualize phenotypes across generations where circles represent females, squares represent males, and individuals that have the phenotype under investigation are colored in. If a phenotype is shown in approximately half of males and females, it is autosomal, and if it appears mostly in men, it is allosomal. If a phenootype skips a generation, it is recessive.
 
+[Linkage Disequilibrium][] is a condition in which multiple alleles of different genes in genotypes of a population exhibit non-random associations (e.g. haplotype genetic association, mating behavior, etc.).
+
+[Intragenomic Conflict][] is evolutionary competition between genes within the same genome.
+
 #### Hardy-Weinberg Equilibrium
 
 Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Principle][] may be used to predict the genotypes of offspring assuming random sexual reproduction, a large population, no mutations, and other conditions. If the observed genotypes of offspring match predictions, then it may be inferred that the gene frequencies are not changing (i.e. they're in Hardy-Weinberg Equilibrium):
@@ -2497,7 +2501,7 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
 
-## EcoloBgy
+## Ecology
 
 [Ecology][] is the study of interactions between organisms and the environment.
 
@@ -2508,8 +2512,6 @@ The [geological record][] is an analysis of strata and fossils to date different
 A [Keystone Species][] is a species that has a disproportionately large effect on its environment relative to its abundance.
 
 [Interspecific Competition][] is competition among different species in a particular area for the same limited resources.
-
-[Linkage Disequilibrium][] is a condition in which multiple alleles of different genes in genotypes of a population exhibit non-random associations (e.g. haplotype genetic association, mating behavior, etc.).
 
 A species has a [Cosmopolitan Distribution][] if its range extends through most parts of the world which are habitable.
 
@@ -3528,6 +3530,7 @@ if (elements.length) {
 [interspecific competition]: https://en.wikipedia.org/wiki/Interspecific_competition
 [interstitial fluid]: https://en.wikipedia.org/wiki/Extracellular_fluid#Components
 [intertidal zone]: https://en.wikipedia.org/wiki/Intertidal_zone
+[intragenomic conflict]: https://en.wikipedia.org/wiki/Intragenomic_conflict
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [intrasexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [intrinsic rate of increase]: https://en.wikipedia.org/wiki/Population_dynamics#Intrinsic_rate_of_increase
