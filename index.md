@@ -2511,6 +2511,8 @@ A [Keystone Species][] is a species that has a disproportionately large effect o
 
 A species has a [Cosmopolitan Distribution][] if its range extends through most parts of the world which are habitable.
 
+The change in a population (ΔN) over a period of time (Δt) equals the number of births (B) minus the number of deaths (D): <code>ΔN/Δt = B-D</code>; or, representing the difference between births and deaths as R: <code>ΔN/Δt = R</code>. If there are no density-dependent forces at play (idealized), then the per capita change in population size for the given time period (r<sub>Δt</sub>) is the contribution that the average member of the population makes to the increase or decrease of the total population and R may be expressed in terms of the total population changing based on this rate: <code>R = r<sub>Δt</sub> × N</code> and thus for some time interval: <code>ΔN/Δt = r<sub>Δt</sub> × N</code>. This may be expressed in calculus terms as <code><span class="italics">d</span>N/<span class="italics">d</span>t = r × N</code> where r is the [intrinsic rate of increase][].
+
 [Punctuated Equilibrium][] occurs when there are bursts of speciation with relatively unchanging species in between.
 
 ## Laboratory Techniques
@@ -3524,6 +3526,7 @@ if (elements.length) {
 [intertidal zone]: https://en.wikipedia.org/wiki/Intertidal_zone
 [intramolecular forces]: https://en.wikipedia.org/wiki/Intramolecular_force
 [intrasexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
+[intrinsic rate of increase]: https://en.wikipedia.org/wiki/Population_dynamics#Intrinsic_rate_of_increase
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [ion]: https://en.wikipedia.org/wiki/Ion
