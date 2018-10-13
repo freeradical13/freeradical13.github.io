@@ -1166,7 +1166,7 @@ The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and carotenoids (yellow or orange pigment), which absorb different wavelengths.
+    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
         1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
     1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
@@ -2910,6 +2910,7 @@ if (elements.length) {
 [cardiovascular system]: https://en.wikipedia.org/wiki/Circulatory_system#Cardiovascular_system
 [carnitine]: https://en.wikipedia.org/wiki/Carnitine
 [carnivores]: https://en.wikipedia.org/wiki/Carnivore
+[carotenoids]: https://en.wikipedia.org/wiki/Carotenoid
 [carpels]: https://en.wikipedia.org/wiki/Gynoecium
 [cartilage]: https://en.wikipedia.org/wiki/Cartilage
 [cas]: https://en.wikipedia.org/wiki/CRISPR#Cas_genes_and_CRISPR_subtypes
