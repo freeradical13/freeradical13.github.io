@@ -2519,6 +2519,8 @@ The change in a population (ΔN) over a period of time (Δt) equals the number o
 
 [Punctuated Equilibrium][] occurs when there are bursts of speciation with relatively unchanging species in between.
 
+The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biogeography) observes that the number of species in an isolated ecosystem stabilizes at a dynamic equilibrium related to rates of immigration and extensions/emmigration, the migration distance to the ecosystem from other ecosystems, and the size of the ecosystem.
+
 ## Laboratory Techniques
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
@@ -3547,6 +3549,7 @@ if (elements.length) {
 [iris]: https://en.wikipedia.org/wiki/Iris_(anatomy)
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
 [island]: https://en.wikipedia.org/wiki/Island
+[island equilibrium model]: https://en.wikipedia.org/wiki/Insular_biogeography
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
 [isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
