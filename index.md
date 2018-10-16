@@ -1230,9 +1230,9 @@ Growth factor may be inhibited in [density-dependent inhibition][] when cell-sur
 
 [Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or conception). In [Sexual Reproduction][], gemetes from two different organisms combine to create the zygote. When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
 
-In some organisms, a diploid organism called a [sporophyte][] creates both male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
+In some organisms, a diploid organism called a [sporophyte][] creates male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
 
-In some organisms, the organism is usually in a haploid state and the only diploid is the unicellular zygote.
+In some organisms, the organism is usually in a haploid state and the only diploid state is the unicellular zygote.
 
 ###### Meiosis I
 
@@ -1347,9 +1347,7 @@ If the same codon is generated, the mutation is called a [silent mutation][]. If
 
 DNA may modify itself (e.g. cut-and-paste or copy-and-paste) through transposable elements: retrotransposons and DNA transposons.
 
-[Reverse Transcription][] is the use of [Reverse Transcriptase][] to create double-stranded DNA from RNA.
-
-[Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA.
+[Retrotransposons][] are DNA sequences that use reverse transcription to copy-and-paste themselves in DNA. [Reverse Transcription][] is the use of [Reverse Transcriptase][] to create double-stranded DNA from RNA.
 
 [DNA Transposons][] are DNA sequences that use [Transposase][] to cut-and-paste themselves in DNA.
 
@@ -1568,8 +1566,6 @@ Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutri
 
 [Plants][] are eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis, although they do not include algae or fungi. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
 
-Plant organelles are called [plastids][].
-
 Plants have alternation of generations and they are [embryophytes][] which use embroys to nurture young sporophytes within the gametophyte.
 
 Plants are also called [land plants][] (or [terrestrial plants][]) because they live on or are closely related to [land][] which is a solid surface of the Earth not covered in water. Plants usually require soil for survival.
@@ -1598,7 +1594,7 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 [Phototropism][] is the directional growth of plants towards light.
 
-[Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. Xylem and phloem transport liquid and dissolved substances (collectively called [sap][]) using [bulk flow][] from higher to lower pressure independent of solute concentration (as in osmosis).
+[Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. Xylem and phloem transport liquid and dissolved substances (collectively called [sap][]) using [bulk flow][] from higher to lower pressure independent of solute concentration (as in osmosis). Vascular plants have a dominant sporophyte generation.
 
 [Transpiration][] creates negative pressure which drives additional water uptake and bulk flow of sap upwards (using hydrogen bonding water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
@@ -1614,7 +1610,7 @@ Woody plants also have growth in thickness (called [secondary growth][]) through
 
 The [Casparian Strip][] is a strip within endodermis cells in the root made of suberin - a waxy, hydrophobic substance - which blocks the entrance of water and minerals from the epidermis of root hairs through the apoplast; instead, they must detour through the symplast which only allows in certain substances.
 
-Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The first round of mitosis of a plant zygote creates the [terminal cell][] which will create most of the embryo and the [basal cell][] which creates a structure of cells called the [suspensor][] which anchors to the endosperm and parent plant to exchange nutrients. The [cotyledons][] (which will nourish the embryo) form from the proembryo created by the apical terminal cells. A seed embryo is attached to the Plumule which includes Cotyledons, the [Hypocotyl][] (the embryonic axis) which terminates in the [Radicle][] (or embryonic root), the [Epicotyl][] (above the Hypocotyl), and in some plants, shoots are sheathed in Coleoptiles, and roots are sheathed in Coleorhizas. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][] which is started by [imhibition][] that uptakes water because the seed is so dry. A seed is broken and starts germination depending on various conditions such as environmental cues and most seeds can last up to a few years.
+Some vascular plants use [seeds][] which are packages of nutrients, an embryo, and a protective covering. The first round of mitosis of a plant zygote creates the [terminal cell][] which will create most of the embryo and the [basal cell][] which creates a structure of cells called the [suspensor][] which anchors to the endosperm and parent plant to exchange nutrients. The [cotyledons][] (which will nourish the embryo) form from the proembryo created by the apical terminal cells. A seed embryo is attached to the Plumule which includes Cotyledons, the [Hypocotyl][] (the embryonic axis) which terminates in the [Radicle][] (or embryonic root), the [Epicotyl][] (above the Hypocotyl), and in some plants, shoots are sheathed in Coleoptiles, and roots are sheathed in Coleorhizas. The process of absorbing water and breaking a period of dormancy of a seed is called [germination][] which is started by [imhibition][] that uptakes water because the seed is so dry. A seed is broken and starts germination depending on various conditions such as environmental cues and most seeds can last up to a few years. Seed-based plants have a dependent gametophyte generation in which the gametophyte is dependent for survival on the parent sporophyte.
 
 Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
@@ -1622,7 +1618,7 @@ Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
 
-Nonvascular plants are called [bryophytes][] including [liverworts][], [mosses][], and [hornworts][].
+Nonvascular plants are called [bryophytes][] including [mosses][], [liverworts][], and [hornworts][].
 
 [Microphylls][] are leaves with no vascular branching and [megaphylls][] have high vascular branching.
 
@@ -1646,7 +1642,7 @@ Some plants respond to mechanical stimuli such as wind through the process of [t
 
 ##### Chloroplasts
 
-[Chloroplasts][] are plastids that act as the site of photosynthesis. Like mitochondria, chloroplasts have their own DNA and two outer phospholipid bilayers (the outer membrane is not used for ATP synthesis like in mitochondria but is a relic of endosymbiosis).
+Mitochondria-like organelles in plants and algae are called [Plastids][] and have their own DNA like mitochondria. [Chloroplasts][] are plastids that act as the site of photosynthesis. In chloroplasts, the outer membrane is not used for ATP synthesis like in mitochondria but is a relic of endosymbiosis.
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
@@ -2147,7 +2143,7 @@ Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormon
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually.
+[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually. [Animal cells][] do not have cell walls like plants and fungi.
 
 Animals have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
 
@@ -2309,7 +2305,7 @@ Types of viruses:
 Examples of viruses:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
-* [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. Retrovirus which uses Reverse Transcriptase to create DNA once inside the white blood cell which is permanently integrated into the cell's DNA (called a [provirus][]) and creates new HIV viruses.
+* [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. Retrovirus uses reverse transcriptase to create DNA once inside the white blood cell which is permanently integrated into the cell's DNA (called a [provirus][]) and creates new HIV viruses.
 
 ## CRISPR-Cas
 
@@ -2500,6 +2496,8 @@ The [geological record][] is an analysis of strata and fossils to date different
 [Echinoderms][] are a phylum of marine animals with a five-point symmetry including sea stars, sea urchins, sand dollars, sea cucumbers, and sea lillies.
 
 [Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
+
+[Ferns][] are vascular but seedless plants with an independent gametophyte generation (meaning the gametophyte can live independently of the parent sporophyte, unlike seed-based vascalar plants that have a dependent gametophyte generation).
 
 ## Ecology
 
@@ -2744,6 +2742,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
+[animal cells]: https://en.wikipedia.org/wiki/Eukaryote#Animal_cell
 [animals]: https://en.wikipedia.org/wiki/Animal
 [anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
