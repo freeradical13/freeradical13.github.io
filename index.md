@@ -578,7 +578,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
       | |
       H H</pre>
 1. [Carbonyl][] (<code>R–CO</code>): Oxygen double-covalently bonded to a Carbon (<code>C=O</code>) which is covalently bonded to any two other atoms.
-1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the carbonyl/acyl is at the end of a chain, the group is called an aldehyde; otherwise, it's called a ketone. This functional group is hydrophilic.
+1. [Acyl][] (<code>R–CO</code>): A type of carbonyl in which R is an alkyl or aryl. If the carbonyl/acyl is at the end of a chain, the group is called an [aldehyde][]; otherwise, it's called a [ketone][]. This functional group is hydrophilic.
 1. [Methyl][] (<code>R–CH<sub>3</sub></code>): A Carbon single bonded to three Hydrogens. Adding such a functional group makes the molecule methylated.
 1. [Acetyl][] (<code>R–CH<sub>3</sub>CO</code>): An acyl covalently bonded to a methyl and the remainder.
 1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting (i.e. not part of the backbone) in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
@@ -909,7 +909,7 @@ Adenine may only pair with Thymine (or Uracil in RNA), and Cytosine may only pai
 
 RNA usually has a single polynucleotide strand; however, base pairing may still occur within the strand to create a particular geometric structure, and in some cases, double-stranded RNA ([dsRNA][]) may form.
 
-RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
+RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with a Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
 
 [Ribozymes][] are enzymatic RNA. In general, RNA does not self-replicate although [RNA Self-Replication][] is possible in principle.
 
@@ -989,7 +989,7 @@ A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membra
 
 A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [Actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter and they are bipolar with two different types of ends. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
 
-Cell motility is the ability of cell parts to move or for the whole cell to change location. Cell motility is accomplished through the interaction of the cytoskeleton and [motor proteins][] such as [dyneins][] or extensions called [pseudopodia][].
+Cell motility is the ability of cell parts to move or for the whole cell to change location. Cell motility is accomplished through the interaction of the cytoskeleton and [motor proteins][] such as [dyneins][] within the main body of the cell, or cytoplasmic-filled projections called [pseudopodia][].
 
 A process within a cell that occurs at intervals of approximately 24 hours is called a [circadian rhythm][].
 
@@ -1036,7 +1036,7 @@ The decreased membrane potential created by an electrogenic pump creates potenti
 
 [Endocytosis][] occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle.
 
-[Exocytosis][] occurs when a vesicle merges with the membrane (such as a [porosome][]) and then the material is pushed into the extracellular space.
+[Exocytosis][] occurs when a vesicle merges with the membrane (e.g. with a [porosome][]) and then the material is pushed into the extracellular space.
 
 A cell in a hypertonic solution will lose water which may lead to the membrane breaking down in a process called [plasmolysis][].
 
@@ -1096,7 +1096,7 @@ Next, respiration may continue into either Aerobic respiration with Oxygen (Kreb
 
 #### Citric Acid Cycle
 
-The Citric Acid Cycle (or Krebs cycle or Tricarboxylic Acid [TCA] Cycle) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
+The Citric Acid Cycle (or Krebs cycle or Tricarboxylic Acid Cycle [TCA Cycle]) is a part of aerobic respiration which uses Acetyl CoA to produce GTP or ATP, NADH, FADH<sub>2</sub>, and CO<sub>2</sub>.
 
 First, [Pyruvate Oxidation][] occurs when Pyruvate is oxidized into Acetyl CoA:
 
@@ -1341,7 +1341,7 @@ A [point mutation][] is a mutation of a single nucleotide pair at a particular l
 
 A single nucleotide base-pair where variation is found in at least 1% of a population of similar organisms is called a [Single Nucleotide Polymorphism][] (SNP).
 
-If the same codon is generated, the mutation is called a [silent mutation][]. If a different codon is generated, the mutation is called a [missense mutation][]. If a stop codon is generated, the mutation is called a [nonsense mutation][].
+A [silent mutation][] occurs when the new codon codes for the same amino acid. A [missense mutation][] mutation occurs when the new codon codes for a different amino acid. A [nonsense mutation][] occurs when the new codon is a stop codon.
 
 ### DNA Self-Modification
 
@@ -1371,7 +1371,7 @@ In some cases called [genomic imprinting][], there may be a difference in gene e
 
 [Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
 
-The process of [natural selection][] states that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
+The theory of [natural selection][] is that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, thus passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
 
 [Genetic Drift][] is evolution of certain alleles over others due to random chance (the smaller the population, the more likely). One type of genetic drift is the [Founder Effect][] when a small part of a population becomes isolated from the larger population (e.g. on an island - this often also leads to the creation of multiple species, called [allopatric speciation][] as opposed to [sympatric speciation][] in the same geographical area). Another type of genetic drift is the [Bottleneck Effect][] where a population has a significant decline due to some bottleneck such as a fire.
 
@@ -1407,7 +1407,7 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a peptidoglycan cell wall, an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with a peptidoglycan cell wall, an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
 [Antibiotics][] are substances which kill bacteria such as targeting peptidoglycan. Some bacteria have evolved resistance to some antibiotics with [R Plasmids][] (resistance plasmids) that code for genes to resist such antibiotics.
 
@@ -1422,7 +1422,7 @@ Some bacteria may form [endospores][] when there is a lack of nutrients which ar
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
 1. [Transformation][] occurs when one bacterium dies and pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
-1. [Conjugation][] is the transfer of genes between a bacterium with [F-Factor][] (or fertility factor) which is a part of the donating cell genome and another bacterium through direct contact through a mating bridge. The donor cell is called the [F<sup>+</sup> Cell][f+ cell] if the genes are in a plasmid and the F-Factor genes are transferred to the target cell (or F<sup>-</sup> cell) or the donor cell is called an [Hfr Cell][] if the F-Factor is part of the main chromosome and the F-Factor is used to perform the conjugation but the actual transfer of genes is from another part of the chromosome that tagged along with the F-Factor to the F<sup>-</sup> cell.
+1. [Conjugation][] is the transfer of genes between a bacterium with [F-Factor][] (or fertility factor) which is a part of the donating cell genome and another bacterium through direct contact through a mating bridge. The donor cell is called the [F<sup>+</sup> Cell][f+ cell] if the genes are in a plasmid and the F-Factor genes are transferred to the target cell (or F<sup>-</sup> cell) or the donor cell is called an [Hfr Cell][] if the F-Factor is part of the main chromosome and the F-Factor is used to perform the conjugation but the actual transfer of genes is from another part of the chromosome that tags along with the F-Factor to the F<sup>-</sup> cell.
 1. [Transduction][] occurs when a virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
 1. [Transposition][] is the movement of DNA segments (transposons) between chromosomes and plasmids across cells.
 
@@ -1586,9 +1586,7 @@ Everything in cytosol in all the cells and the plasmodesmata is called the [symp
 
 Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
 
-Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively).
-
-Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium which the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
+Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively). Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium with the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
 
 Plant gametophytes have organs called [gametangia][] (female [archegonia][] and male [antheridia][]) which produce gametes that fertilize in the archegonia.
 
@@ -1616,7 +1614,7 @@ Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
-A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][], [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
+A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][] at the end of the filament, [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
 
 Nonvascular plants are called [bryophytes][] including [mosses][], [liverworts][], and [hornworts][].
 
@@ -1646,7 +1644,7 @@ Mitochondria-like organelles in plants and algae are called [Plastids][] and hav
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
-Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the veins (e.g. phloem) are vein-protecting [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, into companion cells (using an active transport that needs ATP called [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient with the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
+Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the vascular system (e.g. phloem) are protective [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, then into companion cells (using an active transport that needs ATP as part of [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient with the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
 
 An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][]. C<sub>4</sub> plants finish the Calvin cycle in the chloroplasts of bundle-sheath cells instead of mesophyll cells and concentrate more CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
 
@@ -1688,7 +1686,7 @@ In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way l
 
 ##### Signaling Pathways
 
-A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by a hydrophobic external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which drive the process of [signal transduction][] that triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
+A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a series of chemical reactions initiated by an external stimulus (or first messenger) such as a non-steroid hormone or other ligand which cannot cross the cell membrane but binds to a membrane receptor. The first messenger bound to the membrane receptor signals second mesengers which drive the process of [signal transduction][] that triggers effectors to take action inside the cell. [Cytokines][] are proteins that are first messengers.
 
 Common transmembrane receptors:
 
@@ -1911,7 +1909,7 @@ Gravity is sensed with mechanoreceptor organs called [Statocysts][] which includ
 
 ##### Sensing Sound and Equilibrium
 
-[Sound][] is a vibration that propagates as a wave of pressure through some substance. An organ called an [Ear][] has mechanoreceptor neurons called [Hair Cells][] that transduce the pressure wave into signals in the brain. The outside of the ear is called the Pinna and sounds travel down the Auditory Canal until they are collected at the [Tympanic Membrane][] (or eardrum). Behind the eardrum is the Middle Ear where three small bones - the Malleus (or hammer), the Incus (or anvil), and the Stapes (or stirrup) - transmit sound to the Oval Window, and opens the [Eustachian Tube][] which equalizes pressure with the atmosphere. The bones in the middle ear transfer the sound waves to the inner ear which has fluid-filled chambers and the sounds go into the coiled cochlea bony chamber. The [Cochlea][] has two fluid-filled canals separated by a smaller duct. The floor of the cochlear duct has the [Organ of Corti][] which has the hair cells. Sound waves cause the membrane of the organ of corti to vibrate which bends hairs on the hair cells causing a release of a neurotransmitter across a synapse to sensory neurons.
+[Sound][] is a vibration that propagates as a wave of pressure through some substance. An organ called an [Ear][] has mechanoreceptor neurons called [Hair Cells][] that transduce the pressure waves into signals in the brain. The outside of the ear is called the Pinna and sounds travel down the Auditory Canal until they are collected at the [Tympanic Membrane][] (or eardrum). Behind the eardrum is the Middle Ear where three small bones - the Malleus (or hammer), the Incus (or anvil), and the Stapes (or stirrup) - transmit sound to the Oval Window, and opens the [Eustachian Tube][] which equalizes pressure with the atmosphere. The bones in the middle ear transfer the sound waves to the inner ear which has fluid-filled chambers and the sounds go into the coiled cochlea bony chamber. The [Cochlea][] has two fluid-filled canals separated by a smaller duct. The floor of the cochlear duct has the [Organ of Corti][] which has the hair cells. Sound waves cause the membrane of the organ of corti to vibrate which bends hairs on the hair cells causing a release of a neurotransmitter across a synapse to sensory neurons.
 
 The inner ear also has organs that sense body movement, position, and [balance][] (or equilibrium).
 
@@ -2049,7 +2047,7 @@ The [Parathyroid Glands][] are four small structures on the surface of the thyro
 
 Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecting duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
 
-Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. Females also produce androgens in a much smaller amount.
+Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. In general, females also produce androgens in a much smaller amount.
 
 Gonads in females are called [Ovaries][]. The outer layer of ovaries include Follicles which consist of an Oocyte that is a partially developed egg. Tubes called [Oviducts][] (or fallopian tubes) extend from the ovaries into an organ called the [Uterus][] (or womb) where zygotes develop. Cilia in the oviducts move eggs down into the uterus. The inner lining of the uterus is called the [Endometrium][]. The bottom of the uterus is called the [Cervix][] and opens into the Vagina. The [Vagina][] is a muscular and elastic chamber where sperm fertilize eggs. The vagina opens into the [Vulva][] which describes all external female genitalia, including thick skin folds on the outside called the [Labia Majora][], slender skin folds on the inside called the [Labia Minora][], and the [Clitoris][] which has a glans and prepuce.
 
@@ -2089,7 +2087,7 @@ At the end of the esophagus, food reaches a [sphincter][] which is a muscle that
 
 Digestion occurs in the [Gastrointestinal Tract][] (or GI tract, or [Alimentary Canal][], or gut) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
 
-The [stomach][] is an organ that stores food and starts its processing. As food stretches the walls of the stomach, the hormone Gastrin is released which causes the secretion of [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. Hcl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested, acidic collection called [Chyme][] is passed onto the small intestine.
+The [stomach][] is an organ that stores food and starts its processing. As food stretches the walls of the stomach, the hormone Gastrin is released which causes the secretion of [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. HCl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested, acidic collection called [Chyme][] is passed onto the small intestine.
 
 The [small intestine][] completes most food digestion. The [Duodenum][] is the first part of the small intestine which completes the breakdown of the chyme using juices from the pancreas, liver, and gallbladder. The entry of chyme into the small intestine stimulates secretion of the hormone [Secretin][] which stimulates the pancreas to secrete Biocarbonate into the duodenum which acts as a buffer for digestion. The pancreas also secretes the proteases [Trypsin][] and [Chymotrypsin][] into the duodenum.
 
@@ -2097,7 +2095,7 @@ The [Jejunum][] is the second part of the small intestine which absorbs nutrient
 
 The [Ileum][] is the third part of the small intestine which absorbs any remaining Vitamin B12, bile acids, ions and most water.
 
-The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and leads to the remains of digestion called [feces][] to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion of feces through the [anus][].
+The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and the remaining material is called [feces][] which are driven to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion of feces through the [anus][].
 
 The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help produce nutrients.
 
@@ -2127,7 +2125,7 @@ A byproduct of protein and nucleic acid digestion is ammonia which may be toxic.
 
 #### Blood Sugar
 
-When blood glucose levels rise above a certain level, the hormone [Insulin][] is secreted by [Beta Cells][] in the pancrease which triggers cells to uptake Glucose and liver and muscle cells may store Glucose in the form of [Glycogen][].
+When blood glucose levels rise above a certain level, the hormone [Insulin][] is secreted by [Beta Cells][] in the pancreas which triggers cells to uptake Glucose, and liver and muscle cells may store Glucose in the form of [Glycogen][].
 
 When blood glucose levels decrease below a certain level, the hormone [Glucagon][] is secreted by [Alpha Cells][] which triggers the release of Glucose from Glycogen stores.
 
@@ -2305,7 +2303,7 @@ Types of viruses:
 Examples of viruses:
 
 * [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
-* [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. Retrovirus uses reverse transcriptase to create DNA once inside the white blood cell which is permanently integrated into the cell's DNA (called a [provirus][]) and creates new HIV viruses.
+* [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. HIV is a retrovirus which uses reverse transcriptase to create DNA once inside the white blood cell and this DNA is permanently integrated into the cell's DNA (these viral integrated genes are called a [provirus][]) and then creates new HIV viruses.
 
 ## CRISPR-Cas
 
@@ -2361,7 +2359,7 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 [Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
 
-[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell paratope is a Y-shaped protein made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
+[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
 Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction by macrophages or neutrophils ([opsonization][]), or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
 
@@ -2373,11 +2371,11 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] is a single clone reacts to an antigen, and [polyclonal][] if different clones react to the same antigen (i.e. different epitopes). This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
 
 If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
 
-A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antiboies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
+A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antibodies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
 [Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
 
@@ -2459,7 +2457,7 @@ Aquatic biomes are largely characterized by chemical or physical properties:
 
 ### History of Life
 
-[Fossils][] are remains or traces of dead organisms. [Paleontology][] is the study of fossils. In some cases, dead organism settle into layers of sediment which are compressed over time on top of each other, with each layer called a [stratum][] (plural strata).
+[Fossils][] are remains or traces of dead organisms. [Paleontology][] is the study of fossils. In some cases, dead organisms settle into layers of sediment which are compressed over time on top of each other, with layers called [strata][] (singular stratum).
 
 The [geological record][] is an analysis of strata and fossils to date different periods of the Earth's history:
 
@@ -2503,7 +2501,7 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Ecology][] is the study of interactions between organisms and the environment.
 
-[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time. A [metapopulation][] is a group of populations in some area that immigrate and emmigrate between populations based on population flux.
+[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time. A [metapopulation][] is a group of populations in some area that may immigrate and emmigrate between each other.
 
 [Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms (as part of [Primary Succession][]) are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
 
@@ -2687,6 +2685,7 @@ if (elements.length) {
 [albumin]: https://en.wikipedia.org/wiki/Albumin
 [alcohol suffix]: https://en.wikipedia.org/wiki/-ol
 [alcoholic fermentation]: https://en.wikipedia.org/wiki/Ethanol_fermentation
+[aldehyde]: https://en.wikipedia.org/wiki/Aldehyde
 [aldolase]: https://en.wikipedia.org/wiki/Fructose-bisphosphate_aldolase
 [algae]: https://en.wikipedia.org/wiki/Algae
 [algebra]: https://www.khanacademy.org/math/algebra
@@ -3569,6 +3568,7 @@ if (elements.length) {
 [karyotype]: https://en.wikipedia.org/wiki/Karyotype
 [kelvin]: https://en.wikipedia.org/wiki/Kelvin
 [keratin]: https://en.wikipedia.org/wiki/Keratin
+[ketone]: https://en.wikipedia.org/wiki/Ketone
 [keystone species]: https://en.wikipedia.org/wiki/Keystone_species
 [kidneys]: https://en.wikipedia.org/wiki/Kidney
 [kilograms]: https://en.wikipedia.org/wiki/Kilogram
@@ -4284,7 +4284,7 @@ if (elements.length) {
 [stomach]: https://en.wikipedia.org/wiki/Stomach
 [stomata]: https://en.wikipedia.org/wiki/Stoma
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
-[stratum]: https://en.wikipedia.org/wiki/Stratum
+[strata]: https://en.wikipedia.org/wiki/Stratum
 [strigolactones]: https://en.wikipedia.org/wiki/Strigolactone
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
