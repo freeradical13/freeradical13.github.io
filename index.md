@@ -1230,11 +1230,9 @@ If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue,
 
 ##### Meiosis
 
-[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or conception). In [Sexual Reproduction][], gemetes from two different organisms combine to create the zygote. When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells.
+[Meiosis][] of one cell occurs through two rounds of cell division (meiosis I and [meiosis II][]) to create four haploid cells called [gametes][]. Gametes combine into one cell called a [zygote][] through a process called [fertilization][] (or conception). In [Sexual Reproduction][], gametes from two different organisms combine to create the zygote. When an organism contains both gamete and non-gamete cells, the gamete cells are part of the [germline][] whereas the non-gamete cells are called [somatic][] cells. In some organisms, the organism is usually in a diploid state and the only haploid state is the unicellular zygote.
 
-In some organisms, a diploid organism called a [sporophyte][] creates male and female haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Male gametophytes release sperm and female gametophytes release eggs. These male and female gametes of the gametophyte fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
-
-In some organisms, the organism is usually in a haploid state and the only diploid state is the unicellular zygote.
+In some organisms, a diploid organism called a [sporophyte][] creates haploid [spores][] (or zoospores) which divide mitotically into a multicellular haploid organism called a [gametophyte][]. Gametes of the gametophytes then fertilize to create a diploid zygote which forms the next sporophyte. This process is called [alternation of generations][] when both haploid and diploid stages are multicellular.
 
 ###### Meiosis I
 
