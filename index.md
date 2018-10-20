@@ -499,6 +499,7 @@ This can be simplified into the following hexagon with three double bonds where 
 1. Eta: η Η
 1. Theta: θ Θ
 1. Iota: ι Ι
+1. Kappa: κ Κ
 
 The longest linear covalently bonded chain ([carbon skeleton][]) of Hydrocarbons may be called a [backbone chain][] (or main chain) from which the rest of the molecule builds off of. Any other smaller branches (in place of Hydrogens for the branch points) are called [side chains][], [substituents][], or pendant chains.
 
@@ -567,7 +568,7 @@ An [aryl][] is an aromatic hydrocarbon minus one Hydrogen such as a [phenyl][] (
 
 The moieties of an organic molecule that are most commonly involved in chemical reactions are called [functional groups][]. When discussing functional groups, a convention is sometimes used which describes their molecular formulas without internal bond symbols, and the group is prefixed or suffixed by a dash depending on where the functional group bonds to the rest of the compound. Common functional groups:
 
-1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds containing a hydroxyl group are called Alcohols and names are usually suffixed with [-ol][alcohol suffix]. This functional group is hydrophilic.
+1. [Hydroxyl][] (<code>R–OH</code>): Oxygen covalently bonded to a Hydrogen (<code>O–H</code>) and the Oxygen is covalently bonded to the compound. The highly electronegative Oxygen causes that part of the compound to be hydrophilic. Compounds with the only functional group being a hydroxyl group are called Alcohols and may be suffixed with [-ol][alcohol suffix]. This functional group is hydrophilic.
 
     For example, [Ethanol][] is the drug in alcoholic beverages:
     
@@ -584,7 +585,7 @@ The moieties of an organic molecule that are most commonly involved in chemical 
 1. [Carboxyl][] (<code>R–COOH</code>): A Carbon acting (i.e. not part of the backbone) in both an Acyl and Hydroxyl. Also called Carboxylic Acids (or organic acids). The reason carboxyls tend to be acidic whereas hydroxyls tend not to be is because there are two highly electronegative Oxygens near the Hydrogen in a carboxyl. This functional group is hydrophilic.
 1. [Amino][] (<code>R–NH<sub>2</sub></code>): Two Hydrogens covalently bonded to a Nitrogen (<code>H–N–H</code>) which is covalently bonded to the compound. Also called [Amines][]. An amino group often acts as a base because the Nitrogen has one unpaired valence electron willing to be shared with a Hydrogen proton. Compounds that have both amino and carboxyl functional groups are called amino acids. This functional group is hydrophilic.
 1. [Sulfhydryl][] (<code>R–SH</code>): A sulfhydride (Sulfer bonded to a Hydrogen) which is covalently bonded to the compound. Also called [thiols][]. This functional group is hydrophilic.
-1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(OR)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy. Adding or removing a phosphate group are phosphorylation and dephosphorylation, respectively.
+1. [Phosphate][] (<code>R–OPO<sub>3</sub><sup>2-</sup></code>): A Phosphorus double-covalently bonded to an Oxygen and three Carbonyl side chains (<code>O=P–(O)<sub>3</sub></code>). Also called [Organophosphates][] (or organic phosphates). This functional group is hydrophilic and anionic. Confers the ability to react with water to release energy. Adding or removing a phosphate group are phosphorylation and dephosphorylation, respectively.
 1. [Ester][] (<code>RCOOR′</code>): A product of a reaction between an acid (e.g. carboxylic acid) and an alcohol in which the ester bond forms where two hydroxyl groups (one from each) are replaced with a Carbonyl that bonds the two. Usually suffixed with [-oate][ester suffix].
 
 The first Carbon to which a functional group is attached is called the [1-Carbon][] or the α-Carbon. If there are multiple functional groups, generally the 1-Carbon refers to the functional group responsible for the name of the molecule.
