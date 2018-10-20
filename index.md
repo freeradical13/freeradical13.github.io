@@ -94,9 +94,11 @@ There are four laws of thermodynamics (starting with the zeroth law):
 <ol start="0">
   <li>If two systems A and B are in thermal equilibrium with a third system C, then A and B are in thermal equilibrium.</li>
   <li>Energy may be neither created nor destroyed, but only transformed.</li>
-  <li>Energy transformation in a closed system increases [entropy][] (or disorder).</li>
+  <li>Energy transformation in a closed system increases entropy.</li>
   <li>Entropy approaches 0 as the temperature of a closed system approaches 0 Kelvin.</li>
 </ol>
+
+[Entropy][] is a measure of disorder in a system.
 
 # Atoms
 
