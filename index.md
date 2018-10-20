@@ -851,29 +851,29 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
 
 ### Enzymes
 
-Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where the products bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
+Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where products or inhibitors may bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
 
-There are 6 broad groups of enzymes (the first number in an enzyme's unique [Enzyme Commission Number][]):
+There are 6 broad groups of enzymes (the first number is an enzyme's unique [Enzyme Commission Number][]):
 
 1. [Oxidoreductases][]: Catalyze a redox reaction.
 1. [Transferases][]: Transfer a functional group from one molecule to another.
-1. [Hydrolases][]: Breaks down a molecule with hydrolysis.
-1. [Lyases][]: Breaks down a molecule by means other than hydrolysis or oxidation.
-1. [Isomerases][]: Converts a molecule from one isomer to another.
-1. [Ligases][]: Joins two large molecules, often with hydrolysis.
+1. [Hydrolases][]: Break down a molecule with hydrolysis.
+1. [Lyases][]: Break down a molecule by means other than hydrolysis or oxidation.
+1. [Isomerases][]: Convert a molecule from one isomer to another.
+1. [Ligases][]: Join two large molecules, often with hydrolysis.
 
 A [cofactor][] is an inorganic metal ion or organic coenzyme which facilitates catalysis. [Coenzymes][] are organic molecules either covalently bound as prosthetic groups or loosely bound as cosubstrates. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
 The rate of enzyme-catalyzed reactions reaches a [maximum reaction rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates.
 
-The [Michaelis-Menten Equation][] describes the relationship between the reaction rate between substrate and enzyme (v [velocity]) and substrate concentration for many types of enzymes: <code>v = (V<sub>max</sub>×v<sub>0</sub>) / (v<sub>0</sub> + K<sub>m</sub>)</code>, where v<sub>0</sub> is the [initial velocity][] at the beginning of enzyme introduction. K<sub>m</sub> is the [Michaelis-Menten constant][] which is substrate concentration at which velocity is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate: the smaller the K<sub>m</sub>, the higher the affinity. V<sub>max</sub> is dependent on enzyme concentration whereas K<sub>m</sub> is not.
+The [Michaelis-Menten Equation][] describes the relationship between the reaction rate between substrate and enzyme (v [velocity]) and substrate concentration for many types of enzymes: <code>v = (V<sub>max</sub>×v<sub>0</sub>) / (v<sub>0</sub> + K<sub>m</sub>)</code>, where v<sub>0</sub> is the [initial velocity][] at the beginning of enzyme introduction. K<sub>m</sub> is the [Michaelis-Menten constant][] which is the substrate concentration at which velocity is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate: the smaller the K<sub>m</sub>, the higher the affinity. V<sub>max</sub> is dependent on enzyme concentration whereas K<sub>m</sub> is not.
 
 A [Lineweaver-Burk Reciprocal Plot][] may be used to calculate V<sub>max</sub> by taking the reciprocals of all substrate concentration and reaction rate values and taking the reciprocal of the y-intercept, and calculate K<sub>m</sub> by taking the negative reciprocal of the x-intercept.
 
 Enzyme inhibitors reduce catalysis. An [irreversible inhibitor][] covalently bonds to an active site. There are four types of reversible inhibitors:
 
 1. [Competitive Inhibition][] (inhibitor competing to bind to the enzyme): molecules structurally similar to substrates bind at or near the active site, blocking substrates. V<sub>max</sub> stays constant because sufficient substrate could outcompete the inhibitor, but K<sub>m</sub> increases because affinity is lower. In [allosteric competitive inhibition][], the substrate and inhibitor compete to bind to the enzyme except that the inhibitor binds to an allosteric site, changing the conformation, and disallowing binding of the substrate.
-1. [Non-competitive Inhibition][] (inhibitor not competing to bind to the enzyme): molecules that bind to allosteric sites which changes the active site conformations, or to enzyme-substrate complexes to reduce catalysis. V<sub>max</sub> decreases because the inhibitors will bind to the allosteric sites, effectively decreasing the number of available enzymes regardless of the amount of substrate, although K<sub>m</sub> stays the same because the rate of reaction between enzyme and substrate is the same.
+1. [Non-competitive Inhibition][] (inhibitor not competing to bind to the enzyme): molecules that bind to allosteric sites which changes the active site conformations to reduce catalysis. V<sub>max</sub> decreases because the inhibitors will bind to the allosteric sites, effectively decreasing the number of available enzymes regardless of the amount of substrate, although K<sub>m</sub> stays the same because the rate of reaction between enzyme and substrate is the same.
 1. [Uncompetitive Inhibition][] (inhibitor does not bind to the enzyme): molecules that bind to the enzyme-substrate complex to reduce catalysis. V<sub>max</sub> and K<sub>m</sub> decrease.
 1. [Mixed inhibition][]: mix of competitive and uncompetitive. V<sub>max</sub> decreases, but K<sub>m</sub> increases or decreases.
 
@@ -913,7 +913,7 @@ RNA usually has a single polynucleotide strand; however, base pairing may still 
 
 RNA is less stable than DNA because it may undergo [base catalysis][] where the Hydrogen in the additional Hydroxyl group that RNA has at the 2' Carbon can cleave off to attach to another chemical base, leaving Oxygen which may bond with a Phosphate in a neighboring phosphodiester bond and break the RNA backbone.
 
-[Ribozymes][] are enzymatic RNA. In general, RNA does not self-replicate although [RNA Self-Replication][] is possible in principle.
+[Ribozymes][] are enzymatic RNA. In general, RNA does not self-replicate although [RNA Self-Replication][] is possible.
 
 ### DNA
 
@@ -938,22 +938,21 @@ There are mechanisms to repair various types of DNA damage.
 Examples of damage:
 
 * DNA replication may pair the wrong nucleotides.
-* Ultraviolet light photons (UVB and UVC) may cause two consecutive pyrimidine bases (TT [most common] or CC) to create an unneeded covalent bond called a [pyrimidine dimer][] (most commonly a thymine dimer) because of the less stable single ring bases than purines. The additional covalent bond can disrupt replication.
+* Ultraviolet light photons (UVB and UVC) may cause two consecutive pyrimidine bases (TT or CC) to create an unneeded covalent bond called a [pyrimidine dimer][] (most commonly a thymine dimer) because of the less stable single ring bases than purines. The additional covalent bond can disrupt replication.
 
 Types of repair:
 
-* [Nucleotide Excision Repair][] fixes a wrongly paired nucleotide in one strand such as pyrimidine dimers or an error caused during replication ([Mismatch Repair][]) by removing the wrong bases using [Nuclease][] (which can break DNA bonds) and then using DNA polymerase to recreate the removed portion from the complementary strand and the sugar-phosphate backbone is bonded with DNA Ligase.
+* [Nucleotide Excision Repair][] (or [Base Excision Repair][]) fixes a wrongly paired nucleotide in one strand such as pyrimidine dimers or an error caused during replication ([Mismatch Repair][]) by removing the wrong bases using [Nuclease][] (which can break DNA bonds) and then using DNA polymerase to recreate the removed portion from the complementary strand and the sugar-phosphate backbone is bonded with DNA Ligase.
 * In some organisms, light-activated [Photolyases][] break pyrimidine dimer bonds.
-* [Base Excision Repair][] fixes damage to single bases such as oxidation by removing the bases and then using DNA polymerase to recreate them.
 * [DNA Mismatch Repair][] fixes wrongly inserted, deleted or mismatched bases created during DNA replication.
 
 ### Genes
 
 A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which provides the instructions for creating a sequence of amino acids and ultimately proteins. A [genome][] is the set of all genes in an organism.
 
-A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and replicate independently from chromosomal DNA.
+A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and may or may not replicate with chromosomal DNA.
 
-Chromosomes are coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
+Chromosomes may be coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
 
 A chromosome and any histones is called [Chromatin][].
 
@@ -963,7 +962,7 @@ Genes are [heritable][] if they are passed from one organism to another.
 
 An organism is an object with the properties of life.
 
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may breed with each other. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations.
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may breed with each other. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations of different species. A [metapopulation][] is a group of populations of the same species in some area that may immigrate and emmigrate between each other.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
@@ -2503,7 +2502,7 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 [Ecology][] is the study of interactions between organisms and the environment.
 
-[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time. A [metapopulation][] is a group of populations in some area that may immigrate and emmigrate between each other.
+[Demography][] is the study of patterns of population density, disperson, birth, death, immigration rates, and emigration rates of a population over time.
 
 [Ecological Succession][] is the process of large changes in an ecology after a large disturbance or the creation of a new habitat. Initial organisms (as part of [Primary Succession][]) are usually prokaryotes and protists, followed by photosynthesizers and the soil slowly becomes more rich from the detritus of the early successors.
 
