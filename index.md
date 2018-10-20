@@ -1641,11 +1641,11 @@ A vegetable
 
 ##### Chloroplasts
 
-Mitochondria-like organelles in plants and algae are called [Plastids][] and have their own DNA like mitochondria. [Chloroplasts][] are plastids that act as the site of photosynthesis. In chloroplasts, the outer membrane is not used for ATP synthesis like in mitochondria but is a relic of endosymbiosis.
+Mitochondria-like organelles in plants and algae are called [Plastids][] and have their own DNA like mitochondria. [Chloroplasts][] are plastids that act as the site of photosynthesis. In chloroplasts, the outer membrane is not used as part of ATP synthesis like in mitochondria but is a relic of endosymbiosis.
 
 Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). Chlorophyll molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
-Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the vascular system (e.g. phloem) are protective [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, then into companion cells (using an active transport that needs ATP as part of [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient with the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
+Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the vascular system (e.g. phloem) are protective [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, then into companion cells (using an active transport that needs ATP as part of [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient and the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
 
 An alternative and less common method of Carbon fixation is [C<sub>4</sub> Carbon fixation][c4 carbon fixation] which creates 4-Carbon products (instead of 3-Carbon products) in the Calvin Cycle using [PEP Carboxylase][]. C<sub>4</sub> plants finish the Calvin cycle in the chloroplasts of bundle-sheath cells instead of mesophyll cells and concentrate more CO<sub>2</sub> around RuBisCO to increase RuBisCO's fixation efficiency. Although this process is more efficient, it also uses more energy.
 
@@ -1663,7 +1663,7 @@ Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is prod
 
 [Ethylene][] promotes ripening of fruits and a response to stress to strengthen the stem and/or grow horizontally to avoid obstacles.
 
-[Brassinosteroids][] promot cell expansion and division in shoots.
+[Brassinosteroids][] promote cell expansion and division in shoots.
 
 [Jasmonates][] regulate fruit ripening, floral development, and more.
 
@@ -1673,17 +1673,17 @@ Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is prod
 
 Plants recognize [Pathogen-Associated Molecular Patterns][] (PAMPs) which lead to a chain of defensive events such as the production of phytoalexins.
 
-[Effector-Triggered Immunity][] deals with pathogens that avoid detection by PAMPs (through the use of effectors that block PAMP perception) by defensive genes that are stimulated by the effectors. Effector-trigger immunity initiates the hypersensitive response which leads to localized cell death near the infection site. Systemic Acquired Resistance occurs is a plant-wide expression of defensive genes through signaling molecules such as Salicylic Acid.
+[Effector-Triggered Immunity][] deals with pathogens that avoid detection by PAMPs (through the use of effectors that block PAMP perception) by defensive genes that are stimulated by the effectors. Effector-trigger immunity initiates the hypersensitive response which leads to localized cell death near the infection site. Systemic Acquired Resistance occurs as a plant-wide expression of defensive genes through signaling molecules such as Salicylic Acid.
 
 #### Cell Communication
 
-[Tight junctions][] connect two cells together using various proteins to create a seal.
+[Tight junctions][] connect the outside of two cells together using various proteins to create a seal.
 
-[Desmosomes][] connect two cells together using intermediate filaments made of keratin.
+[Desmosomes][] connect the outside of two cells together using intermediate filaments made of keratin.
 
 [Gap junctions][] directly connect cytoplasms of two cells to allow exchange of some substances.
 
-In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin protein contribute to a circular flow or cytoplasm called [cytoplasmic streaming][]. The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
+In plants, [Plasmodesmata][] directly connect cytoplasms of two cells in a way like gap junctions, but allowing even more through. Actin proteins contribute to a circular flow or cytoplasm called [cytoplasmic streaming][]. The remaining area between plant cells is called the [middle lamella][] made of polysaccharides called [pectins][].
 
 ##### Signaling Pathways
 
@@ -1691,10 +1691,10 @@ A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a seri
 
 Common transmembrane receptors:
 
-* [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme to activate it and signal a second messenger.
+* [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme such as Adenylyl Cyclase to activate it and signal a second messenger.
 * [Receptor Tyrosine Kinases][] (RTKs) couple with a signaling molecule that binds to the RTK on the outside of the cell which leads to coupling with neighboring RTKs which activates tyrosine kinases in the cytoplasm (with ATP) that signal second messengers that bind to the phosphorylated receptors.
 
-Second messengers are either proteins or:
+[Second messengers][] are either proteins or:
 
 * [Cyclic AMP][] (or cAMP) which activates the effector [Protein Kinase A][] (PKA). [Adenylyl Cyclase][] transmits a signal by converting ATP to cAMP, often activated by a G Protein.
 * [1,2-diacylglycerol][] (or DAG) activates the effector [Protein Kinase C][] (PKC).
@@ -4188,6 +4188,7 @@ if (elements.length) {
 [seabirds]: https://en.wikipedia.org/wiki/Seabird
 [season]: https://en.wikipedia.org/wiki/Season
 [second]: https://en.wikipedia.org/wiki/Second
+[second messengers]: https://en.wikipedia.org/wiki/Second_messenger_system
 [secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [secretin]: https://en.wikipedia.org/wiki/Secretin
