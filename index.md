@@ -610,7 +610,7 @@ General terms:
 
 * [Facultative][]: optional.
 * [Obligate][]: obligatory; necessary.
-* [Ligands][biochemical ligand]: Biochemical ligands describe substances that bind to larger biomolecules to help with a biological function (often through a change in conformation of the biomolecule).
+* [Ligands][biochemical ligand]: Biochemical ligands describe substances that bind to larger biomolecules to create a coordination complex to help with a biological function (often through a change in conformation of the biomolecule).
 
 ## Carbohydrates
 
