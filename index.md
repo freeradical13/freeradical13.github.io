@@ -2390,11 +2390,11 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][] or pregnancy) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
 
-After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][] within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
+After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][], enclosed within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
 
-In some animals, the egg is partly composed of stored nutrients called the [Yolk][] which is concentrated to one pole of the egg called the Vegetal Pole and the blastocoel forms at the other end called the Animal Pole. In some animals such as frogs, after fertilization, the contents of the animal pole shift slightly towards the point at which the sperm entered thus creating a crescent shaped area between the poles with diffuse pigments that look gray called the [gray crescent][].
+In some animals, the egg is partly composed of stored nutrients called the [Yolk][] which is concentrated to one pole of the egg called the Vegetal Pole and the other cells concentrate at the other end called the Animal Pole. In some animals such as frogs, after fertilization, the contents of the animal pole shift slightly towards the point at which the sperm entered thus creating a crescent shaped area between the poles with diffuse pigments that look gray called the [gray crescent][].
 
-Once cleavage creates 16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
+Once cleavage creates ~16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
 
 The zygote and blastomeres are [totipotent stem cells][] because they can differentiate into the cells of the body and the cells outside the body (e.g. trophoblasts). The cells of the embryoblast are called [embryonic stem cells][] and they're [pluripotent][] meaning that they may differentiate into the cells of the body.
 
@@ -2408,7 +2408,7 @@ The embryo is called a [fetus][] when all majory body organs are present.
 
 A sac forms around the fetus called the [amniotic sac][] which contains the fetus and [amniotic fluid][] and is connected to the placenta. The membrane of the amniotic sac is called the [amnion][].
 
-The amniotic sac is further enclosed by a membrane called the [chorion][] which have cells called [chorionic villi][] on the outside the interact with the uterus for nutrient exchange.
+The amniotic sac is further enclosed by a membrane called the [chorion][] which has cells called [chorionic villi][] on the outside that interact with the uterus for nutrient exchange.
 
 In [Semelparity][], an organism reproduces once and then dies. In [Iteroparity][], an organism may reproduce multiple times.
 
@@ -2514,7 +2514,7 @@ The change in a population (ΔN) over a period of time (Δt) equals the number o
 
 [Punctuated Equilibrium][] occurs when there are bursts of speciation with relatively unchanging species in between.
 
-The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biogeography) observes that the number of species in an isolated ecosystem stabilizes at a dynamic equilibrium related to rates of immigration and extensions/emmigration, the migration distance to the ecosystem from other ecosystems, and the size of the ecosystem.
+The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biogeography) observes that the number of species in an isolated ecosystem stabilizes at a dynamic equilibrium related to rates of immigration and extinction/emigration, the migration distance to the ecosystem from other ecosystems, and the size of the ecosystem.
 
 ## Laboratory Techniques
 
@@ -2546,13 +2546,13 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 ## Cancer
 
-A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][], although some benign tumors may not be benign in effect and may cause damage such as benign brain tumors. An example of a common benign tumor is a [mole][mole tumor].
+A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][]. An example of a common benign tumor is a [mole][mole tumor]. Some benign tumors may not be benign in effect and may cause damage such as benign brain tumors.
 
 A [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
 
-Examples of proto-oncogenes and oncogenes:
+Examples of oncogenes:
 
-* [Src][] (or c-Src or sarc): Tyrosine kinase. [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
+* [Src][] (or c-Src or sarc): Encodes Tyrosine Kinase. [Over-expression of the SRC gene][src cancer] may cause cancer by activating other signaling proteins.
 * [Ras][] (or K-ras): Encodes the Ras G-Protein which relays a growth factor signal to a protein kinase cascade which stimulates the cell cycle. Mutations in Ras may cause over-production of the Ras protein which can trigger the protein kinase cascade without growth factor.
 
 [Tumor-suppressor genes][] encode proteins that help prevent uncontrolled cell growth.
