@@ -978,7 +978,7 @@ An organism is [haploid][] if it has one instance of each chromosome. An organis
 
 [Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
 
-Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial][]) is the name of the genus followed by the name of the species.
+Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingdoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits and genetic relatedness. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial nomenclature][]) is the name of the genus followed by the name of the species.
 
 Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or [clade][]) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor. A lineage that diverges early in the history of a group is a [basal taxon][].
 
@@ -996,7 +996,7 @@ A process within a cell that occurs at intervals of approximately 24 hours is ca
 
 [Stem cells][] are types of cells that can [differentiate][] into various types of different cells for different functions. Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into.
 
-For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in e coli] and a human body has about [10<sup>27</sup> atoms][atoms in human body].
+For examples, an avarege [E. coli cell has about 35 billion atoms][atoms in e coli] and a [human body has about 10<sup>27</sup> atoms][atoms in human body].
 
 #### Ribosomes
 
@@ -1012,7 +1012,7 @@ For examples, a medium-sized E. coli cell has about [35 billion atoms][atoms in 
 
 [Guanosine Triphosphate][] (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
 
-[Nicotinamide adenine dinucleotide][] (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pahways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
+[Nicotinamide adenine dinucleotide][] (NAD) is one of the major electron carriers in cells. NAD is two ribose nucleotides (one with an adenine base and one with a nicotinamide base) bonded at their phosphates. Oxidized NAD is NAD<sup>+</sup> and reduced NAD is NADH. In other pathways, NAD may also be phosphorylated to NADP<sup>+</sup> and reduced to NADPH.
 
 [Flavin adenine dinucleotide][] (FAD) is another major electron carrier in cells. FAD is two nucleotides (one with an adenine base and one with a flavin base) bonded at their phosphates. Oxidized FAD is FAD and reduced FAD is FADH<sub>2</sub>.
 
@@ -1024,7 +1024,7 @@ Membranes usually have carbohydrates bonded to the outside for various functions
 
 A [vesicle][] is a small sac with a membrane used for functions such as transportation.
 
-[Transport proteins][] (or channel proteins) span the membrane to allow in certain substances in a process called [facilitated diffusion][] (or passive transport). For example, [aquaporins][] allow water to across the membrane.
+[Transport proteins][] (or channel proteins) span the membrane to allow in certain substances in a process called [facilitated diffusion][] (or passive transport), or active transport. For example, [aquaporins][] allow water to across the membrane.
 
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
 
@@ -1055,7 +1055,7 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 
 1. An electron transport chain pumps H<sup>+</sup> cations across a membrane against the ions' concentration gradients.
 1. The H<sup>+</sup> cations want to move back across the membrane down their concentration gradient. This potential energy is called the proton motive force.
-1. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP. ATP synthase:
+1. The enzymatic complex ATP synthase in the membrane uses the diffusion of H<sup>+</sup> cations through it to drive phosphorylation of ADP into ATP:
     1. H<sup>+</sup> cations enter a channel called the [Stator][].
     1. H<sup>+</sup> cations enter binding sites within a rotor which spins in the membrane.
     1. After one turn, the H<sup>+</sup> cations pass through another channel in the Stator and through the membrane.
@@ -1139,7 +1139,7 @@ Steps of the Respiratory Chain:
     1. In addition, FADH<sub>2</sub> transfers electrons to [Complex II][] into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
 1. Q transfers electrons into [Complex III][] into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
 1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into [Complex IV][] into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In [Oxidative Phosphorylation][] during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, examples of an electron acceptor is Sulfate ions (SO<sub>4</sub><sup>2-</sup>) which do the same but instead of water produce Hydrogen Sulfide (H<sub>2</sub>S).
+1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In [Oxidative Phosphorylation][] during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, an example of an electron acceptor is a Sulfate ion (SO<sub>4</sub><sup>2-</sup>) which does the same as Oxygen but instead of water produces Hydrogen Sulfide (H<sub>2</sub>S).
 
 In summary:
 
@@ -1167,15 +1167,15 @@ The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. In the membrane of the [thylakoids][], substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the mesophyll a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most chlorophyll pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. The main pigments in chlrophyll are chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
-    1. Chlorophyll and proteins combine in the thylakoid membrane into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II functions first in light reactions.
-        1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O inside the thylakoid matrix, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate in the thylakoid matrix, and O bonds with another O and releases as O<sub>2</sub>.
-    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> into the stroma, creating a proton gradient which is used to make ATP in the stroma through chemiosmosis ([photophosphorylation][]).
+    1. Substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the substance a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. [Chlorophyll][] molecules contain pigments such as chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
+    1. Chlorophyll and proteins combine in the into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II partly drives Photosystem I.
+        1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate, and O bonds with another O and releases as O<sub>2</sub>.
+    1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> across a membrane, creating a proton gradient which is used to make ATP through chemiosmosis ([photophosphorylation][]).
     1. The electrons continue to [Photosystem I][] and excite its reaction-center complex chlorophyll pair to reduce its electron acceptor. Photosystem I also absorbs light to energize its chlorophyll electrons.
     1. The electron acceptor passes its electron through an electron transport chain into the protein Ferredoxin ([Fd][]).
-    1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> from the stroma to create NADPH.
-1. The [Calvin Cycle][] (or dark reactions or light-independent reactions, although the cycle needs the products of light reactions, so it occurs during the day) is an anabolic process using energy that builds carbohydrates from smaller molecules.
-    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> are brought into the stroma and attached to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate for each CO<sub>2</sub>. This process is called [C<sub>3</sub> Carbon fixation][c3 carbon fixation] because of these initial, 3-Carbon products.
+    1. The enzyme [NADP<sup>+</sup> reductase][nadp reductase] catalyzes the transfer of electrons from Fd to NADP<sup>+</sup>, along with an H<sup>+</sup> to create NADPH.
+1. The [Calvin Cycle][] (or dark reactions or light-independent reactions) is an anabolic process using energy that builds carbohydrates from smaller molecules.
+    1. The [carbon fixation][] step is when three molecules of CO<sub>2</sub> attach to 5-Carbon sugars called Ribulose Biphosphate ([RuBP][]). The enzyme catalyzing these reactions is RuBP Carboxylase-Oxygenase ([RuBisCO][]). These reactions create 6-Carbon molecules which quickly break up into two molecules of 3-Phosphogylcerate. This is the most common process and is called [C<sub>3</sub> Carbon fixation][c3 carbon fixation] because of these initial, 3-Carbon products.
     1. The [3-Phosphogylcerate][] molecules are phosphorylated by ATP, becoming 1,3-Biphosphoglycerate.
     1. NADPH reduces and dephosphorylates 1,3-Biphosphogylcerate to become Glyceraldehyde 3-Phosphate ([G3P][]) which is a 3-Carbon sugar.
     1. ATP is used to convert five molecules of G3P into three molecules of RuBP, and one molecule of G3P leaves the cycle. Two molecules of G3P combine to form Glucose.
@@ -1208,10 +1208,11 @@ Both prokyarotic and eukaryotic cells perform [cell division][] to replicate the
 
 Some cells cycle through one of a few states called a [cell cycle][]:
 
+1. [G<sub>0</sub> phase][g0 phase]: No growth.
 1. Interphase:
     1. [G<sub>1</sub> phase][g1] (G for Growth): Cell grows.
     1. [S phase][] (S for Synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
-    1. [G<sub>2</sub>phase ][g2] (G for Growth): Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
+    1. [G<sub>2</sub> phase ][g2] (G for Growth): Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
 1. [M phase][] (M for Mitosis): Cell divides
     1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] (or sister chromatid pair). A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
@@ -1221,11 +1222,9 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids.
 
-Movement between states in the cell cycle maybe inhibited at particular [cell cycle checkpoints][]. The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to a protein called [cyclin][]. An example of a cyclin-CDK complex is [maturation-promoting factor][] (MPF).
+Movement between states in the cell cycle may be inhibited at particular [cell cycle checkpoints][]. The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to a protein called [cyclin][]. An example of a cyclin-CDK complex is [maturation-promoting factor][] (MPF).
 
-If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue, it exits the cell cycle into the [G<sub>0</sub> phase][g0 phase]. A [growth factor][] is a protein that stimulates cells to exit the G<sub>0</sub> phase.
-
-Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
+If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue, it exits the cell cycle into the G<sub>0</sub> phase. A [growth factor][] is a protein that stimulates cells to exit the G<sub>0</sub> phase. Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
 
 ##### Meiosis
 
@@ -1643,7 +1642,7 @@ Some plants respond to mechanical stimuli such as wind through the process of [t
 
 Mitochondria-like organelles in plants and algae are called [Plastids][] and have their own DNA like mitochondria. [Chloroplasts][] are plastids that act as the site of photosynthesis. In chloroplasts, the outer membrane is not used for ATP synthesis like in mitochondria but is a relic of endosymbiosis.
 
-Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called thylakoids which are arranged into stacks called [grana][] (a single stack being a granum). [Chlorophyll][] molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
+Within the inner membrane, in the fluid called the [stroma][], chloroplasts are further divided into membraned sacs called [thylakoids][] which are arranged into stacks called [grana][] (a single stack being a granum). Chlorophyll molecules in the thylakoid membranes absorb light and the Calvin Cycle uses that energy to synthesize organic compounds.
 
 Plants have leaves which include [mesophyll cells][] that contain chloroplasts (the mesophyll cells on the top of the leaves exposed to the most sunlight are [Palisade Cells][]). Mesophyll cells have [both chloroplasts and mitochondria][]. Between the mesophyll cells and the vascular system (e.g. phloem) are protective [Bundle-Sheath Cells][]. Sugars from photosynthesis flow from mesophyll cells into bundle-sheath cells into phloem parenchyma, then into companion cells (using an active transport that needs ATP as part of [Phloem Loading][]) and finally into the sieve-tube elements in the phloem. The [Pressure Flow Hypothesis][] proposes that in some plants, loading sugars into phloem causes osmosis of water from nearby xylem thus creating a water pressure potential gradient with the rest of the phloem and the sugars are pressured into flowing towards destinations that have lower sugar concentrations.
 
@@ -2845,7 +2844,7 @@ if (elements.length) {
 [bile]: https://en.wikipedia.org/wiki/Bile
 [bile acid]: https://en.wikipedia.org/wiki/Bile_acid
 [binary fission]: https://en.wikipedia.org/wiki/Fission_(biology)
-[binomial]: https://en.wikipedia.org/wiki/Binomial_nomenclature
+[binomial nomenclature]: https://en.wikipedia.org/wiki/Binomial_nomenclature
 [biochemical ligand]: https://en.wikipedia.org/wiki/Ligand_(biochemistry)
 [biofilms]: https://en.wikipedia.org/wiki/Biofilm
 [biogenic amines]: https://en.wikipedia.org/wiki/Biogenic_amine
@@ -3539,6 +3538,7 @@ if (elements.length) {
 [intrinsic rate of increase]: https://en.wikipedia.org/wiki/Population_dynamics#Intrinsic_rate_of_increase
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
+[invertebrates]: https://en.wikipedia.org/wiki/Invertebrate
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ion channels]: https://en.wikipedia.org/wiki/Ion_channel
 [ion transporters]: https://en.wikipedia.org/wiki/Ion_transporter
@@ -4205,6 +4205,7 @@ if (elements.length) {
 [sex hormones]: https://en.wikipedia.org/wiki/Sex_steroid
 [sexes]: https://en.wikipedia.org/wiki/Sex
 [sexual dimorphism]: https://en.wikipedia.org/wiki/Sexual_dimorphism
+[sexual reproduction]: https://en.wikipedia.org/wiki/Sexual_reproduction
 [sexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [shoots]: https://en.wikipedia.org/wiki/Shoot
 [short-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
