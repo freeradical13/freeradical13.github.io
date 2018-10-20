@@ -618,7 +618,7 @@ General terms:
 
 ### Monosaccharides
 
-[Monosaccharides][] are carbohydrates made of a single sugar molecule with a Carbonyl and multiple Hydroxyl groups (usually D-form isomers). Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexxoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose.
+[Monosaccharides][] are carbohydrates made of a single sugar molecule with a Carbonyl and multiple Hydroxyl groups (usually D-form isomers). Also called simple sugars. Sugars vary in the location of their Carbonyl group, the length of the backbone (3-7 Carbons) and their spatial arrangement. Trioses: 3 Carbon sugars. Pentoses: 5 Carbon sugars. Hexoses: 6 Carbon sugars. If the Carbonyl is at the end of the backbone, it's an aldose; otherwise, a ketose.
 
 One of the most common sugars used by organisms for energy is [Glucose][] which is a hexose aldose. It has the linear arrangement:
 
@@ -831,6 +831,7 @@ Hydrophilic + Basic (positively charged):
 * Lysine (K/Lys)
 * Arginine (R/Arg)
 * Histidine (H/His)
+* Pyrrolysine (O/Pyl)
 
 Amino acids may bond when a Carboxyl group from one and an Amino group from another perform a dehydration synthesis to form a peptide bond. One end of the polypeptide has an amino group which is called the N-terminus and the other end has a Carboxyl group which is called the C-terminus. Generally, amino acids are written and read starting at the N-terminus. The polypeptide backbone is the bonded amino acids without taking into account the side chains.
 
