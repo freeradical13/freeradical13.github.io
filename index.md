@@ -596,7 +596,7 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply an organic molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction ([lysis][] is Greak for the word break) and produces energy. The verb is to hydrolyze.
+Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction ([lysis][] is Greek for the word break) and produces energy. The verb is to hydrolyze.
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
@@ -610,7 +610,7 @@ General terms:
 
 * [Facultative][]: optional.
 * [Obligate][]: obligatory; necessary.
-* [Ligands][biochemical ligand]: Not necessarily like the ligand in a coordinate covalent bond, biochemical ligands describe molecules that bind to larger biomolecules to help with a biological function (often through a change in conformation of the biomolecule).
+* [Ligands][biochemical ligand]: Biochemical ligands describe substances that bind to larger biomolecules to help with a biological function (often through a change in conformation of the biomolecule).
 
 ## Carbohydrates
 
