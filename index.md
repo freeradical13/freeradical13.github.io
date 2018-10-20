@@ -1305,7 +1305,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
     1. A tRNA exits the ribosome at the [E-site][].
     1. A tRNA bound to the ribosome at the [P-site][] adds its amino acid to the new polypeptide chain and moves to the E-site.
     1. A tRNA and amino acid pair for the next codon binds to the ribosome at the [A-site][] (A for aminoacyl) and moves to the P-site when the other tRNA moves from the P-site to the E-site.
-    1. If multiple ribosomes may use a single mRNA in sequence, this complex is called a polyribosome (or [polysome][]).
+    1. If multiple ribosomes use a single mRNA in sequence, this complex is called a polyribosome (or [polysome][]).
 
 ### Gene Expression
 
@@ -1317,7 +1317,7 @@ A [repressible operon][] is usually on, unless turned off by a repressor. An [in
 
 An [activator][] is a protein that binds to the promoter to stimulate gene transcription by increasing the affinity of RNA Polymerase to the promoter.
 
-All cells in an organism have the same genome (usually), but only certain genes are expressed in different types of cells in a process called [differential gene expression][]. Histones in a nucleosome have amino acid tails to which various functional groups may be attached.
+All cells in an organism have the same genome (mostly, although some cells may have mutations), but only certain genes are expressed in different types of cells in a process called [differential gene expression][]. Histones in a nucleosome have amino acid tails to which various functional groups may be attached.
 
 When histone tails are unacetylated or methylated, the nucleosomes stay compacted and are unavailable for expression. When [histone tails are acetylated][], the nucleosomes become uncompacted and are available for expression.
 
@@ -1325,7 +1325,7 @@ In [DNA Methylation][], when certain bases are methylated on the DNA itself, exp
 
 A [constitutive gene][] is transcribed continually. A facultative gene is only transcribed when needed.
 
-A [transcription factor][] is a protein that controls the rate (activators or repressors) of gene transcription. In eukaryotes, transcription factors may bind to one or more [control elements][] (such as [enhancers][]) of a gene which are non-coding DNA sequences that may exist upstream of the promotor and impact activity on the promoter through mediator proteins.
+A [transcription factor][] is a protein that controls the rate of gene transcription through activators and/or repressors. In eukaryotes, transcription factors may bind to one or more [control elements][] (such as [enhancers][]) of a gene which are non-coding DNA sequences that may exist upstream of the promotor and impact activity on the promoter through mediator proteins.
 
 DNA may also transcribe non-protein-coding RNA called [noncoding RNA][] (ncRNA) including [microRNA][] (miRNA) and [small interfering RNA][] (siRNA) which may inhibit mRNA translation. Another type of ncRNA called [long noncoding RNA][] (lncRNA) has functions such as deactivating the second X chromosome in females.
 
@@ -1333,12 +1333,12 @@ DNA may also transcribe non-protein-coding RNA called [noncoding RNA][] (ncRNA) 
 
 Changes to the genetic code of a cell are called [mutations][]. If a mutation occurs due to physical or chemical means other than due to errors in DNA replication, such as a pyrimidine dimer, the agent is called a [mutagen][].
 
-A [point mutation][] is a mutation of a single nucleotide pair at a particular location in a gene. Types of mutations:
+A [point mutation][] is a mutation of a single nucleotide pair at a particular locus. Types of mutations:
 
 * A [nucleotide-pair substitution][] is a point mutation where one nucleotide pair is changed for another.
 * A [frameshift mutation][] occurs when a number of nucleotide pairs that's not a multiple of three are inserted or deleted.
 
-A single nucleotide base-pair where variation is found in at least 1% of a population of similar organisms is called a [Single Nucleotide Polymorphism][] (SNP).
+A single nucleotide base-pair where variation is found at a particular locus in at least 1% of a population of similar organisms is called a [Single Nucleotide Polymorphism][] (SNP).
 
 A [silent mutation][] occurs when the new codon codes for the same amino acid. A [missense mutation][] mutation occurs when the new codon codes for a different amino acid. A [nonsense mutation][] occurs when the new codon is a stop codon.
 
@@ -1364,13 +1364,13 @@ In some cases called [genomic imprinting][], there may be a difference in gene e
 
 [Gene Therapy][] is the insertion of genes into somatic cells to change their function.
 
-[Transgenes][] are similar but introduced into zygotes and the resulting organisms are called [Genetically Modified Organisms][] (GMOs).
+[Transgenes][] are similar to gene therapy but introduced into zygotes and the resulting organisms are called [Genetically Modified Organisms][] (GMOs).
 
 ### Evolution
 
 [Evolution][] is the change of gene frequencies in a population over time. These changes may occur due to gene mutation, sexual reproduction, gene duplication, etc.
 
-The theory of [natural selection][] is that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce, thus passing on their genotypes to offspring. These valuable traits are called [adaptations][]. Evolutionary fitness is specifically reproductive success.
+The theory of [natural selection][] is that organisms that have characteristics best adapted for an environment (where the environment includes predators, selection by mates, [artifical selection][] by other species such as humans, etc.) are more likely to gather resources, survive, and reproduce (quantified as [Evolutionary Fitness][]), thus passing on their genotypes to offspring. These valuable traits are called [adaptations][].
 
 [Genetic Drift][] is evolution of certain alleles over others due to random chance (the smaller the population, the more likely). One type of genetic drift is the [Founder Effect][] when a small part of a population becomes isolated from the larger population (e.g. on an island - this often also leads to the creation of multiple species, called [allopatric speciation][] as opposed to [sympatric speciation][] in the same geographical area). Another type of genetic drift is the [Bottleneck Effect][] where a population has a significant decline due to some bottleneck such as a fire.
 
@@ -1382,13 +1382,13 @@ The theory of [natural selection][] is that organisms that have characteristics 
 
 [Sexual Selection][] is a type of natural selection where individuals of one sex with certain characteristics are more likely to obtain mates than other individuals of the same sex. In [Intrasexual Selection][], organisms of the same sex compete for mates of the opposite sex. In [Intersexual Selection][], one sex (usually females) chooses the members of the opposite sex to mate with. Sexual selection may lead to [Sexual Dimorphism][] which describes differences in characteristics between males and females.
 
-In [Frequency-Dependent Selection][], the frequency of an allele fluctuates depending on the frequency of other alleles within the same species (e.g. sexual selection) or in other species.
+In [Frequency-Dependent Selection][], the frequency of an allele fluctuates depending on the frequency of other alleles within the same species or in other species.
 
 In [Heterozygote Advantage][], organisms with two or more alleles at a locus are selected at a higher rate.
 
 A [Hybrid Zone][] is a geographical area in which multiple species are more likely to reproduce (creating hybrids). [Reinforcement][] is the process of increasing reproductive barriers between species in the case that hybrids are less fit than parents.
 
-[Allopolyploidy][] occurs when gametes of two different diploid species overcome sexual barriers and form a haploid zygote with non-homologus chromosomes. This zygote may develop into a mature organism through mitosis although it cannot reproduce sexually because meiosis requires polyploidy. However, nondisjunctions during mitosis may create a duplicated cell which has homologous chromosomes which will allow meiosis and subsequent sexual reproduction.
+[Allopolyploidy][] occurs when gametes of two different diploid species overcome sexual barriers and form a haploid zygote with non-homologus chromosomes. This zygote may develop into a mature organism through mitosis although it cannot reproduce sexually because meiosis requires paired chromosomes. However, nondisjunctions during mitosis may create a duplicated cell which has homologous chromosomes which will allow meiosis and subsequent sexual reproduction.
 
 ### Proteomics
 
@@ -1412,7 +1412,7 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 A Gram Stain may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
-[Bacterial Flagella][] has a motor, hook, and filament.
+[Bacterial Flagella][] use a motor, hook, and filament.
 
 Bacteria asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
@@ -1473,7 +1473,7 @@ The [golgi apparatus][] is a stack of membrane-enclosed sacs called [cisternae][
 
 [Lysosomes][] use hydrolytic enzymes to break down proteins, carbohydrates, and nucleic acids. Lysosomes have an acidic pH of 5.
 
-Material is first sorted inside [endosomes][] before being processed by the lysosomes.
+Material may be first sorted inside [endosomes][] before being processed by the lysosomes.
 
 #### Peroxisomes
 
@@ -1513,7 +1513,7 @@ A [homeobox][] is a DNA sequence found within genes that encodes transcription f
 
 #### Energy Generation
 
-Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmid and ribosomes, although most of their proteins are created by the enclosing cell and imported.
+Mitochondria and chloroplasts are organelles that generate the majority of usable energy in eukaryotes. The [endosymbiotic theory][] (or symbiogenesis) is the idea that prokaryotic cells that resembled mitochondria and chloroplasts [fused][mitochondrial symbiogenesis] with protoeukaryotes to provide energy and received nutrients and protection in return. Both mitochondria and chloroplasts have their own DNA plasmids and ribosomes, although most of their proteins are created by the enclosing cell and imported.
 
 #### Mitochondria
 
@@ -1545,7 +1545,7 @@ The [immune system][] in an organism is a defense system against [pathogens][] (
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi includes yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
 
 Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
 
@@ -1559,11 +1559,11 @@ Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutri
 
 #### Algae
 
-[Algae][] are a polyphyletic group of photosynthetic eukaryotes which lack roots, stems or leaves, so they're not considered plants.
+[Algae][] are photosynthetic eukaryotic autotrophs which lack roots, stems or leaves, so they're not considered plants.
 
 #### Plants
 
-[Plants][] are eukaryotic autotrophs that generate their own chemical energy from sunlight through the process of photosynthesis, although they do not include algae or fungi. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
+[Plants][] are photosynthetic eukaryotic autotrophs although they do not include algae. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
 
 Plants have alternation of generations and they are [embryophytes][] which use embroys to nurture young sporophytes within the gametophyte.
 
@@ -1571,13 +1571,13 @@ Plants are also called [land plants][] (or [terrestrial plants][]) because they 
 
 [Soil][] is a part of land that usually has nutrients, minerals, water, gases, and organic matter. Soil forms from the weathering of rock, the remains of dead organisms (called [humus][]), and other organic material. [Topsoil][] is the uppermost layer of soil that has the highest concentration of organic matter. The most fertile topsoils are called [loams][]. [Vegetation][] is a group of plants that cover soil.
 
-Plant [roots][] are organs that lie below soil and absorb water and minerals and anchor the plant into the soil. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes. Roots use [cation exchange][] by acidifying the solution with H<sup>+</sup> which displace mineral cations in the soil which the roots then absorb. [Phytoremediation][] is the use of certain plants (e.g. alpine pennycress) that extract harmful minerals for disposal.
+Plant [roots][] are organs that lie below soil and absorb water and minerals and anchor the plant into the soil. [Taproots][] have a single root extension into the soil while others are branched. Some roots have root hairs to increase surface area to acquire resources. Others without root hairs have a symbiotic relationship with attached bacteria to increase surface area to acquire resources. Rooted plants help an area avoid [erosion][] which is the removal of soil due to physical processes. Roots use [cation exchange][] by acidifying the solution with H<sup>+</sup> which displaces mineral cations in the soil which the roots then absorb. [Phytoremediation][] is the use of certain plants (e.g. alpine pennycress) that extract harmful minerals for disposal.
 
 Plant [shoots][] are everything above ground. The plant [stem][] lies above the soil (in general) and supports photosynthetic organs. Growth mostly occurs at the terminal tip called the [apical bud][]. An [axillary bud][] may create a lateral branch, thorn, or flower.
 
 [Branches][] are stem-like appendages that grow from the stem and hold leaves to the light and transport water and nutrients between the roots and leaves.
 
-Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor into the cell. The arrangement of leaves on a stem is called [phyllotaxy][].
+Plant [leaves][] are organs that project from branches and perform photosynthesis. The lower epidermis of leaves includes [stomata][] (singular stoma) which are openings that allow diffusion of Carbon Dioxide, Oxygen, and water vapor into and out of the leaf. The arrangement of leaves on a stem is called [phyllotaxy][].
 
 [Guard cells][] open stomata during the day to allow in Carbon Dioxide for photosynthesis and close at night to limit transpiration which is the process of water evaporation in plants. Water in a leaf exerts pressure called [turgor pressure][] causing the swelling or clamping down of the stomata to regulate their size. The guard cell includes blue-light receptors which open Potassium ion channels when exposed to blue-light in the day and let in Potassium ions and thus water flows into the guard cells to follow its osmotic gradient.
 
@@ -1585,7 +1585,7 @@ Everything in cytosol in all the cells and the plasmodesmata is called the [symp
 
 Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
 
-Plant sporophytes have organs called [sporangia][] that produce spores within diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively). Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium with the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
+Plant sporophytes have organs called [sporangia][] that produce spores from diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively). Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium with the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
 
 Plant gametophytes have organs called [gametangia][] (female [archegonia][] and male [antheridia][]) which produce gametes that fertilize in the archegonia.
 
@@ -1593,7 +1593,7 @@ Plant gametophytes have organs called [gametangia][] (female [archegonia][] and 
 
 [Vascular plants][] (tracheophytes) have vascular tissues ([steles][]) which propagate resources to the entire plant, allowing for very large plants. These vascular tissues include xylem and thinner-walled phloem. In some cases, stele is a combination of xylem and phloem whereas in others, they are separate. Xylem and phloem transport liquid and dissolved substances (collectively called [sap][]) using [bulk flow][] from higher to lower pressure independent of solute concentration (as in osmosis). Vascular plants have a dominant sporophyte generation.
 
-[Transpiration][] creates negative pressure which drives additional water uptake and bulk flow of sap upwards (using hydrogen bonding water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
+[Transpiration][] creates negative pressure which drives additional water uptake and bulk flow of sap upwards (using hydrogen bonding to create water cohesion) through the vascular system. Areas with a lot of nutrients create an osmotic pressure for water to enter and thus allow for the "long-range" diffusion of nutrients.
 
 The [xylem][] transports most water and minerals in sap from the roots to the shoots using [tracheid cells][] and [vessel element cells][] which have walls strengthened with the polymer [lignin][]. In a mature xylem, both cell types are dead even as they function. At night, when there is little transpiration, root cells continue to pump in ions into the xylem which lowers the water potential pressure, which leads to water pumping in due to osmosis, which generates [root pressure][] to push sap up the xylem. If root pressure pushes sap faster than the rate of transpiration, this results in [guttation][] which is the excretion of water droplets on plant leaves, although this should not be confused with [dew][] which is condensed atmospheric moisture.
 
@@ -1601,7 +1601,7 @@ The [Phloem][] has cells arranged in tubes that transport sugars, amino acids, a
 
 The soil immediately surrounding roots is called the [Rhizosphere][] and may contain rhizobacteria which are bacteria that live in the rhizosphere. [Endophytes][] are rhizobacteria or fungi that live between plant cells. Nitrogen is an important macronutrient for plants taken up during the [Nitrogen Cycle][] and it comes from [Rhizobacteria][] which use [Nitrogen Fixation][] to convert Nitrogen gas from the air (N<sub>2</sub>) into Ammonia (NH<sub>3</sub>) which combines with H<sup>+</sup> in the soil to form Ammonium (NH<sub>4</sub>), or Nitrogen from humus directly into Ammonium. Ammonium may be taken up directly by plant roots, or it may be further processed by Nitrifying bacteria into Nitrite (NO<sub>2</sub><sup>-</sup>) which is then processed by other nitrifying bacteria into Nitrate (NO<sub>3</sub><sup>-</sup>) which is taken up by plant roots. Weathering of rock and lightning striking Nitrogen gas may also create Nitrate which is taken up by plant roots. Nitrate may by converted into Ammonium in the plant root, or sent up the xylem and converted into Ammonium near where it's needed. Ammonium absorbed from soil is also taken up the xylem. [Crop rotation][] usually involves periodically planting legumes with rhizobacteria called Rhizobium which are particularly good at increasing Nitrogen concentration in the soil.
 
-Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][] ([Parenchyma][] cells in soft tissues, [Collenchyma][] cells for structure in new growth, and [Sclerenchyma][] cells as the main structural support). Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis, and the [Pith][]).
+Plants have undifferentiated tissues called [meristems][] which contain stem cells that can divide and differentiate, allowing for indeterminate growth to increase the root and shoot ends of the plant through [apical meristems][] (called [primary growth][]). Any tissues that are neither vascular nor epidermal are called [Ground Tissue][] ([Parenchyma][] cells in soft tissues, [Collenchyma][] cells for structure in new growth, and [Sclerenchyma][] cells as the main structural support). Ground tissue internal to the vascular tissue is called [Pith][]. Primary growth results in the following tissues: [Protoderm][] (which develops into the epidermis), [Procambium][] (which develops the vascular primary xylem and phloem tissues surrounded by the [Pericycle][] which is surrounded by the [Endodermis][]), and [Ground Meristem][] (which develops into the [Cortex][plant cortex] between the endodermis and epidermis).
 
 Woody plants also have growth in thickness (called [secondary growth][]) through [lateral meristems][] called the vascular cambium and cork cambium. The [vascular cambium][] is the main lateral growth layer where vascular tissue is added called secondary xylem (or [Wood][]) to the outside of the primary xylem, and secondary phloem to the inside of the primary phloem. [Bark][] is all tissue external to the vascular cambium. The part of bark that replaces the epidermis with tougher [periderm][] is called the [cork cambrium][] which laterally grows [Cork][] cells.
 
@@ -1613,17 +1613,17 @@ Vascular plants that do not produce seeds are either lycophytes or monilophytes.
 
 [Angiosperms][] (or flowering plants) have flowering seeds whereas [gymnosperms][] have naked seeds. Most angiosperms are hermaphrodites and some may self-pollinate. Gymnosperms that create cones are called conifers.
 
-A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][] at the end of the filament, [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo.
+A [flower][] on an angiosperm is made of [sepals][] which enclose the flower before it opens, [petals][] which are colored leaves that attract pollinators, [stamens][] (made of a stalk called a [filament][]) which produce the microsporangium (and thus pollen) in a sac called the [anther][] at the end of the filament, [carpels][] which produce the megasporandium (and thus ovule) with a [stigma][] that receives pollen which leads to the [style][] that leads to the ovary through the [micropyle][] that contains the female gametophyte (a single carpel is a [pistil][]). After fertilization into a sporophyte and cotyledon (initial root and leaves), the mature ovary develops into [fruits][] (with seeds) which protect the seed and aid in its dispersal. In the process of [double fertilization][], another sperm produces an additional triploid cell which turns into [endosperm][] that nourishes the embryo. A [vegetable][] is any edible part of a plant which is not the fruit.
 
 Nonvascular plants are called [bryophytes][] including [mosses][], [liverworts][], and [hornworts][].
 
 [Microphylls][] are leaves with no vascular branching and [megaphylls][] have high vascular branching.
 
-[Monocots][] are flowering plants that have one cotyledon in the embryo, leaves that are narrow with veins that run parallel to the length of the leaf, and other characteristics.
+[Monocots][] are flowering plants that have one cotyledon in the embryo, and leaves that are narrow with veins that run parallel to the length of the leaf.
 
-[Eudicots][] are flowering plants that have two cotyledons in the embryo, leaves that are broad with veins arranged in a net, and other characteristics.
+[Eudicots][] are flowering plants that have two cotyledons in the embryo, and leaves that are broad with veins arranged in a net.
 
-The [ABC Model of Flower Development][] describes how three genes in meristems lead to the four types of flower organs (A genes in the outer sepals and petals, B genes in the middle petals and stamens, and C genes in the inner stamens and carpels). Sepals arise where only A genes are active. Petals arise where only A and B genes are active. Carpels arise where only C genes are active.
+The [ABC Model of Flower Development][] describes how three genes in meristems lead to the four types of flower organs (A genes in the outer sepals and petals, B genes in the middle petals and stamens, and C genes in the inner stamens and carpels). Sepals arise where only A genes are active. Petals arise where only A and B genes are active. Stamens arise where only B and C genes are active. Carpels arise where only C genes are active.
 
 An [epiphyte][] is a plant that grows on another plant, gathering resources independently. Parasitic plants are like epiphytes except they extract resources from the host plant.
 
@@ -1636,6 +1636,8 @@ Some plants require certain temperature thresholds before flowering and this may
 Some plants respond to the effects of gravity through the process of [gravitropism][] which detects the settling of cytoplasmic components called statoliths.
 
 Some plants respond to mechanical stimuli such as wind through the process of [thigmotropism][].
+
+A vegetable 
 
 ##### Chloroplasts
 
@@ -3251,6 +3253,7 @@ if (elements.length) {
 [eustachian tube]: https://en.wikipedia.org/wiki/Eustachian_tube
 [eutrophic lakes]: https://en.wikipedia.org/wiki/Trophic_state_index#Eutrophic
 [evolution]: https://en.wikipedia.org/wiki/Evolution
+[evolutionary fitness]: https://en.wikipedia.org/wiki/Fitness_(biology)
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
 [example arrhenius acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases
 [excavata]: https://en.wikipedia.org/wiki/Excavata
@@ -4459,6 +4462,7 @@ if (elements.length) {
 [vasoconstriction]: https://en.wikipedia.org/wiki/Vasoconstriction
 [vasodilation]: https://en.wikipedia.org/wiki/Vasodilation
 [vasopressin]: https://en.wikipedia.org/wiki/Vasopressin
+[vegetable]: https://en.wikipedia.org/wiki/Vegetable
 [vegetation]: https://en.wikipedia.org/wiki/Vegetation
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
