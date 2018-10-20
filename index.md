@@ -1733,11 +1733,11 @@ Blood cells are secreted in the bone marrow from stem cells and may be red blood
 
 [Red Blood Cells][] (or [erythrocytes][], or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body.
 
-[Platelets][] (or [thrombocytes][]) lack a nucleus and help with forming blood clots in response to injury. Thrombocytes also lack mitochondria and generate ATP through anaerobic respiration.
+[Platelets][] (or [thrombocytes][]) lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
+
+Erythrocytes and thrombocytes lack mitochondria and generate ATP through anaerobic respiration.
 
 [White Blood Cells][] (or [leukocytes][], or WBCs) have a nucleus and are the cells of the immune system.
-
-A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
 
 ##### Blood Vessels
 
@@ -1759,7 +1759,7 @@ The [Lymphatic System][] is a part of the Circulatory System which has an altern
 
 The [heart][] is an organ that pumps blood through the circulatory system. The combination of the heart and blood vessels is called the [Cardiovascular System][].
 
-Hearts contain two or more chambers. Chambers that receive blood in as part are called [atria][] and chambers that pump blood out are called [ventricles][]. [Systemic Circulation][] carries oxygenated blood from the heart to the body. [Pulmonary Circulation][] carries deoxygenated blood from the heart to the lungs. The major steps of heart function are:
+Hearts contain two or more chambers. Chambers that receive blood in are called [atria][] and chambers that pump blood out are called [ventricles][]. [Systemic Circulation][] carries oxygenated blood from the heart to the body. [Pulmonary Circulation][] carries deoxygenated blood from the heart to the lungs. The major steps of heart function are:
 
 * Contraction of the right ventricle pumps blood to the lungs via [Pulmonary Arteries][] where blood loads O<sub>2</sub> and unloads CO<sub>2</sub>.
 * Oxygenated blood returns from the lungs via the [Pulmonary Veins][] into the left atrium and then the left ventricle and then out through the artery called the [aorta][].
@@ -1781,7 +1781,7 @@ An [electrocardiogram][] (or ECG, or EKG) graphs electrical current over time me
 
 [Arteriosclerosis][] is the thickening, hardening and loss of elasticity of the walls of arteries.
 
-[Atherosclerosis][] is a type of arteriosclerosis where the blood vessel lumen accumulates fatty deposits called plaques. Ruptured plaques may cause a thrombus which leads to a the damage or death of cardiac muscle cells called a heart attack (or [myocardial infarction][]) or the damage or death of neurons called a stroke.
+[Atherosclerosis][] is a type of arteriosclerosis where the blood vessel lumen accumulates fatty deposits called plaques. Ruptured plaques may cause a thrombus which leads to the damage or death of cardiac muscle cells called a heart attack (or [myocardial infarction][]) or the damage or death of neurons called a stroke.
 
 #### Neurons
 
@@ -1811,16 +1811,16 @@ Some of the ion channels in a neuron are [Voltage-Gated Ion Channels][] which op
 
 A temporary shift in the polarization of the membrane is called a [Graded Potential][] which is proportional to stimulus strength.
 
-If a stimulus depolarizes the voltage past a certain threshold, a larger change in voltage than a graded potential occurs called the [Action Potential][] as voltage-gated Sodium channels open, letting Na<sup>+</sup> ions into the cell resulting in further depolarization. The increased depolarization leads to additional Sodium channels opening, and thus further depolarization while most Potassium voltage-gated ion channels stay closed. The maximum voltage is constant and dependent on the composition of the Sodium ion channels in the membrane, thus the voltage magnitude of an action potential is independent of the stimulus strength. After a certain point, voltage-gated sodium ion channels close and potassium channels open thus bringing the voltage back down. During this phase called the [Refractory Period][], the sodium channels are inactivated so that a second signal cannot simulataneously affect the neuron. Because of the inactivated sodium channels, the current can only move in one direction, thus a series of action potentials moves a signal along an axon as Sodium and Potassium voltage-gated ion channels respond sequentially. An action potential is binary: it either reaches the threshold and initiates or it doesn't. Stimulus signal strength causes repeated, sequential firings of action potentials and the larger the stimulus, the more frequent the firings.
+If a stimulus depolarizes the voltage past a certain threshold, a larger change in voltage than a graded potential occurs called the [Action Potential][] as voltage-gated Sodium channels open, letting Na<sup>+</sup> ions into the cell resulting in further depolarization. The increased depolarization leads to additional Sodium channels opening, and thus further depolarization while most Potassium voltage-gated ion channels stay closed. The maximum voltage is constant and dependent on the composition of the Sodium ion channels in the membrane, thus the voltage magnitude of an action potential is independent of the stimulus strength (i.e. an action potential is binary: it either reaches the threshold and initiates or it doesn't). After a certain point, voltage-gated sodium ion channels close and potassium channels open thus bringing the voltage back down. During this phase called the [Refractory Period][], the sodium channels are inactivated so that a second signal cannot simulataneously affect the neuron. Because of the inactivated sodium channels, the current can only move in one direction, thus a series of action potentials moves a signal along an axon as Sodium and Potassium voltage-gated ion channels open and close sequentially. Stimulus signal strength causes repeated, sequential firings of action potentials and the larger the stimulus, the more frequent the firings.
 
 For some axons, glial cells called [Oligodendrocytes][] in the central nervous system and [Schwann Cells][] in the peripheral nervous system produce electrical insulation around axons called [Myelin Sheaths][]. In such myelinated axons, voltage-gated sodium channels are only in between the myelinated sections, in areas called [Nodes of Ranvier][], thus signals travel faster because the action potential simply passes down the myelinated portions to the next node of ranvier in a process called Saltatory Conduction.
 
-In [Synaptic Signaling][], signals pass between neurons through electrical or chemical [Synapses][] across short gaps called [Synaptic Clefts][]. In chemical synapses, neurons excrete [Neurotransmitters][] diffuse across to trigger target cells. As an action potential arrives at the presynaptic membrane of the signaling cell, depolarization opens voltage-gated ion channels that let in Ca<sup>2+</sup> from the outside which cause vesicles to release neurotransmitters to the target cells. At the target dendrites, [Ligand-Gated Ion Channels][] are opened by the neurotransmitters to allow Na<sup>+</sup> and K<sup>+</sup> to diffuse to depolarize the membrane to create an [Excitatory Postsynaptic Potential][], or to allow K<sup>+</sup> and Cl<sup>-</sup> to diffuse to hyperpolarize to create an [Inhibitory Postsynaptic Potential][]. In the process of [Summation][], postsynaptic potentials in rapid succession may combine to exceed the action potential threshold at the integration center called the [Axon Hillock][] to start another action potential. Some neurotransmitters activate G protein-coupled receptors which activate a signal cascade that opens and closes ion channels.
+In [Synaptic Signaling][], signals pass between neurons through electrical or chemical [Synapses][] across short gaps called [Synaptic Clefts][]. In chemical synapses, neurons excrete [Neurotransmitters][] which diffuse across to trigger target neurons. As an action potential arrives at the presynaptic membrane of the signaling cell, depolarization opens voltage-gated ion channels that let in Ca<sup>2+</sup> from the outside which cause vesicles to release neurotransmitters to the target cells. At the target dendrites, [Ligand-Gated Ion Channels][] are opened by the neurotransmitters to allow Na<sup>+</sup> and K<sup>+</sup> to diffuse to depolarize the membrane to create an [Excitatory Postsynaptic Potential][], or to allow K<sup>+</sup> and Cl<sup>-</sup> to diffuse to hyperpolarize to create an [Inhibitory Postsynaptic Potential][]. In the process of [Summation][], postsynaptic potentials in rapid succession may combine to exceed the action potential threshold at the integration center called the [Axon Hillock][] to start another action potential. Some neurotransmitters activate G protein-coupled receptors which activate a signal cascade that opens and closes ion channels.
 
 Example neurotransmitters include:
 
 * [Acetylcholine][] participates in muscle stimulation, memory formation, and learning.
-* Amino acids that may act as neurotransmitters such as [Glutamate][] which participates in long-term memory formation, and in some organisms funtions the role of acetylcholine.
+* Amino acids that may act as neurotransmitters such as [Glutamate][] which participates in long-term memory formation, and in some organisms function in the role of acetylcholine.
 * [Biogenic Amines][] which are synthesized from amino acids such as Dopamine and Serotonin.
 * [Neuropeptides][] which are short peptides that may act as neurotransmitters such as Endorphins that decrease pain perception.
 * Gases that may act as neurotransmitters such as Nitric Oxide (NO).
@@ -1831,7 +1831,7 @@ In Neuroendocrine Signaling, neurons called [Neurosecretory Cells][] excrete [Ne
 
 A [brain][] is an organ composed of nervous tissue that controls the rest of the organism. A [spinal cord][] is a tubular bundle of nervous tissue used to send and receive information to and from the brain. A brain is made of three regions: The [Forebrain][] which contains the Cerebrum and Olfactory Bulb, the [Midbrain][] which coordinates routing sensory input, and the [Hindbrain][] which contains the Cerebellum and controls involuntary activities.
 
-The [cerebrum][] (partly the source of voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][]. The upper surface of the cerebrum is called the [pallium][] and some organisms have a more advanced pallium called the [neocortex][] (e.g. language).
+The [cerebrum][] (partly for voluntary thoughts and memories) is made of two parts called the left and right [cerebral hemispheres][] which are connected by a bundle of nerves called the [corpus callosum][]. Each hemisphere is composed of outer layers of [grey matter][] called a [cerebral cortex][] and inner layers of [white matter][]. The upper surface of the cerebrum is called the [pallium][] and some organisms have a more advanced pallium called the [neocortex][] (partly for language).
 
 Grey matter is different from white matter in that grey matter contains more cell bodies and fewer myelinated axons (which causes the whiteness).
 
@@ -1839,9 +1839,9 @@ Each cerebral hemisphere is made of parts called the [frontal lobe][] (partly fo
 
 The cerebrum is attached to the [brainstem][] which connects to the spinal cord and is made of the [pons][] and the [medulla oblongata][] (partly regulating breathing, heart rate, and blood pressure).
 
-Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), [pineal gland][] (partly to produce melatonin for sleep regulation), [pituitary gland][] (partly to produce various hormones), and the limbic system.
+Underneath the cerebrum and connected to the brainstem are other structures such as the [cerebellum][] (partly for [motor control][]), [thalamus][] (partly for relaying signals), pineal gland, [pituitary gland][] (partly to produce various hormones), and the limbic system.
 
-The pineal gland produces the hormone [Melatonin][] which regulates responses to light and the seasons.
+The [Pineal Gland][] produces the hormone [Melatonin][] which regulates responses to light and the seasons, including sleep regulation.
 
 [Oxytocin][] secreted by the Posterior Pituitary Gland contracts mammary gland cells to excrete milk and influences pair bonding and sexual activity.
 
@@ -1849,7 +1849,7 @@ The pineal gland produces the hormone [Melatonin][] which regulates responses to
 
 [Melanocyte-Stimulating Hormone][] (or MSH) secreted by the Anterior Pituitary Gland functions in hunger, metabolism, and skin coloration.
 
-The [limbic system][] (partly the source of emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm in the Suprachiasmatic Nucleus), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
+The [limbic system][] (partly for emotions) is made of structures such as the [hypothalamus][] (partly to link the nervous and endocrine systems, including thermoregulation and control of circadian rhythm in the Suprachiasmatic Nucleus), [amygdala][] (partly for emotional responses), [hippocampus][] (partly for memory), [olfactory bulbs][] (partly for smell processing), and [basal ganglia][] (partly for voluntary motor control).
 
 [Radial Glia][] are glial cells that form tracks along which new neurons migrate.
 
@@ -1886,7 +1886,7 @@ Powering repetitive contractions requires additional ATP by using stores of [Cre
 
 Skeletal muscles cause movement with antagonistic contracting and relaxing muscles.
 
-A hydroskeleton is made of fluid held under pressure in a closed body area with movement accomplished in the process [peristalsis][] which is rhythmic muscle activity that changes the shape of the hydroskeleton.
+A hydroskeleton is made of fluid held under pressure in a closed body area with movement accomplished in the process called [peristalsis][] which is rhythmic muscle activity that changes the shape of the hydroskeleton.
 
 #### Senses
 
@@ -1906,11 +1906,11 @@ A hydroskeleton is made of fluid held under pressure in a closed body area with 
 
 ##### Sensing Gravity
 
-Gravity is sensed with mechanoreceptor organs called [Statocysts][] which include dense material called Statoliths inside which settle on certain ciliated cells depending on the position of the organism.
+Gravity is sensed with mechanoreceptor organs called [Statocysts][] which include dense material called Statoliths inside which material settles on certain ciliated cells depending on the position of the organism.
 
 ##### Sensing Sound and Equilibrium
 
-[Sound][] is a vibration that propagates as a wave of pressure through some substance. An organ called an [Ear][] has mechanoreceptor neurons called [Hair Cells][] that transduce the pressure waves into signals in the brain. The outside of the ear is called the Pinna and sounds travel down the Auditory Canal until they are collected at the [Tympanic Membrane][] (or eardrum). Behind the eardrum is the Middle Ear where three small bones - the Malleus (or hammer), the Incus (or anvil), and the Stapes (or stirrup) - transmit sound to the Oval Window, and opens the [Eustachian Tube][] which equalizes pressure with the atmosphere. The bones in the middle ear transfer the sound waves to the inner ear which has fluid-filled chambers and the sounds go into the coiled cochlea bony chamber. The [Cochlea][] has two fluid-filled canals separated by a smaller duct. The floor of the cochlear duct has the [Organ of Corti][] which has the hair cells. Sound waves cause the membrane of the organ of corti to vibrate which bends hairs on the hair cells causing a release of a neurotransmitter across a synapse to sensory neurons.
+[Sound][] is a vibration that propagates as a wave of pressure through some substance such as air. An organ called an [Ear][] has mechanoreceptor neurons called [Hair Cells][] that transduce the pressure waves into signals in the brain. The outside of the ear is called the Pinna and sounds travel down the Auditory Canal until they are collected at the [Tympanic Membrane][] (or eardrum). Behind the eardrum is the Middle Ear where three small bones - the Malleus (or hammer), the Incus (or anvil), and the Stapes (or stirrup) - transmit sound to the Oval Window, and opens the [Eustachian Tube][] which equalizes pressure with the atmosphere. The bones in the middle ear transfer the sound waves to the inner ear which has fluid-filled chambers and the sounds go into the coiled cochlea bony chamber. The [Cochlea][] has two fluid-filled canals separated by a smaller duct. The floor of the cochlear duct has the [Organ of Corti][] which has the hair cells. Sound waves cause the membrane of the organ of corti to vibrate which bends hairs on the hair cells causing a release of a neurotransmitter across a synapse to sensory neurons.
 
 The inner ear also has organs that sense body movement, position, and [balance][] (or equilibrium).
 
@@ -1922,7 +1922,7 @@ In some organisms with Compound Eyes, there are several thousand light detectors
 
 In some organisms with eyes that have a Refractive Cornea, light enters through a transparent [Cornea][] and into the [Pupil][], the diameter of which is controlled by the [Iris][]. Behind the pupil, a [Lens][] directs the light onto a layer of photoreceptors called the [Retina][] (with a dip in the center called the [Fovea][]) and the Lens is moved in or out by muscles to change [Focus][].
 
-The photoreceptor cells are either cone cells or red cells. [Cone Cells][] detect color but are not very sensitive to act poorly in low light. [Rod Cells][] do not detect color but are more sensitive to light so they allow organisms to see in low light in black and white. Within rod and cone cells, there is a stack of membranous disks called pigments which have a light-absorbing molecule called [Retinal][] bound to a membrane protein called [Opsin][]. As retinal absorbs light, it changes from a cis isomer to a trans isomer. which activates opsin.
+The photoreceptor cells are either cone cells or rod cells. [Cone Cells][] detect color but are not very sensitive so act poorly in low light. [Rod Cells][] do not detect color but are more sensitive to light so they allow organisms to see in low light in black and white. Within rod and cone cells, there is a stack of membranous disks called pigments which have a light-absorbing molecule called [Retinal][] bound to a membrane protein called [Opsin][]. As retinal absorbs light, it changes from a cis isomer to a trans isomer which activates opsin.
 
 The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], and the signals of multiple bipolar cells are combined at [Retinal Ganglion Cells][]. Additional [Horizontal Cells][] and [Amacrine Cells][] help to integrate information across the retina. All of this visual information is passed to the [Optic Nerve][] and on to the brain.
 
@@ -1940,7 +1940,7 @@ The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], a
 
 [Partial Pressure][] is the pressure exerted by one gas within a mixture of gases. A gas diffuses from a region of higher partial pressure to lower partial pressure.
 
-Breathing (or respiration, or ventilation) is a process of alternating inhalation and exhalation that facilitates gas exchange of O<sub>2</sub> and CO<sub>2</sub> in organs that are part of a [respiratory system][].
+[Breathing][] (or respiration, or ventilation) is a process of alternating inhalation and exhalation that facilitates gas exchange of O<sub>2</sub> and CO<sub>2</sub> in organs that are part of a [respiratory system][].
 
 In some aquatic organisms, [gills][] move water through the mouth and across [lamellae][] to extract dissolved O<sub>2</sub> and expel CO<sub>2</sub>. Some animals use [countercurrent exchange][] to maximize gas exchange which moves substances or heat in substances in opposite directions next to each other which creates a partial pressure gradient that favors diffusion of O<sub>2</sub> from water to blood.
 
@@ -1966,9 +1966,7 @@ In [Sickle-Cell Disease][], abnormal forms of hemoglobin distort the shape of re
 
 ##### Fatty acid degradation
 
-[Fatty Acid Degradation][] is the process of converting stored fat into Acetyl-CoA which enters the Citric Acid Cycle to produce energy.
-
-When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose cells into fatty acids and glycerol. 
+[Lipolysis][] (or [Fatty Acid Degradation][]) is the process of converting stored fat into Acetyl-CoA which enters the Citric Acid Cycle to produce energy. Lipolysis may occur when Glucose levels are low:
 
 1. Hormones such as Epinephrine and Glucagon are released which bind to receptors on adipocytes that activate [perilipin][] proteins on the surface of lipids.
 1. Phosphorylation of perilipins causes phosphorylated [hormone-sensitive lipase][] to hydrolyze triglycerides in the lipid droplets which produces glycerol and fatty acids.
@@ -1980,7 +1978,7 @@ When Glucose levels are low, [Lipolysis][] breaks down triglycerides in adipose 
 
 ### Lipoproteins
 
-[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer and wrapped with proteins called Apoproteins.
+[Lipoproteins][] are used to transport hydrophobic lipids (such as Cholesterol) through the circulatory system. A lipoprotein is a set of lipids wrapped with a phospholipid bilayer with embedded proteins called Apoproteins.
 
 Lipoproteins are categorized by their relative densities of lipids to proteins from lowest to highest: Chylomicron, Very Low-Density Lipoprotein (VLDL), Low-Density Lipoprotein (LDL), and High-Density Lipoprotein (HDL).
 
@@ -2022,7 +2020,7 @@ When O<sub>2</sub> levels fall, the kidneys secrete a hormone called [Erythropoi
 
 #### Adrenal Glands
 
-The [Adrenal Glands][] on top of the kidneys. The adrenal glands are made of the outer Adrenal Cortex and inner Adrenal Medulla.
+The [Adrenal Glands][] exist on top of the kidneys. The adrenal glands are made of the outer Adrenal Cortex and inner Adrenal Medulla.
 
 Under stress of physical threat, exercise, or cold exposure, the hypothalamus activates the adrenal medulla via nerve impulses (the fight-or-flight response) which excrete the hydrophilic hormones [Epinephrine][] (or Adrenaline) and [Norepinephrine][] (or Noradrenaline) which are Catecholamines. [Catecholamines][] increase the rate of Glycogen breakdown in the liver and skeletal muscles, increase the release of Glucose in the liver, increase Lipolysis in adipose tissue, increase heart rate and stroke volume, change blood vessel constriction and dilation to direct more blood to the heart, brain, and skeletal muscles, and dilate the bronchioles in the lungs.
 
@@ -2048,13 +2046,13 @@ The [Parathyroid Glands][] are four small structures on the surface of the thyro
 
 Gonads in males are called the [Testes][]. Testes create gametes called Sperm in coiled tubes called [Seminiferous Tubules][]. Testes drop into sacs outside the main part of the body called Scrotums. A testis within a scrotum is a Testicle. Sperm pass through the Seminiferous Tubules into a collecting duct called the [Epididymis][]. During ejaculation, sperm are expelled from the Epididymis through a muscular tube called the Vas Deferens which opens into the Urethra and exit through the Penis. Sperm are ejected in a fluid called Semen which is created by Seminal Vesicles, the Prostate Gland, and the Bulbourethral Glands. The tip of the penis is called the Glans (or head) and is surrounded by a layer of skin called the Prepuce (or foreskin). Sperm have a head called the [Acrosome][] which has enzymes that help sperm penetrate an egg.
 
-Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. In general, females also produce androgens in a much smaller amount.
+Testes produce [Androgen Hormones][] such as [Testosterone][] which affect male development. In general, females also produce androgens but in a much smaller amount.
 
-Gonads in females are called [Ovaries][]. The outer layer of ovaries include Follicles which consist of an Oocyte that is a partially developed egg. Tubes called [Oviducts][] (or fallopian tubes) extend from the ovaries into an organ called the [Uterus][] (or womb) where zygotes develop. Cilia in the oviducts move eggs down into the uterus. The inner lining of the uterus is called the [Endometrium][]. The bottom of the uterus is called the [Cervix][] and opens into the Vagina. The [Vagina][] is a muscular and elastic chamber where sperm fertilize eggs. The vagina opens into the [Vulva][] which describes all external female genitalia, including thick skin folds on the outside called the [Labia Majora][], slender skin folds on the inside called the [Labia Minora][], and the [Clitoris][] which has a glans and prepuce.
+Gonads in females are called [Ovaries][]. The outer layer of ovaries include Follicles which consist of an Oocyte that is a partially developed egg. Tubes called [Oviducts][] (or fallopian tubes) extend from the ovaries into an organ called the [Uterus][] (or womb) where zygotes develop. Fertilization of sperm and egg occurs in the fallopian tubes. Cilia in the oviducts move eggs down into the uterus. The inner lining of the uterus is called the [Endometrium][]. The bottom of the uterus is called the [Cervix][] and opens into a muscular and elastic chamber called the [Vagina][]. The vagina opens into the [Vulva][] which describes all external female genitalia, including thick skin folds on the outside called the [Labia Majora][], slender skin folds on the inside called the [Labia Minora][], and the [Clitoris][] which has a glans and prepuce.
 
 Some organisms have cycles of reproductive activity controlled by hormones related to seasons or an internal clock so that reproduction only occurs in favorable conditions. In females, during the [Ovarian Cycle][], [Ovulation][] occurs in the midpoint of a reproductive cycle to release mature eggs available for fertilization. Changes in the uterus define the Uterine Cycle which in some organisms is called the [Menstrual Cycle][] wherein the endometrium thickens with additional blood supply. In some organisms, if an egg is not fertilized, a process called [Menstruation][] excretes the excess endometrium out of the body in preparation for the next cycle, whereas in other organisms with an Estrous Cycle, the excess endometrium is not excreted. The menstrual cycle stops working permanently at a time in life called [Menopause][].
 
-Ovaries produce [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] which affect development and the support and growth of an embryo. Males also produce estrogens in a much smaller amount.
+Ovaries produce [Estrogen Hormones][] such as [Estradiol][] and [Progesterone][] which affect development and the support and growth of an embryo. In general, males also produce estrogens but in a much smaller amount.
 
 The hypothalamus secretes Gonadotropin-Releasing Hormone (or GnRH) which causes the Anterior Pituitary Gland to secrete the gonadotropins Follicle-Stimulating Hormone (or FSH) and Luteinizing Hormone (or LH) which regulate activity of the gonads.
 
@@ -2066,7 +2064,7 @@ The [Mammary Glands][], while present in both sexes, only produce milk (for nurt
 
 [Nutrition][] is the ingestion, digestion, and usage of food by an organism.
 
-[Essential Nutrients][] are substances required to be ingested because they cannot be synthesized for simpler molecules. [Essential Amino Acids][] are any amino acids that cannot be synthesized by the organism. [Essential Fatty Acids][] are some fatty acids that cannot be synthesized such as Linoleic Acid.
+[Essential Nutrients][] are substances required to be ingested because they cannot be synthesized with simpler molecules. [Essential Amino Acids][] are any amino acids that cannot be synthesized by the organism. [Essential Fatty Acids][] are some fatty acids that cannot be synthesized such as Linoleic Acid.
 
 [Vitamins][] are small organic molecules required in metabolism. Some vitamins cannot be synthesized so they are essential nutrients. Some vitamins are water soluable and some are fat soluable.
 
@@ -2074,7 +2072,7 @@ The [Mammary Glands][], while present in both sexes, only produce milk (for nurt
 
 #### Ingestion
 
-The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubrciates food for processing.
+The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubricates and pre-processes food.
 
 Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the trachea that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
 
@@ -2122,7 +2120,7 @@ A byproduct of protein and nucleic acid digestion is ammonia which may be toxic.
 
 * Excreting ammonia (most common in aquatic organisms).
 * Converting ammonia to [Urea][] which is ammonia combined with CO<sub>2</sub> in the liver.
-* Converting ammonia to [Uric Acid][]
+* Converting ammonia to [Uric Acid][].
 
 #### Blood Sugar
 
@@ -2160,13 +2158,13 @@ Vertebrates called Gnathostomes have jaws which are hinged structures in the mou
 
 The three main classes of vertebrates are amphibians, reptiles, and mammals.
 
-[Amphibians][], in general, develop first in water (tadpole stage) and then go through metamorphosis to live on land.
+[Amphibians][], in general, develop first in water (tadpole stage) and then go through [metamorphosis][] (which involves an abrupt change in body type) to live on land.
 
 [Tetrapods][] are vertebrates with four limbs well adapted for movement on land. A [limb][] is an organ that protrudes from the body and is usually used to aid in movement and other functions.
 
 [Amniotes][] are tetrapods that develop an egg adapted for land conditions. The amnion is a fluid-filled cavity that protects against shock of movement. The yolk sac contains yolk which are nutrients for the embryo.
 
-[Reptiles][] are tetrapods have scales made of the protein keratin for protection and lay shelled eggs on land. Most reptiles are [ectothermic][], meaning they regulate their body temperature using external heat, although birds are [endothermic][], meaning they regulate their body temperature through metabolism. Birds are reptiles adapted for flight.
+[Reptiles][] are tetrapods that have scales made of the protein keratin for protection and lay shelled eggs on land. Most reptiles are [ectothermic][], meaning they regulate their body temperature using external heat, although birds are [endothermic][], meaning they regulate their body temperature through metabolism. Birds are reptiles adapted for flight.
 
 [Synapsids][] are animals that have holes in their skull (those with two holes are diapsids) allowing for muscles to control the jaw. The earliest synapsids existed about 300 million years ago.
 
@@ -2184,7 +2182,7 @@ Most animals are [invertebrates][] which are animals that do not have a backbone
 
 [Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
 
-[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo [metamorphosis][] which involves an abrupt change in body type. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
+[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo metamorphosis. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
 
 ##### Humans
 
@@ -2216,7 +2214,7 @@ An individual animal's behavior is [Altruistic][] if it reduces its fitness but 
 
 ##### Defense Mechanisms
 
-A [Predator][] is an organism that kills and eats a [Prey][] organism. An [Apex Predator][] is a predator with no other predators within its environment.
+A [Predator][] is an organism that kills and eats a [Prey][] organism. An [Apex Predator][] is a predator that is not prey to predators of other species within its environment.
 
 Some organisms have defense mechanisms against predators. [Aposematic Traits][] are colors, sounds, or odors that signal to predators that they may have traits that will hurt them. [Masting][] occurs in some plants which produces a large number of germinated offspring at the same time to exceed predation capacity.
 
@@ -2224,7 +2222,7 @@ Some organisms have defense mechanisms against predators. [Aposematic Traits][] 
 
 [Protists][] are something of a catch-all name of mostly unicellular (and some multi-cellular) eukaryotic organisms which don't fit into other kingdoms (i.e. not animals, plants, or fungi).
 
-The major clades including protists are:
+The phylogeny of protists is roughly:
 
 * [Excavata][]: Similarities in exoskeleton and most have an excavator feeding groove.
     * Diplomonads: Contain mitochondria without electron transport chains called mitosomes.
@@ -2280,11 +2278,11 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ### Etcetera
 
-[Heat-shock proteins][] in both animals and plants are synthesized in response to temperature over a threshold and help protect other proteins from denaturing.
+[Heat-shock proteins][] in both animals and plants are synthesized in response to a temperature over a threshold and help protect other proteins from denaturing.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral RNA may be called vRNA.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral DNA or RNA may be called vDNA or vRNA, respectively.
 
 Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell.
 
@@ -2312,7 +2310,7 @@ Examples of viruses:
 
 ## Prions
 
-[Prions][] are proteins which may infect organisms (e.g. through food) and cause brain diseases such as [Mad Cow Disease][], [Creutzfeldt-Jakob Disease][], and [Scrapie][]. The prion proteins are misfolded proteins which may cause properly folder proteins of the same type to misfold upon contact which may lead to a chain reaction.
+[Prions][] are proteins which may infect organisms (e.g. through food) and cause brain diseases such as [Mad Cow Disease][], [Creutzfeldt-Jakob Disease][], and [Scrapie][]. The prion proteins are misfolded proteins which may cause properly folded proteins of the same type to misfold upon contact which may lead to a chain reaction.
 
 ## Animal Immune System
 
@@ -2380,7 +2378,7 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
 
-[Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the helper T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
+[Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the cytotoxic T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
 
 [Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
 
@@ -2877,6 +2875,7 @@ if (elements.length) {
 [brassinosteroids]: https://en.wikipedia.org/wiki/Brassinosteroid
 [brca1]: https://en.wikipedia.org/wiki/BRCA1
 [brca2]: https://en.wikipedia.org/wiki/BRCA2
+[breathing]: https://en.wikipedia.org/wiki/Breathing
 [bronchi]: https://en.wikipedia.org/wiki/Bronchus
 [bronchioles]: https://en.wikipedia.org/wiki/Bronchiole
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
