@@ -1314,7 +1314,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
 
 [Gene Expression][] describes when and why genes are used to create gene products such as proteins. 
 
-An [operator][] is a part of a promoter (or in some cases, right after the promotor) which, if bound to by a [repressor][] protein, inactivates the promoter and transcription of its gene(s). The complex containing the promoter, operator, and gene(s) is called the [operon][]. A molecule called a [corepressor][] binds to the repressor to activate it to bind to the operator.
+An [operator][] is a part of a promoter (or in some cases, right after the promotor) which, if bound to by a [repressor][] protein, inactivates the promoter and transcription of its gene(s). A molecule called a [corepressor][] binds to the repressor to activate it to bind to the operator. The complex containing the promoter, operator, and gene(s) is called the [operon][]. The genes in an operon are expressed together.
 
 A [repressible operon][] is usually on, unless turned off by a repressor. An [inducible operon][] is usually off (because the repressor binds easily to the operator without a corepressor), unless turned on by an [inducer][] which deactivates the repressor.
 
@@ -1556,6 +1556,8 @@ The [immune system][] in an organism is a defense system against [pathogens][] (
 #### Fungi
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
+
+Fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
 Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
 
@@ -2585,6 +2587,8 @@ Examples of tumor-suppressor genes:
 
 Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomavirus][], and [HTLV-I][].
 
+The [Ames Test][] applies a chemical to a Salmonella Typhimurium bacteria which is auxotrophic for Histidines to see if the chemical causes excessive mutations be creating mutants that are prototrophic.
+
 # Feedback
 
 [Ask a Question or Contribute][issues]
@@ -2734,6 +2738,7 @@ if (elements.length) {
 [altruistic]: https://en.wikipedia.org/wiki/Altruism
 [alveoli]: https://en.wikipedia.org/wiki/Pulmonary_alveolus
 [amacrine cells]: https://en.wikipedia.org/wiki/Amacrine_cell
+[ames test]: https://en.wikipedia.org/wiki/Ames_test
 [amines]: https://en.wikipedia.org/wiki/Amine
 [amino]: https://en.wikipedia.org/wiki/Amino
 [aminoacyl-trna synthetases]: https://en.wikipedia.org/wiki/Aminoacyl_tRNA_synthetase
