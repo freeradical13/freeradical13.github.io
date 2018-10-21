@@ -954,7 +954,7 @@ A [gene][] is a sequence of Nitrogenous bases in a DNA or RNA molecule which pro
 
 A genome may be made up of one or more DNA or RNA molecules called [chromosomes][] (either linear or circular), and zero or more double-stranded DNA molecules called plasmids. Chromosomes contain the genes necessary for life under normal conditions and replicate together, whereas plasmids contain additional genes besides those of the required chromosomes and may or may not replicate with chromosomal DNA.
 
-Chromosomes may be coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones is called a [nucleosome][].
+Chromosomes may be coiled into a condensed area using [histone][] proteins. Each part of the chromosome that wraps twice around eight histones (two H2A, two H2B, two H3, and two H4) is called a [nucleosome][] (and related H1 and H5 linker histones).
 
 A chromosome and any histones is called [Chromatin][].
 
@@ -1299,10 +1299,10 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
 [Protein synthesis][]:
 
 1. At a sequence of nucleotides called the [Promoter][], [RNA Polymerase][] attaches and splits double-stranded DNA to perform transcription of genes into proteins. One promoter may transcribe one or more genes. In eukaryotic cells, certain proteins must first bind to a part of the Promotor called the [TATA Box][] before RNA polymerase may bind.
-1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA or the [primary transcript][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344]. Transcription ends at a [terminator][].
+1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA, or the [primary transcript][], or heterogeneous nuclear RNA, or [hnRNA][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344]. Transcription ends at a [terminator][].
 1. In eukaryotes:
     1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
-    1. The pre-mRNA is made of sets of nucleotides called [exons][] (expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and ribozymes cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
+    1. The pre-mRNA is made of sets of nucleotides called [exons][] (to be expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and [snRNA][] ribozymes cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
 1. [Translation][]: mRNA arrives at a free ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon (Methionine). As the ribosome moves over the mRNA molecule in the 5' to 3' direction, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the new polypeptide chain at the Carboxyl end using rRNA. Translation stops at a stop codon UAG, UAA, or UGA using a [release factor][].
     1. [Aminoacyl-tRNA Synthetases][] use ATP to create a tRNA and amino acid pair.
     1. A tRNA exits the ribosome at the [E-site][].
@@ -2551,6 +2551,8 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
+A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
+
 ## Cancer
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][]. An example of a common benign tumor is a [mole][mole tumor]. Some benign tumors may not be benign in effect and may cause damage such as benign brain tumors.
@@ -2931,6 +2933,7 @@ if (elements.length) {
 [cation exchange]: https://en.wikipedia.org/wiki/Ion_exchange
 [cd4]: https://en.wikipedia.org/wiki/CD4
 [cd8]: https://en.wikipedia.org/wiki/CD8
+[cdna library]: https://en.wikipedia.org/wiki/CDNA_library
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
@@ -3030,6 +3033,7 @@ if (elements.length) {
 [companion cells]: https://en.wikipedia.org/wiki/Phloem#Companion_cells
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
+[complementary dna]: https://en.wikipedia.org/wiki/Complementary_DNA
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
 [complex i]: https://en.wikipedia.org/wiki/Respiratory_complex_I
 [complex ii]: https://en.wikipedia.org/wiki/Succinate_dehydrogenase
@@ -3141,6 +3145,7 @@ if (elements.length) {
 [dorsal]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
 [double fertilization]: https://en.wikipedia.org/wiki/Double_fertilization
 [dna damage checkpoints]: https://en.wikipedia.org/wiki/DNA_repair#DNA_damage_checkpoints
+[dna library]: https://en.wikipedia.org/wiki/Library_(biology)
 [dna ligase]: https://en.wikipedia.org/wiki/DNA_ligase
 [dna methylation]: https://en.wikipedia.org/wiki/DNA_methylation
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
@@ -3461,6 +3466,7 @@ if (elements.length) {
 [histone tails are acetylated]: https://en.wikipedia.org/wiki/Histone_acetylation_and_deacetylation
 [history of life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
 [history of oceans]: https://en.wikipedia.org/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth
+[hnrna]: https://en.wikipedia.org/wiki/Primary_transcript
 [holoenzyme]: https://en.wikipedia.org/wiki/Enzyme#Cofactors
 [holometabolism]: https://en.wikipedia.org/wiki/Holometabolism
 [homeobox]: https://en.wikipedia.org/wiki/Homeobox
@@ -4250,6 +4256,7 @@ if (elements.length) {
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [smell]: https://en.wikipedia.org/wiki/Olfaction
 [smooth muscle]: https://en.wikipedia.org/wiki/Smooth_muscle
+[snrna]: https://en.wikipedia.org/wiki/Small_nuclear_RNA
 [social learning]: https://en.wikipedia.org/wiki/Observational_learning
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
 [soil]: https://en.wikipedia.org/wiki/Soil
