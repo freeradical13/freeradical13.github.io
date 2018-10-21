@@ -998,8 +998,6 @@ A process within a cell that occurs at intervals of approximately 24 hours is ca
 
 [Stem cells][] are types of cells that can [differentiate][] into various types of different cells for different functions. Stem cells have different levels of [potency][stem cell potency] which describes the types of cells they may differentiate into.
 
-For examples, an avarege [E. coli cell has about 35 billion atoms][atoms in e coli] and a [human body has about 10<sup>27</sup> atoms][atoms in human body].
-
 #### Ribosomes
 
 [Ribosomes][] are structures in the cytoplasm involved in protein synthesis. Ribosomes are made of various proteins and RNA called ribosomal RNA ([rRNA][]). There are usually [thousands of ribosomes in a cell][campbell urry et al 11th pg 349].
@@ -1435,6 +1433,8 @@ One bacterium may transfer some genes to another bacterium through various types
 [Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
 Some groups of bacteria coordinate metabolism in groups called [biofilms][]. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
+
+An average [E. coli cell has about 35 billion atoms][atoms in e coli].
 
 #### Archaea
 
@@ -2197,6 +2197,8 @@ About 2% of the human genome encodes for proteins.
 
 Most human enzymes act optimally at a temperature of ~37 °C / ~98.6 °F.
 
+The [average diameter of a human cell][] is a few dozen µm. An average [human body has about 10<sup>27</sup> atoms][atoms in human body].
+
 ##### Animal Behavior
 
 A stimulus transmitted from one organism to another is called a [Signal][]. The transmission and reception of signals between organisms is called [Communication][]. Organisms may communicate which each other through odor and taste using chemical signals called [Pheromones][].
@@ -2567,6 +2569,7 @@ Examples of tumor-suppressor genes:
 * [p53][]: Synthesizes to a p53 protein which is a transcription factor that promotes the synthesis of DNA repair proteins and cell cycle-inhibiting proteins (through genes such as p21), or promotes the synthesis of apoptosis genes if DNA repair is impossible.
 * [APC][]: Regulates cell migration and adhesion.
 * [BRCA1][] and [BRCA2][]: Regulate DNA damage repair. Certain mutations increase susceptibility to breast cancer.
+* [RB][]: Synthesizes the retinoblastoma protein which inhibits cell cycle progression from G<sub>1</sub> phase to S phase until a cell is ready.
 * [SMAD4][]
 
 Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomavirus][], and [HTLV-I][].
@@ -3108,6 +3111,7 @@ if (elements.length) {
 [dew]: https://en.wikipedia.org/wiki/Dew
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
+[average diameter of a human cell]: http://book.bionumbers.org/how-big-is-a-human-cell/
 [diastole]: https://en.wikipedia.org/wiki/Diastole
 [dicots]: https://en.wikipedia.org/wiki/Dicotyledon
 [differential gene expression]: https://en.wikipedia.org/wiki/Gene_expression
@@ -4119,6 +4123,7 @@ if (elements.length) {
 [ras]: https://en.wikipedia.org/wiki/KRAS
 [rate]: https://en.wikipedia.org/wiki/Rate_(mathematics)
 [rate-determining step]: https://en.wikipedia.org/wiki/Rate-determining_step
+[rb]: https://en.wikipedia.org/wiki/Retinoblastoma_protein
 [reabsorption]: https://en.wikipedia.org/wiki/Reabsorption
 [reaction-center complex]: https://en.wikipedia.org/wiki/Photosynthetic_reaction_centre
 [reagents]: https://en.wikipedia.org/wiki/Reagent
