@@ -1437,6 +1437,7 @@ An average [E. coli cell has about 35 billion atoms][atoms in e coli].
 [Antibiotics][] are substances which kill bacteria:
 
 * [Penicillin][] (and others in the β-Lactam family of antibiotics) acts as an irreversible competitive inhibitor on DD-transpeptidase which disallows it from building peptidoglycan cell walls which inhibits binary fission and causes bacterial death because natural cell wall destruction is not balanced with new cross-linking.
+* [Streptomycin][] kills the bacteria that cause Tuberculosis by binding to bacterial ribosomes (but not host eukaryotic ribosomes) and interfering with protein synthesis.
 
 Some bacteria have resistance to some antibiotics with [R Plasmids][] (resistance plasmids) that code for genes to resist such antibiotics.
 
@@ -4325,6 +4326,7 @@ if (elements.length) {
 [stomata]: https://en.wikipedia.org/wiki/Stoma
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [strata]: https://en.wikipedia.org/wiki/Stratum
+[streptomycin]: https://en.wikipedia.org/wiki/Streptomycin
 [strigolactones]: https://en.wikipedia.org/wiki/Strigolactone
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
 [structural formulas]: https://en.wikipedia.org/wiki/Structural_formula
