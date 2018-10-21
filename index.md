@@ -2079,6 +2079,8 @@ The [Mammary Glands][], while present in both sexes, only produce milk (for nurt
 
 [Minerals][] are inorganic, solid chemical compounds such as Iron and Sulfer which are required in metabolism by some organisms.
 
+[Auxotrophy][] is the inability of an organism to synthesize all of the nutrients and vitamins required for survival. [Prototrophy][] is the ability of an organism to synthesize all of the nutrients and vitamins required for survival.
+
 #### Ingestion
 
 The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubricates and pre-processes food.
@@ -2557,6 +2559,8 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
 
+[Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
+
 ## Cancer
 
 A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][]. An example of a common benign tumor is a [mole][mole tumor]. Some benign tumors may not be benign in effect and may cause damage such as benign brain tumors.
@@ -2825,6 +2829,7 @@ if (elements.length) {
 [autosomes]: https://en.wikipedia.org/wiki/Autosome
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [auxin]: https://en.wikipedia.org/wiki/Auxin
+[auxotrophy]: https://en.wikipedia.org/wiki/Auxotrophy
 [axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axon]: https://en.wikipedia.org/wiki/Axon
@@ -4108,6 +4113,7 @@ if (elements.length) {
 [proton radius]: https://en.wikipedia.org/wiki/Proton_radius_puzzle
 [protons]: https://en.wikipedia.org/wiki/Proton
 [protoplast]: https://en.wikipedia.org/wiki/Protoplast
+[prototrophy]: https://en.wikipedia.org/wiki/Auxotrophy
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
@@ -4160,6 +4166,7 @@ if (elements.length) {
 [renal medulla]: https://en.wikipedia.org/wiki/Renal_medulla
 [renal pelvis]: https://en.wikipedia.org/wiki/Renal_pelvis
 [renin-angiotensin-aldosterone system]: https://en.wikipedia.org/wiki/Renin%E2%80%93angiotensin_system
+[replica plating]: https://en.wikipedia.org/wiki/Replica_plating
 [repressible operon]: https://en.wikipedia.org/wiki/Operon#Regulation
 [repressor]: https://en.wikipedia.org/wiki/Repressor
 [reptiles]: https://en.wikipedia.org/wiki/Reptiles
