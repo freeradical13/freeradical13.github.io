@@ -1553,11 +1553,21 @@ Steroid hormones diffuse across the lipid membrane and bind to receptors in the 
 
 The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage. The immune system includes the [innate immune system][] (or non-specific immune system) which has particular defenses against particular types of pathogens.
 
+Non-pathogenic damage may be caused by:
+
+* [Poisons][] are chemical pathogens that may cause damage.
+    * [Toxins][] are poisons produced by living cells.
+        * [Venoms][] are toxins delivered by injection.
+
+Examples of poisons:
+
+* [Cyanide][] interferes with the electron transport chain by binding to cytochromes.
+
 #### Fungi
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
 
-Fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
+Most fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
 Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
 
@@ -1571,7 +1581,7 @@ Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutri
 
 #### Algae
 
-[Algae][] are photosynthetic eukaryotic autotrophs which lack roots, stems or leaves, so they're not considered plants.
+[Algae][] are photosynthetic eukaryotic autotrophs which lack roots, stems or leaves, so they're not considered plants. Most algae spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
 #### Plants
 
@@ -3094,6 +3104,7 @@ if (elements.length) {
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
 [culture]: https://en.wikipedia.org/wiki/Culture
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
+[cyanide]: https://en.wikipedia.org/wiki/Cyanide
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
 [cyclic amp]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [cyclin]: https://en.wikipedia.org/wiki/Cyclin
@@ -4049,6 +4060,7 @@ if (elements.length) {
 [pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [point mutation]: https://en.wikipedia.org/wiki/Point_mutation
+[poisons]: https://en.wikipedia.org/wiki/Poison
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [pollen]: https://en.wikipedia.org/wiki/Pollen
 [pollination]: https://en.wikipedia.org/wiki/Pollination
@@ -4434,6 +4446,7 @@ if (elements.length) {
 [topsoil]: https://en.wikipedia.org/wiki/Topsoil
 [torpor]: https://en.wikipedia.org/wiki/Torpor
 [totipotent stem cells]: https://en.wikipedia.org/wiki/Cell_potency#Totipotency
+[toxins]: https://en.wikipedia.org/wiki/Toxin
 [trachea]: https://en.wikipedia.org/wiki/Trachea
 [tracheal system]: https://en.wikipedia.org/wiki/Respiratory_system_of_insects
 [tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
@@ -4510,6 +4523,7 @@ if (elements.length) {
 [veins]: https://en.wikipedia.org/wiki/Vein
 [velocity]: https://en.wikipedia.org/wiki/Velocity
 [venn diagram]: https://en.wikipedia.org/wiki/Venn_diagram
+[venoms]: https://en.wikipedia.org/wiki/Venom
 [ventral]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
 [ventricles]: https://en.wikipedia.org/wiki/Ventricle_(heart)
 [vernalization]: https://en.wikipedia.org/wiki/Vernalization
