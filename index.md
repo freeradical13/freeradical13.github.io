@@ -1224,9 +1224,14 @@ Some cells cycle through one of a few states called a [cell cycle][]:
 
 In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids.
 
-Movement between states in the cell cycle may be inhibited at particular [cell cycle checkpoints][]. The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to a protein called [cyclin][]. An example of a cyclin-CDK complex is [maturation-promoting factor][] (MPF).
+The cell cycle is driven by [cyclin-dependent kinases][] (CDKs) when attached to proteins called [cyclin][]. Cyclin concentration rises during S and G<sub>2</sub> phases and falls during M phase. Movement between states in the cell cycle may be inhibited at particular [cell cycle checkpoints][] including:
 
-If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue, it exits the cell cycle into the G<sub>0</sub> phase. A [growth factor][] is a protein that stimulates cells to exit the G<sub>0</sub> phase. Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
+* G<sub>1</sub> checkpoint: If a cell does not receive a signal at the G<sub>1</sub> checkpoint to continue, it exits the cell cycle into the G<sub>0</sub> phase and does not reproduce.
+* G<sub>2</sub> checkpoint: [Maturation-promoting factor][] (MPF) is a cyclin-CDK complex which triggers the cell's passage into M phase after enough cyclin is present from the S and G<sub>2</sub> phases. During anaphase, MPF switches itself off through a process that destroys its cyclin and the cell enters the G<sub>1</sub> phase.
+* [M Checkpoint][] (or Spindle Checkpoint): Mitosis pauses during metaphase as long as any chromosome kinetochores are not attached to spindle fibers at the metaphase plate.
+* [DNA Damage Checkpoints][]: At the G<sub>1</sub>/S and G<sub>2</sub>/M transitions, and during the S phase, these checkpoints pause the cell cycle until any DNA damage is repaired.
+
+A [growth factor][] is a protein that stimulates cells to exit the G<sub>0</sub> phase. Growth factor may be inhibited in [density-dependent inhibition][] when cell-surface proteins bind to each other in a crowded space. Growth factor may be released when bound to a stabilizing substance ([anchorage dependence][]).
 
 ##### Meiosis
 
@@ -3130,6 +3135,7 @@ if (elements.length) {
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [dorsal]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
 [double fertilization]: https://en.wikipedia.org/wiki/Double_fertilization
+[dna damage checkpoints]: https://en.wikipedia.org/wiki/DNA_repair#DNA_damage_checkpoints
 [dna ligase]: https://en.wikipedia.org/wiki/DNA_ligase
 [dna methylation]: https://en.wikipedia.org/wiki/DNA_methylation
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
@@ -3654,6 +3660,7 @@ if (elements.length) {
 [lysosomes]: https://en.wikipedia.org/wiki/Lysosome
 [lysozyme]: https://en.wikipedia.org/wiki/Lysozyme
 [lytic virus]: https://en.wikipedia.org/wiki/Lytic_cycle
+[m checkpoint]: https://en.wikipedia.org/wiki/Spindle_checkpoint
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [macrophages]: https://en.wikipedia.org/wiki/Macrophage
