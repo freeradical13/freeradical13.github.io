@@ -1411,8 +1411,6 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 [Bacteria][] are prokaryotes with a peptidoglycan cell wall, an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
-[Antibiotics][] are substances which kill bacteria such as targeting peptidoglycan. Some bacteria have evolved resistance to some antibiotics with [R Plasmids][] (resistance plasmids) that code for genes to resist such antibiotics.
-
 A Gram Stain may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
 [Bacterial Flagella][] use a motor, hook, and filament.
@@ -1435,6 +1433,12 @@ One bacterium may transfer some genes to another bacterium through various types
 Some groups of bacteria coordinate metabolism in groups called [biofilms][]. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
 
 An average [E. coli cell has about 35 billion atoms][atoms in e coli].
+
+[Antibiotics][] are substances which kill bacteria:
+
+* [Penicillin][] (and others in the β-Lactam family of antibiotics) acts as an irreversible competitive inhibitor on DD-transpeptidase which disallows it from building peptidoglycan cell walls which inhibits binary fission and causes bacterial death because natural cell wall destruction is not balanced with new cross-linking.
+
+Some bacteria have resistance to some antibiotics with [R Plasmids][] (resistance plasmids) that code for genes to resist such antibiotics.
 
 #### Archaea
 
@@ -1524,7 +1528,7 @@ Mitochondria and chloroplasts are organelles that generate the majority of usabl
 
 [Mitochondria][] are the site of aerobic respiration. Mitochondria have an outer and inner phospholipid bilayer membrane with the space in between called the intermembrane space. The area inside the inner membrane is called the [mitochondrial matrix][]. The inner membrane is heavily folded to increase surface area into structures called [cristae][].
 
-Mitochondria have their own DNA called [mtDNA][] which is passed down from the mother in the case of sexual reproduction.
+Mitochondria have their own DNA called [mtDNA][] which is passed down from the mother in the case of sexual reproduction. Mitochondria reproduce through binary fission like bacteria.
 
 #### Hormones
 
@@ -1883,7 +1887,7 @@ The [limbic system][] (partly for emotions) is made of structures such as the [h
 
 A [motor unit][] is a single motor neuron that controls a set of myocytes.
 
-Action potential summation increases the frequency of contractions and when the rate exceeds a threshold, the tension is maximized in a contraction called [Tetanic Contraction][].
+Action potential summation increases the frequency of contractions and when the rate exceeds a threshold, the tension is maximized in a contraction called [Tetanic Contraction][]. [Tonus][] is a partial sustained contraction in relaxed muscles. [Isometric contractions][] increase muscle tension without increasing muscle length. [Isotonic contractions][] change muscle length without changing muscle tension.
 
 Powering repetitive contractions requires additional ATP by using stores of [Creatine Phosphate][] and Glycogen within the myocyte. Muscles that rely on aerobic respiration also have Oxygen-storing protein called [Myoglobin][].
 
@@ -3572,8 +3576,10 @@ if (elements.length) {
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
 [isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
+[isometric contractions]: https://en.wikipedia.org/wiki/Muscle_contraction#Isometric_contraction
 [isoosmotic]: https://en.wikipedia.org/wiki/Osmotic_concentration
 [isotonic]: https://en.wikipedia.org/wiki/Tonicity#Isotonicity
+[isotonic contractions]: https://en.wikipedia.org/wiki/Muscle_contraction#Isotonic_contraction
 [isotope]: https://en.wikipedia.org/wiki/Isotope
 [issues]: https://github.com/freeradical13/freeradical13.github.io/issues
 [ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
@@ -3958,6 +3964,7 @@ if (elements.length) {
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pectins]: https://en.wikipedia.org/wiki/Pectin
 [pedigree chart]: https://en.wikipedia.org/wiki/Pedigree_chart
+[penicillin]: https://en.wikipedia.org/wiki/Penicillin
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
 [pepsin]: https://en.wikipedia.org/wiki/Pepsin
@@ -4408,6 +4415,7 @@ if (elements.length) {
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
 [toll-like receptors]: https://en.wikipedia.org/wiki/Toll-like_receptor
+[tonus]: https://en.wikipedia.org/wiki/Muscle_tone
 [topoisomerase]: https://en.wikipedia.org/wiki/Topoisomerase
 [topsoil]: https://en.wikipedia.org/wiki/Topsoil
 [torpor]: https://en.wikipedia.org/wiki/Torpor
