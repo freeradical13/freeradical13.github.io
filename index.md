@@ -289,7 +289,7 @@ Chemical reactions may also be [reversible][reversible reaction] and go in both 
 
 In a reversible chemical reaction such as <code>aA + bB ⇌ cC + dD</code>, the [equilibrium constant][] (k<sub>eq</sub>) measures the extent to which reagents are converted to products and equals ([C]<sup>c</sup> × [D]<sup>d</sup>) / ([A]<sup>a</sup> × [B]<sup>b</sup>), ignoring the solvent and any solids, where the a, b, c, and d coefficients are the mole ratios. Given that molarity depends on temperature, k<sub>eq</sub> is a function of temperature. This constant describes the relative proportions of concentrations of reagents and products at equilibrium.
 
-Gibbs free energy (G) measures the work that a system can do (<code>ΔG = ΔH - T×ΔS</code> where ΔS is the change in entropy). If the change in G (ΔG) for a chemical reaction at a temperature T is known, K<sub>eq</sub> can be calculated as <code>ΔG = -R×T×ln(K<sub>eq</sub>)</code>.
+[Gibbs free energy][] (G) measures the work that a system can do (<code>ΔG = ΔH - T×ΔS</code> where ΔS is the change in entropy). If the change in G (ΔG) for a chemical reaction at a temperature T is known, K<sub>eq</sub> can be calculated as <code>ΔG = -R×T×ln(K<sub>eq</sub>)</code>.
 
 Reactions that don't require input energy are called [spontaneous][spontaneous reactions] or [exergonic][] (negative ΔG, meaning that the products store less energy than the reagents and thus the reaction favors the products spontaneously without input energy), although they don't necessarily occur rapidly.
 
@@ -843,7 +843,7 @@ Proteins may be bound to lipids to create lipoproteins, to sugars to create glyc
 
 The [primary structure][] of a protein is its linear sequence of amino acids.
 
-The [secondary structure][] of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the [α helix][] which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid. Another secondary structure is the planar [β pleated sheet][] in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
+The [secondary structure][] of a protein describes initial folding and coiling and is driven by Hydrogen bonding between the polypeptide backbone. Within the polypeptide backbone, the Oxygen in the Carbonyl has a partial negative charge and the Hydrogen in the Amino has a partial positive charge. One secondary structure is the [α helix][] which is a cylindrical coil backbone (with side chains projecting outwards) held together by Hydrogen bonding between every fourth amino acid (between a Hydrogen in an amino group and an Oxygen in a carbonyl group). Another secondary structure is the planar [β pleated sheet][] in which segments (β strands) of the polypeptide are parallel and held together by Hydrogen bonding between parallel or antiparallel strands.
 
 The [tertiary structure][] of a protein is driven by interactions between the amino acid side chains rather than the polypeptide backbone. As a polypeptide forms in water, amino acids with hydrophobic side chains tend to cluster in the core of the protein. [Disulfide bridges][] may form where the Sulfurs in two Cysteine amino acids covalently bond. Ionic bonds may form between the negatively charged Oxygen in the Carboxyl of one amino acid and the positively charged NH<sub>3</sub><sup>+</sup> of a Lysine.
 
@@ -853,7 +853,7 @@ A protein's shape depends on pH, salt concentration, temperature and other facto
 
 ### Enzymes
 
-Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction. The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where products or inhibitors may bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
+Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction, although the free energy (ΔG) of the reaction and position and direction of equilibrium are not affected (only the speed at which equilibrium is reached). The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where products or inhibitors may bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
 
 There are 6 broad groups of enzymes (the first number is an enzyme's unique [Enzyme Commission Number][]):
 
@@ -864,11 +864,11 @@ There are 6 broad groups of enzymes (the first number is an enzyme's unique [Enz
 1. [Isomerases][]: Convert a molecule from one isomer to another.
 1. [Ligases][]: Join two large molecules, often with hydrolysis.
 
-A [cofactor][] is an inorganic metal ion or organic coenzyme which facilitates catalysis. [Coenzymes][] are organic molecules either covalently bound as prosthetic groups or loosely bound as cosubstrates. An [apoenzyme][] is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
+A [cofactor][] is an inorganic metal ion or organic coenzyme which facilitates catalysis. [Coenzymes][] are organic molecules either covalently bound as prosthetic groups or loosely bound as cosubstrates. An [apoenzyme][] (or apoprotein) is an enzyme missing a required cofactor. A [holoenzyme][] is an active form of an enzyme with its cofactors.
 
 The rate of enzyme-catalyzed reactions reaches a [maximum reaction rate][enzyme maximum rate] called V<sub>max</sub> when all enzymes are saturated with substrates.
 
-The [Michaelis-Menten Equation][] describes the relationship between the reaction rate between substrate and enzyme (v [velocity]) and substrate concentration for many types of enzymes: <code>v = (V<sub>max</sub>×v<sub>0</sub>) / (v<sub>0</sub> + K<sub>m</sub>)</code>, where v<sub>0</sub> is the [initial velocity][] at the beginning of enzyme introduction. K<sub>m</sub> is the [Michaelis-Menten constant][] which is the substrate concentration at which velocity is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate: the smaller the K<sub>m</sub>, the higher the affinity. V<sub>max</sub> is dependent on enzyme concentration whereas K<sub>m</sub> is not.
+The [Michaelis-Menten Equation][] describes the relationship between the reaction rate between substrate and enzyme (v [velocity]) and substrate concentration for many types of enzymes: <code>v = (V<sub>max</sub>×v<sub>0</sub>) / (v<sub>0</sub> + K<sub>m</sub>)</code>, where v<sub>0</sub> is the [initial velocity][] at the beginning of enzyme introduction. K<sub>m</sub> is the [Michaelis-Menten constant][] which is the concentration of substrate at which velocity is half of V<sub>max</sub>. K<sub>m</sub> is the affinity of an enzyme for its substrate: the smaller the K<sub>m</sub>, the higher the affinity. V<sub>max</sub> is dependent on enzyme concentration whereas K<sub>m</sub> is not. The fraction of occupied active sites is <code>[Substrate] / ([Substrate] + K<sub>m</sub>)</code>.
 
 A [Lineweaver-Burk Reciprocal Plot][] may be used to calculate V<sub>max</sub> by taking the reciprocals of all substrate concentration and reaction rate values and taking the reciprocal of the y-intercept, and calculate K<sub>m</sub> by taking the negative reciprocal of the x-intercept.
 
@@ -881,11 +881,11 @@ Enzyme inhibitors reduce catalysis. An [irreversible inhibitor][] covalently bon
 
 A sequence of enzyme-mediated reactions contains a [rate-determining step][] which is the slowest step and which regulates the pathway.
 
-[Regulatory enzymes][] have a quaternary structure which causes a [sigmoid][non-michaelis-menten kinetics] (s-shaped) kinetic behavior instead of the Michaelis-Menten curve. An [allosteric enzyme][] is a regulatory enzyme that has multiple active sites and the binding of a substrate in one active site increases the chances of binding other substrates at the other active sites.
+[Regulatory enzymes][] have a quaternary structure which causes a [sigmoid][non-michaelis-menten kinetics] (s-shaped) kinetic behavior instead of the Michaelis-Menten curve. An [allosteric enzyme][] is a regulatory enzyme with quaternary structure that has multiple active sites and the binding of a substrate in one active site increases the chances of binding other substrates at the other active sites.
 
 In an [allosteric modulator][], a positive or negative modulator (or effector) non-covalently bonds to allosteric sites. In the concerted (or symmetry) model, all enzymes' polypeptide chains are either relaxed or tense together, whereas in the sequential model, chains may be in different states, altering the active site. A homotropic allosteric modulator is a substrate which binds to an active site which causes a change in another active site.
 
-A [zymogen][] (or proenzyme) requires [proteolysis][] (often by protease enzymes) to become activated.
+A [zymogen][] (or proenzyme) is an inactive enzyme (with the -ogen suffix) which requires [proteolysis][] (often by protease enzymes) to become activated.
 
 [Kinases][] catalyze [phosphorylation][]. [Phosphatases][] catalyze dephosphorylation using hydrolysis.
 
@@ -1008,7 +1008,7 @@ A process within a cell that occurs at intervals of approximately 24 hours is ca
 
 [Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), solute concentrations ([osmoregulation][]), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor. An [osmoconformer][] is always [isoosmotic][] with its surroundings whereas an osmoregulator regulates osmolarity by excreting excess water or taking in in water if needed. [Anhydrobiosis][] is a reduced metabolic state when there is insufficient water.
 
-[Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases about 7.3 kcal/mol which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
+[Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases ~7.3 kcal/mol (1 kcal/mol ~= 4.2 kJ/mol) which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
 [Guanosine Triphosphate][] (GTP) is similar to ATP and may either be used directly like ATP, or phosphorylated into ATP using [Nucleoside-diphosphate Kinases][] (NDPKs).
 
@@ -1959,7 +1959,7 @@ Positive Pressure Breathing pushes air into lungs whereas Negative Pressure Brea
 
 [CO<sub>2</sub> is acidic][co2 acidic] because it may react with water to form Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>) which can dissociate into Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and H<sup>+</sup>. [When blood pH falls][campbell urry et al 11th pg 944], the Medulla Oblongata in the brain signals rib muscles to increase the rate and depth of breathing.
 
-O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (with four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
+O<sub>2</sub> is usually transported through blood or hemolymph within specialized cells called [respiratory pigments][] which are metals bound to proteins such as [Hemoglobin][] (a protein with quaternary structure, Fe<sup>2+</sup> prosthetic groups, and four subunits that each may take one O<sub>2</sub> molecule) and Hemocyanin. Low pH (e.g. high CO<sub>2</sub>) decreases the affinity of hemoglobin for O<sub>2</sub> in an effect called the [Bohr Shift][].
 
 When the level of Oxygen in the blood falls, blood vessel endothelial cells synthesize and release [Nitric Oxide][] (NO) which diffuses into surrounding smooth muscle cells, activating an enzyme that relaxes them which increases blood flow.
 
@@ -3383,6 +3383,7 @@ if (elements.length) {
 [gestation]: https://en.wikipedia.org/wiki/Gestation
 [ghrelin]: https://en.wikipedia.org/wiki/Ghrelin
 [gibberellins]: https://en.wikipedia.org/wiki/Gibberellin
+[gibbs free energy]: https://en.wikipedia.org/wiki/Gibbs_free_energy
 [gills]: https://en.wikipedia.org/wiki/Gill
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
