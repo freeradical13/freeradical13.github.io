@@ -988,7 +988,7 @@ Both prokaryotes and eukaryotes are made of cells.
 
 ### Cells
 
-A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
+A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] (or protoplasm) which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
 A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [Actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter and they are bipolar with two different types of ends. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
 
@@ -1041,7 +1041,7 @@ The decreased membrane potential created by an electrogenic pump creates potenti
 
 [Exocytosis][] occurs when a vesicle merges with the membrane (e.g. with a [porosome][]) and then the material is pushed into the extracellular space.
 
-A cell in a hypertonic solution will lose water which may lead to the membrane breaking down in a process called [plasmolysis][].
+A cell in a hypertonic solution will lose water which leads to contraction of the cell called [crenation][] and may lead to the membrane breaking down in a process called [plasmolysis][].
 
 #### Flagella
 
@@ -3066,6 +3066,7 @@ if (elements.length) {
 [covalent bond]: https://en.wikipedia.org/wiki/Covalent_bond
 [crassulacean acid metabolism]: https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism
 [creatine phosphate]: https://en.wikipedia.org/wiki/Phosphocreatine
+[crenation]: https://en.wikipedia.org/wiki/Crenation
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
