@@ -419,7 +419,7 @@ H     <span class="emphasis">X</span>
 <span class="emphasis">X</span>     H
 </pre>
 
-A [chiral][] substance may have one of two, mirror-image configurations, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers (L-form and D-form) from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons.
+A [chiral][] substance may have multiple isomers, each of which is called an [enantiomer][] which are geometric isomers which cannot be superimposed on each other and this can have functional implications. The two forms are designated L and D isomers (L-form and D-form) from the Latin for left and right ([levo][levorotatory] and [dextro][dextrorotatory]). [R and S configurations][] can describe substances with multiple chiral carbons. An [asymmetric carbon][] (or chiral carbon) is a carbon attached to four different types of atoms or groups.
 
 [Conformations][] are isomers in which the difference between molecules is rotation around a single bond and does not depend on different bonding.
 
@@ -598,7 +598,7 @@ If functional groups are on the same side of the carbon chain, they are called [
 
 A [polymer][] is a chain-like molecule made of repeating parts called [monomers][] connected by covalent bonds. The process of creating polymers from monomers is called [polymerization][]. A monomer is simply an organic molecule that can undergo polymerization. A [homopolymer][] is created from just one type of monomer, whereas [copolymers][] may be created from more than one type of monomer. [Oligomers][] are polymers of a small, fixed number of monomers (e.g. [dimers][], [trimers][], [tetramers][], etc.).
 
-Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] is the opposite reaction ([lysis][] is Greek for the word break) and produces energy. The verb is to hydrolyze.
+Polymers (and some non-polymers) are assembled through a process called [dehydration synthesis][] (or [condensation reaction][] or Zimmer's hydrogenesis) in which a Hydrogen on one end of one monomer and a Hydroxyl on the other end of the other monomer combine to form water and break away, leaving the remaining monomers to covalently bond. Dehydration synthesis requires energy input. [Hydrolysis][] (the verb is to hydrolyze) is the opposite reaction of using water to break a polymer bond ([lysis][] is Greek for the word break) and produces energy.
 
 A [macromolecule][] is a large molecule, often a large polymer.
 
@@ -722,7 +722,7 @@ Common disaccharides:
 
 [Polysaccharides][] are carbohydrate polymers made of multiple sugars with glycosidic linkages.
 
-[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). Glycogen is like amylopectin but even more branched.
+[Storage polysaccharides][] are used by organisms to store energy for future breakdown and use. [Starch][] is a storage polysaccharide made of α-Glucose monomers ([amylose][] being an unbranched starch, and [amylopectin][] being branched). [Glycogen][] is like amylopectin but even more branched.
 
 [Structural polysaccharides][] are used by organisms to build strong structural material. [Cellulose][] and [Chitin][] (like Cellulose but with an Amino group) are structural polysaccharides made of β-Glucose monomers (and unbranched because of the β-Glucose glycosidic bonds). Parallel strands may hydrogen-bond between the Hydrogens and Hydroxyls with other strands to form [microfibrils][].
 
@@ -849,7 +849,7 @@ The [tertiary structure][] of a protein is driven by interactions between the am
 
 If a protein is made of more than one polypeptide (dimer for two polypeptides, trimer for three, and tetramer for four), the [quaternary structure][] of a protein is driven by the interactions between the polypeptides.
 
-A protein's shape depends on pH, salt concentration, temperature and other factors. Denaturation due to such factors breaks the weaker secondary, tertiary, and/or quaternary structures and may make the protein biologically inactive (i.e. unraveled). Excessively high fevers may be fatal because proteins may denature.
+A protein's shape depends on pH, salt concentration, temperature and other factors. [Denaturation][] due to such factors breaks the weaker secondary, tertiary, and/or quaternary structures and may make the protein biologically inactive (i.e. unraveled). Excessively high fevers may be fatal because proteins may denature.
 
 ### Enzymes
 
@@ -887,7 +887,7 @@ In an [allosteric modulator][], a positive or negative modulator (or effector) n
 
 A [zymogen][] (or proenzyme) is an inactive enzyme (with the -ogen suffix) which requires [proteolysis][] (often by protease enzymes) to become activated.
 
-[Kinases][] catalyze [phosphorylation][]. [Phosphatases][] catalyze dephosphorylation using hydrolysis.
+[Kinases][] catalyze adding a phosphate group ([phosphorylation][]). [Phosphatases][] catalyze removing a phosphate group (dephosphorylation using hydrolysis).
 
 ## Nucleic Acids
 
@@ -1471,7 +1471,7 @@ In linear chromosomes such as those in Eukaryotes, the RNA Primer on the last Ok
 
 #### Endoplasmic Reticulum
 
-The [endoplasmic reticulum][] (ER) is a network of membrane-enclosed spaces next to the nucleus. The area inside the membrane is called the lumen. The rough endoplasmic reticulum has ribosomes on the outside of its membrane and is involved in some protein synthesis. The smooth endoplasmic reticulum does not have ribosomes on the outside of its membrane and is involved in lipid synthesis and detoxification.
+The [endoplasmic reticulum][] (ER) is a network of membrane-enclosed spaces next to the nucleus. The area inside the membrane is called the lumen. The rough endoplasmic reticulum has ribosomes on the outside of its membrane and is involved in some protein synthesis. The smooth endoplasmic reticulum does not have ribosomes on the outside of its membrane and is involved in lipid synthesis, carbohydrate metabolism, and detoxification.
 
 If a protein is planned to be [secreted][protein secretion] through the cell membrane, a [signal recognition particle][] (or SRP), which is a protein-RNA complex, binds to a short chain of amino acids at the N-terminus of the newly synthesized protein called the [signal peptide][] as it is being generated by a free ribosome. The SRP binding pauses translation and moves the polypeptide, SRP, ribosome and mRNA complex to the rough endoplasmic reticulum to finish translation inside the rough ER lumen.
 
@@ -1487,7 +1487,7 @@ Material may be first sorted inside [endosomes][] before being processed by the 
 
 #### Peroxisomes
 
-[Peroxisomes][] use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded. Peroxisomes also break fats down into molecules for fuel.
+[Peroxisomes][] use oxidative enzymes that catalyze reactions in which Hydrogen Peroxide is produced or degraded (e.g. removing Hydrogen in some metabolic pathways). In some organisms, glyoxysomes help break fats down into molecules for fuel.
 
 #### Vacuoles
 
@@ -1495,7 +1495,7 @@ Material may be first sorted inside [endosomes][] before being processed by the 
 
 #### Cilia
 
-[Cilia][] are protrusions from a cell membrane that participate in sensing stimuli.
+[Cilia][] are protrusions from a cell membrane that participate in sensing stimuli or motility.
 
 #### Anatomy
 
@@ -1509,7 +1509,7 @@ A tract is a series of connected organs.
 
 A [lobe][] is a clearly visible division or extension of an organ.
 
-[Keratin][] is a strong protein like Chitin that creates various structures in organisms.
+[Keratin][] is a strong protein that creates various structures in organisms.
 
 #### Morphogenesis
 
@@ -1713,8 +1713,10 @@ A [signaling pathway][] (or signaling cascade, or biochemical cascade) is a seri
 
 Common transmembrane receptors:
 
-* [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated with GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme such as Adenylyl Cyclase to activate it and signal a second messenger.
+* [G Protein-Coupled Receptors][] (GPCRs) couple with a signaling molecule that binds to the GPCR on the outside of the cell, and a G protein in the cytoplasm (activated when a GDP is replaced by GTP), after which the G protein and GTP complex unbinds from the GPCR and binds to a transmembrane enzyme such as Adenylyl Cyclase to activate it and signal a second messenger.
 * [Receptor Tyrosine Kinases][] (RTKs) couple with a signaling molecule that binds to the RTK on the outside of the cell which leads to coupling with neighboring RTKs which activates tyrosine kinases in the cytoplasm (with ATP) that signal second messengers that bind to the phosphorylated receptors.
+
+A major difference between GPCRs and RTKs is that GPCRs generally activate a single signal pathway whereas RTKs may trigger many signal pathways.
 
 [Second messengers][] are either proteins or:
 
@@ -2148,7 +2150,7 @@ A byproduct of protein and nucleic acid digestion is ammonia which may be toxic.
 
 #### Blood Sugar
 
-When blood glucose levels rise above a certain level, the hormone [Insulin][] is secreted by [Beta Cells][] in the pancreas which triggers cells to uptake Glucose, and liver and muscle cells may store Glucose in the form of [Glycogen][].
+When blood glucose levels rise above a certain level, the hormone [Insulin][] is secreted by [Beta Cells][] in the pancreas which triggers cells to uptake Glucose, and liver and muscle cells may store Glucose in the form of Glycogen.
 
 When blood glucose levels decrease below a certain level, the hormone [Glucagon][] is secreted by [Alpha Cells][] which triggers the release of Glucose from Glycogen stores.
 
@@ -2310,7 +2312,7 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 [Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral DNA or RNA may be called vDNA or vRNA, respectively.
 
-Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell.
+Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell and inject their material through receptor-mediated endocytosis.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
@@ -2576,7 +2578,7 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 ## Cancer
 
-A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has the ability to spread to another part of the body, then it's called a [cancer][] (or malignant tumor). If a cancer does spread to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][]. An example of a common benign tumor is a [mole][mole tumor]. Some benign tumors may not be benign in effect and may cause damage such as benign brain tumors.
+A [neoplasm][] (or tumor) is an excessive and abnormal growth of a tissue that forms a large mass, often proximately due to excessive cell division or abnormal cell death. If a tumor has cells with significant genetic changes that enables tumor cells to invade and disrupt functions of one or more organs (e.g. abnormal metabolism, unusual numbers of chromosomes, etc.), then it's called a [cancer][] (or malignant tumor). If a cancer spreads to another part of the body, then it has [metastasized][]. If a tumor does not spread, it's called a [benign tumor][]. An example of a common benign tumor is a [mole][mole tumor]. Some benign tumors may not be benign in effect and may cause damage such as benign brain tumors.
 
 A [proto-oncogene][] is a gene that has the potential to cause cancer through mutation or over-expression. Once a proto-oncogene leads to cancer, it becomes an [oncogene][].
 
@@ -2822,6 +2824,7 @@ if (elements.length) {
 [associative learning]: https://en.wikipedia.org/wiki/Learning#Associative_learning
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [astrocytes]: https://en.wikipedia.org/wiki/Astrocyte
+[asymmetric carbon]: https://en.wikipedia.org/wiki/Asymmetric_carbon
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atherosclerosis]: https://en.wikipedia.org/wiki/Atherosclerosis
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
@@ -3125,6 +3128,7 @@ if (elements.length) {
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [demography]: https://en.wikipedia.org/wiki/Demography
+[denaturation]: https://en.wikipedia.org/wiki/Denaturation_(biochemistry)
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
 [dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
