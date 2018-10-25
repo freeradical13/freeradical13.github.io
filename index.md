@@ -964,7 +964,7 @@ Genes are [heritable][] if they are passed from one organism to another.
 
 An organism is an object with the properties of life.
 
-A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may breed with each other. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations of different species. A [metapopulation][] is a group of populations of the same species in some area that may immigrate and emmigrate between each other.
+A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may reproduce sexually with each other, or by physical and genetic similarities for asexual organisms. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations of different species. A [metapopulation][] is a group of populations of the same species in some area that may immigrate and emmigrate between each other.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
@@ -1214,10 +1214,10 @@ Some cells cycle through one of a few states called a [cell cycle][]:
     1. [S phase][] (S for Synthesis): Cell grows. The chromatin is duplicated into a lightly packed arrangement ([euchromatin][]).
     1. [G<sub>2</sub> phase ][g2] (G for Growth): Cell grows. The [centrosome][] organelle (sometimes including two [centrioles][] inside) duplicates outside of the nucleus.
 1. [M phase][] (M for Mitosis): Cell divides
-    1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a [chromatid][] (or sister chromatid pair). A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
+    1. [Prophase][]: Chromatin becomes more tightly coiled ([heterochromatin][]). Each matching pair of duplicated chromosomes attach to their clone at a [centromere][] which is a set of matching bases that bond to each other using [cohesin][] proteins. These paired chromosomes are called a sister chromatid pair (with each chromosome being a [chromatid][]). A [mitotic spindle][], made of microtubule fibers, begins to form from each [centrosome][], with shorter microtubules called [asters][], and the two centrosomes move away from each other.
     1. [Prometaphase][]: The nuclear envelope fragments and centrosome microtubules connect to [kinetochores][] which are protein structures connected to centromeres.
     1. [Metaphase][]: Centrosomes arrange at the opposite ends of the cell and the chromosomes arrange in the middle in between the centrosomes.
-    1. [Anaphase][]: The chromatid separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
+    1. [Anaphase][]: The chromatids separate into individual chromatin and each chromatin is pulled towards one centrosome as its kinetochore shrinks.
     1. [Telophase][]: Nuclei form around the separated chromatin, microtubules are broken down, and chromatin become less tightly coiled. Mitosis is complete. Cytokinesis begins (or a cell plate is formed in plants).
 
 In some cases, cells may perform many rounds of DNA replication in Interphase without entering M phase and thus creating large [Polytene chromosomes][] of many duplicated chromatids.
