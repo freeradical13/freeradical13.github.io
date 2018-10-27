@@ -69,7 +69,7 @@ Energy may [neither be created nor destroyed][conservation of energy], but only 
 
 [Pressure][] (P) is the normal force per unit area (A) applied to an object or <code>P=F<sub>n</sub>/A</code>, often measured in [Pascals][] (Pa) (in N/m<sup>2</sup>). An object under pressure has potential energy.
 
-[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases expontentially with altitude][earth air pressure] so the atmospheric pressure decreases expontentially as an object rises above [sea level][].
+[Atmospheric pressure][] is the pressure of a planet's atmosphere (e.g. the pressure of [air][]) on an object. The mass of air in the Earth's atmosphere [decreases exponentially with altitude][earth air pressure] so the atmospheric pressure decreases exponentially as an object rises above [sea level][].
 
 Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent to 101,325 Pa.
 
@@ -77,11 +77,11 @@ Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on
 
 Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
 
-Roughly, the scale of celsius is defined with 0°C being when pure water freezes at 1 atm, 100°C when pure water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when water freezes at 1 atm, 212°F when water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
+Roughly, the scale of celsius is defined with 0°C being when pure water freezes at 1 atm, 100°C when pure water boils at 1 atm, and absolute zero is -273.15°C. The scale of fahrenheit is defined with 32°F being when pure water freezes at 1 atm, 212°F when pure water boils at 1 atm, and absolute zero is -459.67°F. Originally, the Kelvin scale was defined relative to Celsius, but is now defined as pressure invariant, with 0 as absolute zero, and 273.16K when pure water reaches its [triple point][]. Kelvin was designed so that an increase of one Kelvin is equal to an increase of 1°C.
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
-The [specific heat][] is the amount of heat that must be absorbed or lost for 1g to change its temperature by 1°C.
+The [specific heat][] is the amount of heat that must be absorbed or lost for 1g of something to change its temperature by 1°C.
 
 All matter above absolute zero temperature continuously emits some of its kinetic energy as photons of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
 
@@ -95,7 +95,7 @@ There are four laws of thermodynamics (starting with the zeroth law):
   <li>If two systems A and B are in thermal equilibrium with a third system C, then A and B are in thermal equilibrium.</li>
   <li>Energy may be neither created nor destroyed, but only transformed.</li>
   <li>Energy transformation in a closed system increases entropy.</li>
-  <li>Entropy approaches 0 as the temperature of a closed system approaches 0 Kelvin.</li>
+  <li>Entropy approaches a constant value as the temperature of a closed system approaches 0 Kelvin.</li>
 </ol>
 
 [Entropy][] is a measure of disorder in a system.
@@ -118,7 +118,7 @@ If an atom has an equal number of protons and electrons, then it is electrically
 
 ## The Periodic Table of Elements
 
-There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about 96% of a human's mass, with another 21 required in small amounts (mostly Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chlorine, and Magnesium) ([Campbell & Reece, 2002, pg. 27][campbell & reece, 2002]).
+There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about [96% of a human's mass][campbell & reece, 2002], with another 21 required in small amounts (mostly Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chlorine, and Magnesium).
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number Z from left to right, and starting again at the left when going down.
 
@@ -347,6 +347,8 @@ The amount of a substance is usually measured in mass, moles or volume (e.g. 1g 
 A [hypertonic][] solution has a higher concentration of a solute compared to another solution. A [hypotonic][] solution has a lower concentration of a solute compared to another solution. An [isotonic][] solution has the same concentration of a solute compared to another solution. Like a dynamic equilibrium in chemical reactions, even in an isotonic solution, solvent and solution may move back and forth, but the rates of movement are equalized.
 
 In solution, molecules naturally diffuse from areas of higher concentration to areas of lower concentration if possible. This is called moving down or with the concentration gradient. [Osmosis][] is a particular type of diffusion which creates an osmotic gradient of a solvent from a hypotonic area to a hypertonic area because the concentration of the solvent is lower in the hypertonic area. [Osmotic Pressure][] is the minimum pressure which needs to be applied to a solution to prevent the inflow of solvent across a membrane. An [osmole][] is the number of moles of a solute that contribute to the osmotic pressure of a solution that contribute to osmotic pressure. [Osmolarity][] is the number of osmoles of solute per liter of solution, with the difference from molarity being that some substances dissolve in solution and don't affect osmotic pressure.
+
+[Water Potential][] (Ψ; in megapascals) predicts which direction water will move, taking into account solute concentration (Ψ<sub>s</sub>) and physical pressure (Ψ<sub>p</sub>).
 
 ## Acids and Bases
 
@@ -1409,7 +1411,7 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a peptidoglycan cell wall, an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with a peptidoglycan cell wall (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
 A Gram Stain may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
@@ -1422,7 +1424,7 @@ Some bacteria may form [endospores][] when there is a lack of nutrients which ar
 One bacterium may transfer some genes to another bacterium through various types of horizontal gene transfer:
 
 1. [Transformation][] occurs when one bacterium dies and pieces of DNA may be released for uptake by other living bacteria in a state which is ready to take up new genes (this can be simulated by shocking bacteria with certain chemicals, electrical pulses, or heat shock followed by an ice bath).
-1. [Conjugation][] is the transfer of genes between a bacterium with [F-Factor][] (or fertility factor) which is a part of the donating cell genome and another bacterium through direct contact through a mating bridge. The donor cell is called the [F<sup>+</sup> Cell][f+ cell] if the genes are in a plasmid and the F-Factor genes are transferred to the target cell (or F<sup>-</sup> cell) or the donor cell is called an [Hfr Cell][] if the F-Factor is part of the main chromosome and the F-Factor is used to perform the conjugation but the actual transfer of genes is from another part of the chromosome that tags along with the F-Factor to the F<sup>-</sup> cell.
+1. [Conjugation][] is the transfer of genes between a bacterium with [F-Factor][] (or fertility factor) which is a part of the donating cell genome and another bacterium through direct contact through a mating bridge. The donor cell is called the [F<sup>+</sup> Cell][f+ cell] if the genes are in a plasmid and the F-Factor genes are transferred to the target cell (or F<sup>-</sup> cell) or the donor cell is called an [Hfr Cell][] (High Frequency of Recombination) if the F-Factor is part of the main chromosome and the F-Factor is used to perform the conjugation but the actual transfer of genes is from another part of the chromosome that tags along with the F-Factor to the F<sup>-</sup> cell.
 1. [Transduction][] occurs when a virus infects a bacterium and when copies of that phage end up in another bacterium, they may take with them some of the original bacterium's DNA.
 1. [Transposition][] is the movement of DNA segments (transposons) between chromosomes and plasmids across cells.
 
@@ -2030,7 +2032,7 @@ Some organisms create a fluid waste called [urine][] which is excreted. In the p
 
 The [Kidneys][] are organs which filter blood to eliminate waste and excess salt while conserving water. Urine exits a kidney in a tube called the [ureter][] and drains into the urinary bladder. Urine is excreted from the bladder and through the urethra in the process of urination.
 
-The outside of a kidney is the [renal cortex][] within which is the [renal medulla][] and both are supplied with blood by a renal artery which interacts with excretory tubules called nephrons and [juxtamedullary nephrons][] to produce urine filtrate which is collected in the [renal pelvis][] before leaving in the ureter.
+The outside of a kidney is the [renal cortex][] within which is the [renal medulla][] and both are supplied with blood by a renal artery which interacts with excretory tubules called nephrons and [juxtamedullary nephrons][] to produce urine filtrate which is collected in the [renal pelvis][] before leaving in the ureter to the bladder.
 
 [Nephrons][] are made of a ball of capillaries called the [glomerulus][], an excretory tubule called the [proximal tubule][], and a part of the tubule which encapsulates the glomerulus called [Bowman's Capsule][]. Nephrons are supplied with blood from afferent arterioles. Blood pressure in the glomerulus creates filtrate in Bowman's Capsule and the filtrate passes through the proximal tubule to the [Loop of Henle][] wrapped with arterioles called the [vasa recta][], and then the [Distal Tubule][] before entering collecting ducts in the renal pelvis. As filtrate descends the Loop of Henle through the medulla, water is extracted through aquaporins and increases in solute concentration. As filtrate moves up the Loop of Henle, salt diffuses into the interstitial fluid. The nephrons are countercurrent multiplier systems which create an osmolarity gradient for extracting water from filtrate in the collecting duct.
 
@@ -2388,7 +2390,7 @@ An [inflammatory response][] is a cascade in response to injury or infection. Ma
 
 [B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
-Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction by macrophages or neutrophils ([opsonization][]), or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
+Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction (in the process of [opsonization][]) by macrophages or neutrophils, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
 
 There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
@@ -4551,7 +4553,8 @@ if (elements.length) {
 [vulva]: https://en.wikipedia.org/wiki/Vulva
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
-[water L kg]: https://en.wikipedia.org/wiki/Litre#Explanation
+[water l kg]: https://en.wikipedia.org/wiki/Litre#Explanation
+[water potential]: https://en.wikipedia.org/wiki/Water_potential
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [waxes]: https://en.wikipedia.org/wiki/Wax
