@@ -118,7 +118,7 @@ If an atom has an equal number of protons and electrons, then it is electrically
 
 ## The Periodic Table of Elements
 
-There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about [96% of a human's mass][campbell & reece, 2002], with another 21 required in small amounts (mostly Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chlorine, and Magnesium).
+There are 118 known chemical elements, 92 of which have been observed naturally, the rest synthesized, and only four elements (Carbon, Oxygen, Hydrogen, and Nitrogen) make up about [96% of a human's mass][campbell & reece, 2002 pg 27], with another 21 required in small amounts (mostly Calcium, Phosphorus, Potassium, Sulfur, Sodium, Chlorine, and Magnesium).
 
 The [periodic table][] is a way to organize and understand the chemical elements based on observed patterns. The elements are ordered by atomic number Z from left to right, and starting again at the left when going down.
 
@@ -265,7 +265,7 @@ In general, matter exists in one of [four states][state of matter]:
 
 ## Moles
 
-A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Moles are essentially a way to convert between amus and grams. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
+A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Moles are essentially a way to convert between <code>amu</code>s and grams. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
 
 Since 1u is 1/12<sup>th</sup> the mass of one <sup>12</sup>C atom, then <code>1 mol 1u = 1g</code>; therefore, <code>1 mol of isotope <sup>m<sub>A</sub></sup>E ~= m<sub>A</sub> grams</code>. If a substance doesn't refer to a particular isotope, then standard atomic weight (A<sub>r,std</sub>) is generally used instead of m<sub>A</sub>. [Molecular mass][] is simply the sum of atomic masses of a molecule.
 
@@ -277,7 +277,7 @@ A [chemical reaction][] occurs any time a chemical bond is created or broken. A 
 
 <code>2H<sub>2</sub> + O<sub>2</sub> + E → 2H<sub>2</sub>O + E'</code>
 
-Enthalpy is the heat transferred during a constant pressure process. An [endothermic reaction][] occurs when the system absorbs heat energy (positive ΔH) from its surroundings. An [exothermic reaction][] occurs when the system releases energy (negative ΔH).
+Enthalpy is the heat transferred (ΔH) during a constant pressure process. An [endothermic reaction][] occurs when the system absorbs heat energy (positive ΔH) from its surroundings. An [exothermic reaction][] occurs when the system releases energy (negative ΔH).
 
 A reagent which is attracted to electrons is called an [electrophile][] (i.e. a lewis acid). A [nucleophile][] is a reagent which donates electrons (i.e. a lewis base) to an [electrophile][].
 
@@ -330,7 +330,7 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
 
-A [calorie][] (cal) is the amount of heat energy it takes to raise the temperature of 1g of water by 1°C (conversely, the amount of heat energy released when 1g of water is cooled by 1°C). 1 calorie also equals 4.184 J (conversely, <code>1 J = 0.239 cal</code>). Therefore, the specific heat of water is 1 cal per 1g per °C.
+A [calorie][] (cal) is the amount of heat energy it takes to raise the temperature of 1g of water by 1°C (conversely, the amount of heat energy released when 1g of water is cooled by 1°C). 1 calorie also equals ~4.184 J (conversely, <code>1 J ~= 0.239 cal</code>). Therefore, the specific heat of water is 1 cal per 1g per °C.
 
 Relative to other substances, water has a high specific heat, meaning that it will change its temperature less when it absorbs or loses an amount of heat.
 
@@ -382,7 +382,7 @@ The size and structure of a substance is key to the way it functions because of 
 
 Although substance structures are often described by molecular, empirical, or two-dimensional formulas for simplicity, actual substance structures are three-dimensional.
 
-[Isomers][] are substances that have the some molecular formula but different structures.
+[Isomers][] are substances that have the same molecular formula but different structures.
 
 [Structural isomers][] differ in their covalent arrangements. For example, [butane][] (C<sub>4</sub>H<sub>8</sub>) is:
 
@@ -990,7 +990,7 @@ Both prokaryotes and eukaryotes are made of cells.
 
 ### Cells
 
-A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] (or protoplasm) which is everything inside the membrane (excluding any cellular nucleus) and includes a negatively charged aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
+A [cell][] is a set of atoms encapsulated in a phospholipid bilayer [cell membrane][] (or plasma membrane or cytoplasmic membrane) that surrounds the [cytoplasm][] (or protoplasm) which is everything inside the membrane (excluding any cellular nucleus) and includes an aqueous solution called [cytosol][]. The area inside the membrane is called intracellular and the area outside is extracellular.
 
 A cell includes a [cytoskeleton][] which is a network of microfilament and microtubule proteins which provide scaffolding for the cell structure and other functions. [Microfilaments][] are long chains of [Actin][] proteins of about 7nm in diameter. [Microtubules][] are tubular structures made of [tubulin][] protein of about 25nm in diameter and they are bipolar with two different types of ends. Some cells contain [intermediate filament][] (IF) which are long chains of proteins of about 10nm in diameter (thus intermediate between microfilaments and microtubules). The outer cytoplasmic layer of a cell is called the [cortex][].
 
@@ -1008,7 +1008,7 @@ A process within a cell that occurs at intervals of approximately 24 hours is ca
 
 [Metabolism][] is the sum of all chemical reactions that take place in an organism. [Catabolism][] breaks down bonds in organic molecules to harvest energy. [Anabolism][] synthesizes organic molecules using energy (substances are bonded and heat is released).
 
-[Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), solute concentrations ([osmoregulation][]), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor. An [osmoconformer][] is always [isoosmotic][] with its surroundings whereas an osmoregulator regulates osmolarity by excreting excess water or taking in in water if needed. [Anhydrobiosis][] is a reduced metabolic state when there is insufficient water.
+[Homeostasis][] is a mechanism that uses metabolism to keep certain factors in particular ranges if possible, such as temperature (thermoregulation), solute concentrations ([osmoregulation][]), pH, etc. The sum of all energy used in a time period is called the [metabolic rate][]. [Torpor][] is a state of minimized activity and metabolism. [Hibernation][] is long-term torpor. An [osmoconformer][] is always [isoosmotic][] with its surroundings whereas an osmoregulator regulates osmolarity by excreting excess water or taking in water if needed. [Anhydrobiosis][] is a reduced metabolic state when there is insufficient water.
 
 [Adenosine Triphosphate][] (ATP) is a coenzyme that powers endergonic reactions and thus most cellular work. ATP is often called the currency of energy in cells. ATP is a ribose nucleotide, an Adenine base, and three phosphates. The phosphate chain is linked with phosphoanhydride bonds which have a large -ΔG with hydrolysis and are therefore "high energy" bonds. The three phosphates are negatively charged and repel each other, so the terminal phosphate may be easily transferred to another molecule (leaving Adenosine Diphosphate or ADP). This hydrolysis releases ~7.3 kcal/mol (1 kcal/mol ~= 4.2 kJ/mol) which can drive endergonic reactions. An average cell produces (and recycles) about [10<sup>9</sup> ATP/s][atp per second].
 
@@ -1026,7 +1026,7 @@ Membranes usually have carbohydrates bonded to the outside for various functions
 
 A [vesicle][] is a small sac with a membrane used for functions such as transportation.
 
-[Transport proteins][] (or channel proteins) span the membrane to allow in certain substances in a process called [facilitated diffusion][] (or passive transport), or active transport. For example, [aquaporins][] allow water to across the membrane.
+[Transport proteins][] (or channel proteins) span the membrane to allow in certain substances in a process called [facilitated diffusion][] (or passive transport), or active transport. For example, [aquaporins][] allow water to cross the membrane.
 
 [Active transport][] is the movement of molecules up their concentration gradient using energy such as ATP:
 
@@ -1049,7 +1049,7 @@ A cell in a hypertonic solution will lose water which leads to contraction of th
 
 #### Electron Transport Chain
 
-An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controlled way, creating molecules such as ATP, and heat.
+An [Electron Transport Chain][] uses redox reactions to pass electrons through a series of carriers (mostly proteins) that are progressively more electronegative. Carriers include [cytochromes][] which are heme-containing proteins. A [heme][] is a coordination complex with an Iron atom. An electron transport chain breaks the transfer of electrons into a series of smaller steps to harness energy in a controlled way, creating molecules such as ATP, heat, and driving proton pumps.
 
 #### Chemiosmosis
 
@@ -1132,7 +1132,7 @@ Next, the NADH and FADH<sub>2</sub> drive ATP production in the Respiratory Chai
 
 #### Respiratory Chain
 
-The [Respiratory Chain][] uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in the membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
+The [Respiratory Chain][] uses the electron carriers NADH and FADH<sub>2</sub> produced by Glycolysis and the Citric Acid Cycle to drive an electron transport chain that generates ATP. The electron transport chain is made of Complexes I through IV in a membrane, each of which are made of various proteins and prosthetic groups made of cofactors and coenzymes.
 
 Steps of the Respiratory Chain:
 
@@ -1141,7 +1141,7 @@ Steps of the Respiratory Chain:
     1. In addition, FADH<sub>2</sub> transfers electrons to [Complex II][] into FeS which also feeds Q. Complex II does not span the membrane, so H<sup>+</sup> cations are not pumped across the membrane.
 1. Q transfers electrons into [Complex III][] into the protein Cytochrome b (Cyt b), followed by FeS, followed by Cyt c<sub>1</sub>. Complex III also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
 1. Cyt c<sub>1</sub> transfers electrons into Cyt c, and then into [Complex IV][] into Cyt a, and then Cyt a<sub>3</sub>. Complex IV also accepts a surrounding H<sup>+</sup> and pumps it across the membrane up its concentration gradient using part of the energy of passing on an electron.
-1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In [Oxidative Phosphorylation][] during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with H<sup>+</sup> to form water. In anaerobic respiration, an example of an electron acceptor is a Sulfate ion (SO<sub>4</sub><sup>2-</sup>) which does the same as Oxygen but instead of water produces Hydrogen Sulfide (H<sub>2</sub>S).
+1. Cyt a<sub>3</sub> transfers electrons into a highly negative electron acceptor. In [Oxidative Phosphorylation][] during aerobic respiration, molecular Oxygen O<sub>2</sub> is split into O, accepts the electrons, and bonds with 2H<sup>+</sup> to form water. In anaerobic respiration, an example of an electron acceptor is a Sulfate ion (SO<sub>4</sub><sup>2-</sup>) which does the same as Oxygen but instead of water produces Hydrogen Sulfide (H<sub>2</sub>S).
 
 In summary:
 
@@ -1169,7 +1169,7 @@ The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. Substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the substance a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. [Chlorophyll][] molecules contain pigments such as chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
+    1. Substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the substance a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most collections of pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. [Chlorophyll][] molecules contain pigments such as chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II partly drives Photosystem I.
         1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate, and O bonds with another O and releases as O<sub>2</sub>.
     1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> across a membrane, creating a proton gradient which is used to make ATP through chemiosmosis ([photophosphorylation][]).
@@ -1303,7 +1303,7 @@ Given frequencies of two alleles in a diploid population, the [Hardy-Weinberg Pr
 1. At a sequence of nucleotides called the [Promoter][], [RNA Polymerase][] attaches and splits double-stranded DNA to perform transcription of genes into proteins. One promoter may transcribe one or more genes. In eukaryotic cells, certain proteins must first bind to a part of the Promotor called the [TATA Box][] before RNA polymerase may bind.
 1. [Transcription][]: RNA polymerase goes from the 3' to the 5' end of one DNA strand and adds to the 3' end of a new RNA molecule called [pre-messenger RNA][] (pre-mRNA, or the [primary transcript][], or heterogeneous nuclear RNA, or [hnRNA][]). The name of the DNA strand is the [template strand][], or [antisense strand][dna sense], or [negative strand][]. Since the pre-mRNA nucleotides are complementary to the template strand, they effectively represent the complementary DNA strand which is called the [coding strand][], or [sense strand][dna sense], or [positive strand][], or [non-template strand][]. This is because the "sense" of the new pre-mRNA molecule reflects the sequence of bases in the sense or coding strand. By convention, a gene is described by its coding strand. Transcription proceeds at about [50 nucleotides per second][campbell urry et al 11th pg 344]. Transcription ends at a [terminator][].
 1. In eukaryotes:
-    1. Once RNA polymerase II transcribes the [polyadenylation signal sequence][] (AAUAAA), proteins bind and cut the transcript to finish the pre-mRNA. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [poly-A tail][].
+    1. An enzyme adds a Guanine nucleotide to the 5' end of the pre-mRNA, bound through a triphosphate, called the [5' cap][]. An enzyme adds 50-250 additional adenine nucleotides to the 3' end of the pre-mRNA, called the [polyadenylation signal sequence][] (AAUAAA) or [poly-A tail][].
     1. The pre-mRNA is made of sets of nucleotides called [exons][] (to be expressed) which are needed for translation, and [introns][] (intervening sequences) which are not. A complex called a [spliceosome][] made out of proteins and [snRNA][] ribozymes cuts out the introns and connects the exons together, creating the final mRNA. [Untranslated regions][] (UTRs) after the 5' cap and before the poly-A tail are also left in the mRNA. A single gene may code for multiple proteins because of [Alternative RNA Splicing][] depending on which segments are treated as exons.
 1. [Translation][]: mRNA arrives at a free ribosome in the cytosol. A set of three nucleotides defines a [codon][] which translates to an amino acid. Translation begins at an AUG codon (Methionine). As the ribosome moves over the mRNA molecule in the 5' to 3' direction, a transfer RNA ([tRNA][]) with a matching codon (called an [anticodon][]) attaches its matching amino acid to the new polypeptide chain at the Carboxyl end using rRNA. Translation stops at a stop codon UAG, UAA, or UGA using a [release factor][].
     1. [Aminoacyl-tRNA Synthetases][] use ATP to create a tRNA and amino acid pair.
@@ -1567,7 +1567,7 @@ Examples of poisons:
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fingi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
 
 Most fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
@@ -1661,8 +1661,6 @@ Some plants respond to the effects of gravity through the process of [gravitropi
 
 Some plants respond to mechanical stimuli such as wind through the process of [thigmotropism][].
 
-A vegetable 
-
 ##### Chloroplasts
 
 Mitochondria-like organelles in plants and algae are called [Plastids][] and have their own DNA like mitochondria. [Chloroplasts][] are plastids that act as the site of photosynthesis. In chloroplasts, the outer membrane is not used as part of ATP synthesis like in mitochondria but is a relic of endosymbiosis.
@@ -1697,7 +1695,7 @@ Under conditions of little water (e.g. drought), [Abscisic Acid][] (ABA) is prod
 
 Plants recognize [Pathogen-Associated Molecular Patterns][] (PAMPs) which lead to a chain of defensive events such as the production of phytoalexins.
 
-[Effector-Triggered Immunity][] deals with pathogens that avoid detection by PAMPs (through the use of effectors that block PAMP perception) by defensive genes that are stimulated by the effectors. Effector-trigger immunity initiates the hypersensitive response which leads to localized cell death near the infection site. Systemic Acquired Resistance occurs as a plant-wide expression of defensive genes through signaling molecules such as Salicylic Acid.
+[Effector-Triggered Immunity][] deals with pathogens that avoid detection by PAMPs (through the use of effectors that block PAMP perception) by defensive genes that are stimulated by the effectors. Effector-triggered immunity initiates the hypersensitive response which leads to localized cell death near the infection site. Systemic Acquired Resistance occurs as a plant-wide expression of defensive genes through signaling molecules such as Salicylic Acid.
 
 #### Cell Communication
 
@@ -1751,7 +1749,7 @@ The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxyg
 
 #### Blood
 
-[Blood][] is a liquid that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
+[Blood][] is a liquid (and connective tissue) that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
 
 ##### Blood Cells
 
@@ -1799,7 +1797,7 @@ When the heart muscles relax ([diastole][]), the heart chambers are filled with 
 
 One cycle (or beat) of contractions and relaxation is a [cardiac cycle][]. The cardiac output is the volume of blood pumped by a ventricle per minute. The heart rate is the number of cycles per minute. The stroke volume is the volume of blood pumped per cycle.
 
-Valves prevent backflow in the wrong direction. [Atrioventricular Valves][] lie between each atrium and ventricle and inhibit blood from flowing from the ventricles into the atria. [Semilunar Valves][] lie at the two ventricle exits and inhibit blood from flowing backflow from the arteries into the ventricles.
+Valves prevent backflow in the wrong direction. [Atrioventricular Valves][] lie between each atrium and ventricle and inhibit blood from flowing from the ventricles into the atria. [Semilunar Valves][] lie at the two ventricle exits and inhibit blood from flowing back from the arteries into the ventricles.
 
 A set of cells in the right atrium called the pacemaker (or [Sinoatrial Node][]) set the rate and timing when cardiac muscles contract together (coupled through gap junctions). Impulses from the sinoatrial node are delayed at the [Atrioventricular Node][] to allow emptying of the atria completely before passing the signals on through bundle branches and Purkinje fibres throughout the rest of the heart.
 
@@ -1847,7 +1845,7 @@ Example neurotransmitters include:
 
 * [Acetylcholine][] participates in muscle stimulation, memory formation, and learning.
 * Amino acids that may act as neurotransmitters such as [Glutamate][] which participates in long-term memory formation, and in some organisms function in the role of acetylcholine.
-* [Biogenic Amines][] which are synthesized from amino acids such as Dopamine and Serotonin.
+* [Biogenic Amines][] which are synthesized from amino acids. Examples are Dopamine and Serotonin.
 * [Neuropeptides][] which are short peptides that may act as neurotransmitters such as Endorphins that decrease pain perception.
 * Gases that may act as neurotransmitters such as Nitric Oxide (NO).
 
@@ -2406,7 +2404,7 @@ If an antigen matching memory cells is seen after initial exposure, the memory c
 
 A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antibodies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
-[Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
+[Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
 
 [Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the cytotoxic T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
 
@@ -2931,7 +2929,7 @@ if (elements.length) {
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
 [calorie]: https://en.wikipedia.org/wiki/Calorie
 [calvin cycle]: https://en.wikipedia.org/wiki/Light-independent_reactions
-[campbell & reece, 2002]: https://duckduckgo.com/?q=Biology%2C%20Sixth%20Edition%2C%20Campbell%20%26%20Reece%2C%20ISBN%200805366245%2C%202002
+[campbell & reece, 2002 pg 27]: https://duckduckgo.com/?q=Biology%2C+Sixth+Edition%2C+Campbell+%26+Reece%2C+ISBN+0805366245%2C+2002%2C+pg+27
 [campbell urry et al 11th pg 324]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+324
 [campbell urry et al 11th pg 344]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+344
 [campbell urry et al 11th pg 349]: https://duckduckgo.com/?q=campbell+biology+11th+edition+pg+349
