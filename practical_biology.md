@@ -1,13 +1,5 @@
 # Practical Biology
 
-## Purchasing
-
-### General
-
-* https://labspend.com/
-* https://store.p212121.com/
-* https://ebay.com/
-
 ## Companies/Projects
 
 * [eGenesis](https://www.egenesisbio.com/): Dr. George Church's company that uses edited porcine stem lines for human xenotransplantation
@@ -33,6 +25,12 @@
 ## Bioinformatics
 
 * [Biostars](https://www.biostars.org/): Bioinformatics Q&A site
+
+## Purchasing
+
+* [Lab Spend](https://labspend.com/)
+* [https://store.p212121.com/](p212121)
+* [eBay](https://ebay.com/)
 
 ## TODO
 
