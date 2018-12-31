@@ -29,7 +29,7 @@
 ## Purchasing
 
 * [Lab Spend](https://labspend.com/)
-* [https://store.p212121.com/](p212121)
+* [P212121](https://store.p212121.com/)
 * [eBay](https://ebay.com/)
 
 ## TODO
