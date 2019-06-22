@@ -51,6 +51,8 @@ An electromagnetic field creates [electromagnetic radiation][] which is a [wave]
 
 The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths), where white is a combination of all colors and black is the lack of all colors. [Fluorescent][] substances absorb ultraviolet radiation (~10nm to ~400nm wavelengths) and emit visible light.
 
+[Refraction][] is the bending of a wave as it moves between areas of different densities (and thus different speeds). The [refractive index][] is a ratio expressing the degree light is refracted from one density to another with a higher index meaning higher bending.
+
 # Energy
 
 [Energy][] (E) is the amount of work one object performs on, or transfers to, another object. Energy is often measured in [Joules][] (J). One joule may be defined as <code>J=N×m</code> or a force of one Newton acting on an object in the direction of its motion for one meter.
@@ -73,6 +75,21 @@ Energy may [neither be created nor destroyed][conservation of energy], but only 
 
 Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on Earth at sea level and it's equivalent to 101,325 Pa.
 
+[Partial Pressure][] (<i>p</i>) is the pressure exerted by one gas within a mixture of gases. A gas diffuses from a region of higher partial pressure to lower partial pressure.
+
+# States of Matter
+
+[Volume][] is a quantity of three-dimensional space measured in m<sup>3</sup>. [Density][] is mass per unit volume. [Relative density][] is a ratio of densities. [Specific gravity][] is a relative density to some reference substance. 
+
+In general, matter exists in one of [four states][state of matter] and an object may change states in a [phase change][]:
+
+* [Solid][]: Matter which has fixed volume and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
+* [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
+* [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
+* [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number substances with electric charge moving freely.
+
+# Heat
+
 [Heat][] (H) is a measure of the total quantity of kinetic energy. [Temperature][] is a measure of the average kinetic energy of a set of objects. [Absolute zero][] is the coldest state at which an object has minimal movement; however, practically, it may be assumed that all objects have some movement (or [vibration][]) and thus some non-zero temperature.
 
 Temperature or heat is either measured in [degrees][] (°) of change on the scale of [Celsius][] (°C) or [Fahrenheit][] (°F), or in absolute terms on the scale of [Kelvin][] (K).
@@ -81,11 +98,15 @@ Roughly, the scale of celsius is defined with 0°C being when pure water freezes
 
 The [lowest recorded surface temperature][temperature comparison] on Earth is <code>184K / -89.2°C / -128.6°F</code>, the highest <code>331K / 58°C / 136.4°F</code>, and the average <code>288K / 15°C / 59°F</code>.
 
-The [specific heat][] is the amount of heat that must be absorbed or lost for 1g of something to change its temperature by 1°C.
+[Heat capacity][] is the amount of energy that must be added or removed to achieve a uniform change in an object's temperature, divided by the magnitude of the change.
+
+[Latent heat][] is the amount of energy an object absorbs or releases per unit volume during which the temperature of the object stays constant.
+
+[Specific heat][] is the amount of heat that must be absorbed or lost for 1g of something to change its temperature by 1°C. 
 
 All matter above absolute zero temperature continuously emits some of its kinetic energy as photons of electromagnetic radiation called [thermal radiation][] or heat. The temperature determines the [emission spectrum][] of wavelengths of the electromagnetic radiation. Most matter may also absorb some of any incoming electromagnetic radiation.
 
-If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (and [thermal convection][] in the case of fluids and gases) until they (or at least their touching surfaces) reach [thermal equilibrium][].
+If two objects touch with a path permeable to heat, then, all else being equal, the hotter object heats the cooler object through [thermal conduction][] (or [thermal convection][] depending on the state of matter) until they (or at least their touching surfaces) reach [thermal equilibrium][].
 
 # Thermodynamics
 
@@ -191,7 +212,7 @@ Generally, electron affinity increases from left to right (except for those with
 
 Most elements are [metals][] (although there are only two named metal groups): they are toward the left side of the periodic table (with the exception of Hydrogen), have low ionization energies, low electron affinity, are highly [electrically conductive][], [ductile][], and generally solid at standard temperature.
 
-[Nonmetals][] are the opposite of metals: they are toward the right side of the table, have high ionization energies, high electron affinities, are not very electrically conductive, and they are often gases (e.g. Hydrogen, Helium, etc.), although some may be solids (e.g. Carbon).
+[Nonmetals][] are the opposite of metals: they are toward the right side of the table, have high ionization energies, high electron affinities, and are not very electrically conductive.
 
 There are a handful of [Metalloids][] which have properties of both metals and nonmetals and run down a diagonal in the p-block (e.g. Boron, Silicon, etc.).
 
@@ -251,17 +272,6 @@ Reduction is the process of gaining electrons. Oxidation is the process of losin
 1. [Dipole-dipole forces][] occur when the opposite partial charges of the [dipoles][] of two polar molecules (or different parts of a large molecule) attract each other. For example, two water molecules have a dipole-dipole interaction between the partial negative end of the Oxygen of one molecule and the partial positives of the Hydrogens of the other molecule. When this interaction occurs with Hydrogren, this may be called Hydrogen bonding since it's the strongest form of dipole-dipole interaction.
 1. [Van der Waals forces][]
     1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
-
-## States of Matter
-
-[Volume][] is a quantity of three-dimensional space measured in m<sup>3</sup>. [Density][] is mass per unit volume. [Relative density][] is a ratio of densities. [Specific gravity][] is a relative density which is relative to some reference substance such as water. 
-
-In general, matter exists in one of [four states][state of matter]:
-
-* [Solid][]: Matter which has fixed volume and fixed shape, with its components close together and fixed in place. In equations, solid substances may be suffixed with (s).
-* [Liquid][]: Matter which has fixed volume and variable shape to fit its container, with its components close together but not fixed in place. In equations, liquid substances may be suffixed with (l).
-* [Gas][]: Matter which has variable volume and variable shape, both to fit its container, and its components are neither close together nor fixed in place. In equations, gas substances may be suffixed with (g).
-* [Plasma][]: Matter which has variable volume and variable shape, but also contains a large number of ions or electrons moving freely.
 
 ## Moles
 
@@ -350,6 +360,8 @@ In solution, molecules naturally diffuse from areas of higher concentration to a
 
 [Water Potential][] (Ψ; in megapascals) predicts which direction water will move, taking into account solute concentration (Ψ<sub>s</sub>) and physical pressure (Ψ<sub>p</sub>).
 
+The ratio of a solute to a solution is sometimes described in a [parts-per notation][] such as [parts-per thousand][] (‰, or permille, or 10<sup>-3</sup>, but not ppt which is parts-per trillion), parts-per million (ppm or 10<sup>-6</sup>), parts-per billion (ppb or 10<sup>-9</sup>), parts-per trillion (ppt or 10<sup>-12</sup>), or parts-per quadrillion (ppq or 10<sup>-15</sup>).
+
 ## Acids and Bases
 
 [Protium][] is the most common isotope of Hydrogen on Earth with one proton and zero neutrons (<sup>1</sup>H). [Deuterium][] is an isotope of Hydrogen with one proton and one neutron (<sup>2</sup>H). A [hydron][] is a cationic Hydrogen with 0 electrons (<sup>1 or 2</sup>H<sup>+</sup>). A [hydride][] is an anionic Hydrogen. A protium hydron (<sup>1</sup>H<sup>+</sup>) is often just called a proton since it's just a proton with no neutrons nor electrons.
@@ -372,7 +384,7 @@ A substance that is acidic in a neutral solution will have an overall negative c
 
 A small proportion of water molecules in liquid water will tend to [autoionize][water autoionization] and form hydronium and hydroxide ions (<code>H<sub>2</sub>O + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup></code>). For pure water, at the equilibrium point under standard conditions (i.e. 25°C), [H<sup>+</sup>] = [H<sub>3</sub>O<sup>-</sup>] = 10<sup>-7</sup> M.
 
-The [pH scale][] is a way to describe how acidic or basic a mixture is without using exponents, and it's just the [cologarithm][] of molarity: <code>pX = -log [X]</code>. pH is the cologarithm of H<sup>+</sup> and describes how acidic the mixture is. Conversely, pOH is the cologarithm of OH<sup>-</sup> and describes how basic the mixture is. When <code>pH = pOH</code> (in other words, <code>[H<sup>+</sup>] = [OH<sup>-</sup>]</code>), the mixture is described as neutral. Mixtures with <code>[H<sup>+</sup>] > [OH<sup>-</sup>]</code> are acidic. Mixtures with <code>[H<sup>+</sup>] < [OH<sup>-</sup>]</code> are basic. In any mixture, <code>[H<sup>+</sup>]×[OH<sup>-</sup>] = 10<sup>-14</sup></code> (in other words, <code>pH + pOH = 14</code>). As the molarity of protons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
+The [pH scale][] is a way to describe how acidic or basic a mixture is without using exponents, and it's just the [cologarithm][] (or negative logarithm) of molarity: <code>pX = -log [X]</code>. pH is the cologarithm of H<sup>+</sup> and describes how acidic the mixture is. Conversely, pOH is the cologarithm of OH<sup>-</sup> and describes how basic the mixture is. (Note: Do not confuse this <code>pX</code> notation with the <code><i>p</i>X</code> notation [with italicized <i>p</i>] which describes partial pressure; e.g., <code><i>p</i>CO<sub>2</sub></code>). When <code>pH = pOH</code> (in other words, <code>[H<sup>+</sup>] = [OH<sup>-</sup>]</code>), the mixture is described as neutral. Mixtures with <code>[H<sup>+</sup>] > [OH<sup>-</sup>]</code> are acidic. Mixtures with <code>[H<sup>+</sup>] < [OH<sup>-</sup>]</code> are basic. In any mixture, <code>[H<sup>+</sup>]×[OH<sup>-</sup>] = 10<sup>-14</sup></code> (in other words, <code>pH + pOH = 14</code>). As the molarity of protons increases (e.g. stomach acid is between ~10<sup>-1.5</sup> to ~10<sup>-3.5</sup>), the pH value decreases and thus acidity increases. Therefore, mixtures with a pH below 7 are acidic and basic above 7.
 
 A [buffer][] is a substance that minimizes changes to pH by accepting protons when in excess and donating protons when in deficit. Generally, a buffer is a molecule with both an acid and a base, and its equilibrium constant controls its behavior in buffering the mixture. For example, carbonic acid yields a bicarbonate ion and a proton: <code>H<sub>2</sub>CO<sub>3</sub> ⇌ HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup></code>.
 
@@ -1962,8 +1974,6 @@ The signals of multiple photoreceptor cells are combined at [Bipolar Cells][], a
 
 [Gas Exchange][] is the process by which gases diffuse across a surface.
 
-[Partial Pressure][] is the pressure exerted by one gas within a mixture of gases. A gas diffuses from a region of higher partial pressure to lower partial pressure.
-
 [Breathing][] (or respiration, or ventilation) is a process of alternating inhalation and exhalation that facilitates gas exchange of O<sub>2</sub> and CO<sub>2</sub> in organs that are part of a [respiratory system][].
 
 In some aquatic organisms, [gills][] move water through the mouth and across [lamellae][] to extract dissolved O<sub>2</sub> and expel CO<sub>2</sub>. Some animals use [countercurrent exchange][] to maximize gas exchange which moves substances or heat in substances in opposite directions next to each other which creates a partial pressure gradient that favors diffusion of O<sub>2</sub> from water to blood.
@@ -2444,9 +2454,50 @@ There is a trade off between number of offspring and the amount of resources par
 
 [Precocial Species][] are those in which children are relatively mature and mobile when born, whereas [Altricial Species][] require significant nursing after birth.
 
-## Biosphere
+## Geology
 
-[Geology][] is the study of the solid parts of the Earth. 
+[Geology][] is the study of the solid parts of the Earth. [Oceanography][] is the study of the oceans on the Earth.
+
+The [Earth has a radius][earth radius] of ~6350km. From the center to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
+
+The crust and the top ~0-100km of the mantle are called the [lithosphere][]. Underneath the lithosphere for another ~100km is the [asthenosphere][]. The lithosphere is broken up into pieces called [tectonic plates][] which move independently, driven by the asthenosphere.
+
+When two tectonic plates move away from each other, the boundary is called a [divergent boundary][]. As the plates diverge, crust and mantle from below melt into [magma][] and extrude to form mostly underwater mountain ridges, with the largest being the [mid-ocean ridge][] (including the Mid-Atlantic Ridge and the East Pacific Rise), and the magma may also potentially form [volcanic islands][] which breach the surface of the water. The crust is youngest at the ridge and the age increases approximately symmetrically and orthogonally to both sides of the ridge. Divergent boundaries experience shallow [earthquakes][] which are sudden releases of energy that shake the Earth. As magma cools, certain magnetic rock solidifies with a particular orientation towards the magnetic pole. Symmetric, repeating stripes of rocks oriented in flip-flopping directions around a divergent boundary match the pattern of Earth's periodic [geomagnetic reversals][].
+
+When two tectonic plates move toward each other, the boundary is called a [convergent boundary][]. As the plates converge, the denser plate performs [subduction][] to go beneath the less dense plate which also creates a trench between them and the elevation of the less dense plate tends to increase. As the subducted plate reaches the asthenosphere, it melts. This colder mantle is denser and sinks to the bottom of the mantle. As lower material heats up, it becomes less dense and starts to rise, and these forces together create [mantle convection][] cells. Convergent boundaries experience shallow or deep earthquakes. As the subducted plate melts underneath the less dense plate, magma plumes at the point of the melting may make their way up through the less dense plate to create islands or volcanos. If a convergent boundary occurs with two plates of similar density (e.g. two continental plates), instead of subducting, the two plates may larger go vertical to create a mountain range (e.g. the Himalayas), although some crust may still subduct and create volcanos.
+
+When two tectonic plates largely move parallel or anti-parallel, the boundary is called a [transform boundary][]. Earthquake activity is high and volcano formation is variable.
+
+[Hotspots][] may form volcanic regions independent of tectonic plate boundaries. If they stay fixed within the mantle, they may create island chains as the plates move above them (e.g. Hawaii).
+
+[Transform faults][] occur at transform boundaries or at divergent boundaries such as the mid-ocean ridges where a ridge has a sudden offset shift (causing an earthquake). [Fracture zones][] are the area where the shift occurred and do not have earthquakes because they're just the byproduct of past transform faults.
+
+An [oceanic basin][] is created by diverging plates and recycled by converging plates:
+
+1. The embryonic phase is an uplift from a previous convergence (e.g. East African Rift Valleys).
+1. As the plates diverge, the juvenile phase is when water rushes into the diverging [rift valley][] to create a sea (e.g. Red Sea).
+1. The mature phase is a fully formed ocean in place of the sea along with continental margins (e.g. Atlantic Ocean).
+1. The declining phase is when plates converge which forms island arcs and trenches (e.g. Pacific Ocean).
+1. The terminal phase is when the ocean turns into sea(s) and consists of narrow, irregular seas with young mountains (e.g. Mediterranean Sea).
+1. The suturing phase is convergence and uplift of young to mature mountain belts and the whole process repeats (e.g. Himalaya mountains).
+
+An oceanic basin is made of a [continental shelf][] where the continental plate meets the ocean. The shelf is underwater, shallow, and generally flat. The shelf leads to the [continental slope][] which is a steep drop off. The continental slope leads to a less steep slope called the [continental rise][] which contains run off that dropped down the slope (sometimes carving [submarine canyons][] in the slope created by [turbidity currents][]). The continental rise leads to the [abyssal plain][] which is generally flat and makes up the the majority of the ocean basin with a depth between 3000-6000m. The [continental margin][] consists of the continental shelf, continental slope, and continental rise.
+
+A [seamount][] is a mountain below the ocean surface of at least 1000m with a generally rounded top. [Tablemounts][] are seamounts with flat tops, generally from wave erosion during a seamount's island phase.
+
+A [fringing coral reef][] may form around an island. As the island is eroded, a [barrier reef][] may remain as the island sinks. When the island submerges, an [atoll][] with a [lagoon][] may remain.
+
+[Hydrothermal vents][], often found at mid-ocean ridges, are pores in the crust near underwater volcanos which spew hot water and various chemicals: clear warm water vents (<30°C), white water vents (30°C - 350°C), and black smoker vents with sulfides (>350°C). Hydrothermal vents may support bacteria that perform [chemosynthesis][] on sulfides instead of using photosynthesis and light.
+
+## Oceanography
+
+An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts and gases in water as a ratio permille (‰). The refractive index of water increases as salinity increases. 
+
+[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with different density water with the top layer being the [Photic Zone][] (~0-200m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
+
+The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
+
+## Biosphere
 
 The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [Ecosystem][] consists of all life and their [Environment][] (the things life interacts with in a particular area).
 
@@ -2468,8 +2519,6 @@ One or more ecosystems may be classified as part of [Biomes][] based on terrestr
 * A [Desert][] biome is an area of land with little precipitation.
 * A [Chaparral][] biome has a seasonal climate and consists largely of shrubs and small trees.
 * A [Tundra][] biome has a seasonal but cold climate.
-
-An [Ocean][] (or Sea) is a large body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with the top layer being the [Photic Zone][] where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
 
 Aquatic biomes are largely characterized by chemical or physical properties:
 
@@ -2689,6 +2738,7 @@ if (elements.length) {
 [abc model of flower development]: https://en.wikipedia.org/wiki/ABC_model_of_flower_development
 [abscisic acid]: https://en.wikipedia.org/wiki/Abscisic_acid
 [absolute zero]: https://en.wikipedia.org/wiki/Absolute_zero
+[abyssal plain]: https://en.wikipedia.org/wiki/Abyssal_plain
 [abyssal zone]: https://en.wikipedia.org/wiki/Abyssal_zone
 [acceleration]: https://en.wikipedia.org/wiki/Acceleration
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
@@ -2823,12 +2873,14 @@ if (elements.length) {
 [asexual reproduction]: https://en.wikipedia.org/wiki/Asexual_reproduction
 [associative learning]: https://en.wikipedia.org/wiki/Learning#Associative_learning
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
+[asthenosphere]: https://en.wikipedia.org/wiki/Asthenosphere
 [astrocytes]: https://en.wikipedia.org/wiki/Astrocyte
 [asymmetric carbon]: https://en.wikipedia.org/wiki/Asymmetric_carbon
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atherosclerosis]: https://en.wikipedia.org/wiki/Atherosclerosis
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
+[atoll]: https://en.wikipedia.org/wiki/Atoll
 [atomic mass]: https://en.wikipedia.org/wiki/Atomic_mass
 [atomic mass number]: https://en.wikipedia.org/wiki/Mass_number
 [atomic number]: https://en.wikipedia.org/wiki/Atomic_number
@@ -2863,6 +2915,7 @@ if (elements.length) {
 [balance]: https://en.wikipedia.org/wiki/Sense_of_balance
 [bark]: https://en.wikipedia.org/wiki/Bark_(botany)
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
+[barrier reef]: https://en.wikipedia.org/wiki/Coral_reef#Barrier_reef
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
 [basal cell]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [basal ganglia]: https://en.wikipedia.org/wiki/Basal_ganglia
@@ -2996,6 +3049,7 @@ if (elements.length) {
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
 [chemoreceptors]: https://en.wikipedia.org/wiki/Chemoreceptor
+[chemosynthesis]: https://en.wikipedia.org/wiki/Chemosynthesis
 [chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
 [chiasmata]: https://en.wikipedia.org/wiki/Chiasma_(genetics)
 [chiral]: https://en.wikipedia.org/wiki/Chirality_%28chemistry%29
@@ -3077,8 +3131,14 @@ if (elements.length) {
 [conservation of energy]: https://en.wikipedia.org/wiki/Conservation_of_energy
 [constitutive gene]: https://en.wikipedia.org/wiki/Gene_expression#Regulation_of_gene_expression
 [continent]: https://en.wikipedia.org/wiki/Continent
+[continental crust]: https://en.wikipedia.org/wiki/Continental_crust
 [continental drift]: https://en.wikipedia.org/wiki/Continental_drift
+[continental margin]: https://en.wikipedia.org/wiki/Continental_margin
+[continental rise]: https://en.wikipedia.org/wiki/Continental_rise
+[continental shelf]: https://en.wikipedia.org/wiki/Continental_shelf
+[continental slope]: https://en.wikipedia.org/wiki/Continental_slope
 [control elements]: https://en.wikipedia.org/wiki/Regulatory_sequence
+[convergent boundary]: https://en.wikipedia.org/wiki/Convergent_boundary
 [convergent evolution]: https://en.wikipedia.org/wiki/Convergent_evolution
 [coordinate covalent bond]: https://en.wikipedia.org/wiki/Coordinate_covalent_bond
 [coordination complex]: https://en.wikipedia.org/wiki/Coordination_complex
@@ -3169,6 +3229,7 @@ if (elements.length) {
 [distance]: https://en.wikipedia.org/wiki/Distance
 [disulfide bridges]: https://en.wikipedia.org/wiki/Disulfide
 [diurnal]: https://en.wikipedia.org/wiki/Diurnality
+[divergent boundary]: https://en.wikipedia.org/wiki/Divergent_boundary
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
@@ -3190,6 +3251,12 @@ if (elements.length) {
 [earth]: https://en.wikipedia.org/wiki/Earth
 [earth age]: https://doi.org/10.1016/0012-821X(80)90024-2
 [earth air pressure]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Pressure_and_thickness
+[earth radius]: https://en.wikipedia.org/wiki/Earth_radius
+[earthquakes]: https://en.wikipedia.org/wiki/Earthquake
+[earth's crust]: https://en.wikipedia.org/wiki/Crust_(geology)#Earth's_crust
+[earth's inner core]: https://en.wikipedia.org/wiki/Earth%27s_inner_core
+[earth's mantle]: https://en.wikipedia.org/wiki/Mantle_(geology)#Earth's_mantle
+[earth's outer core]: https://en.wikipedia.org/wiki/Earth%27s_outer_core
 [echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
 [ecological succession]: https://en.wikipedia.org/wiki/Ecological_succession
 [ecology]: https://en.wikipedia.org/wiki/Ecology
@@ -3365,7 +3432,9 @@ if (elements.length) {
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frequency-dependent selection]: https://en.wikipedia.org/wiki/Frequency-dependent_selection
+[fracture zones]: https://en.wikipedia.org/wiki/Fracture_zone
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
+[fringing coral reef]: https://en.wikipedia.org/wiki/Coral_reef#Fringing_reef
 [frontal lobe]: https://en.wikipedia.org/wiki/Frontal_lobe
 [fructose]: https://en.wikipedia.org/wiki/Fructose
 [fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
@@ -3406,6 +3475,7 @@ if (elements.length) {
 [geography]: https://en.wikipedia.org/wiki/Physical_geography
 [geological record]: https://en.wikipedia.org/wiki/Geologic_record
 [geology]: https://en.wikipedia.org/wiki/Geology
+[geomagnetic reversals]: https://en.wikipedia.org/wiki/Geomagnetic_reversal
 [geometric isomers]: https://en.wikipedia.org/wiki/Geometric_isomers
 [geometry]: https://www.khanacademy.org/math/geometry
 [germination]: https://en.wikipedia.org/wiki/Germination
@@ -3463,6 +3533,7 @@ if (elements.length) {
 [hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
+[heat capacity]: https://en.wikipedia.org/wiki/Heat_capacity
 [heat-shock proteins]: https://en.wikipedia.org/wiki/Heat_shock_protein
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [helicases]: https://en.wikipedia.org/wiki/Helicase
@@ -3515,6 +3586,7 @@ if (elements.length) {
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
+[hotspots]: https://en.wikipedia.org/wiki/Hotspot_(geology)
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humans]: https://en.wikipedia.org/wiki/Humans
@@ -3531,6 +3603,7 @@ if (elements.length) {
 [hydronium]: https://en.wikipedia.org/wiki/Hydronium
 [hydrophilic]: https://en.wikipedia.org/wiki/Hydrophilic
 [hydrophobic]: https://en.wikipedia.org/wiki/Hydrophobic
+[hydrothermal vents]: https://en.wikipedia.org/wiki/Hydrothermal_vent
 [hydroxide]: https://en.wikipedia.org/wiki/Hydroxide
 [hydroxyl]: https://en.wikipedia.org/wiki/Hydroxyl
 [hypertension]: https://en.wikipedia.org/wiki/Hypertension
@@ -3637,12 +3710,14 @@ if (elements.length) {
 [lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
 [lactic acid fermentation]: https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 [lagging strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
+[lagoon]: https://en.wikipedia.org/wiki/Lagoon
 [lake]: https://en.wikipedia.org/wiki/Lake
 [lamellae]: https://en.wikipedia.org/wiki/Lamella_(surface_anatomy)
 [land]: https://en.wikipedia.org/wiki/Land
 [land plants]: https://en.wikipedia.org/wiki/Embryophyte
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [larval]: https://en.wikipedia.org/wiki/Larval
+[latent heat]: https://en.wikipedia.org/wiki/Latent_heat
 [lateral meristems]: https://en.wikipedia.org/wiki/Meristem#Secondary_meristems
 [laurasia]: https://en.wikipedia.org/wiki/Laurasia
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
@@ -3679,6 +3754,7 @@ if (elements.length) {
 [lipoprotein lipase]: https://en.wikipedia.org/wiki/Lipoprotein_lipase
 [lipoproteins]: https://en.wikipedia.org/wiki/Lipoprotein
 [liquid]: https://en.wikipedia.org/wiki/Liquid
+[lithosphere]: https://en.wikipedia.org/wiki/Lithosphere
 [littoral zone]: https://en.wikipedia.org/wiki/Littoral_zone
 [litre]: https://en.wikipedia.org/wiki/Litre
 [liver]: https://en.wikipedia.org/wiki/Liver
@@ -3709,6 +3785,7 @@ if (elements.length) {
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
 [macrophages]: https://en.wikipedia.org/wiki/Macrophage
 [mad cow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
+[magma]: https://en.wikipedia.org/wiki/Magma
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [major histocompatibility complex]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
@@ -3716,6 +3793,7 @@ if (elements.length) {
 [maltose]: https://en.wikipedia.org/wiki/Maltose
 [mammals]: https://en.wikipedia.org/wiki/Mammal
 [mammary glands]: https://en.wikipedia.org/wiki/Mammary_gland
+[mantle convection]: https://en.wikipedia.org/wiki/Mantle_convection
 [marine benthic zone]: https://en.wikipedia.org/wiki/Neritic_zone
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
@@ -3771,12 +3849,14 @@ if (elements.length) {
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
 [microvilli]: https://en.wikipedia.org/wiki/Microvillus
+[mid-ocean ridge]: https://en.wikipedia.org/wiki/Mid-ocean_ridge
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [migration]: https://en.wikipedia.org/wiki/Migration_(ecology)
 [milky way galaxy]: https://en.wikipedia.org/wiki/Milky_Way
 [mineralocorticoids]: https://en.wikipedia.org/wiki/Mineralocorticoid
 [minerals]: https://en.wikipedia.org/wiki/Mineral
+[mineraloids]: https://en.wikipedia.org/wiki/Mineraloid
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
@@ -3906,7 +3986,10 @@ if (elements.length) {
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [ocean]: https://en.wikipedia.org/wiki/Ocean
+[oceanic basin]: https://en.wikipedia.org/wiki/Oceanic_basin
+[oceanic crust]: https://en.wikipedia.org/wiki/Oceanic_crust
 [oceanic pelagic zone]: https://en.wikipedia.org/wiki/Ocean#Oceanic_zones
+[oceanography]: https://en.m.wikipedia.org/wiki/Oceanography
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
@@ -3983,6 +4066,8 @@ if (elements.length) {
 [parthenogenesis]: https://en.wikipedia.org/wiki/Parthenogenesis
 [partial pressure]: https://en.wikipedia.org/wiki/Partial_pressure
 [particles]: https://en.wikipedia.org/wiki/Particle
+[parts-per notation]: https://en.wikipedia.org/wiki/Parts-per_notation
+[parts-per thousand]: https://en.wikipedia.org/wiki/Per_mille
 [pascals]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [passive immunity]: https://en.wikipedia.org/wiki/Passive_immunity
 [pathogen-associated molecular patterns]: https://en.wikipedia.org/wiki/Pathogen-associated_molecular_pattern
@@ -4014,6 +4099,7 @@ if (elements.length) {
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phagocytosis]: https://en.wikipedia.org/wiki/Phagocytosis
 [pharynx]: https://en.wikipedia.org/wiki/Pharynx
+[phase change]: https://en.wikipedia.org/wiki/Phase_transition
 [phenotype]: https://en.wikipedia.org/wiki/Phenotype
 [phenyl]: https://en.wikipedia.org/wiki/Phenyl_group
 [pheromones]: https://en.wikipedia.org/wiki/Pheromone
@@ -4178,6 +4264,8 @@ if (elements.length) {
 [rectum]: https://en.wikipedia.org/wiki/Rectum
 [red blood cells]: https://en.wikipedia.org/wiki/Red_blood_cell
 [redox]: https://en.wikipedia.org/wiki/Redox
+[refraction]: https://en.wikipedia.org/wiki/Refraction
+[refractive index]: https://en.wikipedia.org/wiki/Refractive_index
 [refractory period]: https://en.wikipedia.org/wiki/Refractory_period_(physiology)
 [regulatory enzymes]: https://en.wikipedia.org/wiki/Regulatory_enzyme
 [reinforcement]: https://en.wikipedia.org/wiki/Reinforcement_(speciation)
@@ -4213,10 +4301,12 @@ if (elements.length) {
 [ribose]: https://en.wikipedia.org/wiki/Ribose
 [ribosomes]: https://en.wikipedia.org/wiki/Ribosome
 [ribozymes]: https://en.wikipedia.org/wiki/Ribozyme
+[rift valley]: https://en.wikipedia.org/wiki/Rift_valley
 [river]: https://en.wikipedia.org/wiki/River
 [rna polymerase]: https://en.wikipedia.org/wiki/RNA_polymerase
 [rna replicase]: https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase
 [rna self-replication]: https://dx.doi.org/10.1126/science.1200752
+[rock]: https://en.wikipedia.org/wiki/Rock_(geology)
 [rod cells]: https://en.wikipedia.org/wiki/Rod_cell
 [root pressure]: https://en.wikipedia.org/wiki/Root_pressure
 [roots]: https://en.wikipedia.org/wiki/Root
@@ -4225,6 +4315,7 @@ if (elements.length) {
 [rubp]: https://en.wikipedia.org/wiki/Ribulose_1,5-bisphosphate
 [s phase]: https://en.wikipedia.org/wiki/S_phase
 [s process]: https://en.wikipedia.org/wiki/S-process
+[salinity]: https://en.wikipedia.org/wiki/Saline_water
 [saliva]: https://en.wikipedia.org/wiki/Saliva
 [salt]: http://goldbook.iupac.org/html/S/S05447.html
 [sap]: https://en.wikipedia.org/wiki/Sap
@@ -4241,6 +4332,7 @@ if (elements.length) {
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [seabirds]: https://en.wikipedia.org/wiki/Seabird
+[seamount]: https://en.wikipedia.org/wiki/Seamount
 [season]: https://en.wikipedia.org/wiki/Season
 [second]: https://en.wikipedia.org/wiki/Second
 [second messengers]: https://en.wikipedia.org/wiki/Second_messenger_system
@@ -4355,6 +4447,8 @@ if (elements.length) {
 [structural polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Structural_polysaccharides
 [style]: https://en.wikipedia.org/wiki/Stigma_(botany)#Style
 [subcutaneous tissue]: https://en.wikipedia.org/wiki/Subcutaneous_tissue
+[subduction]: https://en.wikipedia.org/wiki/Subduction
+[submarine canyons]: https://en.wikipedia.org/wiki/Submarine_canyon
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
@@ -4388,6 +4482,7 @@ if (elements.length) {
 [systemic circulation]: https://en.wikipedia.org/wiki/Circulatory_system#Systemic_circulation
 [systole]: https://en.wikipedia.org/wiki/Systole
 [t cells]: https://en.wikipedia.org/wiki/T_cell
+[tablemounts]: https://en.wikipedia.org/wiki/Guyot
 [tae]: https://en.wikipedia.org/wiki/TAE_buffer
 [taproots]: https://en.wikipedia.org/wiki/Taproot
 [taq]: https://en.wikipedia.org/wiki/Taq_polymerase
@@ -4397,6 +4492,7 @@ if (elements.length) {
 [taxis]: https://en.wikipedia.org/wiki/Taxis
 [taxonomy]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tbe]: https://en.wikipedia.org/wiki/TBE_buffer
+[tectonic plates]: https://en.wikipedia.org/wiki/Plate_tectonics
 [telomerase]: https://en.wikipedia.org/wiki/Telomerase
 [telomeres]: https://en.wikipedia.org/wiki/Telomere
 [telophase]: https://en.wikipedia.org/wiki/Telophase
@@ -4459,6 +4555,8 @@ if (elements.length) {
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transferases]: https://en.wikipedia.org/wiki/Transferase
+[transform boundary]: https://en.wikipedia.org/wiki/Transform_fault
+[Transform faults]: https://en.wikipedia.org/wiki/Transform_fault
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transgenes]: https://en.wikipedia.org/wiki/Transgene
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
@@ -4491,6 +4589,7 @@ if (elements.length) {
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
 [tundra]: https://en.wikipedia.org/wiki/Tundra
+[turbidity currents]: https://en.wikipedia.org/wiki/Turbidity_current
 [turgor pressure]: https://en.wikipedia.org/wiki/Turgor_pressure
 [tympanic membrane]: https://en.wikipedia.org/wiki/Eardrum
 [type-I compounds]: https://en.wikipedia.org/wiki/Chemical_nomenclature#Type-I_ionic_binary_compounds
@@ -4545,6 +4644,7 @@ if (elements.length) {
 [vitamin d]: https://en.wikipedia.org/wiki/Vitamin_D
 [vitamins]: https://en.wikipedia.org/wiki/Vitamin
 [viviparous]: https://en.wikipedia.org/wiki/Viviparity
+[volcanic islands]: https://en.wikipedia.org/wiki/Volcanic_islands
 [voltage]: https://en.wikipedia.org/wiki/Voltage
 [voltage-gated ion channels]: https://en.wikipedia.org/wiki/Voltage-gated_ion_channel
 [volume]: https://en.wikipedia.org/wiki/Volume
