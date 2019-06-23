@@ -79,7 +79,7 @@ Another unit of pressure is the [atmosphere][atm] (atm) which is the pressure on
 
 # States of Matter
 
-[Volume][] is a quantity of three-dimensional space measured in m<sup>3</sup>. [Density][] is mass per unit volume. [Relative density][] is a ratio of densities. [Specific gravity][] is a relative density to some reference substance. 
+[Volume][] is a quantity of three-dimensional space measured in m<sup>3</sup>. [Density][] is mass per unit volume. [Relative density][] is a ratio of densities. [Specific gravity][] is a relative density to some reference substance.
 
 In general, matter exists in one of [four states][state of matter] and an object may change states in a [phase change][]:
 
@@ -100,7 +100,7 @@ The [lowest recorded surface temperature][temperature comparison] on Earth is <c
 
 [Heat capacity][] is the amount of energy that must be added or removed to achieve a uniform change in an object's temperature, divided by the magnitude of the change.
 
-[Latent heat][] is the amount of energy an object absorbs or releases per unit volume during which the temperature of the object stays constant.
+[Latent heat][] is the amount of energy an object absorbs or releases per unit volume during which the temperature of the object stays constant. The latent heat of vaporization is the amount of energy gained added per unit volume at the boiling point to break intermolecular bonds and complete the phase change of liquid to gas. The latent heat of melting is the amount of energy gained per unit volume at the freezing point to break intermolecular crystal bonds and complete the phase change of solid to liquid. The latent heat of condensation is the amount of energy released per unit volume for a gas to complete the phase change to a liquid as it cools. The latent heat of freezing is the amount of energy released per unit volume at the freezing point to complete the phase change of liquid to solid.
 
 [Specific heat][] is the amount of heat that must be absorbed or lost for 1g of something to change its temperature by 1°C. 
 
@@ -338,17 +338,19 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 ## Water
 
-Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
+Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create Hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
+
+Water has a high freezing point, high boiling point, high heat capacity, high specific heat, and high latent heat because of the additional energy needed to overcome its Hydrogen bonding. Water's latent heat of vaporization is much greater than its latent heat of melting because vaporization needs to break most or all of the Hydrogen bonds whereas melting just needs to break the general crystal structure. Cold water holds gases better than warmer water. Frozen water is less dense than liquid water because of additional Hydrogen bonding increasing the volume of the same number of water molecules relative to liquid. [Freezing-point depression][] is the process of reducing the freezing point by adding a solute and its concentration varies the amount of freezing point decrease.
 
 A [calorie][] (cal) is the amount of heat energy it takes to raise the temperature of 1g of water by 1°C (conversely, the amount of heat energy released when 1g of water is cooled by 1°C). 1 calorie also equals ~4.184 J (conversely, <code>1 J ~= 0.239 cal</code>). Therefore, the specific heat of water is 1 cal per 1g per °C.
-
-Relative to other substances, water has a high specific heat, meaning that it will change its temperature less when it absorbs or loses an amount of heat.
 
 Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water. Substances that are [amphipathic][] have both hydrophobic and hydrophilic regions.
 
 ## Solutions
 
 A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] are colloids of liquids).
+
+A [saturated solution][] is a solution with a solute that dissolves until it is unable to dissolve anymore, leaving the undissolved substances at the bottom. An unsaturated solution is a solution with less solute than a saturated solution which completely dissolves, leaving no remaining substances at the bottom. A supersaturated solution is a solution with more undissolved solute than a saturated solution because of its tendency to crystallize and precipitate.
 
 A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [1 litre of water][water L kg] is approximately 1 kg under standard conditions (e.g. 25°C).
 
@@ -2456,21 +2458,21 @@ There is a trade off between number of offspring and the amount of resources par
 
 ## Geology
 
-[Geology][] is the study of the solid parts of the Earth. [Oceanography][] is the study of the oceans on the Earth.
+[Geology][] is the study of the solid parts of the Earth.
 
 The [Earth has a radius][earth radius] of ~6350km. From the center to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
 
 The crust and the top ~0-100km of the mantle are called the [lithosphere][]. Underneath the lithosphere for another ~100km is the [asthenosphere][]. The lithosphere is broken up into pieces called [tectonic plates][] which move independently, driven by the asthenosphere.
 
-When two tectonic plates move away from each other, the boundary is called a [divergent boundary][]. As the plates diverge, crust and mantle from below melt into [magma][] and extrude to form mostly underwater mountain ridges, with the largest being the [mid-ocean ridge][] (including the Mid-Atlantic Ridge and the East Pacific Rise), and the magma may also potentially form [volcanic islands][] which breach the surface of the water. The crust is youngest at the ridge and the age increases approximately symmetrically and orthogonally to both sides of the ridge. Divergent boundaries experience shallow [earthquakes][] which are sudden releases of energy that shake the Earth. As magma cools, certain magnetic rock solidifies with a particular orientation towards the magnetic pole. Symmetric, repeating stripes of rocks oriented in flip-flopping directions around a divergent boundary match the pattern of Earth's periodic [geomagnetic reversals][].
+When two tectonic plates move away from each other, the boundary is called a [divergent boundary][]. As the plates diverge, crust and mantle from below melt into [magma][] and extrude to form mostly underwater mountain ridges, with the largest being the [mid-ocean ridge][] (including the Mid-Atlantic Ridge and the East Pacific Rise), and the magma may also potentially form [volcanic islands][] which breach the surface of the water. The crust is youngest at the ridge and the age increases approximately symmetrically and orthogonally to both sides of the ridge. Divergent boundaries experience shallow [earthquakes][] which are sudden releases of energy that shake the Earth. As magma cools, certain magnetic rock (magnetite) solidifies with a particular orientation towards the magnetic pole. Symmetric, repeating stripes of rocks oriented in flip-flopping directions around a divergent boundary match the pattern of Earth's periodic [geomagnetic reversals][].
 
-When two tectonic plates move toward each other, the boundary is called a [convergent boundary][]. As the plates converge, the denser plate performs [subduction][] to go beneath the less dense plate which also creates a trench between them and the elevation of the less dense plate tends to increase. As the subducted plate reaches the asthenosphere, it melts. This colder mantle is denser and sinks to the bottom of the mantle. As lower material heats up, it becomes less dense and starts to rise, and these forces together create [mantle convection][] cells. Convergent boundaries experience shallow or deep earthquakes. As the subducted plate melts underneath the less dense plate, magma plumes at the point of the melting may make their way up through the less dense plate to create islands or volcanos. If a convergent boundary occurs with two plates of similar density (e.g. two continental plates), instead of subducting, the two plates may larger go vertical to create a mountain range (e.g. the Himalayas), although some crust may still subduct and create volcanos.
+When two tectonic plates move toward each other, the boundary is called a [convergent boundary][]. As the plates converge, the denser plate performs [subduction][] to go beneath the less dense plate which also creates a trench between them and the elevation of the less dense plate tends to increase. As the subducted plate reaches the asthenosphere, it melts. This colder mantle is denser and sinks to the bottom of the mantle. As lower material heats up, it becomes less dense and starts to rise, and these forces together create [mantle convection][] cells. Convergent boundaries experience shallow or deep earthquakes. As the subducted plate melts underneath the less dense plate, magma plumes at the point of the melting may make their way up through the less dense plate to create islands or continental volcanoes. If a convergent boundary occurs with two plates of similar density (e.g. two continental plates), instead of subducting, the two plates may larger go vertical to create a mountain range (e.g. the Himalayas), although some crust may still subduct and create volcanoes.
 
-When two tectonic plates largely move parallel or anti-parallel, the boundary is called a [transform boundary][]. Earthquake activity is high and volcano formation is variable.
+When two tectonic plates largely move parallel or anti-parallel, the boundary is called a [transform boundary][]. Earthquake activity is high and volcano formation is variable depending on various factors.
 
 [Hotspots][] may form volcanic regions independent of tectonic plate boundaries. If they stay fixed within the mantle, they may create island chains as the plates move above them (e.g. Hawaii).
 
-[Transform faults][] occur at transform boundaries or at divergent boundaries such as the mid-ocean ridges where a ridge has a sudden offset shift (causing an earthquake). [Fracture zones][] are the area where the shift occurred and do not have earthquakes because they're just the byproduct of past transform faults.
+[Transform faults][] occur at transform boundaries or at divergent boundaries such as the mid-ocean ridges where a ridge or part of a plate has a sudden offset shift (causing an earthquake). [Fracture zones][] are the area where the shift occurred and do not have earthquakes because they're just the byproduct of past transform faults.
 
 An [oceanic basin][] is created by diverging plates and recycled by converging plates:
 
@@ -2487,15 +2489,38 @@ A [seamount][] is a mountain below the ocean surface of at least 1000m with a ge
 
 A [fringing coral reef][] may form around an island. As the island is eroded, a [barrier reef][] may remain as the island sinks. When the island submerges, an [atoll][] with a [lagoon][] may remain.
 
-[Hydrothermal vents][], often found at mid-ocean ridges, are pores in the crust near underwater volcanos which spew hot water and various chemicals: clear warm water vents (<30°C), white water vents (30°C - 350°C), and black smoker vents with sulfides (>350°C). Hydrothermal vents may support bacteria that perform [chemosynthesis][] on sulfides instead of using photosynthesis and light.
+[Hydrothermal vents][], often found at mid-ocean ridges, are pores in the crust near underwater volcanoes which spew hot water and various chemicals: clear warm water vents (<30°C), white water vents (30°C - 350°C), and black smoker vents with sulfides (>350°C). Hydrothermal vents may support Hydrogen sulfide-oxidizing bacteria that perform [chemosynthesis][] instead of using photosynthesis.
 
 ## Oceanography
 
-An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts and gases in water as a ratio permille (‰). The refractive index of water increases as salinity increases. 
+[Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts (grams), and usually includes some gases (e.g. CO<sub>2</sub.) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
 
-[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with different density water with the top layer being the [Photic Zone][] (~0-200m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
+The [thermocline][] is the depth range with a sharp change in temperature (generally where sunlight no longer penetrates). The [pycnocline][] is the depth range with a sharp change in density produced by the effects of the thermocline and halocline. Where the pycnocline is low (e.g. polar oceans), there is significant vertical mixing (upwelling and downwelling).
 
-The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][]. The temperature of water changes abruptly where sunlight penetrates poorly at an area called a [Thermocline][].
+Aspects of salinity:
+
+1. Temperature and salinity (and pressure) are the largest determinants of density (with temperature being the largest) and thus drive vertical water flow patterns. Salinity has the largest impact on density in polar oceans because the temperature change is so small. The average density of seawater is ~1.025 gm/cm<sup>3</sup>.
+1. In general, all else equal, as salinity increases, density increases. Similarly, as temperature increases, density decreases.
+1. Salinity generally records the physical processes affecting a mass of water when it was last at the surface, so at lower depths, it may be used as a tracer to determine its general source.
+1. Salinity near the surface is largely regulated by the balance between precipitation (lowering salinity) and evaporation (increasing salinity). The highest salinities occur in the hot, dry, sub-tropical central gyres (~20°-30° N/S) where atmospheric cirulation cells descend and have high evaporation and low precipitation.
+1. Low salinities at the equator because of rain due to rising atmospheric cirulation.
+1. Salinity may be affected by ice formation and melting.
+1. Salinity is generally lowest at higher latitudes and highest at lower latitudes, although there's a dip at the equator because of the excess of precipitation over evaporation.
+1. The higher the salinity, the higher the density. When water warms, it expands and becomes less dense.
+1. The refractive index of water increases as salinity increases because the density increases.
+1. Because of the greater local heating effects of the Gulf Stream, the North Atlantic is warmer than the North Pacific, so water evaporates more rapidly. This leads to increased salinity and thus increased density and thus more down-welling of water.
+
+A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's temperature and salinity as observed together at specified depths (generally excluding surface waters).
+
+[Ocean currents][] are masses of water that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. The coldest deep waters in the polar oceans sink to the bottom and move horizontally throughout other oceans.
+
+[Upwelling][] water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface.
+
+<i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). Therefore, all else equal, as <i>p</i>CO<sub>2</sub> goes up, pH goes down, and since the reactions are reversible, as <i>p</i>CO<sub>2</sub> goes down, pH goes up.
+
+[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with different density water with the top layer being the [Photic Zone][] (~0-300m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
+
+The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][].
 
 ## Biosphere
 
@@ -3430,6 +3455,7 @@ if (elements.length) {
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
+[freezing-point depression]: https://en.wikipedia.org/wiki/Freezing-point_depression
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frequency-dependent selection]: https://en.wikipedia.org/wiki/Frequency-dependent_selection
 [fracture zones]: https://en.wikipedia.org/wiki/Fracture_zone
@@ -3525,6 +3551,7 @@ if (elements.length) {
 [guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
 [hair cells]: https://en.wikipedia.org/wiki/Hair_cell
+[halocline]: https://en.wikipedia.org/wiki/Halocline
 [halogens]: https://en.wikipedia.org/wiki/Halogen
 [hamilton's rule]: https://en.wikipedia.org/wiki/Kin_selection#Hamilton's_rule
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
@@ -3986,6 +4013,7 @@ if (elements.length) {
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [ocean]: https://en.wikipedia.org/wiki/Ocean
+[ocean currents]: https://en.wikipedia.org/wiki/Ocean_current
 [oceanic basin]: https://en.wikipedia.org/wiki/Oceanic_basin
 [oceanic crust]: https://en.wikipedia.org/wiki/Oceanic_crust
 [oceanic pelagic zone]: https://en.wikipedia.org/wiki/Ocean#Oceanic_zones
@@ -4233,6 +4261,7 @@ if (elements.length) {
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [pupil]: https://en.wikipedia.org/wiki/Pupil
 [purines]: https://en.wikipedia.org/wiki/Purine
+[pycnocline]: https://en.wikipedia.org/wiki/Pycnocline
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
 [pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
@@ -4322,6 +4351,7 @@ if (elements.length) {
 [sarcomeres]: https://en.wikipedia.org/wiki/Sarcomere
 [sarcoplasmic reticulum]: https://en.wikipedia.org/wiki/Endoplasmic_reticulum
 [saturated hydrocarbon]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Hydrocarbons
+[saturated solution]: https://en.wikipedia.org/wiki/Saturation_(chemistry)#Solutions
 [savanna]: https://en.wikipedia.org/wiki/Savanna
 [scaffolding proteins]: https://en.wikipedia.org/wiki/Scaffold_protein
 [scanning electron microscope]: https://en.wikipedia.org/wiki/Scanning_electron_microscope
@@ -4499,6 +4529,7 @@ if (elements.length) {
 [temperate broadleaf forest]: https://en.wikipedia.org/wiki/Temperate_broadleaf_and_mixed_forest
 [temperate grassland]: https://en.wikipedia.org/wiki/Temperate_grasslands,_savannas,_and_shrublands
 [temperature]: https://en.wikipedia.org/wiki/Temperature
+[temperature-salinity diagram]: https://en.wikipedia.org/wiki/Temperature%E2%80%93salinity_diagram
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
 [template strand]: https://en.wikipedia.org/wiki/Transcription_(biology)#Elongation
 [temporal lobe]: https://en.wikipedia.org/wiki/Temporal_lobe
@@ -4602,6 +4633,7 @@ if (elements.length) {
 [unsaturated hydrocarbon]: https://en.wikipedia.org/wiki/Unsaturated_hydrocarbon
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
+[upwelling]: https://en.wikipedia.org/wiki/Upwelling
 [urea]: https://en.wikipedia.org/wiki/Urea
 [ureter]: https://en.wikipedia.org/wiki/Ureter
 [uric acid]: https://en.wikipedia.org/wiki/Uric_acid
