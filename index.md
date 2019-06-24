@@ -2456,11 +2456,15 @@ There is a trade off between number of offspring and the amount of resources par
 
 [Precocial Species][] are those in which children are relatively mature and mobile when born, whereas [Altricial Species][] require significant nursing after birth.
 
+## Planetary Science
+
+[Planetary Science][] is the study of planets.
+
 ## Geology
 
-[Geology][] is the study of the solid parts of the Earth.
+[Geology][] is the study of the solid parts of the Earth (land). A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
 
-The [Earth has a radius][earth radius] of ~6350km. From the center to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
+The [Earth has a radius][earth radius] of ~6350km. From the center of the Earth to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
 
 The crust and the top ~0-100km of the mantle are called the [lithosphere][]. Underneath the lithosphere for another ~100km is the [asthenosphere][]. The lithosphere is broken up into pieces called [tectonic plates][] which move independently, driven by the asthenosphere.
 
@@ -2493,7 +2497,7 @@ A [fringing coral reef][] may form around an island. As the island is eroded, a 
 
 ## Oceanography
 
-[Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts (grams), and usually includes some gases (e.g. CO<sub>2</sub.) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
+[Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts (grams), and usually includes some gases (e.g. CO<sub>2</sub>) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
 
 The [thermocline][] is the depth range with a sharp change in temperature (generally where sunlight no longer penetrates). The [pycnocline][] is the depth range with a sharp change in density produced by the effects of the thermocline and halocline. Where the pycnocline is low (e.g. polar oceans), there is significant vertical mixing (upwelling and downwelling).
 
@@ -2522,15 +2526,13 @@ A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's tempe
 
 The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][].
 
+## Climate
+
+[Climate][] describes the long-term conditions in a given area. Climate may vary by [Season][], which is a cyclic period in which the length of the day and temperature change, largely due to the tilt of the Earth's axis of rotation and distance to the sun.
+
 ## Biosphere
 
 The [Biosphere][] consists of all life on a planet and is made of ecosystems. An [Ecosystem][] consists of all life and their [Environment][] (the things life interacts with in a particular area).
-
-[Geography][] is the study of the biosphere, land, oceans, atmosphere, etc. A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
-
-Continents move through a process called [continental drift][].
-
-[Climate][] describes the long-term conditions in a given area. Climate may vary by [Season][], which is a cyclic period in which the length of the day and temperature change, largely due to the tilt of the Earth's axis of rotation and distance to the sun.
 
 An area of vegetation has many layers and the topmost layer is called the [Canopy][].
 
@@ -4162,6 +4164,7 @@ if (elements.length) {
 [pith]: https://en.wikipedia.org/wiki/Pith
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
 [placenta]: https://en.wikipedia.org/wiki/Placenta
+[planetary science]: https://en.wikipedia.org/wiki/Planetary_science
 [planets]: https://en.wikipedia.org/wiki/Planet
 [plant cortex]: https://en.wikipedia.org/wiki/Cortex_(botany)
 [plants]: https://en.wikipedia.org/wiki/Plant
