@@ -25,7 +25,7 @@ An [object][] (or [entity][]) is a collection of matter. An object has an [inert
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
 2. An object in motion will stay in motion unless a force is applied to push or pull it.
 
-The [speed][] of an object is a description of its movement and is the [rate][] at which its position in space changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s).
+The [speed][] of an object is a description of its movement and is the [rate][] at which its position in space changes over a [distance][] over a period of [time][] ([e.g.][for example] moving at 13 meters per [second][] (s), or 13 m/s). A [minute][] is 60 seconds. An [hour][] is 60 minutes.
 
 The [velocity][] (v) of an object is a description of both its speed and its [direction][] in space (e.g. moving at 13 m/s _down_).
 
@@ -2458,7 +2458,7 @@ There is a trade off between number of offspring and the amount of resources par
 
 ## Planetary Science
 
-[Planetary Science][] is the study of planets.
+[Planetary Science][] is the study of planets. The [Earth's orbit][] around the sun is an [elliptic orbit][] at ~30km/s with an average distance to the sun of ~150 million km. Although arbitrary, the Earth and Sun are generally viewed from the vantage point where the Earth orbits the sun in a counter-clockwise direction (Eastward), and the Earth and Sun themselves spin in a counter-clockwise direction around their North-South axes. From this vantage point, there are two opposite poles for the Earth: the [North Pole][] and the [South Pole][]. It takes about one [day][] (24 hours) for the Earth to make a single rotation around its axis. It takes about 365.256 days for the Earth to make a single orbit around the sun. Earth's Noth-South [axis is tilted][] about 23.44°. The moon rotates counterclockwise around the Earth and itself rotates counterclockwise around its North-South axis.
 
 ## Geology
 
@@ -2930,6 +2930,7 @@ if (elements.length) {
 [auxotrophy]: https://en.wikipedia.org/wiki/Auxotrophy
 [axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
+[axis is tilted]: https://en.wikipedia.org/wiki/Axial_tilt#Earth
 [axon]: https://en.wikipedia.org/wiki/Axon
 [axon hillock]: https://en.wikipedia.org/wiki/Axon_hillock
 [b cells]: https://en.wikipedia.org/wiki/B_cell
@@ -3209,6 +3210,7 @@ if (elements.length) {
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
 [cytosol]: https://en.wikipedia.org/wiki/Cytosol
 [cytotoxic t cells]: https://en.wikipedia.org/wiki/Cytotoxic_T_cell
+[day]: https://en.wikipedia.org/wiki/Day
 [day-neutral plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
@@ -3283,6 +3285,7 @@ if (elements.length) {
 [earth's crust]: https://en.wikipedia.org/wiki/Crust_(geology)#Earth's_crust
 [earth's inner core]: https://en.wikipedia.org/wiki/Earth%27s_inner_core
 [earth's mantle]: https://en.wikipedia.org/wiki/Mantle_(geology)#Earth's_mantle
+[earth's orbit]: https://en.wikipedia.org/wiki/Earth%27s_orbit
 [earth's outer core]: https://en.wikipedia.org/wiki/Earth%27s_outer_core
 [echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
 [ecological succession]: https://en.wikipedia.org/wiki/Ecological_succession
@@ -3318,6 +3321,7 @@ if (elements.length) {
 [elementary electric charge]: https://en.wikipedia.org/wiki/Elementary_charge
 [elementary entity]: https://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf#page=23
 [elevation]: https://en.wikipedia.org/wiki/Elevation
+[elliptic orbit]: https://en.wikipedia.org/wiki/Elliptic_orbit
 [embryo]: https://en.wikipedia.org/wiki/Embryo
 [embryonic stem cells]: https://en.wikipedia.org/wiki/Embryonic_stem_cell
 [embryophytes]: https://en.wikipedia.org/wiki/Embryophyte
@@ -3616,6 +3620,7 @@ if (elements.length) {
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
 [hotspots]: https://en.wikipedia.org/wiki/Hotspot_(geology)
+[hour]: https://en.wikipedia.org/wiki/Hour
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humans]: https://en.wikipedia.org/wiki/Humans
@@ -3886,6 +3891,7 @@ if (elements.length) {
 [mineralocorticoids]: https://en.wikipedia.org/wiki/Mineralocorticoid
 [minerals]: https://en.wikipedia.org/wiki/Mineral
 [mineraloids]: https://en.wikipedia.org/wiki/Mineraloid
+[minute]: https://en.wikipedia.org/wiki/Minute
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
@@ -3991,6 +3997,7 @@ if (elements.length) {
 [nonsense mutation]: https://en.wikipedia.org/wiki/Nonsense_mutation
 [norepinephrine]: https://en.wikipedia.org/wiki/Norepinephrine
 [normal force]: https://en.wikipedia.org/wiki/Normal_force
+[north pole]: https://en.wikipedia.org/wiki/North_Pole
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [northern coniferous forest]: https://en.wikipedia.org/wiki/Taiga
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
@@ -4431,6 +4438,7 @@ if (elements.length) {
 [somatic]: https://en.wikipedia.org/wiki/Somatic_(biology)
 [soredia]: https://en.wikipedia.org/wiki/Soredium
 [sound]: https://en.wikipedia.org/wiki/Sound
+[south pole]: https://en.wikipedia.org/wiki/South_Pole
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [space]: https://en.wikipedia.org/wiki/Space
 [spatial learning]: https://en.wikipedia.org/wiki/Spatial_memory
