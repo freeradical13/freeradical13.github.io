@@ -100,7 +100,17 @@ The [lowest recorded surface temperature][temperature comparison] on Earth is <c
 
 [Heat capacity][] is the amount of energy that must be added or removed to achieve a uniform change in an object's temperature, divided by the magnitude of the change.
 
-[Latent heat][] is the amount of energy an object absorbs or releases per unit volume during which the temperature of the object stays constant. The latent heat of vaporization is the amount of energy gained added per unit volume at the boiling point to break intermolecular bonds and complete the phase change of liquid to gas. The latent heat of melting is the amount of energy gained per unit volume at the freezing point to break intermolecular crystal bonds and complete the phase change of solid to liquid. The latent heat of condensation is the amount of energy released per unit volume for a gas to complete the phase change to a liquid as it cools. The latent heat of freezing is the amount of energy released per unit volume at the freezing point to complete the phase change of liquid to solid.
+[Latent heat][] is the amount of energy an object absorbs or releases per unit volume during which the temperature of the object stays constant.
+
+The [latent heat of vaporization][] (or evaporation) is the amount of energy gained per unit volume below the boiling point to break intermolecular bonds and complete the phase change of liquid to gas. To do this, some molecules gain energy from their neighbors which is also called [evaporative cooling][].
+
+The [latent heat of melting][] is the amount of energy gained per unit volume at the freezing point to break intermolecular crystal bonds and complete the phase change of solid to liquid ([freezing][]).
+
+The latent heat of condensation is the amount of energy released per unit volume for a gas to complete the phase change to a liquid ([condensation][]) as it cools.
+
+The [latent heat of freezing][] is the amount of energy released per unit volume at the freezing point to complete the phase change of liquid to solid.
+
+[Sublimation][] is the phase change from solid directly to gas.
 
 [Specific heat][] is the amount of heat that must be absorbed or lost for 1g of something to change its temperature by 1°C. 
 
@@ -338,13 +348,17 @@ If we know there are 85g of Fe<sub>2</sub>O<sub>3</sub>, since each of those mol
 
 ## Water
 
-Liquid water is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create Hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
+[Water][] is a particularly imporant molecule. Since it's a polar molecule, it has a tendency to create Hydrogen bonds with nearby water molecules (or other ions or dipoles). This phenomenon is called [cohesion][]. Water also has a greater [surface tension][] (how difficult it is to stretch or break the surface of a liquid).
 
-Water has a high freezing point, high boiling point, high heat capacity, high specific heat, and high latent heat because of the additional energy needed to overcome its Hydrogen bonding. Water's latent heat of vaporization is much greater than its latent heat of melting because vaporization needs to break most or all of the Hydrogen bonds whereas melting just needs to break the general crystal structure. Cold water holds gases better than warmer water. Frozen water is less dense than liquid water because of additional Hydrogen bonding increasing the volume of the same number of water molecules relative to liquid. [Freezing-point depression][] is the process of reducing the freezing point by adding a solute and its concentration varies the amount of freezing point decrease.
+Water has a high freezing point, high boiling point, high heat capacity, high specific heat, and high latent heat because of the additional energy needed to overcome its Hydrogen bonding. Water's latent heat of vaporization is much greater than its latent heat of melting because vaporization needs to break most or all of the Hydrogen bonds whereas melting just needs to break the general crystal structure. Cold water holds gases better than warmer water. Frozen water is less dense than liquid water because of additional Hydrogen bonding increasing the volume of the same number of water molecules relative to liquid.
+
+[Freezing-point depression][] is the process of reducing the freezing point by adding a solute (such as salt) because more energy and/or time is required for molecules to Hydrogen bond to form a crystalline solid and freeze despite the solutes.
 
 A [calorie][] (cal) is the amount of heat energy it takes to raise the temperature of 1g of water by 1°C (conversely, the amount of heat energy released when 1g of water is cooled by 1°C). 1 calorie also equals ~4.184 J (conversely, <code>1 J ~= 0.239 cal</code>). Therefore, the specific heat of water is 1 cal per 1g per °C.
 
 Substances that are ionic or polar are [hydrophilic][] meaning that they have a high affinity for water. Substances that are non-ionic and non-polar are [hydrophobic][] meaning that they have a low affinity for water. Substances that are [amphipathic][] have both hydrophobic and hydrophilic regions.
+
+[Frozen water is less dense than liquid water][frozen water less dense] because at higher temperatures, the higher average kinetic energy means water molecules may more freely disassociate Hydrogen bonds between molecules whereas at lower temperatures, the Hydrogen bonding between water molecules cannot be as easily disassociated and this creates a more spaced-out lattice-type structure which is less dense.
 
 ## Solutions
 
@@ -2426,13 +2440,13 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 ## Birth
 
-[Birth][] is the process of one organism bearing a separate child.
+[Birth][] is the process of one organism bearing a separate child organism.
 
-An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][] or pregnancy) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk.
+An [oviparous][] animal develops eggs into a shelled container with yolk for nourishment and the egg develops and hatches mostly outside the mother. A [viviparous][] animal develops eggs inside the mother ([gestation][] or pregnancy) with nutrient exchange between egg and mother before birth. An [ovoviviparous][] animal develops eggs inside the mother until they are ready to hatch, but which are self-sufficient with egg yolk and without nutrient exchange with the mother.
 
 After fertilization between sperm and egg creates a zygote, the zygote starts to perform mitosis to create the [embryo][], enclosed within the outer membrane of the egg called the [zona pellucida][]. This initial mitosis is called [cleavage][] in which the number of cells (called [blastomeres][]) increases but the amount of cytoplasm stays the same, thus each blastomere is smaller than its parent cell.
 
-In some animals, the egg is partly composed of stored nutrients called the [Yolk][] which is concentrated to one pole of the egg called the Vegetal Pole and the other cells concentrate at the other end called the Animal Pole. In some animals such as frogs, after fertilization, the contents of the animal pole shift slightly towards the point at which the sperm entered thus creating a crescent shaped area between the poles with diffuse pigments that look gray called the [gray crescent][].
+In some animals, the egg is partly composed of stored nutrients called the [yolk][] which is concentrated to one pole of the egg called the Vegetal Pole and the other cells concentrate at the other end called the Animal Pole. In some animals such as frogs, after fertilization, the contents of the animal pole shift slightly towards the point at which the sperm entered thus creating a crescent shaped area between the poles with diffuse pigments that look gray called the [gray crescent][].
 
 Once cleavage creates ~16 cells which are grouped into a solid ball, the collection of cells is called a [morula][]. Cells on the outer part of the morula become [trophoblast cells][] and compact together with gap junctions and desmosomes. The remaining cells on the inside are called the [embryoblast][inner cell mass] (or [Inner Cell Mass][]).
 
@@ -2458,19 +2472,19 @@ There is a trade off between number of offspring and the amount of resources par
 
 ## Planetary Science
 
-[Planetary Science][] is the study of planets. The [Earth's orbit][] around the sun is an [elliptic orbit][] at ~30km/s with an average distance to the sun of ~150 million km. Although arbitrary, the Earth and Sun are generally viewed from the vantage point where the Earth orbits the sun in a counter-clockwise direction (Eastward), and the Earth and Sun themselves spin in a counter-clockwise direction around their North-South axis. From this vantage point, there are two opposite poles for the Earth: the [North Pole][] and the [South Pole][]. It takes about one [day][] (24 hours) for the Earth to make a single rotation around its axis. It takes about 365.256 days for the Earth to make a single orbit around the sun. Earth's Noth-South [axis is tilted][] about 23.44°. The moon rotates counterclockwise around the Earth and itself rotates counterclockwise around its North-South axis.
+[Planetary Science][] is the study of planets. The [Earth's orbit][] around the sun is an [elliptic orbit][] at ~30km/s with an average distance to the sun of ~150 billion meters (bm). Although arbitrary, the Earth and Sun are generally viewed from the vantage point where the Earth orbits the sun in a counter-clockwise direction (Eastward), and the Earth and Sun themselves spin in a counter-clockwise direction around their North-South axes. From this vantage point, there are two opposite poles for the Earth: the [North Pole][] and the [South Pole][]. It takes about one [day][] (24 hours) for the Earth to make a single rotation around its axis. It takes about 365.256 days for the Earth to make a single orbit around the sun. Earth's North-South [axis is tilted][] about 23.44° from the orbital plane. The moon rotates counterclockwise around the Earth and itself rotates counterclockwise around its North-South axis.
 
 ## Geology
 
-[Geology][] is the study of the solid parts of the Earth (land). A large landmass is called a [continent][]. A smaller piece of land that is within or near a continent and which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
+[Geology][] is the study of the solid parts of the Earth (land). A large landmass is called a [continent][]. A very small piece of land which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
 
 The [Earth has a radius][earth radius] of ~6350km. From the center of the Earth to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
 
 The crust and the top ~0-100km of the mantle are called the [lithosphere][]. Underneath the lithosphere for another ~100km is the [asthenosphere][]. The lithosphere is broken up into pieces called [tectonic plates][] which move independently, driven by the asthenosphere.
 
-When two tectonic plates move away from each other, the boundary is called a [divergent boundary][]. As the plates diverge, crust and mantle from below melt into [magma][] and extrude to form mostly underwater mountain ridges, with the largest being the [mid-ocean ridge][] (including the Mid-Atlantic Ridge and the East Pacific Rise), and the magma may also potentially form [volcanic islands][] which breach the surface of the water. The crust is youngest at the ridge and the age increases approximately symmetrically and orthogonally to both sides of the ridge. Divergent boundaries experience shallow [earthquakes][] which are sudden releases of energy that shake the Earth. As magma cools, certain magnetic rock (magnetite) solidifies with a particular orientation towards the magnetic pole. Symmetric, repeating stripes of rocks oriented in flip-flopping directions around a divergent boundary match the pattern of Earth's periodic [geomagnetic reversals][].
+When two tectonic plates move away from each other, the boundary is called a [divergent boundary][]. As the plates diverge, crust and mantle from below melt into [magma][] and extrude to form mountain ridges (which tend to be underwater), with the largest being the [mid-ocean ridges][] (including the Mid-Atlantic Ridge and the East Pacific Rise), and the magma may also potentially form [volcanic islands][] which breach the surface of the water. The crust is youngest at the ridge and the age increases approximately symmetrically and orthogonally to both sides of the ridge. Divergent boundaries experience shallow [earthquakes][] which are sudden releases of energy that shake the Earth. As magma cools, certain magnetic rock (magnetite) solidifies with a particular orientation towards the magnetic pole. Symmetric, repeating stripes of rocks oriented in flip-flopping directions around a divergent boundary match the pattern of Earth's periodic [geomagnetic reversals][].
 
-When two tectonic plates move toward each other, the boundary is called a [convergent boundary][]. As the plates converge, the denser plate performs [subduction][] to go beneath the less dense plate which also creates a trench between them and the elevation of the less dense plate tends to increase. As the subducted plate reaches the asthenosphere, it melts. This colder mantle is denser and sinks to the bottom of the mantle. As lower material heats up, it becomes less dense and starts to rise, and these forces together create [mantle convection][] cells. Convergent boundaries experience shallow or deep earthquakes. As the subducted plate melts underneath the less dense plate, magma plumes at the point of the melting may make their way up through the less dense plate to create islands or continental volcanoes. If a convergent boundary occurs with two plates of similar density (e.g. two continental plates), instead of subducting, the two plates may larger go vertical to create a mountain range (e.g. the Himalayas), although some crust may still subduct and create volcanoes.
+When two tectonic plates move toward each other, the boundary is called a [convergent boundary][]. As the plates converge, the denser plate performs [subduction][] to go beneath the less dense plate which also creates a trench between them and the elevation of the less dense plate tends to increase. As the subducted plate reaches the asthenosphere, it melts. This colder mantle is denser and sinks to the bottom of the mantle. As lower material heats up, it becomes less dense and starts to rise, and these forces together create [mantle convection][] cells. Convergent boundaries experience shallow or deep earthquakes. As the subducted plate melts underneath the less dense plate, magma plumes at the point of the melting may make their way up through the less dense plate to create islands or continental volcanoes. If a convergent boundary occurs with two plates of similar density (e.g. two continental plates), instead of subducting, the two plates may bulge vertically to create a mountain range (e.g. the Himalayas), although some crust may still subduct and create volcanoes.
 
 When two tectonic plates largely move parallel or anti-parallel, the boundary is called a [transform boundary][]. Earthquake activity is high and volcano formation is variable depending on various factors.
 
@@ -2489,7 +2503,7 @@ An [oceanic basin][] is created by diverging plates and recycled by converging p
 
 An oceanic basin is made of a [continental shelf][] where the continental plate meets the ocean. The shelf is underwater, shallow, and generally flat. The shelf leads to the [continental slope][] which is a steep drop off. The continental slope leads to a less steep slope called the [continental rise][] which contains run off that dropped down the slope (sometimes carving [submarine canyons][] in the slope created by [turbidity currents][]). The continental rise leads to the [abyssal plain][] which is generally flat and makes up the the majority of the ocean basin with a depth between 3000-6000m. The [continental margin][] consists of the continental shelf, continental slope, and continental rise.
 
-A [seamount][] is a mountain below the ocean surface of at least 1000m with a generally rounded top. [Tablemounts][] are seamounts with flat tops, generally from wave erosion during a seamount's island phase.
+A [seamount][] is a mountain below the ocean surface of at least 1000m with a generally rounded top. [Tablemounts][] (or guyots) are seamounts with flat tops, generally from wave erosion during a seamount's island phase.
 
 A [fringing coral reef][] may form around an island. As the island is eroded, a [barrier reef][] may remain as the island sinks. When the island submerges, an [atoll][] with a [lagoon][] may remain.
 
@@ -2497,7 +2511,7 @@ A [fringing coral reef][] may form around an island. As the island is eroded, a 
 
 ## Oceanography
 
-[Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Salinity][] defines the amount of dissolved salts (grams), and usually includes some gases (e.g. CO<sub>2</sub>) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
+[Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. [Salinity][] defines the amount of dissolved inorganic solids (usually salts), and usually includes some gases (e.g. CO<sub>2</sub>) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. [Brackish water][] has some salinity but less than 33‰. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
 
 The [thermocline][] is the depth range with a sharp change in temperature (generally where sunlight no longer penetrates). The [pycnocline][] is the depth range with a sharp change in density produced by the effects of the thermocline and halocline. Where the pycnocline is low (e.g. polar oceans), there is significant vertical mixing (upwelling and downwelling).
 
@@ -2516,15 +2530,17 @@ Aspects of salinity:
 
 A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's temperature and salinity as observed together at specified depths (generally excluding surface waters).
 
+Oceans are layered with different densities of water with the top layer being the [Photic Zone][] (~0-600m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where no light penetrates. The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
+
 [Ocean currents][] are masses of water that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. The coldest deep waters in the polar oceans sink to the bottom and move horizontally throughout other oceans.
 
 [Upwelling][] water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface.
 
 <i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). Therefore, all else equal, as <i>p</i>CO<sub>2</sub> goes up, pH goes down, and since the reactions are reversible, as <i>p</i>CO<sub>2</sub> goes down, pH goes up.
 
-[Oceans formed on Earth][history of oceans] about 4.4 billion years ago. Oceans are layered with different density water with the top layer being the [Photic Zone][] (~0-300m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where little light penetrates (both zones together are the Pelagic Zone). The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
+The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
 
-The [Benthic Zone][] is the area where water reaches underlying land and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above. The benthic zone of an aphotic zone greater than 2,000m in depth is called the [Abyssal Zone][].
+The [Hadal Zone][] is the area of ocean below 6km in deep ocean trenches.
 
 ## Climate
 
@@ -2990,6 +3006,7 @@ if (elements.length) {
 [bowman's capsule]: https://en.wikipedia.org/wiki/Bowman%27s_capsule
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
+[brackish water]: https://en.wikipedia.org/wiki/Brackish_water
 [branches]: https://en.wikipedia.org/wiki/Branch
 [brassinosteroids]: https://en.wikipedia.org/wiki/Brassinosteroid
 [brca1]: https://en.wikipedia.org/wiki/BRCA1
@@ -3150,6 +3167,7 @@ if (elements.length) {
 [complex iii]: https://en.wikipedia.org/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase
 [complex iv]: https://en.wikipedia.org/wiki/Cytochrome_c_oxidase
 [concentration]: https://en.wikipedia.org/wiki/Concentration
+[condensation]: https://en.wikipedia.org/wiki/Condensation
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [cone cells]: https://en.wikipedia.org/wiki/Cone_cell
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
@@ -3395,6 +3413,7 @@ if (elements.length) {
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
 [eustachian tube]: https://en.wikipedia.org/wiki/Eustachian_tube
 [eutrophic lakes]: https://en.wikipedia.org/wiki/Trophic_state_index#Eutrophic
+[evaporative cooling]: https://en.wikipedia.org/wiki/Evaporative_cooler#Physical_principles
 [evolution]: https://en.wikipedia.org/wiki/Evolution
 [evolutionary fitness]: https://en.wikipedia.org/wiki/Fitness_(biology)
 [example composition stoichiometry]: https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/stoichiometry
@@ -3461,13 +3480,15 @@ if (elements.length) {
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
 [free radical]: https://en.wikipedia.org/wiki/Radical_(chemistry)
-[freezing-point depression]: https://en.wikipedia.org/wiki/Freezing-point_depression
+[freezing]: https://en.wikipedia.org/wiki/Freezing
+[freezing-point depression]: https://www.khanacademy.org/v/boiling-point-elevation-and-freezing-point-supression
 [frequency]: https://en.wikipedia.org/wiki/Frequency
 [frequency-dependent selection]: https://en.wikipedia.org/wiki/Frequency-dependent_selection
 [fracture zones]: https://en.wikipedia.org/wiki/Fracture_zone
 [frictional forces]: https://en.wikipedia.org/wiki/Friction
 [fringing coral reef]: https://en.wikipedia.org/wiki/Coral_reef#Fringing_reef
 [frontal lobe]: https://en.wikipedia.org/wiki/Frontal_lobe
+[frozen water less dense]: https://www.khanacademy.org/v/liquid-water-denser-than-solid-water-ice
 [fructose]: https://en.wikipedia.org/wiki/Fructose
 [fructose 1,6-biphosphate]: https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate
 [fructose 6-phosphate]: https://en.wikipedia.org/wiki/Fructose_6-phosphate
@@ -3556,6 +3577,7 @@ if (elements.length) {
 [gustation]: https://en.wikipedia.org/wiki/Taste
 [guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
+[hadal zone]: https://en.wikipedia.org/wiki/Hadal_zone
 [hair cells]: https://en.wikipedia.org/wiki/Hair_cell
 [halocline]: https://en.wikipedia.org/wiki/Halocline
 [halogens]: https://en.wikipedia.org/wiki/Halogen
@@ -3752,6 +3774,8 @@ if (elements.length) {
 [large intestine]: https://en.wikipedia.org/wiki/Large_intestine
 [larval]: https://en.wikipedia.org/wiki/Larval
 [latent heat]: https://en.wikipedia.org/wiki/Latent_heat
+[latent heat of freezing]: https://en.wikipedia.org/wiki/Enthalpy_of_fusion
+[latent heat of vaporization]: https://en.wikipedia.org/wiki/Enthalpy_of_vaporization
 [lateral meristems]: https://en.wikipedia.org/wiki/Meristem#Secondary_meristems
 [laurasia]: https://en.wikipedia.org/wiki/Laurasia
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
@@ -3883,7 +3907,7 @@ if (elements.length) {
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
 [microvilli]: https://en.wikipedia.org/wiki/Microvillus
-[mid-ocean ridge]: https://en.wikipedia.org/wiki/Mid-ocean_ridge
+[mid-ocean ridges]: https://en.wikipedia.org/wiki/Mid-ocean_ridge
 [midbrain]: https://en.wikipedia.org/wiki/Midbrain
 [middle lamella]: https://en.wikipedia.org/wiki/Middle_lamella
 [migration]: https://en.wikipedia.org/wiki/Migration_(ecology)
@@ -4489,6 +4513,7 @@ if (elements.length) {
 [style]: https://en.wikipedia.org/wiki/Stigma_(botany)#Style
 [subcutaneous tissue]: https://en.wikipedia.org/wiki/Subcutaneous_tissue
 [subduction]: https://en.wikipedia.org/wiki/Subduction
+[sublimation]: https://en.wikipedia.org/wiki/Sublimation_(phase_transition)
 [submarine canyons]: https://en.wikipedia.org/wiki/Submarine_canyon
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
@@ -4501,12 +4526,13 @@ if (elements.length) {
 [sulci]: https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)
 [sulfhydryl]: https://en.wikipedia.org/wiki/Sulfhydryl
 [summation]: https://en.wikipedia.org/wiki/Summation_(neurophysiology)
+[sun]: https://en.wikipedia.org/wiki/Sun
 [superior vena cava]: https://en.wikipedia.org/wiki/Superior_vena_cava
 [supraorbital glands]: https://en.wikipedia.org/wiki/Supraorbital_gland
 [surface tension]: https://en.wikipedia.org/wiki/Surface_tension
 [surfactants]: https://en.wikipedia.org/wiki/Surfactant
-[sun]: https://en.wikipedia.org/wiki/Sun
 [suspension]: https://en.wikipedia.org/wiki/Suspension_(chemistry)
+[suspension feeders]: https://en.wikipedia.org/wiki/Filter_feeder
 [suspensor]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [swallowing]: https://en.wikipedia.org/wiki/Swallowing
 [symbionts]: https://en.wikipedia.org/wiki/Symbiosis
@@ -4692,6 +4718,7 @@ if (elements.length) {
 [voltage-gated ion channels]: https://en.wikipedia.org/wiki/Voltage-gated_ion_channel
 [volume]: https://en.wikipedia.org/wiki/Volume
 [vulva]: https://en.wikipedia.org/wiki/Vulva
+[water]: https://en.wikipedia.org/wiki/Water
 [water autoionization]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/bronsted-lowry-definition-of-acids-and-bases
 [water equilibrium constant]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/pka-and-pkb-relationship
 [water l kg]: https://en.wikipedia.org/wiki/Litre#Explanation
