@@ -2482,7 +2482,7 @@ A location on the Earth is described by a latitude and a longitude, measured in 
 
 A location is normally specified with latitude first and longitude second. Latitude and longitude may be specified in decimal form (e.g. 40.771850, -73.974850 for New York City) or in degrees, [minutes, and seconds of an arc][] (e.g. 40°46'18.7"N, 73°58'29.5"W New York City).
 
-There are four other common parallels of reference: the [Arctic Circle][] at 66.57° N, the [Tropic of Cancer][] at 23.43° N, the [Tropic of Capricorn][] at 23.43° S, and the [Antarctic Circle][] at 66.57° S.
+There are four other common parallels of reference: the [Arctic Circle][] at 66.57° N, the [Tropic of Cancer][] at 23.43° N, the [Tropic of Capricorn][] at 23.43° S, and the [Antarctic Circle][] at 66.57° S. The areas below the tropic of cancer and above the tropic of capricorn (including the equator) are called the [tropics][]. The areas between the tropic of cancer and 35°N, and the areas between the tropic of capricorn and 35°S are the [subtropics][]. The areas between the subtropics and the polar circles are called the [temperate zone][].
 
 More solar radiation reaches low latitudes (near the equator) than high latitudes (near the poles) because it hits the higher latitudes at an angle.
 
@@ -2496,9 +2496,11 @@ The amount and duration of sunlight are directly related to the temperature of d
 
 From the surface of Earth, the atmosphere decreasess in temperature as altitude increases until the [Tropopause][] (below which is considered the [Troposphere][] - up to between 6-18km), after which temperature increases through the [Stratosphere][] due to absorption of solar radiation in the [Ozone Layer][]. The troposphere is where most weather occurs. Above the stratosphere is the [Mesosphere][], after the [stratopause][], where temperature again decreases as altitude increases.
 
-The tropopause causes water vapor to cool and condense into rain.
+The tropopause causes water vapor to cool and condense into rain. This tends to happen in areas of higher heat and lower pressure as the warm air rises and hits the troposphere. Areas of lower temperatures have higher pressure and tend to experience dry, clear conditions.
 
-Warm air is less dense than cold air. [Wind][] is a flow of air from high pressure to low pressure.
+Warm air is less dense than cold air. Moist air is less dense than dry air because H<sub>2</sub>O is less dense than air (N<sub>2</sub>, O<sub>2</sub>, Ar, CO<sub>2</sub>, etc.). [Wind][] is a flow of air from high pressure to low pressure.
+
+In general, there is a temperature gradient from the poles (cold) to the equator (warm) due to solar radiation. Therefore, on a non-spinning Earth, wind would tend to go from the poles to the equator due to the pressure differential. However, because the Earth is spinning and the air is not solidly attached to the Earth, the [Coriolis Effect][] (the change in velocity with latitude) causes the air, in general, to be deflected to the West as it moves towards the equator. Winds are categorized into a few broad categories and they are named based on where the air particles start. The tropics and subtropics (to about 30° - the [horse latitudes][]) form the [trade winds][] (North-East Trade Winds in the northern hemisphere, and South-East Trade Windows in the southern hemisphere) which create the [Hadley cell][]. The temperate zones (to about 60°) form the [prevailing westerlies][] which create the [Ferrel cell][]. The polar regions form the [polar easterlies][] which create the [Polar cell][]. These winds are modified by changing seasons and differences in underlying geography.
 
 ## Geology
 
@@ -2527,7 +2529,9 @@ An [oceanic basin][] is created by diverging plates and recycled by converging p
 1. The terminal phase is when the ocean turns into sea(s) and consists of narrow, irregular seas with young mountains (e.g. Mediterranean Sea).
 1. The suturing phase is convergence and uplift of young to mature mountain belts and the whole process repeats (e.g. Himalaya mountains).
 
-An oceanic basin is made of a [continental shelf][] where the continental plate meets the ocean. The shelf is underwater, shallow, and generally flat. The shelf leads to the [continental slope][] which is a steep drop off. The continental slope leads to a less steep slope called the [continental rise][] which contains run off that dropped down the slope (sometimes carving [submarine canyons][] in the slope created by [turbidity currents][]). The continental rise leads to the [abyssal plain][] which is generally flat and makes up the the majority of the ocean basin with a depth between 3000-6000m. The [continental margin][] consists of the continental shelf, continental slope, and continental rise.
+An oceanic basin is made of a [continental shelf][] where the continental plate meets the ocean. The [coast][] is the area where land meets the ocean. The shelf is underwater, shallow, and generally flat. The shelf leads to the [continental slope][] which is a steep drop off. The continental slope leads to a less steep slope called the [continental rise][] which contains run off that dropped down the slope (sometimes carving [submarine canyons][] in the slope created by [turbidity currents][]). The continental rise leads to the [abyssal plain][] which is generally flat and makes up the the majority of the ocean basin with a depth between 3000-6000m. The [continental margin][] consists of the continental shelf, continental slope, and continental rise.
+
+At the coast, during the day, there tends to be a wind from the ocean onto land because land warms faster from the sun than water which creates a density gradient. At night, this tends to be reversed because water has more latent heat capacity.
 
 A [seamount][] is a mountain below the ocean surface of at least 1000m with a generally rounded top. [Tablemounts][] (or guyots) are seamounts with flat tops, generally from wave erosion during a seamount's island phase.
 
@@ -2558,11 +2562,15 @@ A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's tempe
 
 Oceans are layered with different densities of water with the top layer being the [Photic Zone][] (~0-600m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where no light penetrates. The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
 
-[Ocean currents][] are masses of water below the pycnocline that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. Density-driven circulation occurs because cold and dense deep waters (e.g. polar oceans) sink to the bottom and move horizontally into less dense, warmer areas. Wind in the air above oceans is primarily formed by heating from the sun.
+[Ocean currents][] are masses of water below the pycnocline that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. Density-driven circulation occurs because cold and dense deep waters (e.g. polar oceans) sink to the bottom and move horizontally into less dense, warmer areas. Wind in the air above oceans is primarily formed by heating from the sun. Ocean currents are carried 90° to the right of the wind in the northern hemisphere and 90° to the left of the win in the souther hemisphere due to [Ekman transport][]. These currents in the context of the winds create large circular [gyres][] in the major oceans. These are also major drivers of current flows such as the [Gulf Stream][].
 
-[Upwelling][] water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface.
+There are five major oceans: the [Pacific Ocean][], the [Atlantic Ocean][], the [Indian Ocean][], the [Southern Ocean][], and the [Arctic Ocean][]. In general, the equatorial Pacific follows the gyre's path of warm water on the west going up to the arctic and cold water coming down the east. During an [El Niño][], high pressure along the South American coast causes trade winds to diminish or reverse and with this change, a large area of warm water moves from the west towards the east which significantly changes upwell and downwelling and nutrient availability. A [La Niña][] is the opposite where more cold water migrates West.
 
 <i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). However, up to a point, Carbonic Acid is a weak acid and may buffer CO<sub>2</sub> which generally keeps the ocean alkaline.
+
+[Upwelling][] is the vertical movement of cold, deep, nutrient-rich water to the surface. [Downwelling][] is the vertical movement of surface water to deeper parts of an ocean which carries disolved Oxygen to the sea floor. Upwelling water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface. Due to the transport of nutrients, areas of high upwelling are areas with high productivity (e.g. coastal areas with ekman flow away from the coast, at the equator, offshore winds, sea floor osbtructions, and sharp bends in coasts) and areas with high downwelling are areas with low productivity (e.g. coastal areas with ekman flows towards the coast and the middle of gyres due to the inward and downward pressure).
+
+In the northern hemisphere, air around a high pressure area moves clockwise, and air around a low pressure area moves counterclockwise. A [hurricane][] (or cyclone or typhoon) is a large, low-pressure area in the tropics moving west with the trade winds with strong winds and rains which devlop by picking up energy from warm water and surface winds feed moisture into the storm. The power of a hurricane comes from the latent heat of condensation as water vapor condenses into rain.
 
 The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
 
@@ -2928,6 +2936,7 @@ if (elements.length) {
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [archegonia]: https://en.wikipedia.org/wiki/Archegonium
 [arctic circle]: https://en.wikipedia.org/wiki/Arctic_Circle
+[arctic ocean]: https://en.wikipedia.org/wiki/Arctic_Ocean
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
@@ -2945,6 +2954,7 @@ if (elements.length) {
 [asymmetric carbon]: https://en.wikipedia.org/wiki/Asymmetric_carbon
 [ate suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [atherosclerosis]: https://en.wikipedia.org/wiki/Atherosclerosis
+[atlantic ocean]: https://en.wikipedia.org/wiki/Atlantic_Ocean
 [atm]: https://en.wikipedia.org/wiki/Atmosphere_(unit)
 [atmospheric pressure]: https://en.wikipedia.org/wiki/Atmospheric_pressure
 [atoll]: https://en.wikipedia.org/wiki/Atoll
@@ -3162,6 +3172,7 @@ if (elements.length) {
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [co2 acidic]: https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
+[coast]: https://en.wikipedia.org/wiki/Coast
 [cochlea]: https://en.wikipedia.org/wiki/Cochlea
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
@@ -3215,6 +3226,7 @@ if (elements.length) {
 [copolymers]: https://en.wikipedia.org/wiki/Copolymer
 [coral reef]: https://en.wikipedia.org/wiki/Coral_reef
 [corepressor]: https://en.wikipedia.org/wiki/Corepressor
+[coriolis effect]: https://en.wikipedia.org/wiki/Coriolis_Effect
 [cork]: https://en.wikipedia.org/wiki/Cork_(material)
 [cork cambrium]: https://en.wikipedia.org/wiki/Cork_cambium
 [cornea]: https://en.wikipedia.org/wiki/Cornea
@@ -3313,6 +3325,7 @@ if (elements.length) {
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
 [dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
+[downwelling]: https://en.wikipedia.org/wiki/Downwelling
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
 [duodenum]: https://en.wikipedia.org/wiki/Duodenum
@@ -3338,6 +3351,8 @@ if (elements.length) {
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
 [effector-triggered immunity]: https://en.wikipedia.org/wiki/Effector-triggered_immunity
+[ekman transport]: https://en.wikipedia.org/wiki/Ekman_transport
+[el niño]: https://en.wikipedia.org/wiki/El_Ni%C3%B1o
 [elastic fibers]: https://en.wikipedia.org/wiki/Elastic_fiber
 [elastin]: https://en.wikipedia.org/wiki/Elastin
 [electric charge]: https://en.wikipedia.org/wiki/Electric_charge
@@ -3477,6 +3492,7 @@ if (elements.length) {
 [females]: https://en.wikipedia.org/wiki/Female
 [fermentation]: https://en.wikipedia.org/wiki/Fermentation
 [ferns]: https://en.wikipedia.org/wiki/Fern
+[ferrel cell]: https://en.wikipedia.org/wiki/Atmospheric_circulation#Ferrel_cell
 [fertilization]: https://en.wikipedia.org/wiki/Fertilisation
 [fetus]: https://en.wikipedia.org/wiki/Fetus
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
@@ -3601,10 +3617,13 @@ if (elements.length) {
 [growth hormone]: https://en.wikipedia.org/wiki/Growth_hormone
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
+[gulf stream]: https://en.wikipedia.org/wiki/Gulf_Stream
 [gustation]: https://en.wikipedia.org/wiki/Taste
 [guttation]: https://en.wikipedia.org/wiki/Guttation
 [gymnosperms]: https://en.wikipedia.org/wiki/Gymnosperm
+[gyres]: https://en.wikipedia.org/wiki/Ocean_gyre
 [hadal zone]: https://en.wikipedia.org/wiki/Hadal_zone
+[hadley cell]: https://en.wikipedia.org/wiki/Atmospheric_circulation#Hadley_cell
 [hair cells]: https://en.wikipedia.org/wiki/Hair_cell
 [halocline]: https://en.wikipedia.org/wiki/Halocline
 [halogens]: https://en.wikipedia.org/wiki/Halogen
@@ -3668,6 +3687,7 @@ if (elements.length) {
 [hormone-sensitive lipase]: https://en.wikipedia.org/wiki/Hormone-sensitive_lipase
 [hormones]: https://en.wikipedia.org/wiki/Hormone
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
+[horse latitudes]: https://en.wikipedia.org/wiki/Horse_latitudes
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
 [hotspots]: https://en.wikipedia.org/wiki/Hotspot_(geology)
 [hour]: https://en.wikipedia.org/wiki/Hour
@@ -3676,6 +3696,7 @@ if (elements.length) {
 [humans]: https://en.wikipedia.org/wiki/Humans
 [humoral immune response]: https://en.wikipedia.org/wiki/Humoral_immunity
 [humus]: https://en.wikipedia.org/wiki/Humus
+[hurricane]: https://en.wikipedia.org/wiki/Hurricane
 [hybrid zone]: https://en.wikipedia.org/wiki/Hybrid_zone
 [hybridization]: https://en.wikipedia.org/wiki/Hybrid_(biology)
 [hybridization probe]: https://en.wikipedia.org/wiki/Hybridization_probe
@@ -3710,6 +3731,7 @@ if (elements.length) {
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
 [in vivo]: https://en.wikipedia.org/wiki/In_vivo
 [incomplete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance
+[indian ocean]: https://en.wikipedia.org/wiki/Indian_Ocean
 [inducer]: https://en.wikipedia.org/wiki/Inducer
 [inducible operon]: https://en.wikipedia.org/wiki/Operon#Regulation
 [inert]: https://en.wikipedia.org/wiki/Chemically_inert
@@ -3789,6 +3811,7 @@ if (elements.length) {
 [kinetoplastids]: https://en.wikipedia.org/wiki/Kinetoplastida
 [kingdom]: https://en.wikipedia.org/wiki/Kingdom_(biology)
 [knowing]: https://en.wikipedia.org/wiki/Knowledge
+[la niña]: https://en.wikipedia.org/wiki/La_Ni%C3%B1a
 [labia majora]: https://en.wikipedia.org/wiki/Labia_majora
 [labia minora]: https://en.wikipedia.org/wiki/Labia_minora
 [lacteal vessels]: https://en.wikipedia.org/wiki/Lacteal
@@ -4137,6 +4160,7 @@ if (elements.length) {
 [ozone layer]: https://en.wikipedia.org/wiki/Ozone_layer
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
+[pacific ocean]: https://en.wikipedia.org/wiki/Pacific_Ocean
 [paedomorphosis]: https://en.wikipedia.org/wiki/Neoteny
 [paleontology]: https://en.wikipedia.org/wiki/Paleontology
 [palisade cells]: https://en.wikipedia.org/wiki/Palisade_cell
@@ -4247,6 +4271,8 @@ if (elements.length) {
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
 [point mutation]: https://en.wikipedia.org/wiki/Point_mutation
 [poisons]: https://en.wikipedia.org/wiki/Poison
+[polar cell]: https://en.wikipedia.org/wiki/Atmospheric_circulation#Polar_cell
+[polar easterlies]: https://en.wikipedia.org/wiki/Polar_easterlies
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
 [polaris]: https://en.wikipedia.org/wiki/Polaris
 [pollen]: https://en.wikipedia.org/wiki/Pollen
@@ -4280,6 +4306,7 @@ if (elements.length) {
 [predator]: https://en.wikipedia.org/wiki/Predation
 [pressure]: https://en.wikipedia.org/wiki/Pressure
 [pressure flow hypothesis]: https://en.wikipedia.org/wiki/Pressure_Flow_Hypothesis
+[prevailing westerlies]: https://en.wikipedia.org/wiki/Westerlies
 [prey]: https://en.wikipedia.org/wiki/Prey
 [primary growth]: https://en.wikipedia.org/wiki/Secondary_growth
 [primary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Primary_structure
@@ -4502,6 +4529,7 @@ if (elements.length) {
 [south pole]: https://en.wikipedia.org/wiki/South_Pole
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
 [southern hemisphere]: https://en.wikipedia.org/wiki/Southern_Hemisphere
+[southern ocean]: https://en.wikipedia.org/wiki/Southern_Ocean
 [space]: https://en.wikipedia.org/wiki/Space
 [spatial learning]: https://en.wikipedia.org/wiki/Spatial_memory
 [species]: https://en.wikipedia.org/wiki/Species
@@ -4558,6 +4586,7 @@ if (elements.length) {
 [substituents]: https://en.wikipedia.org/wiki/Substituent
 [substrate-level phosphorylation]: https://en.wikipedia.org/wiki/Substrate-level_phosphorylation
 [substrates]: https://en.wikipedia.org/wiki/Substrate_(chemistry)
+[subtropics]: https://en.wikipedia.org/wiki/Subtropics
 [succinate]: https://en.wikipedia.org/wiki/Succinic_acid
 [succinyl coa]: https://en.wikipedia.org/wiki/Succinyl-CoA
 [sucrose]: https://en.wikipedia.org/wiki/Sucrose
@@ -4605,6 +4634,7 @@ if (elements.length) {
 [telophase]: https://en.wikipedia.org/wiki/Telophase
 [temperate broadleaf forest]: https://en.wikipedia.org/wiki/Temperate_broadleaf_and_mixed_forest
 [temperate grassland]: https://en.wikipedia.org/wiki/Temperate_grasslands,_savannas,_and_shrublands
+[temperate zone]: https://en.wikipedia.org/wiki/Temperate_climate
 [temperature]: https://en.wikipedia.org/wiki/Temperature
 [temperature-salinity diagram]: https://en.wikipedia.org/wiki/Temperature%E2%80%93salinity_diagram
 [temperature comparison]: https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature
@@ -4658,6 +4688,7 @@ if (elements.length) {
 [trachea]: https://en.wikipedia.org/wiki/Trachea
 [tracheal system]: https://en.wikipedia.org/wiki/Respiratory_system_of_insects
 [tracheid cells]: https://en.wikipedia.org/wiki/Tracheid
+[trade winds]: https://en.wikipedia.org/wiki/Trade_winds
 [trait]: https://en.wikipedia.org/wiki/Phenotypic_trait
 [transcription]: https://en.wikipedia.org/wiki/Transcription_(biology)
 [transcription factor]: https://en.wikipedia.org/wiki/Transcription_factor
@@ -4692,6 +4723,7 @@ if (elements.length) {
 [tropic of cancer]: https://en.wikipedia.org/wiki/Tropic_of_Cancer
 [tropic of capricorn]: https://en.wikipedia.org/wiki/Tropic_of_Capricorn
 [tropical rainforest]: https://en.wikipedia.org/wiki/Tropical_rainforest
+[tropics]: https://en.wikipedia.org/wiki/Tropics
 [tropomyosin]: https://en.wikipedia.org/wiki/Tropomyosin
 [troponin]: https://en.wikipedia.org/wiki/Troponin
 [tropopause]: https://en.wikipedia.org/wiki/Tropopause
