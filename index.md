@@ -362,7 +362,7 @@ Substances that are ionic or polar are [hydrophilic][] meaning that they have a 
 
 ## Solutions
 
-A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] are colloids of liquids).
+A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] are colloids of liquids). As temperature of a solution decreases and pressure increases, the solubility of gases increases ([Henry's Law][]).
 
 A [saturated solution][] is a solution with a solute that dissolves until it is unable to dissolve anymore, leaving the undissolved substances at the bottom. An unsaturated solution is a solution with less solute than a saturated solution which completely dissolves, leaving no remaining substances at the bottom. A supersaturated solution is a solution with more undissolved solute than a saturated solution because of its tendency to crystallize and precipitate.
 
@@ -2472,7 +2472,33 @@ There is a trade off between number of offspring and the amount of resources par
 
 ## Planetary Science
 
-[Planetary Science][] is the study of planets. The [Earth's orbit][] around the sun is an [elliptic orbit][] at ~30km/s with an average distance to the sun of ~150 billion meters (bm). Although arbitrary, the Earth and Sun are generally viewed from the vantage point where the Earth orbits the sun in a counter-clockwise direction (Eastward), and the Earth and Sun themselves spin in a counter-clockwise direction around their North-South axes. From this vantage point, there are two opposite poles for the Earth: the [North Pole][] and the [South Pole][]. It takes about one [day][] (24 hours) for the Earth to make a single rotation around its axis. It takes about 365.256 days for the Earth to make a single orbit around the sun. Earth's North-South [axis is tilted][] about 23.44° from the orbital plane. The moon rotates counterclockwise around the Earth and itself rotates counterclockwise around its North-South axis.
+[Planetary Science][] is the study of planets. The [Earth's orbit][] around the sun is an [elliptic orbit][] (also called [ecliptic][]) at ~30km/s with an average distance to the sun of ~150 billion meters (bm). Although arbitrary, the Earth and Sun are generally viewed from the vantage point where the Earth orbits the sun in a counter-clockwise direction (Eastward), and the Earth and Sun themselves spin in a counter-clockwise direction around their North-South axes. From this vantage point, there are two opposite poles for the Earth: the [North Pole][] and the [South Pole][]. It takes about one [day][] (24 hours) for the Earth to make a single rotation around its axis. It takes about 365.256 days for the Earth to make a single orbit around the sun. Earth's North-South [axis is tilted][] about 23.44° from the orbital plane (towards [Polaris][] - the Northern Star). The moon rotates counterclockwise around the Earth and itself rotates counterclockwise around its North-South axis.
+
+A location on the Earth is described by a latitude and a longitude, measured in degrees (°). The [equator][] is the mid-point between the North and South-poles which divides the Earth into the [Northern Hemisphere][] and [Southern Hemisphere][]. The length of the equator - the circumference of Earth - is approximately 40,075 km.
+
+[Latitude][] specifies the North-South position of a point relative to the equator in degrees and a North (N) or South (S) designation. Therefore, the equator is at 0°, the North Pole is at 90° N, and the South Pole is at 90° S. Latitude may also be called a parallel.
+
+[Longitude][] specifies the East-West position of a point relative to the [Prime Meridian][] - which passes through Greenwich, England - in degrees and a East (E) or West (W) designation. Therefore, Greenwich is at 0°, and a point West of Greenwich can range up to -180° (or 180° W) or up to 180° (or 180° E).
+
+A location is normally specified with latitude first and longitude second. Latitude and longitude may be specified in decimal form (e.g. 40.771850, -73.974850 for New York City) or in degrees, [minutes, and seconds of an arc][] (e.g. 40°46'18.7"N, 73°58'29.5"W New York City).
+
+There are four other common parallels of reference: the [Arctic Circle][] at 66.57° N, the [Tropic of Cancer][] at 23.43° N, the [Tropic of Capricorn][] at 23.43° S, and the [Antarctic Circle][] at 66.57° S.
+
+More solar radiation reaches low latitudes (near the equator) than high latitudes (near the poles) because it hits the higher latitudes at an angle.
+
+A [solstice][] is a day of a year in the Earth's orbit around the sun when the tropic of cancer and the tropic of capricorn have the most or least amount of sunlight relative to other days in the year. During the June solstice (approximately June 21), the tropic of cancer receives the most and the tropic of capricorn receives the least. During the December solstice (approximately December 21), these are flipped. The hemispheres have opposite behavior because of the Earth's tilt.
+
+An [equinox][] is a day of a year in the Earth's orbit around the sun when the equator has the most amount of sunlight relative to other days in the year and all places on Earth have an equal day and night period. There are two such days: the Vernal equinox (approximately March 21) and the Autumnal equinox (approximately September 23).
+
+The amount and duration of sunlight are directly related to the temperature of different parts of Earth and a year is broken down into some number of general [seasons][] (depending on the latitude and logitude) such as summer (hottest season) and winter (coldest season).
+
+[Weather][] is the state of the atmosphere such as temperature. [Climate][] describes long-term weather trends.
+
+From the surface of Earth, the atmosphere decreasess in temperature as altitude increases until the [Tropopause][] (below which is considered the [Troposphere][] - up to between 6-18km), after which temperature increases through the [Stratosphere][] due to absorption of solar radiation in the [Ozone Layer][]. The troposphere is where most weather occurs. Above the stratosphere is the [Mesosphere][], after the [stratopause][], where temperature again decreases as altitude increases.
+
+The tropopause causes water vapor to cool and condense into rain.
+
+Warm air is less dense than cold air. [Wind][] is a flow of air from high pressure to low pressure.
 
 ## Geology
 
@@ -2513,7 +2539,7 @@ A [fringing coral reef][] may form around an island. As the island is eroded, a 
 
 [Oceanography][] is the study of the oceans on the Earth. An [Ocean][] is a large body of saline water. [Oceans formed on Earth][history of oceans] about 4.4 billion years ago. [Salinity][] defines the amount of dissolved inorganic solids (usually salts), and usually includes some gases (e.g. CO<sub>2</sub>) and inorganic ions, in water, as a ratio per thousand grams (‰). Typical salinity of an ocean is 35‰ or 3.5%, made mostly of Chlorine and then Sodium and then other salts, and the proportions of salts are relatively constant throughout the world (Marcet's Principle, Forchhammer's Principle or the Principle of Constant Proportions) even though salinity generally varies between about 33‰ and 37‰ depending on the amount of freshwater and other conditions. [Brackish water][] has some salinity but less than 33‰. Ions are generally added to oceans by river discharge, volcanic eruptions, and hydorthermal activity. Ions are generally removed from the ocean by adsorption, sea spray, biological processes, and hydrothermal activity. Salinity approaches ~35‰ as depth increases and the depth range with a sharp change in salinity is called the [halocline][].
 
-The [thermocline][] is the depth range with a sharp change in temperature (generally where sunlight no longer penetrates). The [pycnocline][] is the depth range with a sharp change in density produced by the effects of the thermocline and halocline. Where the pycnocline is low (e.g. polar oceans), there is significant vertical mixing (upwelling and downwelling).
+The [thermocline][] is the depth range with a sharp change in temperature (generally where sunlight no longer penetrates). The [pycnocline][] is the depth range with a sharp change in density produced by the effects of the thermocline and halocline. All clines occur between ~300 - ~1000m. Where there is a low or no pycnocline (e.g. polar oceans), there is significant vertical mixing of water.
 
 Aspects of salinity:
 
@@ -2532,19 +2558,15 @@ A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's tempe
 
 Oceans are layered with different densities of water with the top layer being the [Photic Zone][] (~0-600m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where no light penetrates. The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
 
-[Ocean currents][] are masses of water that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. The coldest deep waters in the polar oceans sink to the bottom and move horizontally throughout other oceans.
+[Ocean currents][] are masses of water below the pycnocline that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. Density-driven circulation occurs because cold and dense deep waters (e.g. polar oceans) sink to the bottom and move horizontally into less dense, warmer areas. Wind in the air above oceans is primarily formed by heating from the sun.
 
 [Upwelling][] water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface.
 
-<i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). Therefore, all else equal, as <i>p</i>CO<sub>2</sub> goes up, pH goes down, and since the reactions are reversible, as <i>p</i>CO<sub>2</sub> goes down, pH goes up.
+<i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). However, up to a point, Carbonic Acid is a weak acid and may buffer CO<sub>2</sub> which generally keeps the ocean alkaline.
 
 The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
 
 The [Hadal Zone][] is the area of ocean below 6km in deep ocean trenches.
-
-## Climate
-
-[Climate][] describes the long-term conditions in a given area. Climate may vary by [Season][], which is a cyclic period in which the length of the day and temperature change, largely due to the tilt of the Earth's axis of rotation and distance to the sun.
 
 ## Biosphere
 
@@ -2871,6 +2893,7 @@ if (elements.length) {
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
 [animal cells]: https://en.wikipedia.org/wiki/Eukaryote#Animal_cell
 [animals]: https://en.wikipedia.org/wiki/Animal
+[antarctic circle]: https://en.wikipedia.org/wiki/Antarctic_Circle
 [anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
 [antheridia]: https://en.wikipedia.org/wiki/Antheridium
@@ -2904,6 +2927,7 @@ if (elements.length) {
 [arbuscules]: https://en.wikipedia.org/wiki/Arbuscular_mycorrhiza
 [archaea]: https://en.wikipedia.org/wiki/Archaea
 [archegonia]: https://en.wikipedia.org/wiki/Archegonium
+[arctic circle]: https://en.wikipedia.org/wiki/Arctic_Circle
 [aromatic]: https://en.wikipedia.org/wiki/Aromaticity
 [arrhenius]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/arrhenius-acids-and-bases
 [arteries]: https://en.wikipedia.org/wiki/Artery
@@ -3306,6 +3330,7 @@ if (elements.length) {
 [earth's orbit]: https://en.wikipedia.org/wiki/Earth%27s_orbit
 [earth's outer core]: https://en.wikipedia.org/wiki/Earth%27s_outer_core
 [echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
+[ecliptic]: https://en.wikipedia.org/wiki/Ecliptic
 [ecological succession]: https://en.wikipedia.org/wiki/Ecological_succession
 [ecology]: https://en.wikipedia.org/wiki/Ecology
 [ecosystem]: https://en.wikipedia.org/wiki/Ecosystem
@@ -3388,8 +3413,10 @@ if (elements.length) {
 [epithelial tissue]: https://en.wikipedia.org/wiki/Epithelium
 [epitopes]: https://en.wikipedia.org/wiki/Epitope
 [epstein-barr virus]: https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus
+[equator]: https://en.wikipedia.org/wiki/Equator
 [equilibrium constant]: https://www.khanacademy.org/science/chemistry/chemical-equilibrium/equilibrium-constant/v/reactions-in-equilibrium
 [equilibrium potential]: https://biology.stackexchange.com/questions/7103/question-about-equilibrium-potential-formula
+[equinox]: https://en.wikipedia.org/wiki/Equinox
 [erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 [erythrocytes]: https://en.wikipedia.org/wiki/Red_blood_cell
@@ -3598,6 +3625,7 @@ if (elements.length) {
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
+[henry's law]: https://en.wikipedia.org/wiki/Henry%27s_law
 [hepatic portal vein]: https://en.wikipedia.org/wiki/Portal_vein
 [hepatocyte cells]: https://en.wikipedia.org/wiki/Hepatocyte
 [herbivores]: https://en.wikipedia.org/wiki/Herbivore
@@ -3777,6 +3805,7 @@ if (elements.length) {
 [latent heat of freezing]: https://en.wikipedia.org/wiki/Enthalpy_of_fusion
 [latent heat of vaporization]: https://en.wikipedia.org/wiki/Enthalpy_of_vaporization
 [lateral meristems]: https://en.wikipedia.org/wiki/Meristem#Secondary_meristems
+[latitude]: https://en.wikipedia.org/wiki/Latitude
 [laurasia]: https://en.wikipedia.org/wiki/Laurasia
 [law of independent assortment]: https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment
 [ldl]: https://en.wikipedia.org/wiki/Low-density_lipoprotein
@@ -3824,6 +3853,7 @@ if (elements.length) {
 [lone pair]: https://en.wikipedia.org/wiki/Lone_pair
 [long-day plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [long noncoding rna]: https://en.wikipedia.org/wiki/Long_non-coding_RNA
+[longitude]: https://en.wikipedia.org/wiki/Longitude
 [loop of henle]: https://en.wikipedia.org/wiki/Loop_of_Henle
 [lumen]: https://en.wikipedia.org/wiki/Lumen_(anatomy)
 [lungs]: https://en.wikipedia.org/wiki/Lung
@@ -3882,6 +3912,7 @@ if (elements.length) {
 [meristems]: https://en.wikipedia.org/wiki/Meristem
 [mesoderm]: https://en.wikipedia.org/wiki/Mesoderm
 [mesophyll cells]: https://en.wikipedia.org/wiki/Leaf#Mesophyll
+[mesosphere]: https://en.wikipedia.org/wiki/Mesosphere
 [metabolic rate]: https://en.wikipedia.org/wiki/Basal_metabolic_rate
 [metabolism]: https://en.wikipedia.org/wiki/Metabolism
 [metallic bond]: https://en.wikipedia.org/wiki/Metallic_bond
@@ -3916,6 +3947,7 @@ if (elements.length) {
 [minerals]: https://en.wikipedia.org/wiki/Mineral
 [mineraloids]: https://en.wikipedia.org/wiki/Mineraloid
 [minute]: https://en.wikipedia.org/wiki/Minute
+[minutes, and seconds of an arc]: https://en.wikipedia.org/wiki/Minute_and_second_of_arc
 [mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [missense mutation]: https://en.wikipedia.org/wiki/Missense_mutation
 [mitochondria]: https://en.wikipedia.org/wiki/Mitochondrion
@@ -4024,6 +4056,7 @@ if (elements.length) {
 [north pole]: https://en.wikipedia.org/wiki/North_Pole
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [northern coniferous forest]: https://en.wikipedia.org/wiki/Taiga
+[northern hemisphere]: https://en.wikipedia.org/wiki/Northern_Hemisphere
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
 [nuclease]: https://en.wikipedia.org/wiki/Nuclease
@@ -4101,6 +4134,7 @@ if (elements.length) {
 [oxidative phosphorylation]: https://en.wikipedia.org/wiki/Oxidative_phosphorylation
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [oxytocin]: https://en.wikipedia.org/wiki/Oxytocin
+[ozone layer]: https://en.wikipedia.org/wiki/Ozone_layer
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
 [paedomorphosis]: https://en.wikipedia.org/wiki/Neoteny
@@ -4214,6 +4248,7 @@ if (elements.length) {
 [point mutation]: https://en.wikipedia.org/wiki/Point_mutation
 [poisons]: https://en.wikipedia.org/wiki/Poison
 [polar water molecule]: https://commons.wikimedia.org/wiki/File:Dipoli_acqua.png
+[polaris]: https://en.wikipedia.org/wiki/Polaris
 [pollen]: https://en.wikipedia.org/wiki/Pollen
 [pollination]: https://en.wikipedia.org/wiki/Pollination
 [poly-a tail]: https://en.wikipedia.org/wiki/Polyadenylation
@@ -4252,6 +4287,7 @@ if (elements.length) {
 [primary transcript]: https://en.wikipedia.org/wiki/Primary_transcript
 [primase]: https://en.wikipedia.org/wiki/Primase
 [primates]: https://en.wikipedia.org/wiki/Primates
+[prime meridian]: https://en.wikipedia.org/wiki/Prime_meridian
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
 [prions]: https://en.wikipedia.org/wiki/Prion
@@ -4397,7 +4433,7 @@ if (elements.length) {
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
 [seabirds]: https://en.wikipedia.org/wiki/Seabird
 [seamount]: https://en.wikipedia.org/wiki/Seamount
-[season]: https://en.wikipedia.org/wiki/Season
+[seasons]: https://en.wikipedia.org/wiki/Season
 [second]: https://en.wikipedia.org/wiki/Second
 [second messengers]: https://en.wikipedia.org/wiki/Second_messenger_system
 [secondary growth]: https://en.wikipedia.org/wiki/Secondary_growth
@@ -4455,6 +4491,7 @@ if (elements.length) {
 [soil]: https://en.wikipedia.org/wiki/Soil
 [solar system]: https://en.wikipedia.org/wiki/Solar_System
 [solid]: https://en.wikipedia.org/wiki/Solid
+[solstice]: https://en.wikipedia.org/wiki/Solstice
 [solubility]: https://en.wikipedia.org/wiki/Solubility
 [solute]: https://en.wikipedia.org/wiki/Solution
 [solution]: https://en.wikipedia.org/wiki/Solution
@@ -4464,6 +4501,7 @@ if (elements.length) {
 [sound]: https://en.wikipedia.org/wiki/Sound
 [south pole]: https://en.wikipedia.org/wiki/South_Pole
 [southern blot]: https://en.wikipedia.org/wiki/Restriction_enzyme
+[southern hemisphere]: https://en.wikipedia.org/wiki/Southern_Hemisphere
 [space]: https://en.wikipedia.org/wiki/Space
 [spatial learning]: https://en.wikipedia.org/wiki/Spatial_memory
 [species]: https://en.wikipedia.org/wiki/Species
@@ -4504,6 +4542,8 @@ if (elements.length) {
 [stomata]: https://en.wikipedia.org/wiki/Stoma
 [storage polysaccharides]: https://en.wikipedia.org/wiki/Polysaccharide#Storage_polysaccharides
 [strata]: https://en.wikipedia.org/wiki/Stratum
+[stratopause]: https://en.wikipedia.org/wiki/Stratopause
+[stratosphere]: https://en.wikipedia.org/wiki/Stratosphere
 [streptomycin]: https://en.wikipedia.org/wiki/Streptomycin
 [strigolactones]: https://en.wikipedia.org/wiki/Strigolactone
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
@@ -4624,7 +4664,7 @@ if (elements.length) {
 [transduction]: https://en.wikipedia.org/wiki/Transduction_(genetics)
 [transferases]: https://en.wikipedia.org/wiki/Transferase
 [transform boundary]: https://en.wikipedia.org/wiki/Transform_fault
-[Transform faults]: https://en.wikipedia.org/wiki/Transform_fault
+[transform faults]: https://en.wikipedia.org/wiki/Transform_fault
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transgenes]: https://en.wikipedia.org/wiki/Transgene
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
@@ -4649,9 +4689,13 @@ if (elements.length) {
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
 [trophoblast cells]: https://en.wikipedia.org/wiki/Trophoblast
 [tropic hormones]: https://en.wikipedia.org/wiki/Tropic_hormone
+[tropic of cancer]: https://en.wikipedia.org/wiki/Tropic_of_Cancer
+[tropic of capricorn]: https://en.wikipedia.org/wiki/Tropic_of_Capricorn
 [tropical rainforest]: https://en.wikipedia.org/wiki/Tropical_rainforest
 [tropomyosin]: https://en.wikipedia.org/wiki/Tropomyosin
 [troponin]: https://en.wikipedia.org/wiki/Troponin
+[tropopause]: https://en.wikipedia.org/wiki/Tropopause
+[troposphere]: https://en.wikipedia.org/wiki/Troposphere
 [true-breeding]: https://en.wikipedia.org/wiki/True-breeding_organism
 [trypsin]: https://en.wikipedia.org/wiki/Trypsin
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
@@ -4726,6 +4770,7 @@ if (elements.length) {
 [wavelength]: https://en.wikipedia.org/wiki/Wavelength
 [wave]: https://en.wikipedia.org/wiki/Wave
 [waxes]: https://en.wikipedia.org/wiki/Wax
+[weather]: https://en.wikipedia.org/wiki/Weather
 [wedge-dash diagrams]: https://en.wikipedia.org/wiki/Natta_projection
 [weighted arithmetic mean]: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
 [western blot]: https://en.wikipedia.org/wiki/Western_blot
@@ -4734,6 +4779,7 @@ if (elements.length) {
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
 [wild type]: https://en.wikipedia.org/wiki/Wild_type
+[wind]: https://en.wikipedia.org/wiki/Wind
 [wood]: https://en.wikipedia.org/wiki/Wood
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
 [xerophytes]: https://en.wikipedia.org/wiki/Xerophyte
