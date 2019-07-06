@@ -1277,7 +1277,7 @@ In some organisms, a diploid organism called a [sporophyte][] creates haploid [s
 
 An [allele][] is one variant of a gene which may create a different phenotype.
 
-Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or pollen), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined (mate) in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][].
+Some sets of chromosomes have a differing set of genes such as [allosomes][] (or sex chromosomes) and are only partly homologous. Allosomes differentiate male from female [sexes][]. [Males][] (♂) produce small gametes ([sperm][] or pollen), and [females][] (♀) produce large gametes ([ova][] or egg cells or [oocytes][]). The male and female gametes are combined (mate) in sexual reproduction. Organisms that produce both are [hermaphrodites][]. All chromosomes other than allosomes are called [autosomes][]. When sperm and eggs look similar, they are called [isogamous][]; otherwise, [anisogomous][].
 
 When one organism asexually reproduces or multiple organisms sexually reproduce, the original organisms are called parents and the new organism(s) are called [offspring][] (or children or brood or progeny).
 
@@ -1611,7 +1611,7 @@ Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutri
 
 #### Algae
 
-[Algae][] are aquatic, photosynthetic, eukaryotic, multicellular protists which lack roots, stems or leaves, so they're not considered plants. Most algae spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
+[Algae][] are aquatic, photosynthetic, eukaryotic, single or multi-cell protists which don't have as complex a vascular system nor as complex a reproductive system nor as complex tissues as plants so they're not considered plants. Most algae spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
 #### Plants
 
@@ -2192,11 +2192,17 @@ Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormon
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually. [Animal cells][] do not have cell walls like plants and fungi.
+[Animals][] are a kingdom of multicellular, eukaryotic, heterotrophic, motile organisms with specialized sense organs. [Animal cells][] do not have cell walls like plants and fungi.
 
-Animals may have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
+Animals may be [coelomates][] when they have fluid- or air-filled cavities between the outer layer of the digestive tract and the outer skin. [Acoelomates][] have coelems formed by mesoderm but it is fully filled with tissue.
 
-Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
+
+[Cephalization][] is when an animal has a head, usually with a brain.
+
+Animals are split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+
+The ancestors of [Sponges][] were the first animals. Sponges are animals filter feeders, meaning they filter suspended food particles from surrounding water.
 
 [Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
 
@@ -2644,8 +2650,6 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 ### Noteworthy
 
-[Sponges][] are animals that are filter feeders, meaning they filter suspended food particles from surrounding water.
-
 [Echinoderms][] are a phylum of marine animals with a five-point symmetry including sea stars, sea urchins, sand dollars, sea cucumbers, and sea lillies.
 
 [Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
@@ -2823,6 +2827,7 @@ if (elements.length) {
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
 [acetylcholine]: https://en.wikipedia.org/wiki/Acetylcholine
+[acoelomates]: https://en.wikipedia.org/wiki/Coelom#Acoelomates
 [acrosome]: https://en.wikipedia.org/wiki/Acrosome
 [actin]: https://en.wikipedia.org/wiki/Actin
 [action potential]: https://en.wikipedia.org/wiki/Action_potential
@@ -2907,6 +2912,7 @@ if (elements.length) {
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
 [animal cells]: https://en.wikipedia.org/wiki/Eukaryote#Animal_cell
 [animals]: https://en.wikipedia.org/wiki/Animal
+[anisogomous]: https://en.wikipedia.org/wiki/Anisogamy
 [antarctic circle]: https://en.wikipedia.org/wiki/Antarctic_Circle
 [anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
@@ -3115,6 +3121,7 @@ if (elements.length) {
 [centrioles]: https://en.wikipedia.org/wiki/Centriole
 [centromere]: https://en.wikipedia.org/wiki/Centromere
 [centrosome]: https://en.wikipedia.org/wiki/Centrosome
+[cephalization]: https://en.wikipedia.org/wiki/Cephalization
 [cerebellum]: https://en.wikipedia.org/wiki/Cerebellum
 [cerebral cortex]: https://en.wikipedia.org/wiki/Cerebral_cortex
 [cerebral hemispheres]: https://en.wikipedia.org/wiki/Cerebral_hemisphere
@@ -3182,7 +3189,7 @@ if (elements.length) {
 [cochlea]: https://en.wikipedia.org/wiki/Cochlea
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
-[coeloms]: https://en.wikipedia.org/wiki/Coelom
+[coelomates]: https://en.wikipedia.org/wiki/Coelom
 [coenocytic]: https://en.wikipedia.org/wiki/Coenocyte
 [coenzyme q10]: https://en.wikipedia.org/wiki/Coenzyme_Q10
 [coenzymes]: https://en.wikipedia.org/wiki/Enzyme#Coenzymes
@@ -3786,6 +3793,7 @@ if (elements.length) {
 [island]: https://en.wikipedia.org/wiki/Island
 [island equilibrium model]: https://en.wikipedia.org/wiki/Insular_biogeography
 [isocitrate]: https://en.wikipedia.org/wiki/Isocitric_acid
+[isogamous]: https://en.wikipedia.org/wiki/Isogamy
 [isomerases]: https://en.wikipedia.org/wiki/Isomerase
 [isomers]: https://en.wikipedia.org/wiki/Isomer
 [isometric contractions]: https://en.wikipedia.org/wiki/Muscle_contraction#Isometric_contraction
@@ -4381,6 +4389,7 @@ if (elements.length) {
 [r process]: https://en.wikipedia.org/wiki/R-process
 [r selection]: https://en.wikipedia.org/wiki/R/K_selection_theory
 [radial glia]: https://en.wikipedia.org/wiki/Radial_glial_cell
+[radial symmetry]: https://en.wikipedia.org/wiki/Symmetry_in_biology#Radial_symmetry
 [radical suffix]: https://en.wikipedia.org/wiki/Substituent#Nomenclature
 [radicle]: https://en.wikipedia.org/wiki/Radicle
 [radius]: https://en.wikipedia.org/wiki/Radius

@@ -170,20 +170,36 @@ For multiple outcomes (e.g. two named E and F):
 * Measures of dispersion indicate the degree of spread of the data.
 * The range is the difference between the largest and smallest values. The interquartile range is the difference between the first and third quartiles.
 * A boxplot (or box-and-whiskers plot) shows a box from the first to second quartile, a box from the second to third quartile, and whiskers to the lowest and greatest values.
-* Standard deviation (or population standard deviation) measures how much each value differs from the mean and takes a type of average of these differences.
-* A sample standard deviation is used when a subset of all data is used where the sum of squared differences is divided by <code>n - 1</code> instead.
 * The sum of the areas of a relative frequency histogram is 1. A curve modeling the tops of the bars is called a distribution, density, or frequency curve.
 * A random variable is the result of a random experiment, representing a randomly chosen value from a distribution. A discrete random variable consists of discrete points. A uniform distribution has equal likelihoods for all values.
 * A probability distribution is a calculation of the probability of each value for all possible values.
 * The mean, or expected value, of a distribution is <code>Value<sub>1</sub>×P(Value<sub>1</sub>) + ... + Value<sub>n</sub>×P(Value<sub>n</sub>)</code>
 * Many data sets approximate a normal distribution which is bell shaped and may be said to be approximately normally distributed. In a normal distribution, the mean, median, and mode are all nearly equal, the data are grouped symmetrically around the mean, about 2/3 of the data are within 1 standard deviation of the mean, and most of the data are within 2 standard deviations of the mean.
 * A continuous probability distribution represents the region below the distribution curve. A random variable in such a distribution is called a continuous random variable.
-* The standard normal distribution has a mean of 0 and standard deviation of 1.
-* To standardize values with a different standard deviation <code>d</code> to a standard normal distribution, divide each value by <code>d</code>
+
+[Variance][] measures how much each value differs from the mean and takes a type of average of these differences. It is the sum of squared differences between each data point and the mean, divided by the number of observations <code>n</code>. A sample variance is used when a subset of all data is used where the sum of squared differences is divided by <code>n - 1</code> instead of <code>n</code>.
+
+[Standard deviation][] (or population standard deviation) is the square root of the variance. The standard normal distribution has a mean of 0 and standard deviation of 1. To standardize values with a different standard deviation <code>d</code> to a standard normal distribution, divide each value by <code>d</code>.
+
+[Standard error][] is an estimate of the variability expected if repeated samples of the same size are taken from a population.
+
+[Skewness][] is a measure of deviation from the normal distribution. A normal distribution has a skew of 0. A negative value means the mean is less than the median and the tail will stretch out more to the left of the distribution. Positive skew is in the other direction.
+
+[Kurtosis][] is a measure of the amount of data in the tails of a distribution. Positive values indicate that data is more squeezed into the middle of a distribution and negative values indicate that data is more in the tails.
+
+A [t-test][] compares whether two groups of data have approximately the same mean with a test of statistical significance. If the same population is tested multiple times, then use a paired t-test; otherwise, use an independent or unpaired t-test. If the samples do not have equal variance, use the unequal variances test. One-tailed tests are used when an assumption may be made that a group will only change in a single direction. In general, two-tailed tests are used.
+
+A [linear regression][] compares whether varying one variable (X) is correlated with changes in another variable (Y). When using an ANOVA test, the test of statistical significant is the Significance F.
 
 [conditional probability]: https://en.wikipedia.org/wiki/Probability#Conditional_probability
 [joint probability of independent outcomes]: https://en.wikipedia.org/wiki/Probability#Independent_events
+[kurtosis]: https://en.wikipedia.org/wiki/Kurtosis
 [math]: https://www.ets.org/s/gre/pdf/gre_math_review.pdf
 [multiplication]: https://www.khanacademy.org/math/arithmetic-home/arithmetic/arith-review-multiply-divide/arith-review-mult-intro/a/intro-multiplication
 [mututally exclusive outcomes]: https://en.wikipedia.org/wiki/Probability#Mutually_exclusive_events
 [not mutually exclusive outcomes]: https://en.wikipedia.org/wiki/Probability#Mutually_exclusive_events
+[skewness]: https://en.wikipedia.org/wiki/Skewness
+[standard deviation]: https://en.wikipedia.org/wiki/Standard_deviation
+[standard error]: https://en.wikipedia.org/wiki/Standard_error
+[t-test]: https://en.wikipedia.org/wiki/Student%27s_t-test
+[variance]: https://en.wikipedia.org/wiki/Variance
