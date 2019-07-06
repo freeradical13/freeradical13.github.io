@@ -1611,11 +1611,11 @@ Fungi and plants may combine to form [mycorrhizae][] in which fungi supply nutri
 
 #### Algae
 
-[Algae][] are photosynthetic eukaryotic autotrophs which lack roots, stems or leaves, so they're not considered plants. Most algae spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
+[Algae][] are aquatic, photosynthetic, eukaryotic, multicellular protists which lack roots, stems or leaves, so they're not considered plants. Most algae spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
 #### Plants
 
-[Plants][] are photosynthetic eukaryotic autotrophs although they do not include algae. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
+[Plants][] are photosynthetic, eukaryotic, autotrophs and have terrestrial adaptations that algae lack such as complex tissues. Plants have a cell wall made of cellulose. [Plants evolved from][] freshwater multicellular algae.
 
 Plants have alternation of generations and they are [embryophytes][] which use embroys to nurture young sporophytes within the gametophyte.
 
@@ -2194,9 +2194,9 @@ Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormon
 
 [Animals][] are a kingdom of multicellular eukaryotic heterotrophs that are able to move, breathe oxygen, and reproduce sexually. [Animal cells][] do not have cell walls like plants and fungi.
 
-Animals have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
+Animals may have [coeloms][] (or body cavities) which are fluid- or air-filled spaces that cushion organs.
 
-Most animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Bilaterians are further split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
 
 [Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
 
@@ -2562,19 +2562,25 @@ A [Temperature-salinity diagram][] (or T-S diagram) plots a water column's tempe
 
 Oceans are layered with different densities of water with the top layer being the [Photic Zone][] (~0-600m) where photosynthesis may occur and the rest is the [Aphotic Zone][] where no light penetrates. The ocean generally has a blue-ish color because blue colors are absorbed the least and travel the furthest down into the ocean or reflect up.
 
-[Ocean currents][] are masses of water below the pycnocline that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. Density-driven circulation occurs because cold and dense deep waters (e.g. polar oceans) sink to the bottom and move horizontally into less dense, warmer areas. Wind in the air above oceans is primarily formed by heating from the sun. Ocean currents are carried 90° to the right of the wind in the northern hemisphere and 90° to the left of the win in the souther hemisphere due to [Ekman transport][]. These currents in the context of the winds create large circular [gyres][] in the major oceans. These are also major drivers of current flows such as the [Gulf Stream][].
+[Ocean currents][] are masses of water below the pycnocline that move from one place to another, redistributing heat from warmer regions to cooler regions, either by density-driven circulation or wind-driven cirulation. Density-driven circulation occurs because cold and dense deep waters (e.g. polar oceans) sink to the bottom and move horizontally into less dense, warmer areas. Wind in the air above oceans is primarily formed by heating from the sun. Ocean currents are carried 90° to the right of the wind in the northern hemisphere and 90° to the left of the win in the souther hemisphere due to [Ekman transport][]. These currents in the context of the winds create large circular [gyres][] in the major oceans. These are also major drivers of current flows such as the [Gulf Stream][]. [Eddies][] are small areas of an ocean that have a different temperature than surrounding water.
+
+[Upwelling][] is the vertical movement of cold, deep, nutrient-rich water to the surface. [Downwelling][] is the vertical movement of surface water to deeper parts of an ocean which carries disolved Oxygen to the sea floor. Upwelling water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface. Due to the transport of nutrients, areas of high upwelling are areas with high productivity (e.g. coastal areas with ekman flow away from the coast, at the equator, offshore winds, sea floor osbtructions, and sharp bends in coasts) and areas with high downwelling are areas with low productivity (e.g. coastal areas with ekman flows towards the coast and the middle of gyres due to the inward and downward pressure).
 
 There are five major oceans: the [Pacific Ocean][], the [Atlantic Ocean][], the [Indian Ocean][], the [Southern Ocean][], and the [Arctic Ocean][]. In general, the equatorial Pacific follows the gyre's path of warm water on the west going up to the arctic and cold water coming down the east. During an [El Niño][], high pressure along the South American coast causes trade winds to diminish or reverse and with this change, a large area of warm water moves from the west towards the east which significantly changes upwell and downwelling and nutrient availability. A [La Niña][] is the opposite where more cold water migrates West.
 
 <i>p</i>CO<sub>2</sub> is the partial pressure of CO<sub>2</sub>, so as <i>p</i>CO<sub>2</sub> goes up, the concentration of CO<sub>2</sub> goes up, and vice versa. As the concentration of CO<sub>2</sub> goes up, there is an increase in reactivity between H<sub>2</sub>O and CO<sub>2</sub> which increases the concentration of Carbonic Acid (H<sub>2</sub>CO<sub>3</sub>), some of which then reacts to form Bicarbonate (HCO<sub>3</sub><sup>-</sup>) and Hydrogen ions (H<sup>+</sup>), and some of the Bicarbonate reacts to form Carbonate (CO<sub>3</sub><sup>2-</sup>) and Hydrogen ions (H<sup>+</sup>). These additional H<sup>+</sup> ions thus decrease pH (because it is a negative logarithmic scale of H<sup>+</sup> ion concentration). However, up to a point, Carbonic Acid is a weak acid and may buffer CO<sub>2</sub> which generally keeps the ocean alkaline.
 
-[Upwelling][] is the vertical movement of cold, deep, nutrient-rich water to the surface. [Downwelling][] is the vertical movement of surface water to deeper parts of an ocean which carries disolved Oxygen to the sea floor. Upwelling water to a coast brings nutrients (e.g. those that fell all the way to the sea floor) and gases (which tend to pack down in colder, denser waters; e.g. O<sub>2</sub>, CO<sub>2</sub>, etc.) towards the surface. Due to the transport of nutrients, areas of high upwelling are areas with high productivity (e.g. coastal areas with ekman flow away from the coast, at the equator, offshore winds, sea floor osbtructions, and sharp bends in coasts) and areas with high downwelling are areas with low productivity (e.g. coastal areas with ekman flows towards the coast and the middle of gyres due to the inward and downward pressure).
-
 In the northern hemisphere, air around a high pressure area moves clockwise, and air around a low pressure area moves counterclockwise. A [hurricane][] (or cyclone or typhoon) is a large, low-pressure area in the tropics moving west with the trade winds with strong winds and rains which devlop by picking up energy from warm water and surface winds feed moisture into the storm. The power of a hurricane comes from the latent heat of condensation as water vapor condenses into rain.
 
-The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
+The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which live on, in, or attached to the sea floor and eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
 
 The [Hadal Zone][] is the area of ocean below 6km in deep ocean trenches.
+
+The [Pelagic Zone][] is the area of water above the benthic and hadal zones.
+
+[Tides][] are daily raising (high tide) and lowering (low tide) of ocean levels due to gravitational pull of the Moon (primarily) and Sun and other planets and the rotation of the Earth. There may be one or two each high and low tide per day depending on various factors and positions of the Moon and Sun.
+
+[Plankton][] are organisms that move due to oceanic currents and are too small to counteract such currents. [Phytoplankton][] are autotrophic. [Zooplankton][] are heterotrophic.
 
 ## Biosphere
 
@@ -3350,6 +3356,7 @@ if (elements.length) {
 [ecotones]: https://en.wikipedia.org/wiki/Ecotone
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
+[eddies]: https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)
 [effector-triggered immunity]: https://en.wikipedia.org/wiki/Effector-triggered_immunity
 [ekman transport]: https://en.wikipedia.org/wiki/Ekman_transport
 [el niño]: https://en.wikipedia.org/wiki/El_Ni%C3%B1o
@@ -4194,6 +4201,7 @@ if (elements.length) {
 [pauling scale]: https://en.wikipedia.org/wiki/Pauling_scale
 [pectins]: https://en.wikipedia.org/wiki/Pectin
 [pedigree chart]: https://en.wikipedia.org/wiki/Pedigree_chart
+[pelagic zone]: https://en.wikipedia.org/wiki/Pelagic_zone
 [penicillin]: https://en.wikipedia.org/wiki/Penicillin
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
@@ -4244,6 +4252,7 @@ if (elements.length) {
 [phyllotaxy]: https://en.wikipedia.org/wiki/Phyllotaxis
 [phylogeny]: https://en.wikipedia.org/wiki/Phylogenetic_tree
 [physiology]: https://en.wikipedia.org/wiki/Physiology
+[phytoplankton]: https://en.wikipedia.org/wiki/Phytoplankton
 [phytoremediation]: https://en.wikipedia.org/wiki/Phytoremediation
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
 [pigments]: https://en.wikipedia.org/wiki/Photopigment
@@ -4255,6 +4264,7 @@ if (elements.length) {
 [placenta]: https://en.wikipedia.org/wiki/Placenta
 [planetary science]: https://en.wikipedia.org/wiki/Planetary_science
 [planets]: https://en.wikipedia.org/wiki/Planet
+[plankton]: https://en.wikipedia.org/wiki/Plankton
 [plant cortex]: https://en.wikipedia.org/wiki/Cortex_(botany)
 [plants]: https://en.wikipedia.org/wiki/Plant
 [plants evolved from]: http://rstb.royalsocietypublishing.org/content/royptb/367/1588/508.full.pdf
@@ -4675,6 +4685,7 @@ if (elements.length) {
 [thyrotropin-stimulating hormone]: https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
 [thyroxine]: https://en.wikipedia.org/wiki/Thyroid_hormones
 [tidal volume]: https://en.wikipedia.org/wiki/Tidal_volume
+[tides]: https://en.wikipedia.org/wiki/Tide
 [tight junctions]: https://en.wikipedia.org/wiki/Tight_junction
 [time]: https://en.wikipedia.org/wiki/Time
 [tissue]: https://en.wikipedia.org/wiki/Tissue_(biology)
@@ -4820,6 +4831,7 @@ if (elements.length) {
 [yeasts]: https://en.wikipedia.org/wiki/Yeast
 [yolk]: https://en.wikipedia.org/wiki/Yolk
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida
+[zooplankton]: https://en.wikipedia.org/wiki/Zooplankton
 [zygosporangium]: https://en.wikipedia.org/wiki/Zygospore
 [zygote]: https://en.wikipedia.org/wiki/Zygote
 [zymogen]: https://en.wikipedia.org/wiki/Zymogen
