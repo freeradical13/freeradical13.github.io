@@ -104,7 +104,7 @@ The [lowest recorded surface temperature][temperature comparison] on Earth is <c
 
 The [latent heat of vaporization][] (or evaporation) is the amount of energy gained per unit volume below the boiling point to break intermolecular bonds and complete the phase change of liquid to gas. To do this, some molecules gain energy from their neighbors which is also called [evaporative cooling][].
 
-The [latent heat of melting][] is the amount of energy gained per unit volume at the freezing point to break intermolecular crystal bonds and complete the phase change of solid to liquid ([freezing][]).
+The latent heat of melting is the amount of energy gained per unit volume at the freezing point to break intermolecular crystal bonds and complete the phase change of solid to liquid ([freezing][]).
 
 The latent heat of condensation is the amount of energy released per unit volume for a gas to complete the phase change to a liquid ([condensation][]) as it cools.
 
@@ -1682,8 +1682,8 @@ The tree of specialized hematopoietic stem cells is:
     * A precursor cell which may further specialize into:
       * A [Monocyte cell][], which may further specialize into:
         * A [Macrophage][] which is a monocyte that travels in the blood to tissues and transform into a macrophage which is phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the pathogen.
-        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
-    * A [Nuocyte cell][] which is also related to parasites.
+        * A [Dendritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
+    * A [Nuocyte cell][]<sup>[1][Neill et al., 2010]</sup> which is also related to parasites.
   * A [Mast cell][] resident in connective tissue which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
 * Lymphoid (lymphocytes). [Lymphocytes][] are leukyoctes found predominantly in lymph. This cell type may further specialize into:
   * A B cell. A B cell may further specialize into:
@@ -3672,7 +3672,7 @@ if (elements.length) {
 [helicases]: https://en.wikipedia.org/wiki/Helicase
 [helper t cells]: https://en.wikipedia.org/wiki/T_helper_cell
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
-[haematopoiesis]: https://en.wikipedia.org/wiki/Haematopoiesis
+[hematopoiesis]: https://en.wikipedia.org/wiki/Haematopoiesis
 [hematopoietic cells]: https://en.wikipedia.org/wiki/Blood_cell
 [hematopoietic stem cells]: https://en.wikipedia.org/wiki/Hematopoietic_stem_cell
 [heme]: https://en.wikipedia.org/wiki/Heme
@@ -4078,6 +4078,7 @@ if (elements.length) {
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
 [negative strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
+[Neill et al., 2010]: https://doi.org/10.1038/nature08900 'Neill, D. R., Wong, S. H., Bellosi, A., Flynn, R. J., Daly, M., Langford, T. K., ... & Jolin, H. E. (2010). Nuocytes represent a new innate effector leukocyte that mediates type-2 immunity. Nature, 464(7293), 1367.'
 [neocortex]: https://en.wikipedia.org/wiki/Neocortex
 [neoplasm]: https://en.wikipedia.org/wiki/Neoplasm
 [nephrons]: https://en.wikipedia.org/wiki/Nephron
