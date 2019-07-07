@@ -1581,7 +1581,7 @@ Steroid hormones diffuse across the lipid membrane and bind to receptors in the 
 
 #### Immune System
 
-The [immune system][] in an organism is a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage. The immune system includes the [innate immune system][] (or non-specific immune system) which has particular defenses against particular types of pathogens.
+The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
 Non-pathogenic damage may be caused by:
 
@@ -1589,9 +1589,132 @@ Non-pathogenic damage may be caused by:
     * [Toxins][] are poisons produced by living cells.
         * [Venoms][] are toxins delivered by injection.
 
+Pathogens may inflict:
+
+* [Exotoxins][]: Proteins secreted by pathogens which cause damage.
+* [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
+
 Examples of poisons:
 
 * [Cyanide][] interferes with the electron transport chain by binding to cytochromes.
+
+#### Animals
+
+[Animals][] are a kingdom of multicellular, eukaryotic, heterotrophic, motile organisms with specialized sense organs. [Animal cells][] do not have cell walls like plants and fungi.
+
+Animals may be [coelomates][] when they have fluid- or air-filled cavities between the outer layer of the digestive tract and the outer skin. [Acoelomates][] have coelems formed by mesoderm but it is fully filled with tissue.
+
+Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
+
+[Cephalization][] is when an animal has a head, usually with a brain.
+
+Animals are split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+
+The ancestors of [Sponges][] were the first animals. Sponges are filter feeders, meaning they filter suspended food particles from surrounding water.
+
+[Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
+
+#### Blood
+
+Some organisms have [Blood][] which is a liquid (and connective tissue) that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
+
+##### Blood Cells
+
+Blood cells ([hematopoietic cells][]) are secreted in the bone marrow (before birth, in the yolk sac, liver, or spleen) from pluripotent [hematopoietic stem cells][] in a process called [hematopoiesis][].
+
+Hematopoietic stem cells may divide to create further hematopoietic stem cells in a process called [stem cell self-renewal][], or hematopoietic stem cells may specialize into one of three cell lineages:
+
+* Erythroid: This cell type may further specialize into:
+  * [Erythroblasts][]: These create [Red Blood Cells][] (or [erythrocytes][], or RBCs) which lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body. They lack mitochondria and generate ATP through anaerobic respiration.
+  * [Megakaryocytes][]: These create [Platelets][] (or [thrombocytes][]) which lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][]. They lack mitochondria and generate ATP through anaerobic respiration.
+* Myeloid: This cell type may further specialize into:
+  * A granulocyte-macrophage progenitor cell which may further specialize into:
+    * A [Neutrophil cell][] which is a leukocyte attracted by signals from infected tissues.
+    * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders.
+    * A Basophil cell.
+    * A macrophage and dendritic cell precursor which may further specialize into:
+      * A Monocyte, which may further specialize into:
+        * A [Macrophage][] which is a leukocytes that either patrols by circulating throughout the blood or stays in one tissue to monitor for pathogens. Macrophages release cytokines which attract neutrophils.
+        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
+  * A [Mast cell][] which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
+* Lymphoid (or [White Blood Cells][], or [leukocytes][], or WBCs)): This cell type may further specialize into:
+  * A B cell. A B cell may further specializ into:
+    * A Plasma cell.
+  * A precursor cell which may further specialize into:
+    * A [Natural Killer cell][] which is a leukocyte that circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
+    * A T cell. A T cell may further specialize into:
+      * An Effector T cell.
+
+##### Blood Vessels
+
+[Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
+
+[Arteries][] carry blood away from the heart to organs. Within organs, arteries branch into smell vessels called [arterioles][]. Arterioles pass blood to [capillaries][] which are very small, porous blood vessels that perform the exchange of gases and other chemicals between blood and cells. The ends of capillaries converge into venules which converge into [veins][] that carry blood back to the heart.
+
+A blood vessel contains a lumen surrounded by a single layer of endothelial cells. Blood pressure in vessels may be regulated by changing the diameter of vessels. [Vasoconstriction][] increases blood pressure by reducing the diameter by constricting muscle cells around the vessel. [Vasodilation][] decreases blood pressure by increasing the diameter of blood vessels ([dilation][]) by relaxing muscle cells around the vessel.
+
+#### Lymphatic System
+
+All the fluid outside of cells is called [extracellular fluid][]. The majority of extracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
+
+The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
+
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls.
+
+#### Innate Immune System
+
+The immune system includes the [innate immune system][] (or non-specific immune system) which has particular defenses against particular types of pathogens.
+
+The innate immune system detects pre-defined pathogens using soluble proteins and cell-surface receptors that being to a pathogen and its products or to human cells and proteins that change in the presence of a pathogen. Next, either [effector cells][] attack the pathogens and/or the [complement system][] - various proteins that circulate in the blood - may cause lysis of some pathogens.
+
+1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
+    1. TLR3 recognizes double-stranded RNA produced by some viruses.
+    1. TLR4 recognizes lipopolysaccharides on the surface of some bacteria.
+    1. TLR5 recognizes the flagellin protein on bacterial flagella.
+1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
+1. The broken down products are released through exocytosis.
+
+Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacterial cell walls.
+
+#### Inflammatory Response
+
+An [inflammatory response][] (inflammation) is a cascade in response to injury or infection. Cells and proteins in the damaged area release cytokines that trigger the immune system. Cytokines induce capillary dilation which increases blood flow to the area which reddens and warms the area. Vascular dilation creates gaps in the blood vessel endothelium whic leaks blood plasma into the connective tissue and this increase in fluid volume creates [edema][] or swelling which puts pressure on nerves and causes pain. Cytokines also change the adhesive properties of the endothelium which increases the movement of white blood cells into the damaged area.
+
+#### Adaptive Immune System
+
+[Some animals][animal adaptive immune system] include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
+
+Leukocytes are effector cells similar to effector cells in the innate immune system except that leukocytes have cell-surface receptors for a specific pathogen, rather than a class of pathogens. These cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
+
+[Interferons][] are proteins that interfere with virus-infected cells. Virus-infected cells themselves secrete interferons that inhibit viral replication. Some white blood cells secrete interferons that help activate macrophages.
+
+[Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
+
+[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
+
+Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction (in the process of [opsonization][]) by macrophages or neutrophils, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
+
+There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
+
+[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
+
+B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
+
+As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
+
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This adaptive immune system process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about a week or two after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
+
+If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
+
+A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antibodies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
+
+[Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
+
+[Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the cytotoxic T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
+
+[Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
+
+[Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
 
 #### Fungi
 
@@ -1774,38 +1897,6 @@ In some organisms, the outside of the body forms a tissue called Skin which is m
 #### Circulatory System
 
 The [Circulatory System][] (or cardiovascular system) transports nutrients, Oxygen, CO<sub>2</sub>, hormones, waste and more throughout an organism using blood (in a closed circulatory system) or hemolymph (in an open circulatory system) through tubes called vessels.
-
-#### Blood
-
-[Blood][] is a liquid (and connective tissue) that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
-
-##### Blood Cells
-
-Blood cells are secreted in the bone marrow from stem cells and may be red blood cells, white blood cells or platelets.
-
-[Red Blood Cells][] (or [erythrocytes][], or RBCs) lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body.
-
-[Platelets][] (or [thrombocytes][]) lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][].
-
-Erythrocytes and thrombocytes lack mitochondria and generate ATP through anaerobic respiration.
-
-[White Blood Cells][] (or [leukocytes][], or WBCs) have a nucleus and are the cells of the immune system.
-
-##### Blood Vessels
-
-[Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
-
-[Arteries][] carry blood away from the heart to organs. Within organs, arteries branch into smell vessels called [arterioles][]. Arterioles pass blood to [capillaries][] which are very small, porous blood vessels that perform the exchange of gases and other chemicals between blood and cells. The ends of capillaries converge into venules which converge into [veins][] that carry blood back to the heart.
-
-A blood vessel contains a lumen surrounded by a single layer of endothelial cells. Blood pressure in vessels may be regulated by changing the diameter of vessels. [Vasoconstriction][] increases blood pressure by reducing the diameter by constricting muscle cells around the vessel. [Vasodilation][] decreases blood pressure by increasing the diameter of blood vessels ([dilation][]) by relaxing muscle cells around the vessel.
-
-#### Lymphatic System
-
-All the fluid outside of cells is called [extracellular fluid][]. The majority of extracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
-
-The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
-
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls.
 
 #### Heart
 
@@ -2190,23 +2281,15 @@ Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormon
 
 [Glands][] are groups of cells that release chemicals either into the blood ([endocrine gland][]) or from epithelial cells on the inside or outside of the body ([exocrine gland][]).
 
-#### Animals
+#### Invertebrates
 
-[Animals][] are a kingdom of multicellular, eukaryotic, heterotrophic, motile organisms with specialized sense organs. [Animal cells][] do not have cell walls like plants and fungi.
+Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate and Chitin.
 
-Animals may be [coelomates][] when they have fluid- or air-filled cavities between the outer layer of the digestive tract and the outer skin. [Acoelomates][] have coelems formed by mesoderm but it is fully filled with tissue.
+[Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
 
-Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
+[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo metamorphosis. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
 
-[Cephalization][] is when an animal has a head, usually with a brain.
-
-Animals are split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
-
-The ancestors of [Sponges][] were the first animals. Sponges are animals filter feeders, meaning they filter suspended food particles from surrounding water.
-
-[Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
-
-##### Vertebrates
+#### Vertebrates
 
 [Chordates][] are animals with a notochord which is a flexible rod between the digestive tube and nerve cord, and provides skeletal and muscle support.
 
@@ -2233,14 +2316,6 @@ The three main classes of vertebrates are amphibians, reptiles, and mammals.
 Mammals use the [XY sex determination system][] where the two allosomal chromosomes in females are the same (two chromosomes called X) and the allosomal chromosomes of males are different (one X chromosome and one chromosome called Y). In females, a random one of the X chromosomes deactivates into an object called a [Barr body][] (this occurs independently in multiple embryonic cells, thus some females have [mosaicism][] of some traits).
 
 [Primates][] are mammals that have hands and feet adapted for grasping. [Monkeys][] and [apes][] (anthropoids) are primates that have an opposable thumb that allows for more advanced grasping.
-
-##### Invertebrates
-
-Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate and Chitin.
-
-[Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
-
-[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo metamorphosis. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
 
 ##### Humans
 
@@ -2371,78 +2446,6 @@ Examples of viruses:
 ## Prions
 
 [Prions][] are proteins which may infect organisms (e.g. through food) and cause brain diseases such as [Mad Cow Disease][], [Creutzfeldt-Jakob Disease][], and [Scrapie][]. The prion proteins are misfolded proteins which may cause properly folded proteins of the same type to misfold upon contact which may lead to a chain reaction.
-
-## Animal Immune System
-
-Types of damage that pathogens may inflict:
-
-* [Exotoxins][]: Proteins secreted by pathogens which cause damage.
-* [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
-
-Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacterial cell walls.
-
-Some organisms include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
-
-### Innate Immune System
-
-[Phagocytosis][] is the process a phagocytic cell uses to ingest and destroy a pathogen:
-
-1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
-    1. TLR3 recognizes double-stranded RNA produced by some viruses.
-    1. TLR4 recognizes lipopolysaccharides on the surface of some bacteria.
-    1. TLR5 recognizes the flagellin protein on bacterial flagella.
-1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
-1. The broken down products are released through exocytosis.
-
-Types of phagocytic cells:
-
-* [Macrophages][] are leukocytes which either patrol by circulating throughout the blood or stay in one tissue to monitor for pathogens.
-* [Neutrophils][] are leukocytes attracted by signals from infected tissues.
-* [Eosinophils][] are leukocytes which target multicellular invaders.
-
-Leukocytes found predominantly in lymph are called [lymphocytes][].
-
-[Natural Killer Cells][] are leukocytes that circulate throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
-
-[Dendritic cells][] populate tissues such as skin and migrate to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
-
-[Interferons][] are proteins that interfere with virus-infected cells. Virus-infected cells themselves secrete interferons that inhibit viral replication. Some white blood cells secrete interferons that help activate macrophages.
-
-The [complement system][] describes various proteins that circulate in the blood which may cause lysis of some pathogens.
-
-### Inflammatory Response
-
-An [inflammatory response][] is a cascade in response to injury or infection. Macrophages release cytokines which attract neutrophils. Leukocyte [mast cells][] in surrounding connective tissue release signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
-
-### Adaptive Immune System
-
-[Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
-
-[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
-
-Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction (in the process of [opsonization][]) by macrophages or neutrophils, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
-
-There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
-
-[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
-
-B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
-
-As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
-
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This process is called [clonal selection][] which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about two weeks after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. Such B cells are called [plasma cells][] and such T cells are called Helper T cells or Cytotoxic T cells. The remaining, non-effector cells are called [memory cells][].
-
-If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
-
-A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antibodies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
-
-[Helper T cells][] work with antigen-presenting cells such as dendritic cells, macrophages, and B cells. Most body cells only have a single [class I MHC][] molecule, whereas these specialized antigen-presenting cells have a second [class II MHC][] molecule. The helper T cell binds to the antigen and class II MHC molecule using its antigen receptor and a protein called [CD4][] on the helper T cell surface. This binding releases cytokines which activates the T cell and stimulates cloning. In the case of B cells, cytokines from T cells stimulate cloning of B cells.
-
-[Cytotoxic T cells][] detect class I MHC molecules along with an antigen on infected cells and a protein called [CD8][] on the cytotoxic T cell surface. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis.
-
-[Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
-
-[Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
 
 ## Birth
 
@@ -2910,6 +2913,7 @@ if (elements.length) {
 [aneuploidy]: https://en.wikipedia.org/wiki/Aneuploidy
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
+[animal adaptive immune system]: https://www.ncbi.nlm.nih.gov/books/NBK27108/
 [animal cells]: https://en.wikipedia.org/wiki/Eukaryote#Animal_cell
 [animals]: https://en.wikipedia.org/wiki/Animal
 [anisogomous]: https://en.wikipedia.org/wiki/Anisogamy
@@ -3286,7 +3290,7 @@ if (elements.length) {
 [demography]: https://en.wikipedia.org/wiki/Demography
 [denaturation]: https://en.wikipedia.org/wiki/Denaturation_(biochemistry)
 [dendrites]: https://en.wikipedia.org/wiki/Dendrite
-[dendritic cells]: https://en.wikipedia.org/wiki/Dendritic_cell
+[dendritic cell]: https://en.wikipedia.org/wiki/Dendritic_cell
 [density]: https://en.wikipedia.org/wiki/Density
 [density-dependent inhibition]: https://en.wikipedia.org/wiki/Density_dependence
 [deoxyribonucleic acid]: https://en.wikipedia.org/wiki/DNA
@@ -3364,6 +3368,8 @@ if (elements.length) {
 [ectoderm]: https://en.wikipedia.org/wiki/Ectoderm
 [ectothermic]: https://en.wikipedia.org/wiki/Ectotherm
 [eddies]: https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)
+[edema]: https://en.wikipedia.org/wiki/Edema
+[effector cells]: https://en.wikipedia.org/wiki/Effector_cell
 [effector-triggered immunity]: https://en.wikipedia.org/wiki/Effector-triggered_immunity
 [ekman transport]: https://en.wikipedia.org/wiki/Ekman_transport
 [el niño]: https://en.wikipedia.org/wiki/El_Ni%C3%B1o
@@ -3431,7 +3437,7 @@ if (elements.length) {
 [enzyme commission number]: https://en.wikipedia.org/wiki/Enzyme_Commission_number
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
-[eosinophils]: https://en.wikipedia.org/wiki/Eosinophil
+[eosinophil cell]: https://en.wikipedia.org/wiki/Eosinophil
 [epicotyl]: https://en.wikipedia.org/wiki/Epicotyl
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epididymis]: https://en.wikipedia.org/wiki/Epididymis
@@ -3448,6 +3454,7 @@ if (elements.length) {
 [equinox]: https://en.wikipedia.org/wiki/Equinox
 [erosion]: https://en.wikipedia.org/wiki/Erosion
 [erwin schrödinger]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+[erythroblasts]: https://en.wikipedia.org/wiki/Nucleated_red_blood_cell
 [erythrocytes]: https://en.wikipedia.org/wiki/Red_blood_cell
 [erythropoietin]: https://en.wikipedia.org/wiki/Erythropoietin
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
@@ -3654,6 +3661,9 @@ if (elements.length) {
 [helicases]: https://en.wikipedia.org/wiki/Helicase
 [helper t cells]: https://en.wikipedia.org/wiki/T_helper_cell
 [hemagglutinin]: https://en.wikipedia.org/wiki/Hemagglutinin
+[haematopoiesis]: https://en.wikipedia.org/wiki/Haematopoiesis
+[hematopoietic cells]: https://en.wikipedia.org/wiki/Blood_cell
+[hematopoietic stem cells]: https://en.wikipedia.org/wiki/Hematopoietic_stem_cell
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
@@ -3909,7 +3919,7 @@ if (elements.length) {
 [m checkpoint]: https://en.wikipedia.org/wiki/Spindle_checkpoint
 [m phase]: https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 [macromolecule]: https://en.wikipedia.org/wiki/Macromolecule
-[macrophages]: https://en.wikipedia.org/wiki/Macrophage
+[macrophage]: https://en.wikipedia.org/wiki/Macrophage
 [mad cow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
 [magma]: https://en.wikipedia.org/wiki/Magma
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
@@ -3924,7 +3934,7 @@ if (elements.length) {
 [mass]: https://en.wikipedia.org/wiki/Mass
 [mass-energy equivalence]: https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
 [massless]: https://en.wikipedia.org/wiki/Massless_particle
-[mast cells]: https://en.wikipedia.org/wiki/Mast_cell
+[mast cell]: https://en.wikipedia.org/wiki/Mast_cell
 [masting]: https://en.wikipedia.org/wiki/Mast_(botany)#Mast_seeding
 [mate-choice copying]: https://en.wikipedia.org/wiki/Mate_choice_copying
 [math]: https://www.khanacademy.org/math
@@ -3933,6 +3943,7 @@ if (elements.length) {
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
 [mechanoreceptors]: https://en.wikipedia.org/wiki/Mechanoreceptor
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
+[megakaryocytes]: https://en.wikipedia.org/wiki/Megakaryocyte
 [megaphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
 [megasporangia]: https://en.wikipedia.org/wiki/Sporangium
 [meiosis]: https://en.wikipedia.org/wiki/Meiosis
@@ -4049,7 +4060,7 @@ if (elements.length) {
 [nadp reductase]: https://en.wikipedia.org/wiki/Ferredoxin%E2%80%94NADP(%2B)_reductase
 [naming an organic compound]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
 [natural gas]: https://en.wikipedia.org/wiki/Natural_gas
-[natural killer cells]: https://en.wikipedia.org/wiki/Natural_killer_cell
+[natural killer cell]: https://en.wikipedia.org/wiki/Natural_killer_cell
 [natural selection]: https://en.wikipedia.org/wiki/Natural_selection
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
@@ -4070,7 +4081,7 @@ if (elements.length) {
 [neurotransmitters]: https://en.wikipedia.org/wiki/Neurotransmitter
 [neutron radius]: https://en.wikipedia.org/wiki/Neutron#Description
 [neutrons]: https://en.wikipedia.org/wiki/Neutron
-[neutrophils]: https://en.wikipedia.org/wiki/Neutrophil
+[neutrophil cell]: https://en.wikipedia.org/wiki/Neutrophil
 [newton]: https://en.wikipedia.org/wiki/Newton_(unit)
 [nicotinamide adenine dinucleotide]: https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide
 [nitric oxide]: https://en.wikipedia.org/wiki/Nitric_oxide
@@ -4186,6 +4197,7 @@ if (elements.length) {
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [parabasalids]: https://en.wikipedia.org/wiki/Parabasalid
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
+[parasites]: https://en.wikipedia.org/wiki/Parasites
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paralogous]: https://en.wikipedia.org/wiki/Sequence_homology#Paralogy
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
@@ -4580,6 +4592,7 @@ if (elements.length) {
 [stellar nucleosynthesis]: https://en.wikipedia.org/wiki/Stellar_nucleosynthesis
 [stem]: https://en.wikipedia.org/wiki/Plant_stem
 [stem cell potency]: https://en.wikipedia.org/wiki/Stem_cell#Potency_meaning
+[stem cell self-renewal]: https://en.wikipedia.org/wiki/Stem_cell#Self-renewal
 [stem cells]: https://en.wikipedia.org/wiki/Stem_cell
 [stereochemistry]: https://en.wikipedia.org/wiki/Stereochemistry
 [steroids]: https://en.wikipedia.org/wiki/Steroids
