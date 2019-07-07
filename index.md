@@ -1683,7 +1683,7 @@ The tree of specialized hematopoietic stem cells is:
       * A [Monocyte cell][], which may further specialize into:
         * A [Macrophage][] which is a monocyte that travels in the blood to tissues and transform into a macrophage which is phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the pathogen.
         * A [Dendritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
-    * A [Nuocyte cell][]<sup>[1][Neill et al., 2010]</sup> which is also related to parasites.
+    * A [Nuocyte cell][]<sup>[a][Neill et al., 2010]</sup> which is also related to parasites.
   * A [Mast cell][] resident in connective tissue which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
 * Lymphoid (lymphocytes). [Lymphocytes][] are leukyoctes found predominantly in lymph. This cell type may further specialize into:
   * A B cell. A B cell may further specialize into:
