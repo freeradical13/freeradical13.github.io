@@ -1676,33 +1676,33 @@ The tree of specialized hematopoietic stem cells is:
   * [Megakaryocytes][]: Cells with chromosomes from multiple nuclei arising from the fusion of multiple precursor cells. Megakaryocytes create platelets.
 * Myeloid (leukocytes): This cell type may further specialize into:
   * [Granulocytes][] (or polymorphonuclear leukyocytes): Cells in the innate immune system containing reactive substances that kill microorganisms and increase inflammation. These cells may further specialize into:
-    * A [Neutrophil cell][] which is a phagocytic leukocyte effector cell in the attracted by signals from infected tissues and captures, engulfs and kills microorganisms. Neutrophils die at the site of infection and are the main constituent of [pus][].
-    * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders.
-    * A Basophil cell.
-    * A macrophage and dendritic cell precursor which may further specialize into:
-      * A Monocyte, which may further specialize into:
-        * A [Macrophage][] which is a leukocytes that either patrols by circulating throughout the blood or stays in one tissue to monitor for pathogens. Macrophages release cytokines which attract neutrophils.
-        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
-  * A [Mast cell][] which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
+    * A [Neutrophil cell][] which is a phagocytic leukocyte effector cell in the attracted by signals from infected tissues and captures, engulfs and kills microorganisms. Neutrophils die at the site of infection and are the main constituent of [pus][]. These are so named because their granules are neither acidic nor basic.
+    * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders and defends against helminth worms and other parasites. These are so named because their granules contain basic substances that stain with acids such as eosin.
+    * A [Basophil cell][] which is also related to parasites. These are so named because their granules contain acidic substances that stain with bases such as hematoxylin.
+    * A precursor cell which may further specialize into:
+      * A [Monocyte cell][], which may further specialize into:
+        * A [Macrophage][] which is a monocyte that travels in the blood to tissues and transform into a macrophage which is phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the pathogen.
+        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
+  * A [Mast cell][] resident in connective tissue which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
 * Lymphoid (lymphocytes). [Lymphocytes][] are leukyoctes found predominantly in lymph. This cell type may further specialize into:
   * A B cell. A B cell may further specialize into:
     * A Plasma cell.
   * A precursor cell which may further specialize into:
-    * A [Natural Killer cell][] which is a leukocyte that circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
+    * A [Natural Killer cell][] which circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release cytokines that cause cell death or inhibit viral replication.
     * A T cell. A T cell may further specialize into:
       * An Effector T cell.
 
-Myeloid cells are effector cells that have cell-surface receptors for a specific pathogen, rather than a class of pathogens like lymphoid cells. Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
+Myeloid cells are effector cells that have cell-surface receptors for a specific pathogen, rather than a class of pathogens like B and T lymphoid cells. B and T Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
 
-[Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
+[Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
 
-[B cells][] are lymphocytes which mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
+[B cells][] mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
 Once a B cell's paratope binds to an antigen, B cells become activated and lead to formation of cells that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins, or mark pathogens for destruction (in the process of [opsonization][]) by macrophages or neutrophils, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
 
 There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
-[T cells][] are lymphocytes which mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
+[T cells][] mature in the lymphatic system organ called the [thymus][] and bind to antigens on host cells called [antigen-presenting cells][] that present antigens connected to [Major Histocompatibility Complex][] (MHC) molecules. Each T cell paratope is a protein made of two polypeptide chains (called the α chain and β chain) anchored into the T cell membrane and linked with a disulfide bridge. Each chain also has a constant region and variable region and the pair of chains are the paratope.
 
 B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
 
@@ -3024,6 +3024,7 @@ if (elements.length) {
 [basal taxon]: https://en.wikipedia.org/wiki/Basal_(phylogenetics)
 [base catalysis]: https://en.wikipedia.org/wiki/Acid_catalysis
 [base excision repair]: https://en.wikipedia.org/wiki/Base_excision_repair
+[basophil cell]: https://en.wikipedia.org/wiki/Basophil
 [bast fibers]: https://en.wikipedia.org/wiki/Bast_fibre
 [benign tumor]: https://en.wikipedia.org/wiki/Benign_tumor
 [benthic zone]: https://en.wikipedia.org/wiki/Benthic_zone
@@ -4034,6 +4035,7 @@ if (elements.length) {
 [monkeys]: https://en.wikipedia.org/wiki/Monkey
 [monoclonal]: https://en.wikipedia.org/wiki/Monoclonal_antibody
 [monocots]: https://en.wikipedia.org/wiki/Monocotyledon
+[monocyte cell]: https://en.wikipedia.org/wiki/Monocyte
 [monogamous mating]: https://en.wikipedia.org/wiki/Monogamy
 [monohybrids]: https://en.wikipedia.org/wiki/Monohybrid_cross
 [monomers]: https://en.wikipedia.org/wiki/Monomer
