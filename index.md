@@ -1683,16 +1683,17 @@ The tree of specialized hematopoietic stem cells is:
       * A [Monocyte cell][], which may further specialize into:
         * A [Macrophage][] which is a monocyte that travels in the blood to tissues and transform into a macrophage which is phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the pathogen.
         * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
+    * A [Nuocyte cell][] which is also related to parasites.
   * A [Mast cell][] resident in connective tissue which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
 * Lymphoid (lymphocytes). [Lymphocytes][] are leukyoctes found predominantly in lymph. This cell type may further specialize into:
   * A B cell. A B cell may further specialize into:
-    * A Plasma cell.
+    * A Plasma cell: An effector B cell.
   * A precursor cell which may further specialize into:
     * A [Natural Killer cell][] which circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release cytokines that cause cell death or inhibit viral replication.
     * A T cell. A T cell may further specialize into:
       * An Effector T cell.
 
-Myeloid cells are effector cells that have cell-surface receptors for a specific pathogen, rather than a class of pathogens like B and T lymphoid cells. B and T Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
+Myeloid cells are effector cells that have cell-surface receptors for a specific pathogen, rather than a class of pathogens like B and T lymphoid cells. B and T Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate millions of different receptors.
 
 [Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
 
@@ -4133,6 +4134,7 @@ if (elements.length) {
 [nucleotide-pair substitution]: https://en.wikipedia.org/wiki/Mutations#Classification_of_types
 [nucleotide excision repair]: https://en.wikipedia.org/wiki/Nucleotide_excision_repair
 [nucleus]: https://en.wikipedia.org/wiki/Atomic_nucleus
+[nuocyte cell]: https://en.wikipedia.org/wiki/Nuocyte
 [nutrition]: https://en.wikipedia.org/wiki/Nutrition
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
