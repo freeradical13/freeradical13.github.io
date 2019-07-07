@@ -1618,33 +1618,6 @@ The ancestors of [Sponges][] were the first animals. Sponges are filter feeders,
 
 Some organisms have [Blood][] which is a liquid (and connective tissue) that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
 
-##### Blood Cells
-
-Blood cells ([hematopoietic cells][]) are secreted in the bone marrow (before birth, in the yolk sac, liver, or spleen) from pluripotent [hematopoietic stem cells][] in a process called [hematopoiesis][].
-
-Hematopoietic stem cells may divide to create further hematopoietic stem cells in a process called [stem cell self-renewal][], or hematopoietic stem cells may specialize into one of three cell lineages:
-
-* Erythroid: This cell type may further specialize into:
-  * [Erythroblasts][]: These create [Red Blood Cells][] (or [erythrocytes][], or RBCs) which lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body. They lack mitochondria and generate ATP through anaerobic respiration.
-  * [Megakaryocytes][]: These create [Platelets][] (or [thrombocytes][]) which lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][]. They lack mitochondria and generate ATP through anaerobic respiration.
-* Myeloid: This cell type may further specialize into:
-  * A granulocyte-macrophage progenitor cell which may further specialize into:
-    * A [Neutrophil cell][] which is a leukocyte attracted by signals from infected tissues.
-    * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders.
-    * A Basophil cell.
-    * A macrophage and dendritic cell precursor which may further specialize into:
-      * A Monocyte, which may further specialize into:
-        * A [Macrophage][] which is a leukocytes that either patrols by circulating throughout the blood or stays in one tissue to monitor for pathogens. Macrophages release cytokines which attract neutrophils.
-        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
-  * A [Mast cell][] which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
-* Lymphoid (or [White Blood Cells][], or [leukocytes][], or WBCs)): This cell type may further specialize into:
-  * A B cell. A B cell may further specializ into:
-    * A Plasma cell.
-  * A precursor cell which may further specialize into:
-    * A [Natural Killer cell][] which is a leukocyte that circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
-    * A T cell. A T cell may further specialize into:
-      * An Effector T cell.
-
 ##### Blood Vessels
 
 [Blood vessels][] are either arteries, capillaries, or veins. The inner walls of blood vessels are lined with [Endothelial Cells][].
@@ -1660,6 +1633,16 @@ All the fluid outside of cells is called [extracellular fluid][]. The majority o
 The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
 
 [Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls.
+
+##### Blood Cells
+
+Blood cells ([hematopoietic cells][]) are secreted in the bone marrow (before birth, in the yolk sac, liver, or spleen) from pluripotent [hematopoietic stem cells][] in a process called [hematopoiesis][].
+
+Hematopoietic stem cells may divide to create further hematopoietic stem cells in a process called [stem cell self-renewal][], or hematopoietic stem cells may specialize into one of three main cell types:
+
+* [Red Blood Cells][] (or [erythrocytes][], or RBCs) which lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body. They lack mitochondria and generate ATP through anaerobic respiration.
+* [Platelets][] (or [thrombocytes][]) which lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][]. They lack mitochondria and generate ATP through anaerobic respiration.
+* [White Blood Cells][] (or [leukocytes][], or WBCs) which make up the immune system. [Lymphocytes][] are leukyoctes found predominantly in lymph.
 
 #### Innate Immune System
 
@@ -1683,6 +1666,29 @@ An [inflammatory response][] (inflammation) is a cascade in response to injury o
 #### Adaptive Immune System
 
 [Some animals][animal adaptive immune system] include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
+
+The tree of specialized hematopoietic stem cells is:
+
+* Erythroid: This cell type may further specialize into:
+  * [Erythroblasts][]: These create erythrocytes.
+  * [Megakaryocytes][]: These create platelets.
+* Myeloid: This cell type may further specialize into:
+  * A granulocyte-macrophage progenitor cell which may further specialize into:
+    * A [Neutrophil cell][] which is a leukocyte attracted by signals from infected tissues.
+    * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders.
+    * A Basophil cell.
+    * A macrophage and dendritic cell precursor which may further specialize into:
+      * A Monocyte, which may further specialize into:
+        * A [Macrophage][] which is a leukocytes that either patrols by circulating throughout the blood or stays in one tissue to monitor for pathogens. Macrophages release cytokines which attract neutrophils.
+        * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
+  * A [Mast cell][] which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
+* Lymphoid (lymphocytes). This cell type may further specialize into:
+  * A B cell. A B cell may further specializ into:
+    * A Plasma cell.
+  * A precursor cell which may further specialize into:
+    * A [Natural Killer cell][] which is a leukocyte that circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
+    * A T cell. A T cell may further specialize into:
+      * An Effector T cell.
 
 Leukocytes are effector cells similar to effector cells in the innate immune system except that leukocytes have cell-surface receptors for a specific pathogen, rather than a class of pathogens. These cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
 
