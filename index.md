@@ -1641,8 +1641,8 @@ Blood cells ([hematopoietic cells][]) are secreted in the bone marrow (before bi
 Hematopoietic stem cells may divide to create further hematopoietic stem cells in a process called [stem cell self-renewal][], or hematopoietic stem cells may specialize into one of three main cell types:
 
 * [Red Blood Cells][] (or [erythrocytes][], or RBCs) which lack a nucleus and most organelles and deliver O<sub>2</sub> to cells in the body. They lack mitochondria and generate ATP through anaerobic respiration.
-* [Platelets][] (or [thrombocytes][]) which lack a nucleus and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][]. They lack mitochondria and generate ATP through anaerobic respiration.
-* [White Blood Cells][] (or [leukocytes][], or WBCs) which make up the immune system. [Lymphocytes][] are leukyoctes found predominantly in lymph.
+* [Platelets][] (or [thrombocytes][]) which are small packets of cytoplasm, lack a nucleus, and help with forming blood clots in response to injury. A blood clot that blocks the flow of blood in a vessel is called a [thrombus][]. They lack mitochondria and generate ATP through anaerobic respiration.
+* [White Blood Cells][] (or [leukocytes][], or WBCs) which make up the immune system.
 
 #### Innate Immune System
 
@@ -1652,7 +1652,7 @@ The innate immune system detects pre-defined pathogens using soluble proteins an
 
 1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
     1. TLR3 recognizes double-stranded RNA produced by some viruses.
-    1. TLR4 recognizes lipopolysaccharides on the surface of some bacteria.
+    1. TLR4 recognizes lipopolysaccharides on the surface of Gram<sup>-</sup> bacteria or Lipotechoic acid on Gram<sup>+</sup> bacteria.
     1. TLR5 recognizes the flagellin protein on bacterial flagella.
 1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
 1. The broken down products are released through exocytosis.
@@ -1665,16 +1665,18 @@ An [inflammatory response][] (inflammation) is a cascade in response to injury o
 
 #### Adaptive Immune System
 
-[Some animals][animal adaptive immune system] include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
+[Some vertebrate animals][animal adaptive immune system] include an [adaptive immune system][] (or acquired immune system or specific immune system) which is a subset of the immune system that uses specialized cells to save memories of its response to a pathogen for similar future pathogens.
+
+#### Immune System Specialization
 
 The tree of specialized hematopoietic stem cells is:
 
 * Erythroid: This cell type may further specialize into:
-  * [Erythroblasts][]: These create erythrocytes.
-  * [Megakaryocytes][]: These create platelets.
-* Myeloid: This cell type may further specialize into:
-  * A granulocyte-macrophage progenitor cell which may further specialize into:
-    * A [Neutrophil cell][] which is a leukocyte attracted by signals from infected tissues.
+  * [Erythroblasts][]: These cells create erythrocytes.
+  * [Megakaryocytes][]: Cells with chromosomes from multiple nuclei arising from the fusion of multiple precursor cells. Megakaryocytes create platelets.
+* Myeloid (leukocytes): This cell type may further specialize into:
+  * [Granulocytes][] (or polymorphonuclear leukyocytes): Cells in the innate immune system containing reactive substances that kill microorganisms and increase inflammation. These cells may further specialize into:
+    * A [Neutrophil cell][] which is a phagocytic leukocyte effector cell in the attracted by signals from infected tissues and captures, engulfs and kills microorganisms. Neutrophils die at the site of infection and are the main constituent of [pus][].
     * An [Eosinophil cell][] which is a leukocyte that targets multicellular invaders.
     * A Basophil cell.
     * A macrophage and dendritic cell precursor which may further specialize into:
@@ -1682,17 +1684,15 @@ The tree of specialized hematopoietic stem cells is:
         * A [Macrophage][] which is a leukocytes that either patrols by circulating throughout the blood or stays in one tissue to monitor for pathogens. Macrophages release cytokines which attract neutrophils.
         * A [Dentritic cell][] which populates tissues such as skin and migrates to lymph nodes after interacting with pathogens to stimulate the adaptive immune system.
   * A [Mast cell][] which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
-* Lymphoid (lymphocytes). This cell type may further specialize into:
-  * A B cell. A B cell may further specializ into:
+* Lymphoid (lymphocytes). [Lymphocytes][] are leukyoctes found predominantly in lymph. This cell type may further specialize into:
+  * A B cell. A B cell may further specialize into:
     * A Plasma cell.
   * A precursor cell which may further specialize into:
     * A [Natural Killer cell][] which is a leukocyte that circulates throughout the blood and lymph patrolling for virus-infected and cancerous cells. Instead of phagocytosis, natural killer cells release chemicals that cause cell death.
     * A T cell. A T cell may further specialize into:
       * An Effector T cell.
 
-Leukocytes are effector cells similar to effector cells in the innate immune system except that leukocytes have cell-surface receptors for a specific pathogen, rather than a class of pathogens. These cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
-
-[Interferons][] are proteins that interfere with virus-infected cells. Virus-infected cells themselves secrete interferons that inhibit viral replication. Some white blood cells secrete interferons that help activate macrophages.
+Myeloid cells are effector cells that have cell-surface receptors for a specific pathogen, rather than a class of pathogens like lymphoid cells. Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate billions of different receptors.
 
 [Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells which are both lymphocytes. B or T cells bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of antigen receptor. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
 
@@ -1721,6 +1721,8 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 [Vaccines][] are injections of antigens (often without an activated pathogen) which stimulate the primary immune response and confer active immunity.
 
 [Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
+
+[Interferons][] are proteins that interfere with virus-infected cells. Virus-infected cells themselves secrete interferons that inhibit viral replication. Some white blood cells secrete interferons that help activate macrophages.
 
 #### Fungi
 
@@ -3630,6 +3632,7 @@ if (elements.length) {
 [gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
+[granulocytes]: https://en.wikipedia.org/wiki/Granulocyte
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
 [gravitropism]: https://en.wikipedia.org/wiki/Gravitropism
 [gravity]: https://en.wikipedia.org/wiki/Gravity
@@ -4394,6 +4397,7 @@ if (elements.length) {
 [pupal]: https://en.wikipedia.org/wiki/Pupal
 [pupil]: https://en.wikipedia.org/wiki/Pupil
 [purines]: https://en.wikipedia.org/wiki/Purine
+[pus]: https://en.wikipedia.org/wiki/Pus
 [pycnocline]: https://en.wikipedia.org/wiki/Pycnocline
 [pyranoses]: https://en.wikipedia.org/wiki/Pyranose
 [pyrimidine dimer]: https://en.wikipedia.org/wiki/Pyrimidine_dimer
