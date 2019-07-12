@@ -1095,7 +1095,7 @@ An [Electron Transport Chain][] uses redox reactions to pass electrons through a
 
 #### Cellular Respiration
 
-[Cellular respiration][] is the process of catabolizing chemical bonds in substances such as carbohydrates, lipids, and proteins using enzymes and transferring the energy to ATP (and heat) through redox reactions. Aerobic respiration uses Oxygen as the oxidizing reagent, and Anaerobic respiration uses another chemical.
+[Cellular respiration][] is the process of catabolizing chemical bonds in substances such as carbohydrates, lipids, and proteins using enzymes and transferring the energy to ATP (and heat) through redox reactions. [Aerobic respiration][] uses Oxygen as the oxidizing reagent, and [Anaerobic respiration][] uses another chemical.
 
 #### Glycolysis
 
@@ -1600,17 +1600,24 @@ Examples of poisons:
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular, eukaryotic, heterotrophic, motile organisms with specialized sense organs. [Animal cells][] do not have cell walls like plants and fungi.
-
-Animals may be [coelomates][] when they have fluid- or air-filled cavities between the outer layer of the digestive tract and the outer skin. [Acoelomates][] have coelems formed by mesoderm but it is fully filled with tissue.
+[Animals][] are a kingdom of multicellular, eukaryotic, aerobic, heterotrophic organisms that reproduce sexually, do not have cell walls (as in plants and fungi), and have specialized cells. Key species that represent known evolutionary advances are:
 
 Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
 
 [Cephalization][] is when an animal has a head, usually with a brain.
 
-Animals are split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
+* The ancestors of [Sponges][] (<i>Porifera</i>) are thought to be the first animals. Sponges are filter feeders, meaning they filter suspended food particles from surrounding water.
+* The ancestors of [Jellyfish][] and [Sea Anemones][] (<i>[Cnidaria][]</i>) are thought to be the first animals with muscles, were motile (meaning they can move), had the first tissues, were the first active predators, and had the first nervous system.
+* The ancestors of [Flatworms][] (<i>Platyhelminthes</i>) are thought to be the first animals to have bilateral symmetry, a head, forward directed motion, and the first animals to be [triploblastic][] (a third cellular layer in during development).
+* The ancestors of [Snails][], [Clams][], and [Octopus][] (<i>[Mollusca][]</i>) are thought to be the first animals to have a shell, an adaptable body plan, dynamic camoflauge, and water jet propulsion.
+* The ancestors of Segmented Roundworms (<i>[Annelida][]</i>) are thought to be the first animals to have [segmentation][] (repetitive body segments), [parapodia][] (fleshy protrusions), and a [cuticle][] (non-mineral outer covering).
+* The ancestors of [Crustaceans][], [Barnacles][], and [Sea Spiders][] (<i>[Arthropoda][]</i>) are thought to be the first animals to live on land, fly, have striated muscles, have joints, and have hemolymph.
+* The ancestors of [Starfish][], [Urchins][], and [Sea Cucumbers][] (<i>[Echinodermata][]</i>) are thought to be the first animals to have an endoskeleton, protective spiny skin, and radial symmetry.
+* The ancestors of [Tunicates][] (<i>[Chordata][]</i>) are thought to be the first animals to have a [notochord][], [dorsal nerve cord][], post-anal tail, and pharyngeal [gill splits][].
 
-The ancestors of [Sponges][] were the first animals. Sponges are filter feeders, meaning they filter suspended food particles from surrounding water.
+Animals may be [coelomates][] when they have fluid- or air-filled cavities between the outer layer of the digestive tract and the outer skin. [Acoelomates][] have coelems formed by mesoderm but it is fully filled with tissue.
+
+Animals are split into vertebrates (with backbone) and invertebrates (without backbone and with an exoskeleton).
 
 [Herbivores][] are animals that eat mostly plants or algae. [Carnivores][] are animals that eat mostly other animals. [Omnivores][] are animals that eat plants, algae, and/or other animals.
 
@@ -1767,7 +1774,7 @@ Plant [leaves][] are organs that project from branches and perform photosynthesi
 
 Everything in cytosol in all the cells and the plasmodesmata is called the [symplast][]. Everything that's living in the cell, including the plasma membrane, is called the [protoplast][] which is a superset of the symplast. Everything external to the cell membranes is called the [apoplast][].
 
-Covering the epidermis, plants have a [cuticle][] which is made of wax and other polymers to prevent excessive water loss.
+Covering the epidermis, plants have a cuticle which is made of wax and other polymers to prevent excessive water loss.
 
 Plant sporophytes have organs called [sporangia][] that produce spores from diploid cells called [sporocytes][]. Leaves that have sporangia are called [sporophylls][] (groups of which may be called sori or strobili). [Homosporous][] plants have one type of sporophyll that produces a bisexual gametophyte whereas [heterosporous][] plants are split into those that produce female versus male gametophytes ([megasporangia][] and [microsporangia][], respectively). Heterosporous seeded plants have tissues called [integument][] that protects their megasporangium with the whole structure called the [ovule][]. A microsporangium produces a microspore which develops into [pollen][] that includes the gametophyte and an enclosure. The transfer of pollen to the ovule is called [pollination][].
 
@@ -2294,9 +2301,7 @@ Appetite is the feeling of hunger or the opposite of hunger, satiety. The hormon
 
 Most animals are [invertebrates][] which are animals that do not have a backbone and secrete an [exoskeleton][] made of Calcium Carbonate and Chitin.
 
-[Arthropods][] are invertebrates with a segmented body, exoskeleton, and jointed appendages (e.g. antennae, pincers, legs, etc.).
-
-[Insects][] are six-legged (hexapod) invertebrates, many of which can fly without sacrificing walking legs. Many insects undergo metamorphosis. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
+[Insects][] are six-legged (hexapod) arthropods, many of which can fly without sacrificing walking legs. Many insects undergo metamorphosis. In [holometabolism][] (or complete metamorphosis), organisms first have a [larval][] stage (e.g caterpillar, maggot, grub) specialized for eating and growing, followed by a [pupal][] stage specialized for reproduction and dispersal. In [hemimetabolism][] (or incomplete metamorphosis), young organisms look like adult organisms, but go through various stages of [molting][].
 
 #### Vertebrates
 
@@ -2662,8 +2667,6 @@ The [geological record][] is an analysis of strata and fossils to date different
 
 ### Noteworthy
 
-[Echinoderms][] are a phylum of marine animals with a five-point symmetry including sea stars, sea urchins, sand dollars, sea cucumbers, and sea lillies.
-
 [Seabirds][] (or Marine Birds) have [Supraorbital Glands][] (or Salt Glands) near the nose which secrete excess salt from consumed seawater.
 
 [Ferns][] are vascular but seedless plants with an independent gametophyte generation (meaning the gametophyte can live independently of the parent sporophyte, unlike seed-based vascalar plants that have a dependent gametophyte generation).
@@ -2860,6 +2863,7 @@ if (elements.length) {
 [adipose tissue]: https://en.wikipedia.org/wiki/Adipose_tissue
 [adrenal glands]: https://en.wikipedia.org/wiki/Adrenal_gland
 [adrenaline]: https://en.wikipedia.org/wiki/Adrenaline
+[aerobic respiration]: https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [albumin]: https://en.wikipedia.org/wiki/Albumin
@@ -2914,6 +2918,7 @@ if (elements.length) {
 [amygdala]: https://en.wikipedia.org/wiki/Amygdala
 [amylopectin]: https://en.wikipedia.org/wiki/Amylopectin
 [amylose]: https://en.wikipedia.org/wiki/Amylose
+[anaerobic respiration]: https://en.wikipedia.org/wiki/Cellular_respiration#Anaerobic_respiration
 [anabolism]: https://en.wikipedia.org/wiki/Anabolism
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [anatomy]: https://en.wikipedia.org/wiki/Anatomy
@@ -2923,9 +2928,9 @@ if (elements.length) {
 [angiosperms]: https://en.wikipedia.org/wiki/Flowering_plant
 [anhydrobiosis]: https://en.wikipedia.org/wiki/Cryptobiosis#Anhydrobiosis
 [animal adaptive immune system]: https://www.ncbi.nlm.nih.gov/books/NBK27108/
-[animal cells]: https://en.wikipedia.org/wiki/Eukaryote#Animal_cell
 [animals]: https://en.wikipedia.org/wiki/Animal
 [anisogomous]: https://en.wikipedia.org/wiki/Anisogamy
+[annelida]: https://en.wikipedia.org/wiki/Annelid
 [antarctic circle]: https://en.wikipedia.org/wiki/Antarctic_Circle
 [anterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [anther]: https://en.wikipedia.org/wiki/Stamen#Morphology_and_terminology
@@ -2967,7 +2972,7 @@ if (elements.length) {
 [arteries]: https://en.wikipedia.org/wiki/Artery
 [arterioles]: https://en.wikipedia.org/wiki/Arteriole
 [arteriosclerosis]: https://en.wikipedia.org/wiki/Arteriosclerosis
-[arthropods]: https://en.wikipedia.org/wiki/Arthropods
+[arthropoda]: https://en.wikipedia.org/wiki/Arthropod
 [artifical selection]: https://en.wikipedia.org/wiki/Selective_breeding
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
@@ -3017,6 +3022,7 @@ if (elements.length) {
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [balance]: https://en.wikipedia.org/wiki/Sense_of_balance
 [bark]: https://en.wikipedia.org/wiki/Bark_(botany)
+[barnacles]: https://en.wikipedia.org/wiki/Barnacle
 [barr body]: https://en.wikipedia.org/wiki/Barr_body
 [barrier reef]: https://en.wikipedia.org/wiki/Coral_reef#Barrier_reef
 [basal body]: https://en.wikipedia.org/wiki/Basal_body
@@ -3163,7 +3169,7 @@ if (elements.length) {
 [chlorophyll]: https://en.wikipedia.org/wiki/Chlorophyll
 [chloroplasts]: https://en.wikipedia.org/wiki/Chloroplast
 [cholesterol]: https://en.wikipedia.org/wiki/Cholesterol
-[chordates]: https://en.wikipedia.org/wiki/Chordate
+[chordata]: https://en.wikipedia.org/wiki/Chordate
 [chorion]: https://en.wikipedia.org/wiki/Chorion
 [chorionic villi]: https://en.wikipedia.org/wiki/Chorionic_villi
 [chorionic villus sampling]: https://en.wikipedia.org/wiki/Chorionic_villus_sampling
@@ -3187,6 +3193,7 @@ if (elements.length) {
 [citrate]: https://en.wikipedia.org/wiki/Citric_acid
 [citric acid cycle]: https://en.wikipedia.org/wiki/Citric_acid_cycle
 [clade]: https://en.wikipedia.org/wiki/Clade
+[clams]: https://en.wikipedia.org/wiki/Clam
 [class i mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_I
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
 [classes]: https://en.wikipedia.org/wiki/Class_(biology)
@@ -3196,6 +3203,7 @@ if (elements.length) {
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
 [clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
+[cnidaria]: https://en.wikipedia.org/wiki/Cnidaria
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
 [co2 acidic]: https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
@@ -3274,6 +3282,7 @@ if (elements.length) {
 [creutzfeldt-jakob disease]: https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
+[crustaceans]: https://en.wikipedia.org/wiki/Crustacean
 [culture]: https://en.wikipedia.org/wiki/Culture
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
 [cyanide]: https://en.wikipedia.org/wiki/Cyanide
@@ -3352,6 +3361,7 @@ if (elements.length) {
 [dna mismatch repair]: https://en.wikipedia.org/wiki/DNA_mismatch_repair
 [dna sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#DNA_sense
 [dna transposons]: https://en.wikipedia.org/wiki/DNA_transposon
+[dorsal nerve cord]: https://en.wikipedia.org/wiki/Dorsal_nerve_cord
 [downwelling]: https://en.wikipedia.org/wiki/Downwelling
 [dsrna]: https://en.wikipedia.org/wiki/RNA#Double-stranded_RNA
 [ductile]: https://en.wikipedia.org/wiki/Ductility
@@ -3369,7 +3379,7 @@ if (elements.length) {
 [earth's mantle]: https://en.wikipedia.org/wiki/Mantle_(geology)#Earth's_mantle
 [earth's orbit]: https://en.wikipedia.org/wiki/Earth%27s_orbit
 [earth's outer core]: https://en.wikipedia.org/wiki/Earth%27s_outer_core
-[echinoderms]: https://en.wikipedia.org/wiki/Echinoderm
+[echinodermata]: https://en.wikipedia.org/wiki/Echinoderm
 [ecliptic]: https://en.wikipedia.org/wiki/Ecliptic
 [ecological succession]: https://en.wikipedia.org/wiki/Ecological_succession
 [ecology]: https://en.wikipedia.org/wiki/Ecology
@@ -3536,6 +3546,7 @@ if (elements.length) {
 [fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
 [flagella]: https://en.wikipedia.org/wiki/Flagella
+[flatworms]: https://en.wikipedia.org/wiki/Flatworm
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [flower]: https://en.wikipedia.org/wiki/Flower
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
@@ -3611,6 +3622,7 @@ if (elements.length) {
 [ghrelin]: https://en.wikipedia.org/wiki/Ghrelin
 [gibberellins]: https://en.wikipedia.org/wiki/Gibberellin
 [gibbs free energy]: https://en.wikipedia.org/wiki/Gibbs_free_energy
+[gill splits]: https://en.wikipedia.org/wiki/Pharyngeal_slit
 [gills]: https://en.wikipedia.org/wiki/Gill
 [glands]: https://en.wikipedia.org/wiki/Gland
 [glial cells]: https://en.wikipedia.org/wiki/Neuroglia
@@ -3826,6 +3838,7 @@ if (elements.length) {
 [ite suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [iteroparity]: https://en.wikipedia.org/wiki/Semelparity_and_iteroparity
 [jasmonates]: https://en.wikipedia.org/wiki/Jasmonate
+[jellyfish]: https://en.wikipedia.org/wiki/Jellyfish
 [jejunum]: https://en.wikipedia.org/wiki/Jejunum
 [joules]: https://en.wikipedia.org/wiki/Joule
 [juxtaglomerular apparatus]: https://en.wikipedia.org/wiki/Juxtaglomerular_apparatus
@@ -4031,6 +4044,7 @@ if (elements.length) {
 [molecular mass]: https://en.wikipedia.org/wiki/Molecular_mass
 [molecule]: https://en.wikipedia.org/wiki/Molecule
 [molecule stability]: https://en.wikipedia.org/wiki/Energy_level#Molecules
+[mollusca]: https://en.wikipedia.org/wiki/Mollusca
 [molting]: https://en.wikipedia.org/wiki/Moulting
 [momentum]: https://en.wikipedia.org/wiki/Momentum
 [monkeys]: https://en.wikipedia.org/wiki/Monkey
@@ -4047,6 +4061,7 @@ if (elements.length) {
 [morula]: https://en.wikipedia.org/wiki/Morula
 [mosaicism]: https://en.wikipedia.org/wiki/Mosaic_(genetics)
 [mosses]: https://en.wikipedia.org/wiki/Moss
+[motile]: https://en.wikipedia.org/wiki/Motility
 [motor control]: https://en.wikipedia.org/wiki/Motor_control
 [motor proteins]: https://en.wikipedia.org/wiki/Motor_protein
 [motor system]: https://en.wikipedia.org/wiki/Motor_system
@@ -4119,6 +4134,7 @@ if (elements.length) {
 [northern blot]: https://en.wikipedia.org/wiki/Northern_blot
 [northern coniferous forest]: https://en.wikipedia.org/wiki/Taiga
 [northern hemisphere]: https://en.wikipedia.org/wiki/Northern_Hemisphere
+[notochord]: https://en.wikipedia.org/wiki/Notochord
 [nuclear fusion]: https://en.wikipedia.org/wiki/Thermonuclear_fusion
 [nuclear lamina]: https://en.wikipedia.org/wiki/Nuclear_lamina
 [nuclease]: https://en.wikipedia.org/wiki/Nuclease
@@ -4148,6 +4164,7 @@ if (elements.length) {
 [oceanic pelagic zone]: https://en.wikipedia.org/wiki/Ocean#Oceanic_zones
 [oceanography]: https://en.m.wikipedia.org/wiki/Oceanography
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
+[octopus]: https://en.wikipedia.org/wiki/Octopus
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
 [olfaction]: https://en.wikipedia.org/wiki/Olfaction
@@ -4215,6 +4232,7 @@ if (elements.length) {
 [parallel]: https://en.wikipedia.org/wiki/Parallel_(geometry)
 [paralogous]: https://en.wikipedia.org/wiki/Sequence_homology#Paralogy
 [paraphyletic group]: https://en.wikipedia.org/wiki/Paraphyly
+[parapodia]: https://en.wikipedia.org/wiki/Parapodium
 [parasite]: https://en.wikipedia.org/wiki/Parasitism
 [parasitism]: https://en.wikipedia.org/wiki/Parasitism
 [parasympathetic nervous system]: https://en.wikipedia.org/wiki/Parasympathetic_nervous_system
@@ -4503,7 +4521,10 @@ if (elements.length) {
 [sclerenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Sclerenchyma
 [scrapie]: https://en.wikipedia.org/wiki/Scrapie
 [sds]: https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate
+[sea anemones]: https://en.wikipedia.org/wiki/Sea_anemone
+[sea cucumbers]: https://en.wikipedia.org/wiki/Sea_cucumber
 [sea level]: https://en.wikipedia.org/wiki/Sea_level
+[sea spiders]: https://en.wikipedia.org/wiki/Sea_spider
 [seabirds]: https://en.wikipedia.org/wiki/Seabird
 [seamount]: https://en.wikipedia.org/wiki/Seamount
 [seasons]: https://en.wikipedia.org/wiki/Season
@@ -4513,6 +4534,7 @@ if (elements.length) {
 [secondary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Secondary_structure
 [secretin]: https://en.wikipedia.org/wiki/Secretin
 [seeds]: https://en.wikipedia.org/wiki/Seed
+[segmentation]: https://en.wikipedia.org/wiki/Segmentation_(biology)
 [semelparity]: https://en.wikipedia.org/wiki/Semelparity_and_iteroparity
 [semilunar valves]: https://en.wikipedia.org/wiki/Heart_valve
 [seminiferous tubules]: https://en.wikipedia.org/wiki/Seminiferous_tubule
@@ -4558,6 +4580,7 @@ if (elements.length) {
 [small intestine]: https://en.wikipedia.org/wiki/Small_intestine
 [smell]: https://en.wikipedia.org/wiki/Olfaction
 [smooth muscle]: https://en.wikipedia.org/wiki/Smooth_muscle
+[snails]: https://en.wikipedia.org/wiki/Snail
 [snrna]: https://en.wikipedia.org/wiki/Small_nuclear_RNA
 [social learning]: https://en.wikipedia.org/wiki/Observational_learning
 [sodium-potassium pump]: https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase
@@ -4600,6 +4623,7 @@ if (elements.length) {
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
+[starfish]: https://en.wikipedia.org/wiki/Starfish
 [state of matter]: https://en.wikipedia.org/wiki/State_of_matter
 [statocysts]: https://en.wikipedia.org/wiki/Statocyst
 [stator]: https://en.wikipedia.org/wiki/Stator
@@ -4763,6 +4787,7 @@ if (elements.length) {
 [trimers]: https://en.wikipedia.org/wiki/Trimer_(chemistry)
 [triple alpha process]: https://en.wikipedia.org/wiki/Triple-alpha_process
 [triple point]: https://en.wikipedia.org/wiki/Triple_point
+[triploblastic]: https://en.wikipedia.org/wiki/Triploblasty
 [trisomic]: https://en.wikipedia.org/wiki/Aneuploidy#Terminology
 [trivial name]: https://en.wikipedia.org/wiki/Trivial_name
 [trna]: https://en.wikipedia.org/wiki/Transfer_RNA
@@ -4781,6 +4806,7 @@ if (elements.length) {
 [tubulin]: https://en.wikipedia.org/wiki/Tubulin
 [tumor-suppressor genes]: https://en.wikipedia.org/wiki/Tumor_suppressor
 [tundra]: https://en.wikipedia.org/wiki/Tundra
+[tunicates]: https://en.wikipedia.org/wiki/Tunicate
 [turbidity currents]: https://en.wikipedia.org/wiki/Turbidity_current
 [turgor pressure]: https://en.wikipedia.org/wiki/Turgor_pressure
 [tympanic membrane]: https://en.wikipedia.org/wiki/Eardrum
@@ -4795,6 +4821,7 @@ if (elements.length) {
 [unspecified stereochemistry]: https://en.wikipedia.org/wiki/Structural_formula#Unspecified_stereochemistry
 [untranslated regions]: https://en.wikipedia.org/wiki/Untranslated_region
 [upwelling]: https://en.wikipedia.org/wiki/Upwelling
+[urchins]: https://en.wikipedia.org/wiki/Sea_urchin
 [urea]: https://en.wikipedia.org/wiki/Urea
 [ureter]: https://en.wikipedia.org/wiki/Ureter
 [uric acid]: https://en.wikipedia.org/wiki/Uric_acid
