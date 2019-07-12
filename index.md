@@ -1600,11 +1600,13 @@ Examples of poisons:
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular, eukaryotic, aerobic, heterotrophic organisms that reproduce sexually, do not have cell walls (as in plants and fungi), and have specialized cells. Key species that represent known evolutionary advances are:
+[Animals][] are a kingdom of multicellular, eukaryotic, aerobic, heterotrophic organisms that reproduce sexually, do not have cell walls (as in plants and fungi), and have specialized cells.
 
 Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
 
 [Cephalization][] is when an animal has a head, usually with a brain.
+
+Key species that represent known evolutionary advances are:
 
 * The ancestors of [Sponges][] (<i>Porifera</i>) are thought to be the first animals. Sponges are filter feeders, meaning they filter suspended food particles from surrounding water.
 * The ancestors of [Jellyfish][] and [Sea Anemones][] (<i>[Cnidaria][]</i>) are thought to be the first animals with muscles, were motile (meaning they can move), had the first tissues, were the first active predators, and had the first nervous system.
