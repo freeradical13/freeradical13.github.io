@@ -1608,10 +1608,10 @@ Some animals are [bilaterians][] which have a two-sided symmetry and a digestive
 
 Key species that represent known evolutionary advances are:
 
-* The ancestors of [Sponges][] (<i>Porifera</i>) are thought to be the first animals. Sponges are filter feeders, meaning they filter suspended food particles from surrounding water.
-* The ancestors of [Jellyfish][] and [Sea Anemones][] (<i>[Cnidaria][]</i>) are thought to be the first animals with muscles, were motile (meaning they can move), had the first tissues, were the first active predators, and had the first nervous system.
-* The ancestors of [Flatworms][] (<i>Platyhelminthes</i>) are thought to be the first animals to have bilateral symmetry, a head, forward directed motion, and the first animals to be [triploblastic][] (a third cellular layer in during development).
-* The ancestors of [Snails][], [Clams][], and [Octopus][] (<i>[Mollusca][]</i>) are thought to be the first animals to have a shell, an adaptable body plan, dynamic camoflauge, and water jet propulsion.
+* The ancestors of [Sponges][] (<i>Porifera</i>) are thought to be the first animals introducing multicellularity, sexual reproduction (atlhough as hermaphrodites), and cellular communication. Sponges are [suspension feeders][] (or filter feeders) eating organisms as they pass by.
+* The ancestors of [Jellyfish][] and [Sea Anemones][] (<i>[Cnidaria][]</i>) are thought to be the first animals with muscles, were [motile][] (meaning they can move), had the first true tissues and organs, were the first active predators, and had the first nervous system.
+* The ancestors of [Flatworms][] (<i>Platyhelminthes</i>) are thought to be the first animals to have bilateral symmetry, a head, a complex brain, organs like kidneys, forward directed motion, and the first animals to be [triploblastic][] (a third cellular layer in during development).
+* The ancestors of [Snails][], [Clams][], and [Octopus][] (<i>[Mollusca][]</i>) are thought to be the first animals to have a shell, an adaptable body plan, a circulatory system, dynamic camoflauge, and water jet propulsion.
 * The ancestors of Segmented Roundworms (<i>[Annelida][]</i>) are thought to be the first animals to have [segmentation][] (repetitive body segments), [parapodia][] (fleshy protrusions), and a [cuticle][] (non-mineral outer covering).
 * The ancestors of [Crustaceans][], [Barnacles][], and [Sea Spiders][] (<i>[Arthropoda][]</i>) are thought to be the first animals to live on land, fly, have striated muscles, have joints, and have hemolymph.
 * The ancestors of [Starfish][], [Urchins][], and [Sea Cucumbers][] (<i>[Echinodermata][]</i>) are thought to be the first animals to have an endoskeleton, protective spiny skin, and radial symmetry.
@@ -2597,7 +2597,7 @@ There are five major oceans: the [Pacific Ocean][], the [Atlantic Ocean][], the 
 
 In the northern hemisphere, air around a high pressure area moves clockwise, and air around a low pressure area moves counterclockwise. A [hurricane][] (or cyclone or typhoon) is a large, low-pressure area in the tropics moving west with the trade winds with strong winds and rains which devlop by picking up energy from warm water and surface winds feed moisture into the storm. The power of a hurricane comes from the latent heat of condensation as water vapor condenses into rain.
 
-The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which live on, in, or attached to the sea floor and eat dead organic matter called [Detritus][] falling down from above, or they are [suspension feeders][] (or filter feeders) eating organisms as they pass by, or they eat other organisms in the benthos.
+The [Benthic Zone][] is the area where water reaches underlying land, and organisms in this zone are called [Benthos][] which live on, in, or attached to the sea floor and eat dead organic matter called [Detritus][] falling down from above, or they are suspension feeders, or they eat other organisms in the benthos.
 
 The [Hadal Zone][] is the area of ocean below 6km in deep ocean trenches.
 
