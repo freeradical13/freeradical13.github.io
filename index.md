@@ -2777,13 +2777,13 @@ A [light microscope][] focuses light through a substance which refracts through 
 
 A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
 
-A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [aperture][] controls how much light is emitted.
+A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [condenser][] focuses light onto the stage. The [aperture][] controls how much light is emitted.
 
 A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
 
 The lenses of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
 
-When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
+When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), increase the aperture to turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. When increasing magnification, consider reducing the aperture to increase light intensity. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
 
 One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
 
@@ -3349,6 +3349,7 @@ if (elements.length) {
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation]: https://en.wikipedia.org/wiki/Condensation
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
+[condenser]: https://en.wikipedia.org/wiki/Condenser_(optics)
 [cone cells]: https://en.wikipedia.org/wiki/Cone_cell
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conidiophore]: https://en.wikipedia.org/wiki/Conidium
