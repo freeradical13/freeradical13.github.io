@@ -1445,7 +1445,7 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
@@ -1461,11 +1461,11 @@ If cells remain attached after binary fission, if there are two, the prefix dipl
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides (LPS) outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
+[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication and may help with attachment.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
-A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
+A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red. Both Gram-positive and Gram-negative bacteria may have a capsule. The outer membrane is only found in Gram-negative bacteria.
 
 [Bacterial Flagella][] use a motor, hook, and filament.
 
@@ -1503,7 +1503,7 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 
 ### Eukaryotes
 
-[Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes.
+[Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes. In general, eukaryotes are approximately 10-100 microns in diameter.
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
@@ -2487,11 +2487,11 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively. Viruses are generally about 10 - 300nm in diameter.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
-A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell. An enveloped virus uses exocytosis to pick up the plasme membrane from the cell to use as its envelope.
+A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell. An enveloped virus uses exocytosis to pick up the plasma membrane from the cell to use as its envelope.
 
 Types of viruses:
 
