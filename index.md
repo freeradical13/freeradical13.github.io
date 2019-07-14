@@ -1738,7 +1738,7 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi. Some fungi have DNA plasmids.
 
 Most fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
