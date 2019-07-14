@@ -1461,7 +1461,7 @@ If cells remain attached after binary fission, if there are two, the prefix dipl
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides (LPS), and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
+[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides (LPS) outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
@@ -1623,7 +1623,7 @@ Some epithelial cells have fatty or lactic acids that inhibit bacterial growth, 
 
 The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
-A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system.
+A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system. A [syndrome][] is a collection of diseases.
 
 An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
 
@@ -1788,7 +1788,7 @@ B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V
 
 As B and T cells mature in the bone marrow or thymus, respectively, antigen receptors are tested for self-reactivity and destroyed through apoptosis if they would attack host cells.
 
-Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This adaptive immune system process is called [clonal selection][] and clonal expansion which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about a week or two after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. The remaining, non-effector cells are called [memory cells][].
+Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This adaptive immune system process is called [clonal selection][] and clonal expansion which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about a week or two after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. When an infection dies down, some of the remaining effector cells survive apoptosis and remain as [memory cells][] in case the same infection returns.
 
 B and T lymphocytes may move throughout both blood and lymph. Mature lymphocytes enter the blood and then drain into lymph and finally lymph nodes. If a lymphocyte is activated, it remains in the lymph node.
 
@@ -2313,9 +2313,9 @@ The ileum connects to the [large intestine][] (including the colon, cecum, and r
 
 [Diarrhea][] is a condition where a human has  at least three loose, liquid, or watery bowel movements per day. Diarrhea may cause [dehydration][] (excessive water loss).
 
-The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help digest food and produce vitamins. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called [colicins][] that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][].
+The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help digest food and produce vitamins. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called [colicins][] and [bacteriocin][] that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][]. There is little Oxygen after the first few inches of the gut, so any remaining bactera are anaerobic.
 
-The average human has about 1000 species of bacteria living in the gut, particularly because it's a sort of constant food.
+The average human has about 1000 species of bacteria living in the gut, particularly because it's a sort of constant food. Approximately half of the dry weight of feces is commensal bacteria (10<sup>11</sup> bacteria per gram).
 
 ##### Bile Acid
 
@@ -2487,26 +2487,26 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively.
-
-Glycoproteins on the capsid or viral envelope (sometimes called spikes or attachment fibers) help to bind with surface proteins on a target cell and inject their material through receptor-mediated endocytosis.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
-A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell.
+A [lytic virus][] causes a cell to ultimately burst and die, whereas a [lysogenic virus][] replicates the virus without destroying the cell. An enveloped virus uses exocytosis to pick up the plasme membrane from the cell to use as its envelope.
 
 Types of viruses:
 
 * Type I: Double-Stranded DNA (dsDNA)
 * Type II: Single-Stranded DNA (ssDNA)
 * Type III: Double-Stranded RNA (dsRNA)
-* Type IV: Single-Stranded RNA (ssRNA) which serves as mRNA
-* Type V: Single-Stranded RNA (ssRNA) which serves as a template for mRNA
-* Type VI (e.g. [Retrovirus][]): Single-Stranded RNA (ssRNA) which serves as a template for DNA
+* Type IV: Positive-strand Single-Stranded RNA (ssRNA) which serves as mRNA
+* Type V: Negative-strand Single-Stranded RNA (ssRNA) which uses a polymerase (packaged with the virus) to create the positive-strand ssRNA that serves as mRNA
+* Type VI (e.g. [Retrovirus][]): Single-Stranded RNA (ssRNA) which uses reverse transcriptase to create dsDNA
+
+DNA viruses tend to evolve more slowly because of DNA proof-reading, whereas RNA viruses tend to be more adaptable because of replication mistakes ([antigenic drift][]).
 
 Examples of viruses:
 
-* [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope to bind to [Sialic Acid][] sugars on the surface of epithelial cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
+* [Influenza virus][] (causes the flu): Lytic virus that uses [Hemagglutinin][] glycoproteins on the viral envelope (attachment spikes) to bind to [Sialic Acid][] sugars on the surface of epithelial cells, and [Neuraminidase][] which is an enzyme that breaks the extracellular matrix of some cells. [Negative-sense][] (3' to 5') vRNA and proteins such as [RNA replicase][] are injected into a target cell and transported into the cell nucleus. RNA replicase transcribes the vRNA into [positive-sense][] (5' to 3') viral mRNA which starts the normal protein creation process. Other viral proteins degrade cellular mRNA and produce additional negative-sense vRNA for additional virons that exit through exocytosis.
 * [Human Immunodeficiency Virus][] (or HIV): Infects certain white blood cells. HIV is a retrovirus which uses reverse transcriptase to create DNA once inside the white blood cell and this DNA is permanently integrated into the cell's DNA (these viral integrated genes are called a [provirus][]) and then creates new HIV viruses.
 
 ## CRISPR-Cas
@@ -3038,6 +3038,7 @@ if (elements.length) {
 [anticodon]: https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
 [antidiuretic hormone]: https://en.wikipedia.org/wiki/Vasopressin
 [antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
+[antigenic drift]: https://en.wikipedia.org/wiki/Antigenic_drift
 [antigens]: https://en.wikipedia.org/wiki/Antigen
 [antimicrobial peptides]: https://en.wikipedia.org/wiki/Antimicrobial_peptides
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
@@ -3123,6 +3124,7 @@ if (elements.length) {
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
 [bacterial flagella]: https://en.wikipedia.org/wiki/Flagellum#Bacterial
+[bacteriocin]: https://en.wikipedia.org/wiki/Bacteriocin
 [bacteriophages]: https://en.wikipedia.org/wiki/Bacteriophage
 [balance]: https://en.wikipedia.org/wiki/Sense_of_balance
 [bark]: https://en.wikipedia.org/wiki/Bark_(botany)
@@ -3212,6 +3214,7 @@ if (elements.length) {
 [canopy]: https://en.wikipedia.org/wiki/Canopy_(biology)
 [capillaries]: https://en.wikipedia.org/wiki/Capillary
 [capsid]: https://en.wikipedia.org/wiki/Capsid
+[capsomeres]: https://en.wikipedia.org/wiki/Capsomere
 [capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon fixation]: https://en.wikipedia.org/wiki/Carbon_fixation
@@ -4254,6 +4257,7 @@ if (elements.length) {
 [nerves]: https://en.wikipedia.org/wiki/Nerve
 [nervous tissue]: https://en.wikipedia.org/wiki/Nervous_tissue
 [neural crest]: https://en.wikipedia.org/wiki/Neural_crest
+[neuraminidase]: https://en.wikipedia.org/wiki/Neuraminidase
 [neuroendocrine signaling]: https://en.wikipedia.org/wiki/Neuroendocrine_cell
 [neurohormones]: https://en.wikipedia.org/wiki/Neurohormone
 [neurons]: https://en.wikipedia.org/wiki/Neuron
@@ -4873,6 +4877,7 @@ if (elements.length) {
 [synaptic clefts]: https://en.wikipedia.org/wiki/Synaptic_cleft
 [synaptic signaling]: https://en.wikipedia.org/wiki/Chemical_synapse
 [synaptonemal complex]: https://en.wikipedia.org/wiki/Synaptonemal_complex
+[syndrome]: https://en.wikipedia.org/wiki/Syndrome
 [systemic circulation]: https://en.wikipedia.org/wiki/Circulatory_system#Systemic_circulation
 [systole]: https://en.wikipedia.org/wiki/Systole
 [t cells]: https://en.wikipedia.org/wiki/T_cell
