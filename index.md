@@ -20,6 +20,8 @@ The universe is made of [matter][] which is something that has [mass][] (m) and 
 
 Examples of matter are [protons][], [neutrons][], and [electrons][]. Protons and neutrons each have a mass of about 1.6×10<sup>−27</sup> [kilograms][] (kg), whereas electrons have a much smaller mass of about 9.1×10<sup>−31</sup> kg. [Protons][proton radius] and [neutrons][neutron radius] each have a [radius][] of about 0.8×10<sup>−15</sup> [meters][] (m), whereas electrons have a radius of less than [1.0×10<sup>−22</sup>][electron radius] m.
 
+Distance between two points is measured in meters using the [International System of Units][] (SI; abbreviated from French), also known as the metric system. A prefix indicates the multiple of the unit. Common [metric prefixes][] include exa- (E; 10<sup>18</sup>), peta- (P; 10<sup>15</sup>), tera- (T; 10<sup>12</sup>), giga- (G; 10<sup>9</sup>), mega- (M; 10<sup>6</sup>), kilo- (K; 10<sup>3</sup>), milli- (m; 10<sup>-3</sup>), micro- (μ; 10<sup>-6</sup>), nano- (n; 10<sup>-9</sup>), pico- (p; 10<sup>-12</sup>), and femto- (f; 10<sup>-15</sup>). The radius of the proton and neutron could alternatively be described as 0.8fm. Common words include the [micron][] which is 1 μm.
+
 An [object][] (or [entity][]) is a collection of matter. An object has an [inertia][], meaning:
 
 1. An object at rest will stay at rest unless a [force][] (F) is applied to push or pull it, and
@@ -3804,6 +3806,7 @@ if (elements.length) {
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
 [intermolecular forces]: https://en.wikipedia.org/wiki/Intermolecular_force
+[international system of units]: https://en.wikipedia.org/wiki/International_System_of_Units
 [interneurons]: https://en.wikipedia.org/wiki/Interneuron
 [intersexual selection]: https://en.wikipedia.org/wiki/Sexual_selection
 [interspecific competition]: https://en.wikipedia.org/wiki/Interspecific_competition
@@ -4001,12 +4004,14 @@ if (elements.length) {
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methanogens]: https://en.wikipedia.org/wiki/Methanogen
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
+[metric prefixes]: https://en.wikipedia.org/wiki/Metric_prefix
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microbiome]: https://en.wikipedia.org/wiki/Microbiota
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
 [microglia]: https://en.wikipedia.org/wiki/Microglia
+[micron]: https://en.wikipedia.org/wiki/Micrometre
 [microphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
 [micropyle]: https://en.wikipedia.org/wiki/Ovule#Integuments,_micropyle_and_chalaza
 [microsporangia]: https://en.wikipedia.org/wiki/Sporangium
