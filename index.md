@@ -1439,7 +1439,7 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger, [peptidoglycan cell wall][] made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
@@ -1449,9 +1449,9 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a peptidoglycan cell wall (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
-A Gram Stain may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
+A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
 [Bacterial Flagella][] use a motor, hook, and filament.
 
@@ -1665,7 +1665,7 @@ Animals are split into vertebrates (with backbone) and invertebrates (without ba
 
 #### Blood
 
-Some organisms have [Blood][] which is a liquid (and connective tissue) that includes blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
+Some organisms have [Blood][] which is a liquid (and connective tissue) that includes blood cells, blood plasma, glucose, proteins, clotting factors, electrolytes, hormones, O<sub>2</sub>, CO<sub>2</sub>, hormones, waste, and more. [Blood plasma][] is everything in the extracellular matrix of blood cells. [Blood serum][] is everything in blood except for blood cells and clotting factors. Normal blood pH is about 7.4.
 
 ##### Blood Vessels
 
@@ -1681,7 +1681,7 @@ All the fluid outside of cells is called [extracellular fluid][]. The majority o
 
 The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart but rather as a side effect of nearby moving muscles.
 
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls, but it is largely plasma.
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is made of blood cells that diffused across blood vessel walls, but it is largely blood plasma.
 
 ##### Blood Cells
 
@@ -1756,7 +1756,7 @@ C3b may also create a [C5 convertase][] which cleaves [C5][] into small C5a and 
 
 The C3a and C5a fragments acts as a [chemoattractant][] to recruit effector cells such as phagocytes, and increase inflammation by stimulating smooth muscle contraction, and activate mast cells and basophils which release histamines, and act on neutrophils and monocytes to increase their adherence to cell walls and increases CR1 and CR3 expression. They are [anaphylatoxins][] because they may cause [anaphylactic shock][] which is an inflammatory reaction that occurs simulataneously in tissues throughout the body.
 
-The classical pathway may be activated by the binding of C-reactive protein to a pathogen which then interacts with [C1 complex][] which leads to C4 and C2 cleavage that create different type of C3 convertase.
+The classical pathway may be activated by the binding of [C-reactive Protein][] to a pathogen (e.g. to lipotechoic acid on Gram-positive bacteria) which then interacts with [C1 complex][] which leads to C4 and C2 cleavage that create different type of C3 convertase.
 
 The Lectin pathway may be activated by [Mannose-Binding Lectin][] which may bind to certain conformations of mannose on pathogens and may ultimately lead to a C4C2 C3 convertase.
 
@@ -2757,19 +2757,33 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
 
-A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
-
-An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface. Electron microscopes cannot resolve substances less than ~2nm.
-
-A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
-
-A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
-
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
 A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
 
 [Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
+
+### Microscopes
+
+[Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
+
+A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
+
+A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
+
+A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through.
+
+A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
+
+When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
+
+The lens of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
+
+An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
+
+A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
+
+A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
 ## Cancer
 
@@ -3305,6 +3319,7 @@ if (elements.length) {
 [complex ii]: https://en.wikipedia.org/wiki/Succinate_dehydrogenase
 [complex iii]: https://en.wikipedia.org/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase
 [complex iv]: https://en.wikipedia.org/wiki/Cytochrome_c_oxidase
+[compound light microscope]: https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope
 [concentration]: https://en.wikipedia.org/wiki/Concentration
 [condensation]: https://en.wikipedia.org/wiki/Condensation
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
@@ -3629,6 +3644,7 @@ if (elements.length) {
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [flower]: https://en.wikipedia.org/wiki/Flower
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
+[focal point]: https://en.wikipedia.org/wiki/Focus_(optics)
 [focus]: https://en.wikipedia.org/wiki/Focus_(optics)
 [for example]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#exempli_gratia
 [foraging]: https://en.wikipedia.org/wiki/Foraging
@@ -3725,6 +3741,7 @@ if (elements.length) {
 [graded potential]: https://en.wikipedia.org/wiki/Graded_potential
 [gram-negative]: https://en.wikipedia.org/wiki/Gram-negative_bacteria
 [gram-positive]: https://en.wikipedia.org/wiki/Gram-positive_bacteria
+[gram stain]: https://en.wikipedia.org/wiki/Gram_stain
 [grana]: https://en.wikipedia.org/wiki/Thylakoid#Granum_and_stroma_lamellae
 [granulocytes]: https://en.wikipedia.org/wiki/Granulocyte
 [granzymes]: https://en.wikipedia.org/wiki/Granzyme
@@ -3852,6 +3869,7 @@ if (elements.length) {
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [imhibition]: https://en.wikipedia.org/wiki/Imbibition
+[immersion oil]: https://en.wikipedia.org/wiki/Oil_immersion#Immersion_oil
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
 [immunodeficiency disease]: https://en.wikipedia.org/wiki/Immunodeficiency
 [implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
@@ -3904,6 +3922,7 @@ if (elements.length) {
 [ionization energy]: https://www.khanacademy.org/v/ionization-energy-trends
 [ionization energy increases right]: https://www.khanacademy.org/v/period-trend-for-ionization-energy
 [iris]: https://en.wikipedia.org/wiki/Iris_(anatomy)
+[iris diaphragm]: https://en.wikipedia.org/wiki/Diaphragm_(optics)
 [irreversible inhibitor]: https://en.wikipedia.org/wiki/Enzyme_inhibitor#Irreversible_inhibitors
 [island]: https://en.wikipedia.org/wiki/Island
 [island equilibrium model]: https://en.wikipedia.org/wiki/Insular_biogeography
@@ -4029,6 +4048,7 @@ if (elements.length) {
 [macrophage]: https://en.wikipedia.org/wiki/Macrophage
 [mad cow disease]: https://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
 [magma]: https://en.wikipedia.org/wiki/Magma
+[magnification]: https://en.wikipedia.org/wiki/Magnification
 [magnitude]: https://en.wikipedia.org/wiki/Relative_direction
 [major histocompatibility complex]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex
 [malate]: https://en.wikipedia.org/wiki/Malic_acid
@@ -4246,6 +4266,7 @@ if (elements.length) {
 [nutrition]: https://en.wikipedia.org/wiki/Nutrition
 [nylon]: https://en.wikipedia.org/wiki/Nylon
 [object]: https://en.wikipedia.org/wiki/Physical_body
+[objective lens]: https://en.wikipedia.org/wiki/Objective_(optics)
 [obligate]: https://en.wikipedia.org/wiki/Obligate
 [occipital lobe]: https://en.wikipedia.org/wiki/Occipital_lobe
 [ocean]: https://en.wikipedia.org/wiki/Ocean
@@ -4256,6 +4277,7 @@ if (elements.length) {
 [oceanography]: https://en.m.wikipedia.org/wiki/Oceanography
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [octopus]: https://en.wikipedia.org/wiki/Octopus
+[ocular lenses]: https://en.wikipedia.org/wiki/Eyepiece
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
 [olfaction]: https://en.wikipedia.org/wiki/Olfaction
@@ -4273,6 +4295,7 @@ if (elements.length) {
 [opsin]: https://en.wikipedia.org/wiki/Opsin
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [optic nerve]: https://en.wikipedia.org/wiki/Optic_nerve
+[optics]: https://en.wikipedia.org/wiki/Optics
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [orders]: https://en.wikipedia.org/wiki/Order_(biology)
@@ -4333,6 +4356,7 @@ if (elements.length) {
 [parathyroid hormone]: https://en.wikipedia.org/wiki/Parathyroid_hormone
 [paratopes]: https://en.wikipedia.org/wiki/Paratope
 [parenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Parenchyma
+[parfocal lens]: https://en.wikipedia.org/wiki/Parfocal_lens
 [parietal lobe]: https://en.wikipedia.org/wiki/Parietal_lobe#Function
 [paroxysmal nocturnal hemoglobinuria]: https://en.wikipedia.org/wiki/Paroxysmal_nocturnal_hemoglobinuria
 [parthenogenesis]: https://en.wikipedia.org/wiki/Parthenogenesis
