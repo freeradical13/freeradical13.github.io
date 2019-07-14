@@ -1589,22 +1589,24 @@ Steroid hormones diffuse across the lipid membrane and bind to receptors in the 
 
 #### Immune System
 
-The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
+The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
-Non-pathogenic damage may be caused by:
+A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
 
-* [Poisons][] are chemical pathogens that may cause damage.
-    * [Toxins][] are poisons produced by living cells.
-        * [Venoms][] are toxins delivered by injection.
+A [sign][] of a disease is an objective measurement or observation of something potentially related to a disease, whereas a [symptom][] of a disease is generally considered a subjective description by the person with the potential disease.
+
+An [opportunistic pathogen][] is a mutualistic or commensal organism under normal conditions but may become parasitic if the host is weakened or if the organism moves into another area of the host where it may do damage.
 
 Pathogens may inflict:
 
 * [Exotoxins][]: Proteins secreted by pathogens which cause damage.
 * [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
 
-Examples of poisons:
+Non-pathogenic damage may be caused by:
 
-* [Cyanide][] interferes with the electron transport chain by binding to cytochromes.
+* [Poisons][] are chemical pathogens that may cause damage. Examples: [Cyanide][] which interferes with the electron transport chain by binding to cytochromes.
+    * [Toxins][] are poisons produced by living cells.
+        * [Venoms][] are toxins delivered by injection.
 
 #### Animals
 
@@ -2265,7 +2267,9 @@ The [Ileum][] is the third part of the small intestine which absorbs any remaini
 
 The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and the remaining material is called [feces][] which are driven to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion of feces through the [anus][].
 
-The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help produce nutrients. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called colicins that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][].
+[Diarrhea][] is a condition where a human has  at least three loose, liquid, or watery bowel movements per day. Diarrhea may cause [dehydration][] (excessive water loss).
+
+The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help digest food and produce vitamins. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called [colicins][] that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][].
 
 ##### Bile Acid
 
@@ -2533,7 +2537,7 @@ In general, there is a temperature gradient from the poles (cold) to the equator
 
 ## Geology
 
-[Geology][] is the study of the solid parts of the Earth (land). A large landmass is called a [continent][]. A very small piece of land which is surrounded by water is called an [island][]. An [endemic][] species is unique to a particular area of geography.
+[Geology][] is the study of the solid parts of the Earth (land). A large landmass is called a [continent][]. A very small piece of land which is surrounded by water is called an [island][]. An [endemic species][] is unique to a particular area of geography.
 
 The [Earth has a radius][earth radius] of ~6350km. From the center of the Earth to about ~5100km from the surface (in thickness of ~1220km) is [Earth's inner core][] which is believed to be made mostly of solid Iron and Nickel. From the outside of the inner core to about 2890km from the surface (in thickness of ~2400km) is [Earth's outer core][] which is made mostly of liquid Iron and Nickel. From the outside of the outer core to ~100km from the surface (in thickness of ~2900km) is [Earth's mantle][] which is made mostly of hot rock. [Rock][] is a solid mass made of minerals or [mineraloids][]. From the outside of the mantle to the surface (in thickness of ~0-100km) is [Earth's crust][]. Earth's crust is made either of [oceanic crust][], which is ~5-10km thick, or [continental crust][], which is ~30-50km thick. Oceanic crust is denser than continental crust which is why continental crust is higher than oceanic crust.
 
@@ -3007,6 +3011,7 @@ if (elements.length) {
 [atrioventricular node]: https://en.wikipedia.org/wiki/Atrioventricular_node
 [atrioventricular valves]: https://en.wikipedia.org/wiki/Heart_valve
 [autocrine signals]: https://en.wikipedia.org/wiki/Autocrine_signaling
+[autoimmune disease]: https://en.wikipedia.org/wiki/Autoimmune_disease
 [autolysis]: https://en.wikipedia.org/wiki/Autolysis_(biology)
 [autonomic nervous system]: https://en.wikipedia.org/wiki/Autonomic_nervous_system
 [autophagosomes]: https://en.wikipedia.org/wiki/Autophagosome
@@ -3015,6 +3020,7 @@ if (elements.length) {
 [autotroph]: https://en.wikipedia.org/wiki/Autotroph
 [auxin]: https://en.wikipedia.org/wiki/Auxin
 [auxotrophy]: https://en.wikipedia.org/wiki/Auxotrophy
+[average diameter of a human cell]: http://book.bionumbers.org/how-big-is-a-human-cell/
 [axillary bud]: https://en.wikipedia.org/wiki/Bud#Types_of_buds
 [avogadro constant]: https://en.wikipedia.org/wiki/Avogadro_constant
 [axis is tilted]: https://en.wikipedia.org/wiki/Axial_tilt#Earth
@@ -3227,6 +3233,7 @@ if (elements.length) {
 [cognition]: https://en.wikipedia.org/wiki/Cognition
 [cohesin]: https://en.wikipedia.org/wiki/Cohesin
 [cohesion]: https://en.wikipedia.org/wiki/Cohesion_(chemistry)
+[colicins]: https://en.wikipedia.org/wiki/Colicin
 [collagen]: https://en.wikipedia.org/wiki/Collagen
 [collenchyma]: https://en.wikipedia.org/wiki/Ground_tissue#Collenchyma
 [colloids]: https://en.wikipedia.org/wiki/Colloid
@@ -3313,6 +3320,7 @@ if (elements.length) {
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
+[dehydration]: https://en.wikipedia.org/wiki/Dehydration
 [dehydration synthesis]: https://en.wikipedia.org/wiki/Dehydration_reaction
 [demography]: https://en.wikipedia.org/wiki/Demography
 [denaturation]: https://en.wikipedia.org/wiki/Denaturation_(biochemistry)
@@ -3332,7 +3340,7 @@ if (elements.length) {
 [dew]: https://en.wikipedia.org/wiki/Dew
 [dextrorotatory]: https://en.wikipedia.org/wiki/Dextrorotation_and_levorotation
 [diameter]: https://en.wikipedia.org/wiki/Diameter
-[average diameter of a human cell]: http://book.bionumbers.org/how-big-is-a-human-cell/
+[diarrhea]: https://en.wikipedia.org/wiki/Diarrhea
 [diastole]: https://en.wikipedia.org/wiki/Diastole
 [dicots]: https://en.wikipedia.org/wiki/Dicotyledon
 [differential gene expression]: https://en.wikipedia.org/wiki/Gene_expression
@@ -3351,6 +3359,7 @@ if (elements.length) {
 [direction]: https://en.wikipedia.org/wiki/Relative_direction
 [directional selection]: https://en.wikipedia.org/wiki/Directional_selection
 [disaccharides]: https://en.wikipedia.org/wiki/Disaccharide
+[disease]: https://en.wikipedia.org/wiki/Disease
 [disruptive selection]: https://en.wikipedia.org/wiki/Disruptive_selection
 [distal tubule]: https://en.wikipedia.org/wiki/Distal_convoluted_tubule
 [distance]: https://en.wikipedia.org/wiki/Distance
@@ -3435,7 +3444,8 @@ if (elements.length) {
 [empirical formula]: https://en.wikipedia.org/wiki/Empirical_formula
 [emulsions]: https://en.wikipedia.org/wiki/Emulsion
 [enantiomer]: https://en.wikipedia.org/wiki/Enantiomer
-[endemic]: https://en.wikipedia.org/wiki/Endemism
+[endemic disease]: https://en.wikipedia.org/wiki/Endemic_(epidemiology)
+[endemic species]: https://en.wikipedia.org/wiki/Endemism
 [endergonic]: https://en.wikipedia.org/wiki/Endergonic_reaction
 [endocrine gland]: https://en.wikipedia.org/wiki/Endocrine_gland
 [endocrine system]: https://en.wikipedia.org/wiki/Endocrine_system
@@ -3467,6 +3477,7 @@ if (elements.length) {
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
 [eosinophil cell]: https://en.wikipedia.org/wiki/Eosinophil
 [epicotyl]: https://en.wikipedia.org/wiki/Epicotyl
+[epidemic disease]: https://en.wikipedia.org/wiki/Epidemic
 [epidermis]: https://en.wikipedia.org/wiki/Epidermis
 [epididymis]: https://en.wikipedia.org/wiki/Epididymis
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
@@ -4190,6 +4201,7 @@ if (elements.length) {
 [oocytes]: https://en.wikipedia.org/wiki/Oocyte
 [operator]: https://en.wikipedia.org/wiki/Operon#General_structure
 [operon]: https://en.wikipedia.org/wiki/Operon
+[opportunistic pathogen]: https://en.wikipedia.org/wiki/Opportunistic_infection
 [opsin]: https://en.wikipedia.org/wiki/Opsin
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [optic nerve]: https://en.wikipedia.org/wiki/Optic_nerve
@@ -4236,6 +4248,7 @@ if (elements.length) {
 [pallium]: https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 [palmitic acid]: https://en.wikipedia.org/wiki/Palmitic_acid
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
+[pandemic disease]: https://en.wikipedia.org/wiki/Pandemic
 [pangaea]: https://en.wikipedia.org/wiki/Pangaea
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [parabasalids]: https://en.wikipedia.org/wiki/Parabasalid
@@ -4574,6 +4587,7 @@ if (elements.length) {
 [side chains]: https://en.wikipedia.org/wiki/Side_chain
 [sieve-tube elements]: https://en.wikipedia.org/wiki/Sieve_tube_element
 [sigma bond]: https://en.wikipedia.org/wiki/Sigma_bond
+[sign]: https://en.wikipedia.org/wiki/Medical_sign
 [sign stimulus]: https://en.wikipedia.org/wiki/Fixed_action_pattern
 [signal]: https://en.wikipedia.org/wiki/Signal
 [signal peptide]: https://en.wikipedia.org/wiki/Signal_peptide
@@ -4694,6 +4708,7 @@ if (elements.length) {
 [sympathetic nervous system]: https://en.wikipedia.org/wiki/Sympathetic_nervous_system
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
 [symplast]: https://en.wikipedia.org/wiki/Symplast
+[symptom]: https://en.wikipedia.org/wiki/Symptom
 [synapses]: https://en.wikipedia.org/wiki/Synapse
 [synapsids]: https://en.wikipedia.org/wiki/Synapsid
 [synapsis]: https://en.wikipedia.org/wiki/Synapsis
