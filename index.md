@@ -2773,7 +2773,7 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 [Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
 
-An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase and produces a detectable signal such as a color.
+An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase which removes a phosphate group from pNPP which causes it to turn yellow.
 
 ### Microscopes
 
