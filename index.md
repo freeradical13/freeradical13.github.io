@@ -2749,6 +2749,8 @@ The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biog
 
 ## Laboratory Techniques
 
+An [assay][] is a scientific analysis of some substance(s).
+
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
 
 [Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
@@ -2770,6 +2772,8 @@ An [electrophoretic mobility shift assay][] determines if certain proteins can b
 A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
 
 [Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
+
+An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase and produces a detectable signal such as a color.
 
 ### Microscopes
 
@@ -2966,6 +2970,7 @@ if (elements.length) {
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
 [alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
+[alkaline phosphatase]: https://en.wikipedia.org/wiki/Alkaline_phosphatase
 [alkaline earth metals]: https://en.wikipedia.org/wiki/Alkaline_earth_metal
 [alkane]: https://en.wikipedia.org/wiki/Carbon%E2%80%93hydrogen_bond
 [alkane prefixes]: https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry#Alkanes
@@ -3072,6 +3077,7 @@ if (elements.length) {
 [aryl]: https://en.wikipedia.org/wiki/Aryl
 [ase suffix]: https://en.wikipedia.org/wiki/-ase
 [asexual reproduction]: https://en.wikipedia.org/wiki/Asexual_reproduction
+[assay]: https://en.wikipedia.org/wiki/Assay
 [associative learning]: https://en.wikipedia.org/wiki/Learning#Associative_learning
 [asters]: https://en.wikipedia.org/wiki/Aster_(cell_biology)
 [asthenosphere]: https://en.wikipedia.org/wiki/Asthenosphere
@@ -3576,6 +3582,7 @@ if (elements.length) {
 [entity]: https://en.wikipedia.org/wiki/Entity
 [entropy]: https://en.wikipedia.org/wiki/Introduction_to_entropy
 [environment]: https://en.wikipedia.org/wiki/Biophysical_environment
+[enzyme-linked immunosorbent assay]: https://en.wikipedia.org/wiki/ELISA
 [enzyme commission number]: https://en.wikipedia.org/wiki/Enzyme_Commission_number
 [enzyme maximum rate]: https://en.wikipedia.org/wiki/Enzyme_kinetics#Michaelis%E2%80%93Menten_kinetics
 [enzymes]: https://en.wikipedia.org/wiki/Enzyme
@@ -4367,6 +4374,7 @@ if (elements.length) {
 [oxidoreductases]: https://en.wikipedia.org/wiki/Oxidoreductase
 [oxytocin]: https://en.wikipedia.org/wiki/Oxytocin
 [ozone layer]: https://en.wikipedia.org/wiki/Ozone_layer
+[p-nitrophenyl phosphate]: https://en.wikipedia.org/wiki/Para-Nitrophenylphosphate
 [p-site]: https://en.wikipedia.org/wiki/P-site
 [p53]: https://en.wikipedia.org/wiki/P53
 [pacific ocean]: https://en.wikipedia.org/wiki/Pacific_Ocean
