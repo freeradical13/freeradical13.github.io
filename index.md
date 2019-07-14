@@ -1012,7 +1012,7 @@ An organism is [haploid][] if it has one instance of each chromosome. An organis
 
 [Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
 
-Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingdoms: Animals, Plants, Fungi, and Protista. Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits and genetic relatedness. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial nomenclature][]) is the name of the genus followed by the name of the species.
+Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingdoms: Animals, Plants, Fungi, and Protista (Protists are simply any eukaryotes other than animals, plants, and fungi). Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits and genetic relatedness. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial nomenclature][]) is the name of the genus followed by the name of the species.
 
 Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or [clade][]) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor. A lineage that diverges early in the history of a group is a [basal taxon][].
 
@@ -1486,6 +1486,10 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 [Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes.
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
+
+[Protozoa][] is an informal grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi).
+
+[Amoeba][] is an informal grouping of single-celled eukaryotes that move using pseudopodia and may or may not have a cell wall.
 
 #### Cell Nucleus
 
@@ -2915,6 +2919,7 @@ if (elements.length) {
 [amniotes]: https://en.wikipedia.org/wiki/Amniote
 [amniotic fluid]: https://en.wikipedia.org/wiki/Amniotic_fluid
 [amniotic sac]: https://en.wikipedia.org/wiki/Amniotic_sac
+[amoeba]: https://en.wikipedia.org/wiki/Amoeba
 [amperes]: https://en.wikipedia.org/wiki/Ampere
 [amphibians]: https://en.wikipedia.org/wiki/Amphibians
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
@@ -4416,6 +4421,7 @@ if (elements.length) {
 [protons]: https://en.wikipedia.org/wiki/Proton
 [protoplast]: https://en.wikipedia.org/wiki/Protoplast
 [prototrophy]: https://en.wikipedia.org/wiki/Auxotrophy
+[protozoa]: https://en.wikipedia.org/wiki/Protozoa
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
