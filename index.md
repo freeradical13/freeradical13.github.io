@@ -1445,7 +1445,7 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA, generally arranged into plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA in the form of chromosomes and potentially some plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
@@ -1463,7 +1463,7 @@ If cells remain attached after binary fission, if there are two, the prefix dipl
 
 [Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication and may help with attachment.
 
-Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]).
 
 A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red. Both Gram-positive and Gram-negative bacteria may have a capsule. The outer membrane is only found in Gram-negative bacteria.
 
@@ -1806,7 +1806,7 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 #### Fungi
 
-[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi. Some fungi have DNA plasmids.
+[Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi. Some fungi such as some yeast have DNA plasmids.
 
 Most fungi spend most of their life as haploid organisms with a brief diploid period after fertilization which quickly transitions via meiosis back to a haploid organism.
 
