@@ -1060,7 +1060,7 @@ A process within a cell that occurs at intervals of approximately 24 hours is ca
 
 [Membranes][] are selectively permeable, generally only allowing small or nonpolar molecules through. This is due to the hydrophobic fatty acids on the inside of the membrane. A cavity enclosed by a membrane may be called a [lumen][]. The voltage across a membrane (called the [membrane potential][]) is typically about -50 to -200 mV, with the negative meaning that the inside of the cell is negatively charged.
 
-Membranes usually have carbohydrates bonded to the outside for various functions (called the [glycocalyx][]), either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
+Membranes usually have carbohydrates bonded to the outside for various functions, either bonded to lipids ([glycolipids][]) or proteins ([glycoproteins][]).
 
 A [vesicle][] is a small sac with a membrane used for functions such as transportation.
 
@@ -1449,7 +1449,9 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a further outer [capsule][] of polysaccharides or proteins. Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides.
+
+Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
 A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
@@ -4720,6 +4722,7 @@ if (elements.length) {
 [skeletal muscle]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [skin]: https://en.wikipedia.org/wiki/Skin
 [sliding clamp]: https://en.wikipedia.org/wiki/DNA_clamp
+[slime layer]: https://en.wikipedia.org/wiki/Slime_layer
 [slow-twitch fibers]: https://en.wikipedia.org/wiki/Skeletal_muscle
 [smad4]: https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_4
 [small interfering rna]: https://en.wikipedia.org/wiki/Small_interfering_RNA
