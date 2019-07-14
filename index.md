@@ -883,6 +883,8 @@ If a protein is made of more than one polypeptide (dimer for two polypeptides, t
 
 A protein's shape depends on pH, salt concentration, temperature and other factors. [Denaturation][] due to such factors breaks the weaker secondary, tertiary, and/or quaternary structures and may make the protein biologically inactive (i.e. unraveled). Excessively high fevers may be fatal because proteins may denature.
 
+[Proteoglycans][] are proteins that are heavily glycosylated.
+
 ### Enzymes
 
 Most [enzymes][] are proteins that increase the rate of (catalyze) certain chemical reactions by reducing [activation energy][] for a reaction, although the free energy (ΔG) of the reaction and position and direction of equilibrium are not affected (only the speed at which equilibrium is reached). The target reagents are called [substrates][] which bind to the enzyme's [active sites][]. Non-active site portions of enzymes are called [allosteric sites][] where products or inhibitors may bind. Negative feedback is where products bind to an enzyme's allosteric sites to stop catalysis. Enzymes are often named for their substrate(s) along with the [-ase suffix][ase suffix].
@@ -1009,6 +1011,8 @@ A [phenotype][] is the set of all traits of an organism. A trait is based on the
 The phenotype for a trait most commonly observed in a species is called the [wild type][].
 
 An organism is [haploid][] if it has one instance of each chromosome. An organism is [diploid][] if it has two instances of each chromosome. An organism is [polyploid][] if it has three or more instances of each chromosome. Matching chromosomes in diploids and polyploids with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called an organism's [karyotype][].
+
+A [microbe][] (or microorganism) is an organism that is sized in microns.
 
 ### Phylogeny
 
@@ -1587,6 +1591,24 @@ Steroid hormones diffuse across the lipid membrane and bind to receptors in the 
 
 [Prostaglandins][] are either paracrine or autocrine signals which promote inflammation and the sensation of pain in response to injury.
 
+#### Epithelial Tissue
+
+[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body. The main type of cell in epithelium is the epithelial cell.
+
+In some organisms, the outside of the body forms a tissue called Skin which is made of the outermost [epidermis][], the inner [dermis][], and the innermost [subcutaneous tissue][] (or [hypodermis][]). In some organisms, the skin is part of the [integumentary system][] which also includes hair and nails.
+
+[Transport Epithelia][] are layers of cells that move solutes in different directions to help with osmoregulation.
+
+Some epithelial cells have fatty or lactic acids that inhibit bacterial growth, or secrete [antimicrobial peptides][] that perturb membranes of invaders. Some epithelial tissues have cells that secrete [mucus][] which is a thick fluid layer that contains glycoproteins, proteoglycans, and enzymes that protect the epithelial cells.
+
+#### Connective Tissue
+
+[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of proteoglycans made of proteins and carbohydrates.
+
+[Bone][] is a strong and rigid mineralized connective tissue made by bone-forming cells called osteoblasts which deposit calcium, magnesium, and phosphate ions into a solidified matrix. [Ligaments][] connect bones at joints.
+
+[Cartilage][] is a strong yet flexible material that contains fibers made of collagen embedded in a carbohydrate-protein complex called chondroitin sulfate. Cartilage is excreted by cells called chondrocytes.
+
 #### Immune System
 
 The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
@@ -1905,22 +1927,6 @@ A major difference between GPCRs and RTKs is that GPCRs generally activate a sin
 * [Ca<sup>2+</sup> ions][calcium second messenger] which can cause muscle contraction.
 
 [Scaffolding proteins][] bind to a transmembrane receptor and multiple relay proteins together to increase the speed of signal transduction.
-
-#### Epithelial Tissue
-
-[Epithelial tissue][] lines the surface of organs, some inner cavities in organs, and the outside of the body. The main type of cell in epithelium is the epithelial cell.
-
-In some organisms, the outside of the body forms a tissue called Skin which is made of the outermost [epidermis][], the inner [dermis][], and the innermost [subcutaneous tissue][] (or [hypodermis][]). In some organisms, the skin is part of the [integumentary system][] which also includes hair and nails.
-
-[Transport Epithelia][] are layers of cells that move solutes in different directions to help with osmoregulation.
-
-#### Connective Tissue
-
-[Connective tissues][] (or fibrous tissues) are found between other tissue types and provide various functions such as structural support. Connective tissues are made of fibers, a gel-like substance called [ground substance][], and various cells. The fibers include elastic fibers and collagen. [Elastic fibers][] are bundles of [Elastin][] and Microfibril proteins. [Collagen][] is a structural protein embedded in a network of [proteoglycans][] made of proteins and carbohydrates.
-
-[Bone][] is a strong and rigid mineralized connective tissue made by bone-forming cells called osteoblasts which deposit calcium, magnesium, and phosphate ions into a solidified matrix. [Ligaments][] connect bones at joints.
-
-[Cartilage][] is a strong yet flexible material that contains fibers made of collagen embedded in a carbohydrate-protein complex called chondroitin sulfate. Cartilage is excreted by cells called chondrocytes.
 
 #### Circulatory System
 
@@ -2243,7 +2249,7 @@ The [Mammary Glands][], while present in both sexes, only produce milk (for nurt
 
 #### Ingestion
 
-The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes [mucus][] which lubricates and pre-processes food.
+The [mouth][] (or Oral Cavity) ingests food. A fluid called [Saliva][] is created by the salivary glands. Saliva includes mucus which lubricates and pre-processes food.
 
 Food is balled up into a complex called a [bolus][]. The [throat][] is connected to the mouth and leads either to the muscular tubes called the trachea that leads to the lungs or the [esophagus][] that leads to the stomach. The bolus is passed into the [pharynx][] which is a region of the throat right before the split into the two different tubes into the lungs or stomach. [Swallowing][] is the process of passing the bolus from the mouth to the esophagus using contractions.
 
@@ -2952,6 +2958,7 @@ if (elements.length) {
 [antidiuretic hormone]: https://en.wikipedia.org/wiki/Vasopressin
 [antigen-presenting cells]: https://en.wikipedia.org/wiki/Antigen-presenting_cell
 [antigens]: https://en.wikipedia.org/wiki/Antigen
+[antimicrobial peptides]: https://en.wikipedia.org/wiki/Antimicrobial_peptides
 [antiparallel]: https://en.wikipedia.org/wiki/Antiparallel_(biochemistry)
 [antiserums]: https://en.wikipedia.org/wiki/Antiserum
 [antitoxins]: https://en.wikipedia.org/wiki/Antitoxin
@@ -3659,6 +3666,7 @@ if (elements.length) {
 [glycolipids]: https://en.wikipedia.org/wiki/Glycolipid
 [glycolysis]: https://en.wikipedia.org/wiki/Glycolysis
 [glycoproteins]: https://en.wikipedia.org/wiki/Glycoprotein
+[goblet cells]: https://en.wikipedia.org/wiki/Goblet_cell
 [golgi apparatus]: https://en.wikipedia.org/wiki/Golgi_apparatus
 [gonads]: https://en.wikipedia.org/wiki/Gonad
 [gondwana]: https://en.wikipedia.org/wiki/Gondwana
@@ -4023,6 +4031,7 @@ if (elements.length) {
 [metric prefixes]: https://en.wikipedia.org/wiki/Metric_prefix
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
+[microbe]: https://en.wikipedia.org/wiki/Microorganism
 [microbiome]: https://en.wikipedia.org/wiki/Microbiota
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
