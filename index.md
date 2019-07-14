@@ -923,6 +923,8 @@ A [zymogen][] (or proenzyme) is an inactive enzyme (with the -ogen suffix) which
 
 [Kinases][] catalyze adding a phosphate group ([phosphorylation][]). [Phosphatases][] catalyze removing a phosphate group (dephosphorylation using hydrolysis).
 
+A [protease][] (or peptidase or proteinase) is an enzyme that helps proteolysis which is protein catabolism into amino acids by hydrolysis of peptide bonds.
+
 ## Nucleic Acids
 
 [Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A [nucleotide][] is made of a [nucleoside][] and one to three Phosphate groups. A [nucleoside][] is made of a Nitrogen-containing, [nitrogenous base][] and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
@@ -1613,7 +1615,9 @@ Some epithelial cells have fatty or lactic acids that inhibit bacterial growth, 
 
 The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
-A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
+A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system.
+
+An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
 
 A [sign][] of a disease is an objective measurement or observation of something potentially related to a disease, whereas a [symptom][] of a disease is generally considered a subjective description by the person with the potential disease.
 
@@ -1631,6 +1635,17 @@ Non-pathogenic damage may be caused by:
         * [Venoms][] are toxins delivered by injection.
 
 [Phagocytes][] are any cells that capture, engulf, and process dead or pathogenic cells or substances through the process of [phagocytosis][]. The engulfed material becomes part of a [phagosome][] inside the phagocyte which then fuses with a lysosome to create a [phagolysosome][] which then digest the substances.
+
+One example process of phagocytosis:
+
+1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
+    1. TLR3 recognizes double-stranded RNA produced by some viruses.
+    1. TLR4 recognizes lipopolysaccharides on the surface of Gram<sup>-</sup> bacteria or Lipotechoic acid on Gram<sup>+</sup> bacteria.
+    1. TLR5 recognizes the flagellin protein on bacterial flagella.
+1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
+1. The broken down products are released through exocytosis.
+
+Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacterial cell walls.
 
 #### Animals
 
@@ -1673,9 +1688,9 @@ A blood vessel contains a lumen surrounded by a single layer of endothelial cell
 
 All the fluid outside of cells is called [extracellular fluid][]. The majority of extracellular fluid is called [interstitial fluid][], and the rest is blood plasma, and some other fluids.
 
-The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart.
+The [Lymphatic System][] is a part of the Circulatory System which has an alternative set of vessels called [lymphatic vessels][] which transport a fluid called lymph, although lymph is not circulated by pumping of the heart but rather as a side effect of nearby moving muscles.
 
-[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls.
+[Lymph][] is interstitial fluid collected by the lymphatic vessels so that it may be transported to [lymph nodes][] where it is cleaned and mixed back into the blood. Some of lymph is blood that diffused across blood vessel walls, but it is largely plasma.
 
 ##### Blood Cells
 
@@ -1691,16 +1706,7 @@ Hematopoietic stem cells may divide to create further hematopoietic stem cells i
 
 The immune system includes the [innate immune system][] (or non-specific immune system) which has pre-defined defenses against particular types of pathogens.
 
-The innate immune system detects pre-defined pathogens using soluble proteins and cell-surface receptors that belong to a pathogen and its products or to human cells and proteins that change in the presence of a pathogen. Next, either [effector cells][] attack the pathogens and/or the [complement system][] (various proteins that circulate in the blood) which may cause lysis of some pathogens.
-
-1. [Toll-like receptors][] (TLRs) in phagocytic membranes bind to pathogens, including bringing them inside the cell into vacuoles through endocytosis.
-    1. TLR3 recognizes double-stranded RNA produced by some viruses.
-    1. TLR4 recognizes lipopolysaccharides on the surface of Gram<sup>-</sup> bacteria or Lipotechoic acid on Gram<sup>+</sup> bacteria.
-    1. TLR5 recognizes the flagellin protein on bacterial flagella.
-1. Vacuoles fuse with lysosomes where enzymes break down the pathogens.
-1. The broken down products are released through exocytosis.
-
-Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacterial cell walls.
+The innate immune system detects pre-defined pathogens using soluble proteins and cell-surface receptors that belong to a pathogen and its products or to human cells and proteins that change in the presence of a pathogen. Next, either [effector cells][] attack the pathogens directly and/or the [complement system][] (various proteins that circulate in the blood) may cause desctruction of some pathogens.
 
 #### Inflammatory Response
 
@@ -1725,7 +1731,7 @@ The tree of cell types generated by hematopoietic stem cells is:
     * A [Mast cell][] resident in connective tissue which releases signaling molecules called [histamines][] which stimulate surrounding blood vessels to dilate to increase blood supply and become more permeable to neutrophils.
   * A precursor cell which may further specialize into:
     * A [Monocyte cell][] which circulates in the blood and may further specialize into:
-      * A [Macrophage][] which is a monocyte phagocyte that travels in the blood to tissues and transform into a macrophage which is a phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the area.
+      * A [Macrophage][] which is a mature monocyte that has left the blood and reside in tissues as a phagocytic, sedentary cell that kills pathogens or cleans up dead cells. Macrophages also release cytokines which attract neutrophils and other leukocytes to the area.
       * A [Dendritic cell][] which populates tissues such as skin and migrates to lymph nodes after capturing intact or degraded pathogens to stimulate the adaptive immune system.
   * A [Nuocyte cell][]<sup>[a][Neill et al., 2010]</sup> which is also related to parasites.
 * [Lymphocytes][] (Lymphoid) are leukyoctes found predominantly in lymph. This cell type may further specialize into:
@@ -1737,13 +1743,21 @@ The tree of cell types generated by hematopoietic stem cells is:
       * A Cytotoxic T cell which is a granulocyte effector T cell.
       * A Helper T cell that helps activate other immune system cells such as B cells.
 
+The complement system of the innate immune system is made of proteases that circulate in blood as inactive zymogens. The [Complement Component 3][] (C3) molecule is made in the liver and, as it circulates, spontenously changes its conformation at a slow rate to expose a thioester bond on the inside of the protein to the aqueous blood which makes a covalent bond to a molecule with an amino or hydroxyl group such as water. The environment near certain pathogens such as bacteria increase the rate of this hydrolization. This hydrolized C3 binds to [Factor B][] which makes this combined molecule susceptible to cleavage by [Factor D][]. This reaction produces fragments Ba and Bb and Bb remains bound to C3 (C3Bb), called a [C3 Convertase][], and this process cleaves C3 into a small, soluble C3a fragment and large C3b fragment. The C3b fragment covalently bonds to amino and hydroxyl groups on the pathogen. The pathogen-bound C3b can still further bind and cleave more Factor B which acts as more C3 Convertase to cleave other C3 right near the pathogen and this positive-feedback loop may coat the pathogen in C3b. This behavior may be enhanced by [Properdin][] (Factor P). [Factor H][] and [Factor I][] work to decrease C3 convertase effectiveness on the pathogen because otherwise the reservoir of C3 might be exhausted and too few C3 could attack all available pathogens. The [Decay-Accelerating Factor][] (DAF) and [Membrane Cofactor Protein][] (MCP or CD46) are mechanisms to avoid too much C3 binding to host cells through a cell-surface carbohydrate binding site of sialic acid that most bacteria do not have (exceptions include <i>[Streptococcus pyogenes][]</i> and <i>[Staphylococcus aureus][]</i>).
+
+The coating of a pathogen with markers such as C3 is called [opsonization][] and alllows phagocytes to process the pathogen. The C3a fragment acts as a [chemoattractant][] to recruit effector cells such as phagocytes.
+
+There are three known ways of C3 activation: the [classical pathway][], the [alternative pathway][], and the [Lectin pathway][].
+
+The alternative pathway may be activated by the binding of C-reactive protein to a pathogen
+
 Myeloid cells are effector cells that have cell-surface receptors for general classes of pathogens, rather B and T lymphoid cells which have specialized receptors for particular pathogens. B and T Lymphoid cell-surface receptors are not directly coded by specific genes but instead are created by genes that are cut and modified during development to generate millions of different receptors.
 
 [Antigens][] are molecules on pathogens or released by pathogens that cause a response by B or T cells. B or T cells (or B cell products) bind to an antigen with proteins called [paratopes][] (or antigen receptors). A single B or T cell presents a single type of paratope. Antigens are made of one or more [epitopes][] which are the parts of an antigen that bind to the corresponding paratopes.
 
 [B cells][] mature in the bone marrow and bind to antigens on non-host cells or which are free floating in blood. Each B cell has Y-shaped protein complexes made of four polypeptide chains linked with disulfide bridges, two of which called heavy chains are anchored into the B cell membrane. Each chain has a constant region which is an amino acid sequence that is common across B cells, and a variable region which is an amino acid sequence that varies for a particular epitope. The two pairs of chains may bind to up to two epitopes.
 
-Once a B cell's paratopes bind to an antigen, B cells become activated and lead to formation of effector cells called [Plasma cells][] that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins ([neutralization][]), or mark pathogens for destruction ([opsonization][]) by phagocytes, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
+Once a B cell's paratopes bind to an antigen, B cells become activated and lead to formation of effector cells called [Plasma cells][] that secrete a soluble form of the paratope proteins called [antibodies][] (or immunoglobulins) which are free floating in blood and lymph and bind to antigens and interfere with pathogens or their excreted toxins ([neutralization][]), or mark pathogens for destruction (opsonization) by phagocytes, or mark pathogens for destruction by the complement system through lysis or through recognition by natural killer cells.
 
 There are five types of B cell antibodies (with Ig an abbreviation for immunoglobulin): IgM, IgG, IgD, IgE, and IgA.
 
@@ -1759,7 +1773,11 @@ As B and T cells mature in the bone marrow or thymus, respectively, antigen rece
 
 Once B or T cells bind to antigens, they start to rapidly reproduce into a group of identical cells called a [clone][] that can match such antigens. Clones are [monoclonal][] if a single clone reacts to a single epitope on an antigen, and [polyclonal][] if multiple clones react to different epitopes on the same antigen. This adaptive immune system process is called [clonal selection][] and clonal expansion which is part of the [primary immune response][campbell urry et al 11th pg 961] and peaks about a week or two after initial antigen recognition. A subset of the clone become effector cells which are immediately able to act against antigens. The remaining, non-effector cells are called [memory cells][].
 
+B and T lymphocytes may move throughout both blood and lymph. Mature lymphocytes enter the blood and then drain into lymph and finally lymph nodes. If a lymphocyte is activated, it remains in the lymph node.
+
 If an antigen matching memory cells is seen after initial exposure, the memory cells act as part of the stronger [secondary immune response][campbell urry et al 11th pg 961] and typically peak a few days after infection.
+
+In humans, the [spleen][] is the only lymphoid organ that acts to filter pathogens in circulating blood (in addition to removing damaged erythryocytes).
 
 A response to pathogens in the blood and lymph is called a [humoral immune response][]. A response to pathogens which doesn't involve antibodies is called a [cell-mediated immune response][] which uses specialized T cells to destroy infected host cells.
 
@@ -2266,7 +2284,7 @@ At the end of the esophagus, food reaches a [sphincter][] which is a muscle that
 
 Digestion occurs in the [Gastrointestinal Tract][] (or GI tract, or [Alimentary Canal][], or gut) which includes the mouth, esophagus, stomach, small intestine, large intestine, and anus.
 
-The [stomach][] is an organ that stores food and starts its processing. As food stretches the walls of the stomach, the hormone Gastrin is released which causes the secretion of [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. [Proteases][] are enzymes that break down proteins into amino acids and Pepsin is one such protease. HCl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested, acidic collection called [Chyme][] is passed onto the small intestine.
+The [stomach][] is an organ that stores food and starts its processing. As food stretches the walls of the stomach, the hormone Gastrin is released which causes the secretion of [gastric acid][] to begin food digestion. Gastric acid is made of Hydrochloric Acid (HCl) and [Pepsin][] (synthesized with HCl from [Pepsinogen][]) and has a pH of about 2 which denatures proteins and kills most bacteria. Pepsin is a protease which breaks down proteins. HCl is produced by parietal cells, pepsinogen is produced by chief cells, and mucus is produced by mucous cells. The partly digested, acidic collection called [Chyme][] is passed onto the small intestine.
 
 The [small intestine][] completes most food digestion. The [Duodenum][] is the first part of the small intestine which completes the breakdown of the chyme using juices from the pancreas, liver, and gallbladder. The entry of chyme into the small intestine stimulates secretion of the hormone [Secretin][] which stimulates the pancreas to secrete Biocarbonate into the duodenum which acts as a buffer for digestion. The pancreas also secretes the proteases [Trypsin][] and [Chymotrypsin][] into the duodenum.
 
@@ -2279,6 +2297,8 @@ The ileum connects to the [large intestine][] (including the colon, cecum, and r
 [Diarrhea][] is a condition where a human has  at least three loose, liquid, or watery bowel movements per day. Diarrhea may cause [dehydration][] (excessive water loss).
 
 The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help digest food and produce vitamins. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called [colicins][] that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][].
+
+The average human has about 1000 species of bacteria living in the gut, particularly because it's a sort of constant food.
 
 ##### Bile Acid
 
@@ -2913,6 +2933,7 @@ if (elements.length) {
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [alpha cells]: https://en.wikipedia.org/wiki/Alpha_cell
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
+[alternative pathway]: https://en.wikipedia.org/wiki/Alternative_complement_pathway
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
 [altitude]: https://en.wikipedia.org/wiki/Altitude
 [altricial species]: https://en.wikipedia.org/wiki/Altriciality
@@ -3110,7 +3131,9 @@ if (elements.length) {
 [bulk flow]: https://en.wikipedia.org/wiki/Mass_flow
 [bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle#Bundle-sheath_cells
 [butane]: https://en.wikipedia.org/wiki/Butane
+[c-reactive protein]: https://en.wikipedia.org/wiki/C-reactive_protein
 [c3 carbon fixation]: https://en.wikipedia.org/wiki/C3_carbon_fixation
+[c3 convertase]: https://en.wikipedia.org/wiki/C3-convertase
 [c4 carbon fixation]: https://en.wikipedia.org/wiki/C4_carbon_fixation
 [calcitonin]: https://en.wikipedia.org/wiki/Calcitonin
 [calcium second messenger]: https://en.wikipedia.org/wiki/Calcium_signaling#Calcium_as_a_second_messenger
@@ -3183,6 +3206,7 @@ if (elements.length) {
 [chemical species]: http://goldbook.iupac.org/html/C/CT01038.html
 [chemical substance]: https://en.wikipedia.org/wiki/Chemical_substance
 [chemiosmosis]: https://en.wikipedia.org/wiki/Chemiosmosis
+[chemoattractant]: https://en.wikipedia.org/wiki/Chemotaxis
 [chemoreceptors]: https://en.wikipedia.org/wiki/Chemoreceptor
 [chemosynthesis]: https://en.wikipedia.org/wiki/Chemosynthesis
 [chemotaxis]: https://en.wikipedia.org/wiki/Chemotaxis
@@ -3220,6 +3244,7 @@ if (elements.length) {
 [class i mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_I
 [class ii mhc]: https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Class_II
 [classes]: https://en.wikipedia.org/wiki/Class_(biology)
+[classical pathway]: https://en.wikipedia.org/wiki/Classical_complement_pathway
 [cleavage]: https://en.wikipedia.org/wiki/Cleavage_(embryo)
 [climate]: https://en.wikipedia.org/wiki/Climate
 [clitoris]: https://en.wikipedia.org/wiki/Clitoris
@@ -3254,6 +3279,7 @@ if (elements.length) {
 [community]: https://en.wikipedia.org/wiki/Community_(ecology)
 [companion cells]: https://en.wikipedia.org/wiki/Phloem#Companion_cells
 [competitive inhibition]: https://en.wikipedia.org/wiki/Competitive_inhibition
+[complement component 3]: https://en.wikipedia.org/wiki/Complement_component_3
 [complement system]: https://en.wikipedia.org/wiki/Complement_system
 [complementary dna]: https://en.wikipedia.org/wiki/Complementary_DNA
 [complete dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Complete_dominance
@@ -3328,6 +3354,7 @@ if (elements.length) {
 [day]: https://en.wikipedia.org/wiki/Day
 [day-neutral plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
+[decay-accelerating factor]: https://en.wikipedia.org/wiki/Decay-accelerating_factor
 [definition of life]: https://en.wikipedia.org/wiki/Life
 [degrees]: https://en.wikipedia.org/wiki/Degree_(temperature)
 [dehydration]: https://en.wikipedia.org/wiki/Dehydration
@@ -3551,6 +3578,10 @@ if (elements.length) {
 [f1 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [f2 generation]: https://en.wikipedia.org/wiki/F1_hybrid
 [facilitated diffusion]: https://en.wikipedia.org/wiki/Facilitated_diffusion
+[factor b]: https://en.wikipedia.org/wiki/Complement_factor_B
+[factor d]: https://en.wikipedia.org/wiki/Factor_D
+[factor h]: https://en.wikipedia.org/wiki/Factor_H
+[factor i]: https://en.wikipedia.org/wiki/Complement_factor_I
 [facultative]: https://en.wikipedia.org/wiki/Facultative
 [fahrenheit]: https://en.wikipedia.org/wiki/Fahrenheit
 [families]: https://en.wikipedia.org/wiki/Family_(biology)
@@ -3804,6 +3835,7 @@ if (elements.length) {
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [imhibition]: https://en.wikipedia.org/wiki/Imbibition
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
+[immunodeficiency disease]: https://en.wikipedia.org/wiki/Immunodeficiency
 [implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
 [imprinting]: https://en.wikipedia.org/wiki/Imprinting_(psychology)
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
@@ -3917,6 +3949,7 @@ if (elements.length) {
 [leading strand]: https://en.wikipedia.org/wiki/DNA_replication#Replication_fork
 [learning]: https://en.wikipedia.org/wiki/Learning
 [leaves]: https://en.wikipedia.org/wiki/Leaf
+[lectin pathway]: https://en.wikipedia.org/wiki/Lectin_pathway
 [lekking]: https://en.wikipedia.org/wiki/Lek_mating
 [lens]: https://en.wikipedia.org/wiki/Lens_(anatomy)
 [leptin]: https://en.wikipedia.org/wiki/Leptin
@@ -4007,6 +4040,7 @@ if (elements.length) {
 [meiosis ii]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_II
 [melanocyte-stimulating hormone]: https://en.wikipedia.org/wiki/Melanocyte-stimulating_hormone
 [melatonin]: https://en.wikipedia.org/wiki/Melatonin
+[membrane cofactor protein]: https://en.wikipedia.org/wiki/CD46
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
 [membranes]: https://en.wikipedia.org/wiki/Biological_membrane
 [memories]: https://en.wikipedia.org/wiki/Memory
@@ -4429,9 +4463,10 @@ if (elements.length) {
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promiscous mating]: https://en.wikipedia.org/wiki/Promiscuity
 [promoter]: https://en.wikipedia.org/wiki/Promoter_(genetics)
+[properdin]: https://en.wikipedia.org/wiki/Properdin
 [prophase]: https://en.wikipedia.org/wiki/Prophase
 [prostaglandins]: https://en.wikipedia.org/wiki/Prostaglandin
-[proteases]: https://en.wikipedia.org/wiki/Protease
+[protease]: https://en.wikipedia.org/wiki/Protease
 [protein kinase a]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [protein kinase c]: https://en.wikipedia.org/wiki/Protein_kinase_C
 [protein secretion]: https://en.wikipedia.org/wiki/Secretion#Mechanism
@@ -4653,6 +4688,7 @@ if (elements.length) {
 [sperm]: https://en.wikipedia.org/wiki/Sperm
 [sphincter]: https://en.wikipedia.org/wiki/Sphincter
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
+[spleen]: https://en.wikipedia.org/wiki/Spleen
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [sponges]: https://en.wikipedia.org/wiki/Sponge
 [spontaneous reactions]: https://en.wikipedia.org/wiki/Spontaneous_process
@@ -4665,6 +4701,7 @@ if (elements.length) {
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
 [stamens]: https://en.wikipedia.org/wiki/Stamen
+[staphylococcus aureus]: https://en.wikipedia.org/wiki/Staphylococcus_aureus
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
 [standard atomic weight]: https://en.wikipedia.org/wiki/Standard_atomic_weight
@@ -4688,6 +4725,7 @@ if (elements.length) {
 [strata]: https://en.wikipedia.org/wiki/Stratum
 [stratopause]: https://en.wikipedia.org/wiki/Stratopause
 [stratosphere]: https://en.wikipedia.org/wiki/Stratosphere
+[streptococcus pyogenes]: https://en.wikipedia.org/wiki/Streptococcus_pyogenes
 [streptomycin]: https://en.wikipedia.org/wiki/Streptomycin
 [strigolactones]: https://en.wikipedia.org/wiki/Strigolactone
 [stroma]: https://en.wikipedia.org/wiki/Stroma_(fluid)
