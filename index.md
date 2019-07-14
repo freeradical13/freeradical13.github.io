@@ -1480,7 +1480,7 @@ One bacterium may transfer some genes to another bacterium through various types
 
 [Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
-Some groups of bacteria coordinate metabolism in groups called [biofilms][] which are loosely bound by capsules. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
+Some groups of bacteria organize in groups called [biofilms][] which are loosely bound by capsules and may coordinate metabolism. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
 
 An average [E. coli cell has about 35 billion atoms][atoms in e coli].
 
@@ -2777,7 +2777,7 @@ A [light microscope][] focuses light through a substance which refracts through 
 
 A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
 
-A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through.
+A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [aperture][] controls how much light is emitted.
 
 A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
 
@@ -3038,6 +3038,7 @@ if (elements.length) {
 [anus]: https://en.wikipedia.org/wiki/Anus
 [aorta]: https://en.wikipedia.org/wiki/Aorta
 [apc]: https://en.wikipedia.org/wiki/Adenomatous_polyposis_coli
+[aperture]: https://en.wikipedia.org/wiki/Aperture
 [apes]: https://en.wikipedia.org/wiki/Ape
 [apex predator]: https://en.wikipedia.org/wiki/Apex_predator
 [aphotic zone]: https://en.wikipedia.org/wiki/Aphotic_zone
