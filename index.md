@@ -1445,7 +1445,7 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane. In most prokaryotes, this membrane is surrounded by a stronger cell wall made of sugars and polypeptides. The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA in the form of chromosomes and potentially some plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
+[Prokaryotes][] are composed of a phospholipid bilayer cell membrane and usually additional layers outside that (discussed below). The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA in the form of circular chromosomes and potentially some plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
