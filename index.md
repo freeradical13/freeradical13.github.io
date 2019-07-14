@@ -1077,7 +1077,7 @@ A [vesicle][] is a small sac with a membrane used for functions such as transpor
 
 The decreased membrane potential created by an electrogenic pump creates potential energy which is used by transport proteins called [cotransports][] to perform various functions when the ions flow back down their concentration gradient.
 
-[Endocytosis][] occurs when the membrane invaginates, creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle.
+[Endocytosis][] occurs when the membrane invaginates (also called [pinocytosis][]), creating a pocket into which extracellular material falls into and then the membrane forms around that material, allowing it to be brought inside as a vesicle.
 
 [Exocytosis][] occurs when a vesicle merges with the membrane (e.g. with a [porosome][]) and then the material is pushed into the extracellular space.
 
@@ -1455,11 +1455,13 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 Prokaryotes asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
-Prokaryotic shapes are characterized as either [coccus][] (spherical; plural cocci), [bacillus][] (rod-shaped; plural bacilli), [spiral][] (stiff spirilla or flexible spirochetes), or [pleiomorphic][] (star-shaped, triangular, square, etc.). Curved bacilli are called [vibrio][]. If cells remain attached after binary fission, if there are two, the prefix diplo- is used (e.g. diplococci), if there are more than two, the prefix strepto- is used (e.g. streptococci). If fission and connection occurs in two planes, the groups are called tetrads. If fission and connection occurs in three planes, the groups are called sarcinae. If fission and connection occurs in random planes, the prefix staph- is used (e.g. staphylococci).
+Prokaryotic shapes are characterized as either [coccus][] (spherical; plural cocci), [bacillus][] (rod-shaped; plural bacilli), [spiral][] (stiff spirilla or flexible spirochetes), or [pleiomorphic][] (star-shaped, triangular, square, etc.). Curved bacilli with one curve are called [vibrio][]. Curved bacilli with a few curves are called [spirillum][]. Curved bacilli with more curves are called [spirochaete][].
+
+If cells remain attached after binary fission, if there are two, the prefix diplo- is used (e.g. diplococci), if there are more than two, the prefix strepto- is used (e.g. streptococci). If fission and connection occurs in two planes, the groups are called tetrads. If fission and connection occurs in three planes, the groups are called sarcinae. If fission and connection occurs in random planes, the prefix staph- is used (e.g. staphylococci).
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
+[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides (LPS), and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
@@ -2787,6 +2789,8 @@ When looking through a microscope with two lenses, use both eyes, open them wide
 
 One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
 
+A [confocal microscope][] uses point illumination to detect a small portion of a sample and this is repeated at different depths and points to create a 2D or 3D picture.
+
 An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
 
 A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
@@ -3351,6 +3355,7 @@ if (elements.length) {
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [condenser]: https://en.wikipedia.org/wiki/Condenser_(optics)
 [cone cells]: https://en.wikipedia.org/wiki/Cone_cell
+[confocal microscope]: https://en.wikipedia.org/wiki/Confocal_microscopy
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conidiophore]: https://en.wikipedia.org/wiki/Conidium
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
@@ -4464,6 +4469,7 @@ if (elements.length) {
 [pigments]: https://en.wikipedia.org/wiki/Photopigment
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
+[pinocytosis]: https://en.wikipedia.org/wiki/Pinocytosis
 [pistil]: https://en.wikipedia.org/wiki/Gynoecium#Pistils
 [pith]: https://en.wikipedia.org/wiki/Pith
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
@@ -4775,6 +4781,8 @@ if (elements.length) {
 [sphincter]: https://en.wikipedia.org/wiki/Sphincter
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
 [spiral]: https://en.wikipedia.org/wiki/Spiral_bacteria
+[spirillum]: https://en.wikipedia.org/wiki/Spirillum
+[spirochaete]: https://en.wikipedia.org/wiki/Spirochaete
 [spleen]: https://en.wikipedia.org/wiki/Spleen
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [sponges]: https://en.wikipedia.org/wiki/Sponge
