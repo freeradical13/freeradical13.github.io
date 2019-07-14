@@ -2775,15 +2775,27 @@ A light microscope's [iris diaphragm][] may be used to create contrast between a
 
 A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
 
+The lenses of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
+
 When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
 
-The lens of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
+One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
 
 An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
 
 A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
 
 A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
+
+### Staining
+
+Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative surface charge of bacteria. Such dyes may be used as a [negative stain][] where the background is stained and the organisms are not.
+
+Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue).
+
+A differential stain uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
+
+A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
 
 ## Cancer
 
@@ -2904,6 +2916,7 @@ if (elements.length) {
 [acetyl]: https://en.wikipedia.org/wiki/Acetyl_group
 [acetyl coa]: https://en.wikipedia.org/wiki/Acetyl-CoA
 [acetylcholine]: https://en.wikipedia.org/wiki/Acetylcholine
+[acid-fast stain]: https://en.wikipedia.org/wiki/Ziehl%E2%80%93Neelsen_stain
 [acoelomates]: https://en.wikipedia.org/wiki/Coelom#Acoelomates
 [acrosome]: https://en.wikipedia.org/wiki/Acrosome
 [actin]: https://en.wikipedia.org/wiki/Actin
@@ -4201,6 +4214,7 @@ if (elements.length) {
 [necroptosis]: https://www.nature.com/articles/nchembio711
 [necrosis]: https://en.wikipedia.org/wiki/Necrosis
 [negative-sense]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)#Negative-sense
+[negative stain]: https://en.wikipedia.org/wiki/Negative_stain
 [negative strand]: https://en.wikipedia.org/wiki/Sense_(molecular_biology)
 [Neill et al., 2010]: https://doi.org/10.1038/nature08900 'Neill, D. R., Wong, S. H., Bellosi, A., Flynn, R. J., Daly, M., Langford, T. K., ... & Jolin, H. E. (2010). Nuocytes represent a new innate effector leukocyte that mediates type-2 immunity. Nature, 464(7293), 1367.'
 [neisseria]: https://en.wikipedia.org/wiki/Neisseria
@@ -4278,6 +4292,7 @@ if (elements.length) {
 [octet rule]: https://en.wikipedia.org/wiki/Octet_rule
 [octopus]: https://en.wikipedia.org/wiki/Octopus
 [ocular lenses]: https://en.wikipedia.org/wiki/Eyepiece
+[ocular micrometer]: https://en.wikipedia.org/wiki/Ocular_micrometer
 [offspring]: https://en.wikipedia.org/wiki/Offspring
 [okazaki fragments]: https://en.wikipedia.org/wiki/Okazaki_fragments
 [olfaction]: https://en.wikipedia.org/wiki/Olfaction
@@ -4697,6 +4712,7 @@ if (elements.length) {
 [signal transduction]: https://en.wikipedia.org/wiki/Signal_transduction
 [signaling pathway]: https://en.wikipedia.org/wiki/Biochemical_cascade
 [silent mutation]: https://en.wikipedia.org/wiki/Silent_mutation
+[simple stain]: https://en.wikipedia.org/wiki/Staining
 [single-strand binding proteins]: https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein
 [single nucleotide polymorphism]: https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
 [sinoatrial node]: https://en.wikipedia.org/wiki/Sinoatrial_node
