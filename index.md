@@ -362,6 +362,8 @@ Substances that are ionic or polar are [hydrophilic][] meaning that they have a 
 
 [Frozen water is less dense than liquid water][frozen water less dense] because at higher temperatures, the higher average kinetic energy means water molecules may more freely disassociate Hydrogen bonds between molecules whereas at lower temperatures, the Hydrogen bonding between water molecules cannot be as easily disassociated and this creates a more spaced-out lattice-type structure which is less dense.
 
+[Dessication][] occurs when something is extremely dry.
+
 ## Solutions
 
 A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a [solvent][] (the largest proportion substance). A solvent is often a liquid and if such a liquid is water, the solution is referred to as an [aqueous solution][] (in equations, sometimes denoted with <code><sub>(aq)</sub></code>). A [suspension][] is a heterogenous mixture where one substance eventually settles, whereas [colloids][] are heterogenous mixtures that don't settle ([emulsions][] are colloids of liquids). As temperature of a solution decreases and pressure increases, the solubility of gases increases ([Henry's Law][]).
@@ -1083,7 +1085,11 @@ A cell in a hypertonic solution will lose water which leads to contraction of th
 
 #### Flagella
 
-[Flagella][] are protrusions from a membrane that act to move a cell.
+[Flagella][] are protrusions from a membrane that act to move a cell and sometimes enhance adhesion to other substances.
+
+#### Cilia
+
+[Cilia][] are protrusions from a membrane that participate in sensing stimuli or motility.
 
 #### Electron Transport Chain
 
@@ -1447,17 +1453,19 @@ Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for 
 
 [Pili][] (or sex pili; singular pilus) are appendages that pull cells together for DNA transfer.
 
+Prokaryotes asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
+
+Prokaryotic shapes are characterized as either [coccus][] (spherical; plural cocci), [bacillus][] (rod-shaped; plural bacilli), [spiral][] (stiff spirilla or flexible spirochetes), or [pleiomorphic][] (star-shaped, triangular, square, etc.). Curved bacilli are called [vibrio][]. If cells remain attached after binary fission, if there are two, the prefix diplo- is used (e.g. diplococci), if there are more than two, the prefix strepto- is used (e.g. streptococci). If fission and connection occurs in two planes, the groups are called tetrads. If fission and connection occurs in three planes, the groups are called sarcinae. If fission and connection occurs in random planes, the prefix staph- is used (e.g. staphylococci).
+
 #### Bacteria
 
-[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas), an inner membrane, a possible outer membrane of lipopolysaccharides, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides.
+[Bacteria][] are prokaryotes with a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, an inner membrane, a possible outer membrane of lipopolysaccharides, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication.
 
-Bacteria have one or more DNA chromosomes (e.g. [Vibrio][] has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
+Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]). Some bacteria have additional DNA plasmids.
 
 A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red.
 
 [Bacterial Flagella][] use a motor, hook, and filament.
-
-Bacteria asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
 Some bacteria may form [endospores][] when there is a lack of nutrients which are a copy of its genome surrounded by keratin and peptidoglycan and the endospore pauses metabolism until nutrients are present again.
 
@@ -1472,7 +1480,7 @@ One bacterium may transfer some genes to another bacterium through various types
 
 [Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
-Some groups of bacteria coordinate metabolism in groups called [biofilms][]. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
+Some groups of bacteria coordinate metabolism in groups called [biofilms][] which are loosely bound by capsules. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
 
 An average [E. coli cell has about 35 billion atoms][atoms in e coli].
 
@@ -1497,7 +1505,7 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
-[Protozoa][] is an informal grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi).
+[Protozoa][] is an informal grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi). Some protozoa have an outer envelope called a [pellicle][] which is similar to a bacterial cell wall.
 
 [Amoeba][] is an informal grouping of single-celled eukaryotes that move using pseudopodia and may or may not have a cell wall.
 
@@ -1538,10 +1546,6 @@ Material may be first sorted inside [endosomes][] before being processed by the 
 #### Vacuoles
 
 [Vacuoles][] are membrane-enclosed sacs used to store waste products and help maintain structure.
-
-#### Cilia
-
-[Cilia][] are protrusions from a cell membrane that participate in sensing stimuli or motility.
 
 #### Anatomy
 
@@ -1806,7 +1810,7 @@ Most fungi spend most of their life as haploid organisms with a brief diploid pe
 
 Multi-cellular fungi form a network of tiny filaments called [hyphae][] which form tubular cell walls around the membranes of fungi cells. Hyphae are divided by walls called [septa][] (singular septum) unless the fungi are [coenocytic][]. Hyphae form an object called [mycelium][] which invades the material the fungi is eating.
 
-Many fungi reproduce both sexually and asexually. Two mycelia may merge into a [plasmogamy][] which shares two nuclei called [heterokaryon][] in a structure called a [zygosporangium][] or combine more fully into a [dikaryotic][], multi-nuclei cell. In the process of [karyogamy][], the two haploid nuclei fuse into diploid cells.
+Many fungi reproduce both sexually and asexually. Two mycelia may merge into a [plasmogamy][] which shares two nuclei called [heterokaryon][] in a structure called a [zygosporangium][] or combine more fully into a [dikaryotic][], multi-nuclei cell. In the process of [karyogamy][], the two haploid nuclei fuse into diploid cells. A fungal spore is called a [conidiophore][] which forms in a sporangium called a sporangiophore.
 
 A [lichen][] is a grouping of many photosynthetic organisms within a fungal hyphae.
 
@@ -2481,9 +2485,9 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell. Viral DNA or RNA may be called vDNA or vRNA, respectively.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][]. Viruses may have an additional [viral envelope][] around the capsid. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively.
 
-Glycoproteins on the capsid or viral envelope help to bind with surface proteins on a target cell and inject their material through receptor-mediated endocytosis.
+Glycoproteins on the capsid or viral envelope (sometimes called spikes or attachment fibers) help to bind with surface proteins on a target cell and inject their material through receptor-mediated endocytosis.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
@@ -2793,11 +2797,13 @@ A [transmission electron microscope][] (TEM) focuses a beam of electrons through
 
 Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative surface charge of bacteria. Such dyes may be used as a [negative stain][] where the background is stained and the organisms are not.
 
-Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue).
+Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue) to visualize size, shape, arrangement, and structure of any organisms on a plate.
 
 A differential stain uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
 
 A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
+
+[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining
 
 ## Cancer
 
@@ -2896,6 +2902,8 @@ if (elements.length) {
   elements[0].innerHTML = "";
 }
 </script>
+
+<!-- References -->
 
 [1,2-diacylglycerol]: https://en.wikipedia.org/wiki/Diglyceride#Protein_kinase_C_activation
 [1,3-biphosphoglycerate]: https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid
@@ -3099,6 +3107,7 @@ if (elements.length) {
 [axon hillock]: https://en.wikipedia.org/wiki/Axon_hillock
 [b cells]: https://en.wikipedia.org/wiki/B_cell
 [β pleated sheet]: https://en.wikipedia.org/wiki/Beta_sheet
+[bacillus]: https://en.wikipedia.org/wiki/Bacillus_(shape)
 [backbone]: https://en.wikipedia.org/wiki/Vertebral_column
 [backbone chain]: https://en.wikipedia.org/wiki/Backbone_chain
 [bacteria]: https://en.wikipedia.org/wiki/Bacteria
@@ -3301,6 +3310,7 @@ if (elements.length) {
 [co2 acidic]: https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution
 [coa]: https://en.wikipedia.org/wiki/Coenzyme_A
 [coast]: https://en.wikipedia.org/wiki/Coast
+[coccus]: https://en.wikipedia.org/wiki/Coccus
 [cochlea]: https://en.wikipedia.org/wiki/Cochlea
 [coding strand]: https://en.wikipedia.org/wiki/Coding_strand
 [codon]: https://en.wikipedia.org/wiki/Genetic_code
@@ -3340,6 +3350,7 @@ if (elements.length) {
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [cone cells]: https://en.wikipedia.org/wiki/Cone_cell
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
+[conidiophore]: https://en.wikipedia.org/wiki/Conidium
 [conjugate acid]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy
 [conjugation]: https://en.wikipedia.org/wiki/Bacterial_conjugation
 [connective tissues]: https://en.wikipedia.org/wiki/Connective_tissue
@@ -3419,6 +3430,7 @@ if (elements.length) {
 [derivative]: https://en.wikipedia.org/wiki/Leibniz%27s_notation
 [dermis]: https://en.wikipedia.org/wiki/Dermis
 [desert]: https://en.wikipedia.org/wiki/Desert
+[dessication]: https://en.wikipedia.org/wiki/Desiccation
 [desmosomes]: https://en.wikipedia.org/wiki/Desmosome
 [detritus]: https://en.wikipedia.org/wiki/Detritus
 [deuterium]: https://en.wikipedia.org/wiki/Deuterium
@@ -3791,6 +3803,7 @@ if (elements.length) {
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
 [heat capacity]: https://en.wikipedia.org/wiki/Heat_capacity
+[heat-fixing]: https://en.wikipedia.org/wiki/Fixation_(histology)#Types
 [heat-shock proteins]: https://en.wikipedia.org/wiki/Heat_shock_protein
 [heavy elements]: https://en.wikipedia.org/wiki/Triple-alpha_process#Nucleosynthesis_of_heavy_elements
 [helicases]: https://en.wikipedia.org/wiki/Helicase
@@ -4389,6 +4402,7 @@ if (elements.length) {
 [pectins]: https://en.wikipedia.org/wiki/Pectin
 [pedigree chart]: https://en.wikipedia.org/wiki/Pedigree_chart
 [pelagic zone]: https://en.wikipedia.org/wiki/Pelagic_zone
+[pellicle]: https://en.wikipedia.org/wiki/Protozoa#Pellicle
 [penicillin]: https://en.wikipedia.org/wiki/Penicillin
 [pep]: https://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid
 [pep carboxylase]: https://en.wikipedia.org/wiki/Phosphoenolpyruvate_carboxylase
@@ -4466,6 +4480,7 @@ if (elements.length) {
 [plasmolysis]: https://en.wikipedia.org/wiki/Plasmolysis
 [plastids]: https://en.wikipedia.org/wiki/Plastid
 [platelets]: https://en.wikipedia.org/wiki/Platelet
+[pleiomorphic]: https://en.wikipedia.org/wiki/Pleomorphism_(microbiology)
 [pleiotropy]: https://en.wikipedia.org/wiki/Pleiotropy
 [pluripotent]: https://en.wikipedia.org/wiki/Cell_potency#Pluripotency
 [pnictogens]: https://en.wikipedia.org/wiki/Pnictogen
@@ -4757,6 +4772,7 @@ if (elements.length) {
 [sperm]: https://en.wikipedia.org/wiki/Sperm
 [sphincter]: https://en.wikipedia.org/wiki/Sphincter
 [spinal cord]: https://en.wikipedia.org/wiki/Spinal_cord
+[spiral]: https://en.wikipedia.org/wiki/Spiral_bacteria
 [spleen]: https://en.wikipedia.org/wiki/Spleen
 [spliceosome]: https://en.wikipedia.org/wiki/Spliceosome
 [sponges]: https://en.wikipedia.org/wiki/Sponge
