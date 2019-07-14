@@ -998,6 +998,8 @@ An organism is an object with the properties of life.
 
 A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may reproduce sexually with each other, or by physical and genetic similarities for asexual organisms. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations of different species. A [metapopulation][] is a group of populations of the same species in some area that may immigrate and emmigrate between each other.
 
+[Symbiosis][] is a condition where multiple species (smallest ones called [symbionts][]) live in close contact with a larger species (the [host][]). In [mutualism][], the species benefit each other. In [commensalism][], one species benefits and the others are not significantly affected. In [parasitism][], one species benefits and the other is hurt.
+
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
 A character is a feature (e.g. color) of an organism. If a character has multiple variants across a group of organisms, a particular variant (e.g. blue color) is called a [trait][].
@@ -2263,7 +2265,7 @@ The [Ileum][] is the third part of the small intestine which absorbs any remaini
 
 The ileum connects to the [large intestine][] (including the colon, cecum, and rectum) at a T-shaped junction. One branch of the T junction leads to the cecum which ferments some ingested material and includes an extension called the [appendix][] which may have symbiotic microorganisms. The other branch of the T junction leads to the [colon][] which completes the recovery of most water and the remaining material is called [feces][] which are driven to the rectum. The [rectum][] is the end of the large intestine where feces are stored until expulsion. A sphincter at the end of the rectum controls expulsion of feces through the [anus][].
 
-The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help produce nutrients.
+The collection of microorganisms living in and on the body is called the [microbiome][] and some bacteria in the intestines help produce nutrients. Some bacteria such as some strains of <i>[Escherichia coli][]</i> (<i>E. coli</i>) are commensal and secrete antibacterial proteins called colicins that crowd out parasitic bacteria. After long treatments of antibiotics which may kill many of the commensal microbiota, disease-causing bactera such as <i>[Clostridium difficile][]</i> (<i>C. difficile</i>) may establish themselves and secrete toxins that cause diarrhea or [pseudomembranous colitis][].
 
 ##### Bile Acid
 
@@ -2414,10 +2416,6 @@ The phylogeny of protists is roughly:
         * Choanoflagellates
         * Fungi (non-Protists)
         * Animals (non-Protists)
-
-### Organism Interactions
-
-[Symbiosis][] is a condition where multiple species (smallest ones called [symbionts][]) live in close contact with a larger species ([host][]). In [mutualism][], the species benefit each other. In [commensalism][], one species benefits and the others are not significantly affected. In [parasitism][], one species consumes the host.
 
 ### Cell Death
 
@@ -3211,6 +3209,7 @@ if (elements.length) {
 [clitoris]: https://en.wikipedia.org/wiki/Clitoris
 [clonal selection]: https://en.wikipedia.org/wiki/Clonal_selection
 [clone]: https://en.wikipedia.org/wiki/Clone_(cell_biology)
+[clostridium difficile]: https://en.wikipedia.org/wiki/Clostridioides_difficile_(bacteria)
 [clustered regularly interspersed short palindromic repeats]: https://en.wikipedia.org/wiki/CRISPR
 [cnidaria]: https://en.wikipedia.org/wiki/Cnidaria
 [co-dominance]: https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance
@@ -3486,6 +3485,7 @@ if (elements.length) {
 [erythroblasts]: https://en.wikipedia.org/wiki/Nucleated_red_blood_cell
 [erythrocytes]: https://en.wikipedia.org/wiki/Red_blood_cell
 [erythropoietin]: https://en.wikipedia.org/wiki/Erythropoietin
+[escherichia coli]: https://en.wikipedia.org/wiki/Escherichia_coli
 [esophagus]: https://en.wikipedia.org/wiki/Esophagus
 [essential amino acids]: https://en.wikipedia.org/wiki/Essential_amino_acid
 [essential fatty acids]: https://en.wikipedia.org/wiki/Essential_fatty_acid
@@ -4424,6 +4424,7 @@ if (elements.length) {
 [protozoa]: https://en.wikipedia.org/wiki/Protozoa
 [provirus]: https://en.wikipedia.org/wiki/Provirus
 [proximal tubule]: https://en.wikipedia.org/wiki/Proximal_tubule
+[pseudomembranous colitis]: https://en.wikipedia.org/wiki/Colitis#Infectious
 [pseudopodia]: https://en.wikipedia.org/wiki/Pseudopodia
 [pulmonary arteries]: https://en.wikipedia.org/wiki/Pulmonary_circulation
 [pulmonary circulation]: https://en.wikipedia.org/wiki/Pulmonary_circulation
