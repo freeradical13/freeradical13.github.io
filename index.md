@@ -1810,6 +1810,10 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 
 [Passive immunity][] is the transfer (or injection, e.g. [antiserums][] such as [antivenoms][] and [antitoxins][]) of antibodies which last temporarily.
 
+#### Immune System Notes
+
+The glycocalyx capsule or slime layer of some prokaryotes (e.g. <i>Streptococcus pneumoniae</i>, <i>Klebsiella pneumoniae</i>) have chemicals that are generally present in the host so they are not recognized as pathogens.
+
 #### Fungi
 
 [Fungi][] (singular fungus) are a kingdom of uni- or multi-cellular eukaryotic organisms which are heterotrophs and have cell walls made of chitin. Fungi include yeasts, molds, and mushrooms. Fungi break down organic material and recycle nutrients. [Yeasts][] are single-celled fungi. Some fungi such as some yeast have DNA plasmids.
