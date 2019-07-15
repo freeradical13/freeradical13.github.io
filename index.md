@@ -1445,19 +1445,21 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are composed of a phospholipid bilayer cell membrane and usually additional layers outside that (discussed below). The cytoplasm includes an area not enclosed with a membrane called the [nucleoid][] which contains the DNA in the form of circular chromosomes and potentially some plasmids. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about 1 micron in diameter.
+[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their circular and plasmid DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have a phospholipid bilayer cell membrane and may have other layers outside of that. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
-Prokaryotes may have [fimbriae][] which are shorter than flagella and allow for sticking to surroundings.
+Some prokaryotes may have [fimbriae][] which are shorter than flagella and allow for sticking to surroundings.
 
-[Pili][] (or sex pili; singular pilus) are appendages that pull cells together for DNA transfer.
+Some prokaryotes may have [pili][] (or sex pili; singular pilus) which are appendages that pull cells together for DNA transfer.
 
 Prokaryotes asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
 Prokaryotic shapes are characterized as either [coccus][] (spherical; plural cocci), [bacillus][] (rod-shaped; plural bacilli), [spiral][] (stiff spirilla or flexible spirochetes), or [pleiomorphic][] (star-shaped, triangular, square, etc.). Curved bacilli with one curve are called [vibrio][]. Curved bacilli with a few curves are called [spirillum][]. Curved bacilli with more curves are called [spirochaete][].
 
 If cells remain attached after binary fission, if there are two, the prefix diplo- is used (e.g. diplococci), if there are more than two, the prefix strepto- is used (e.g. streptococci). If fission and connection occurs in two planes, the groups are called tetrads. If fission and connection occurs in three planes, the groups are called sarcinae. If fission and connection occurs in random planes, the prefix staph- is used (e.g. staphylococci).
+
+Prokaryotes are either classified as bacteria or archaea depending on differences in their rRNA.
 
 #### Bacteria
 
@@ -1503,7 +1505,7 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 
 ### Eukaryotes
 
-[Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes. In general, eukaryotes are approximately 10-100 microns in diameter.
+[Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes. In general, eukaryotes are approximately [10-100 microns in diameter][eukaryote size].
 
 Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
@@ -3636,6 +3638,7 @@ if (elements.length) {
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eudicots]: https://en.wikipedia.org/wiki/Eudicots
 [euglenozoans]: https://en.wikipedia.org/wiki/Euglenozoa
+[eukaryote size]: http://book.bionumbers.org/how-big-is-a-human-cell/
 [eukaryotes]: https://en.wikipedia.org/wiki/Eukaryote
 [eukaryotic flagella]: https://en.wikipedia.org/wiki/Flagellum#Eukaryotic
 [eustachian tube]: https://en.wikipedia.org/wiki/Eustachian_tube
@@ -4567,6 +4570,7 @@ if (elements.length) {
 [procambium]: https://en.wikipedia.org/wiki/Meristem#Primary_meristems
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
+[prokaryote size]: http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
 [prolactin]: https://en.wikipedia.org/wiki/Prolactin
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
