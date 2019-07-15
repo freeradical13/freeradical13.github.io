@@ -1087,7 +1087,7 @@ A cell in a hypertonic solution will lose water which leads to contraction of th
 
 #### Flagella
 
-[Flagella][] (singular flagellum) are protrusions from a cell membrane that act to move a cell and sometimes enhance adhesion to other substances and sometimes perform other functions. Flagella exist in some prokaryotes and some eukaryotes although they have slightly different structure.
+[Flagella][] (singular flagellum) are protrusions from a cell membrane that act to move a cell and sometimes enhance adhesion to other substances and sometimes perform other functions. Flagella exist in some prokaryotes and some eukaryotes although they have slightly different structure. Flagella function by using a 360° rotation rather than whipping side to side.
 
 #### Cilia
 
@@ -1447,15 +1447,17 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their circular and plasmid DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have a phospholipid bilayer cell membrane and may have other layers outside of that. Prokaryotes may have flagella used for locomotion and sensing. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
+[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their circular and plasmid DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have an inner phospholipid bilayer cell membrane and most have a cell wall outside of the cell membrane to provide structure and protect from osmotic forces. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
+
+Some prokaryotes may have an outermost, sticky [capsule][] (or [glycocalyx][]) of firmly attached polysaccharides and/or polypeptides extruded from the cell which protects against dessication. If the glycocalyx is loosely attached and water-soluble, it is called a [slime layer][] instead of a capsule and may help attach to surfaces.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
-Some prokaryotes may have [fimbriae][] which are shorter than flagella and allow for sticking to surroundings.
+Some prokaryotes may have flagella used for locomotion and sensing.
 
-Some prokaryotes may have [pili][] (or sex pili; singular pilus) which are appendages that pull cells together for DNA transfer.
+Some prokaryotes may have [fimbriae][] which allow for sticking to surroundings instead of movement and are shorter than flagella.
 
-Some prokaryotes may have an outermost, sticky [capsule][] (or [glycocalyx][]) of firmly attached polysaccharides and/or polypeptides extruded from the cell which protects against dessication. If the glycocalyx is loosely attached and water-soluble, it is called a [slime layer][] instead of a capsule and may help attach to surfaces.
+Some prokaryotes may have [pili][] (or sex pili; singular pilus) which are appendages that pull substances towards a cell (e.g. another cell for DNA transfer) or move by pulling on a stationary substance.
 
 Prokaryotes asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
@@ -1467,7 +1469,7 @@ Prokaryotes are either classified as bacteria or archaea depending on difference
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule.
+[Bacteria][] are prokaryotes with an an inner phospholipid bilayer cell membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides on the outside of the inner membrane, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule or slime layer.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]).
 
@@ -1488,7 +1490,7 @@ One bacterium may transfer some genes to another bacterium through various types
 
 [Cyanobacteria][] are bacteria that obtain energy through photosynthesis.
 
-Some groups of bacteria organize in groups called [biofilms][] which are loosely bound by capsules and may coordinate metabolism. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
+Some groups of bacteria organize in groups called [biofilms][] which are loosely bound by capsules and fimbriae and may coordinate metabolism. For example, Anabaena is a cyanobacteria which produces O<sub>2</sub> as a product of photosynthesis, but this inactivates nitrogen fixation, so specialized cells called [Heterocysts][] perform nitrogen fixation in biofilms next to the photosynthetic cells.
 
 An average [E. coli cell has about 35 billion atoms][atoms in e coli].
 
