@@ -2840,6 +2840,12 @@ Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomaviru
 
 The [Ames Test][] applies a chemical to a Salmonella Typhimurium bacteria which is auxotrophic for Histidines to see if the chemical causes excessive mutations be creating mutants that are prototrophic.
 
+## Appendix
+
+### Noteworthy Human Diseases
+
+[Anatidaephobia][]: The fear that somewhere, somehow, a duck is watching you.
+
 # Feedback
 
 [Ask a Question or Contribute][issues]
@@ -3021,6 +3027,7 @@ if (elements.length) {
 [anaphase]: https://en.wikipedia.org/wiki/Anaphase
 [anaphylactic shock]: https://en.wikipedia.org/wiki/Anaphylaxis
 [anaphylatoxins]: https://en.wikipedia.org/wiki/Anaphylatoxin
+[anatidaephobia]: https://en.wiktionary.org/wiki/anatidaephobia
 [anatomy]: https://en.wikipedia.org/wiki/Anatomy
 [anchorage dependence]: https://en.wikipedia.org/wiki/Plating_efficiency
 [androgen hormones]: https://en.wikipedia.org/wiki/Androgen
