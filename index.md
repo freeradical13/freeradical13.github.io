@@ -1447,7 +1447,7 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their  DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have an inner phospholipid bilayer cell membrane and most have a cell wall outside of the cell membrane to provide structure and protect from osmotic forces. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
+[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have an inner phospholipid bilayer cell membrane and most have a cell wall outside of the cell membrane to provide structure and protect from osmotic forces. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
 
 Some prokaryotes may have an outermost, sticky [capsule][] (or [glycocalyx][]) of firmly attached polysaccharides and/or polypeptides extruded from the cell which protects against dessication. If the glycocalyx is loosely attached and water-soluble, it is called a [slime layer][] instead of a capsule and may help attach to surfaces.
 
