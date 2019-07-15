@@ -1087,11 +1087,11 @@ A cell in a hypertonic solution will lose water which leads to contraction of th
 
 #### Flagella
 
-[Flagella][] are protrusions from a membrane that act to move a cell and sometimes enhance adhesion to other substances.
+[Flagella][] (singular flagellum) are protrusions from a cell membrane that act to move a cell and sometimes enhance adhesion to other substances and sometimes perform other functions. Flagella exist in some prokaryotes and some eukaryotes although they have slightly different structure.
 
 #### Cilia
 
-[Cilia][] are protrusions from a membrane that participate in sensing stimuli or motility.
+[Cilia][] are protrusions from a cell membrane that are very similar to flagella although some cilia may be used instead to move substances across the cell surface instead of for movement.
 
 #### Electron Transport Chain
 
