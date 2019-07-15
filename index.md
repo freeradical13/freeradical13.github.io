@@ -1455,6 +1455,8 @@ Some prokaryotes may have [fimbriae][] which are shorter than flagella and allow
 
 Some prokaryotes may have [pili][] (or sex pili; singular pilus) which are appendages that pull cells together for DNA transfer.
 
+Some prokaryotes may have an outermost, sticky [capsule][] (or [glycocalyx][]) of firmly attached polysaccharides and/or polypeptides extruded from the cell which protects against dessication. If the glycocalyx is loosely attached and water-soluble, it is called a [slime layer][] instead of a capsule and may help attach to surfaces.
+
 Prokaryotes asexually reproduce through [binary fission][] (similar to mitosis although there's no mitotic spindle). Binary fission may be initiated when DNA begins to replicate at an origin of replication.
 
 Prokaryotic shapes are characterized as either [coccus][] (spherical; plural cocci), [bacillus][] (rod-shaped; plural bacilli), [spiral][] (stiff spirilla or flexible spirochetes), or [pleiomorphic][] (star-shaped, triangular, square, etc.). Curved bacilli with one curve are called [vibrio][]. Curved bacilli with a few curves are called [spirillum][]. Curved bacilli with more curves are called [spirochaete][].
@@ -1465,7 +1467,7 @@ Prokaryotes are either classified as bacteria or archaea depending on difference
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides and proteins which protects against dessication and may help with attachment.
+[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]).
 
@@ -1511,7 +1513,7 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 
 Eukaryotic cells include organelles floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
-[Protozoa][] is an informal grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi). Some protozoa have an outer envelope called a [pellicle][] which is similar to a bacterial cell wall.
+[Protozoa][] is an informal, paraphyletic grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi). Some protozoa have an outer envelope called a [pellicle][] which is similar to a bacterial cell wall.
 
 [Amoeba][] is an informal grouping of single-celled eukaryotes that move using pseudopodia and may or may not have a cell wall.
 
