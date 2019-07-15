@@ -1447,9 +1447,11 @@ A [Hybrid Zone][] is a geographical area in which multiple species are more like
 
 ### Prokaryotes
 
-[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their circular and plasmid DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have an inner phospholipid bilayer cell membrane and most have a cell wall outside of the cell membrane to provide structure and protect from osmotic forces. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
+[Prokaryotes][] are defined primarily by a lack of a membrane surrounding their  DNA which instead is floating in an area of the cytoplasm called the [nucleoid][]. Prokaryotes have an inner phospholipid bilayer cell membrane and most have a cell wall outside of the cell membrane to provide structure and protect from osmotic forces. In general, prokaryotes are about [1 micron in diameter][prokaryote size].
 
 Some prokaryotes may have an outermost, sticky [capsule][] (or [glycocalyx][]) of firmly attached polysaccharides and/or polypeptides extruded from the cell which protects against dessication. If the glycocalyx is loosely attached and water-soluble, it is called a [slime layer][] instead of a capsule and may help attach to surfaces.
+
+Prokaryotes have [one or more circular DNA chromosomes][prokaryotic chromosomes] (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]), and zero or more plasmids.
 
 Most prokaryotes are capable of [taxis][] which is movement toward or away a stimulus. [Chemotaxis][] is taxis with a chemical stimulus.
 
@@ -1469,9 +1471,7 @@ Prokaryotes are either classified as bacteria or archaea depending on difference
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with an an inner phospholipid bilayer cell membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides on the outside of the inner membrane, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule or slime layer.
-
-Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]).
+[Bacteria][] are prokaryotes with an an inner phospholipid bilayer cell membrane, most have a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides on the outside of the inner membrane, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule or slime layer.
 
 A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red. Both Gram-positive and Gram-negative bacteria may have a capsule. The outer membrane is only found in Gram-negative bacteria.
 
@@ -4583,6 +4583,7 @@ if (elements.length) {
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
 [prokaryote size]: http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/
 [prokaryotes]: https://en.wikipedia.org/wiki/Prokaryote
+[prokaryotic chromosomes]: https://en.wikipedia.org/wiki/Chromosome#Prokaryotes
 [prolactin]: https://en.wikipedia.org/wiki/Prolactin
 [prometaphase]: https://en.wikipedia.org/wiki/Prometaphase
 [promiscous mating]: https://en.wikipedia.org/wiki/Promiscuity
