@@ -1782,7 +1782,7 @@ There are five types of B cell antibodies (with Ig an abbreviation for immunoglo
 
 [Cytotoxic T cells][] are like specialized Natural Killer Cells and defend against intracellular pathogens by detecting class I MHC-bound proteins on infected cells using a protein called [CD8][]. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis of matching cells.
 
-[Helper T cells][] defend against extracellularl pathogens by detecting class II MHC-bound proteins on antigen-presenting cells such as dendritic cells, macrophages, and B cells using a protein called [CD4][]. This binding releases cytokines which activates the T cell and stimulates cloning and cytokines which stimulate cloning of B cells. [Regulatory T Cells][] are Helper T cells that help control the activities of the other T cell types to limit potential damage.
+[Helper T cells][] defend against extracellular pathogens by detecting class II MHC-bound proteins on antigen-presenting cells such as dendritic cells, macrophages, and B cells using a protein called [CD4][]. This binding releases cytokines which activates the T cell and stimulates cloning and cytokines which stimulate cloning of B cells. [Regulatory T Cells][] are Helper T cells that help control the activities of the other T cell types to limit potential damage.
 
 B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
 
@@ -2487,7 +2487,7 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively. Viruses are generally about 10 - 300nm in diameter.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer plasma membrane with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively. Viruses are generally about 10 - 300nm in diameter. Virus shapes are generally either helical, polyhedral, or complex.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
