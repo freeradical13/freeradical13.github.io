@@ -1020,11 +1020,13 @@ A [microbe][] (or microorganism) is an organism that is sized in microns.
 
 ### Phylogeny
 
-[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Prokaryotes are subdivided into Archaea and Bacteria. Eukaryotes include a membrane-bound nucleus containing their chromosomes and have membrane-bound organelles, whereas prokaryotes have free-floating chromosomes.
+[Phylogeny][] is the study of the historical relationships between organisms and placement into a [taxonomy][]. A taxonomy is broken down into a tree of groups called [taxa][] (singular taxon). The top-most taxa (called [domains][]) are Prokaryotes and Euykaryotes. Eukaryotes include a membrane-bound nucleus containing their chromosomes and other membrane-bound compartments called [organelles][], whereas prokaryotes have free-floating chromosomes. Prokaryotes are subdivided into Archaea and Bacteria.
 
-Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingdoms: Animals, Plants, Fungi, and Protista (Protists are simply any eukaryotes other than animals, plants, and fungi). Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits and genetic relatedness. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera (singular genus). [Genera][] are divided into species. The official name of an organism (or [binomial nomenclature][]) is the name of the genus followed by the name of the species.
+Below the domain is the [kingdom][]. One common split of the Eukarya domain is into the kingdoms: Animals, Plants, Fungi, and Protista (Protists are simply any eukaryotes other than animals, plants, and fungi). Kingdoms are divided into [Phyla][] (singular phylum) based on features such as common traits and genetic relatedness. Phyla are divided into classes. [Classes][] are divided into orders. [Orders][] are divided into families. [Families][] are divided into genera. [Genera][] (singular genus) are divided into species.
 
-Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or [clade][]) includes all the descendants of a common ancestor. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor. A lineage that diverges early in the history of a group is a [basal taxon][].
+The official name of an organism (or [binomial nomenclature][]) is the name of the genus followed by the name of the species and the name is usually written in <i>italics</i>. The common name of an organism is an informal name which might be ambiguous. For example, dog is a common name for a domesticated wolf and its official name is [<i>Canis familiaris</i>][dog]. A name with a genus followed by  [<i>spp.</i>][] (<i>species pluralis</i>, Latin for multiple species) refers to a species of a known genus but the exact species is unknown or unspecified.
+
+Since all organisms have common descent, this top-down organization is called the [tree of life][]. A [monophyletic group][] (or [clade][]) includes a common ancestor and all of its descendants. A [paraphyletic group][] is a monophyletic group that excludes some subsets of the total monophyletic group. A [polyphyletic group][] shares traits but does not share a common ancestor. A lineage that diverges early in the history of a group is a [basal taxon][].
 
 Both prokaryotes and eukaryotes are made of cells.
 
@@ -1507,7 +1509,7 @@ Archaea include [extremophiles][] that exist in conditions which hurt most other
 
 [Eukaryotes][] are single or multi-cellular organisms that have a nucleus containing chromosomes. Some have an additional cell wall like prokaryotes. In general, eukaryotes are approximately [10-100 microns in diameter][eukaryote size].
 
-Eukaryotic cells include [organelles][] floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
+Eukaryotic cells include organelles floating in the cytoplasm which provide various functions and are themselves contained in phospholipid bilayers. All of the organelles together are called the [endomembrane system][].
 
 [Protozoa][] is an informal grouping of single-celled, heterotrophic eukaryotes that move and do not have a cell wall (therefore, are not plants nor fungi). Some protozoa have an outer envelope called a [pellicle][] which is similar to a bacterial cell wall.
 
@@ -2489,7 +2491,7 @@ Cell death is either caused by necrosis or a process of programmed cell death.
 
 ## Viruses
 
-[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer plasma membrane with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively. Viruses are generally about 10 - 300nm in diameter. Virus shapes are generally either helical, polyhedral, or complex.
+[Viruses][] (singular viron) have DNA (single- or double-stranded) or RNA (single- or double-stranded) but do not have a nucleus or other organelles. Instead, viruses surround their genome with a protein shell called a [capsid][] (made up of proteins called [capsomeres][]) with glycoproteins called attachment fibers to help bind with surface proteins on a target cell. Viruses may have an additional [viral envelope][] around the capsid which is a phospholipid bilayer plasma membrane with glycoproteins called spikes used for attachment. Viruses reproduce by injecting their genes into an existing cell and use the cell's machinery to reproduce. Viral DNA or RNA may be called vDNA or vRNA, respectively. Viruses are generally about [10 - 300nm in diameter][virus size]. Virus shapes are generally either helical, polyhedral, or complex.
 
 Viruses that infect bacteria are called [bacteriophages][] (or phages). The capsid on a phage is connected to a tail structure that helps to attach to a target cell, after which enzymes digest part of the membrane to allow the phage to insert its genes.
 
@@ -3492,6 +3494,7 @@ if (elements.length) {
 [diurnal]: https://en.wikipedia.org/wiki/Diurnality
 [divergent boundary]: https://en.wikipedia.org/wiki/Divergent_boundary
 [dna polymerase]: https://en.wikipedia.org/wiki/DNA_polymerase
+[dog]: https://en.wikipedia.org/wiki/Dog
 [domains]: https://en.wikipedia.org/wiki/Domain_(biology)
 [dominant]: https://en.wikipedia.org/wiki/Dominance_(genetics)
 [dorsal]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Dorsal_and_ventral
@@ -4819,6 +4822,7 @@ if (elements.length) {
 [sporocytes]: https://en.wikipedia.org/wiki/Sporogenesis#Formation_of_reproductive_spores
 [sporophylls]: https://en.wikipedia.org/wiki/Sporophyll
 [sporophyte]: https://en.wikipedia.org/wiki/Sporophyte
+[spp]: https://en.wikipedia.org/wiki/Species#Abbreviations
 [src]: https://en.wikipedia.org/wiki/Proto-oncogene_tyrosine-protein_kinase_Src
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
@@ -5065,6 +5069,7 @@ if (elements.length) {
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
 [villi]: https://en.wikipedia.org/wiki/Intestinal_villus
 [viral envelope]: https://en.wikipedia.org/wiki/Viral_envelope
+[virus size]: http://book.bionumbers.org/how-big-are-viruses/
 [viruses]: https://en.wikipedia.org/wiki/Virus
 [visible light]: https://en.wikipedia.org/wiki/Visible_spectrum
 [visual pigments]: https://en.wikipedia.org/wiki/Ommochrome
