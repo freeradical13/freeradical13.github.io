@@ -1461,7 +1461,7 @@ If cells remain attached after binary fission, if there are two, the prefix dipl
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides which protects against dessication and may help with attachment.
+[Bacteria][] are prokaryotes with an inner plasma membrane, a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides which protects against excessive osmotic effects, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer, gelatinous, sticky [capsule][] (or [glycocalyx][], or [slime layer][] if water-soluble) of polysaccharides and proteins which protects against dessication and may help with attachment.
 
 Bacteria have one or more DNA chromosomes (e.g. Vibrio has two, although with some [debate about multiple bacterial chromosomes][debate multiple bacteria chromosomes]).
 
@@ -1633,7 +1633,7 @@ An [opportunistic pathogen][] is a mutualistic or commensal organism under norma
 
 Pathogens may inflict:
 
-* [Exotoxins][]: Proteins secreted by pathogens which cause damage.
+* [Exotoxins][]: Proteins secreted by pathogens which cause damage. Hemolytic toxins (or hemolysins, or cytolytic toxins, or cytolysins, or cytotoxins) create holes in eukaryotic cells which causes water inflow and cell lysis.
 * [Endotoxins][]: Lipopolysaccharides of gram-negative bacteria released when the bacteria die and cause damage.
 
 Non-pathogenic damage may be caused by:
@@ -2775,6 +2775,8 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase which removes a phosphate group from pNPP which causes it to turn yellow.
 
+A [Bunsen burner][] creates a flame of about 1,000 °C which is used for sterilization and heating. Expanding air around the bunsen burner also drives some microorganisms in the air away from the work area, which is about 1-2 feet in radius around the burner. An [inoculation loop][] may be used to transfer microorganisms in a liquid: first, sterilizing the loop in the bunsen burner, letting the loop cool near the burner, then using the loop for transfer, and then sterilizing the loop again.
+
 ### Microscopes
 
 [Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
@@ -3192,6 +3194,7 @@ if (elements.length) {
 [buffer]: https://en.wikipedia.org/wiki/Buffer_solution
 [bulk flow]: https://en.wikipedia.org/wiki/Mass_flow
 [bundle-sheath cells]: https://en.wikipedia.org/wiki/Vascular_bundle#Bundle-sheath_cells
+[bunsen burner]: https://en.wikipedia.org/wiki/Bunsen_burner
 [butane]: https://en.wikipedia.org/wiki/Butane
 [c-reactive protein]: https://en.wikipedia.org/wiki/C-reactive_protein
 [c1 complex]: https://en.wikipedia.org/wiki/C1_complex
@@ -3935,6 +3938,7 @@ if (elements.length) {
 [innate behaviors]: https://en.wikipedia.org/wiki/Instinct
 [innate immune system]: https://en.wikipedia.org/wiki/Innate_immune_system
 [inner cell mass]: https://en.wikipedia.org/wiki/Inner_cell_mass
+[inoculation loop]: https://en.wikipedia.org/wiki/Inoculation_loop
 [inositol trisphosphate]: https://en.wikipedia.org/wiki/Inositol_trisphosphate
 [insects]: https://en.wikipedia.org/wiki/Insects
 [insulin]: https://en.wikipedia.org/wiki/Insulin
