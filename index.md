@@ -1471,9 +1471,9 @@ Prokaryotes are either classified as bacteria or archaea depending on difference
 
 #### Bacteria
 
-[Bacteria][] are prokaryotes with an an inner phospholipid bilayer cell membrane, most have a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides on the outside of the inner membrane, a possible outer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule or slime layer.
+[Bacteria][] are prokaryotes with an an inner phospholipid bilayer cell membrane, most have a [peptidoglycan cell wall][] (except for Mycoplasmas) made of polysaccharides on the outside of the inner membrane, a possible outer phospholipid bilayer membrane of lipopolysaccharides (LPS) and lipoproteins outside of the cell wall, and a possible further outer capsule or slime layer.
 
-A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red. Both Gram-positive and Gram-negative bacteria may have a capsule. The outer membrane is only found in Gram-negative bacteria.
+A [Gram Stain][] may be used to differentiate bacteria based on their cell wall thickness. [Gram-positive][] bacteria have a thick layer of peptidoglycan and stain as dark violet. [Gram-negative][] bacteria have a thin layer of peptidoglycan and an additional outer layer of lipopolysaccharides and stain as pink or red. Both Gram-positive and Gram-negative bacteria may have a capsule. The outer phospholipid bilayer membrane is only found in Gram-negative bacteria.
 
 [Bacterial Flagella][] use a motor, hook, and filament.
 
@@ -1815,6 +1815,8 @@ A response to pathogens in the blood and lymph is called a [humoral immune respo
 #### Immune System Notes
 
 The glycocalyx capsule or slime layer of some prokaryotes (e.g. <i>Streptococcus pneumoniae</i>, <i>Klebsiella pneumoniae</i>) have chemicals that are generally present in the host so they are not recognized as pathogens.
+
+The the lipid portion of the LPS in the outer phospholipid bilayer membrane of Gram-negative prokaryotes is named [Lipid A][] and this may trigger fever, vasodilation, inflammation, shock and blood clotting when it is released as part of cell death. Therefore, killing many Gram-negative prokaryotes at the same time may release too much Lipid A for the body to handle.
 
 #### Fungi
 
@@ -4079,6 +4081,7 @@ if (elements.length) {
 [lineweaver-burk reciprocal plot]: https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot
 [linkage disequilibrium]: https://en.wikipedia.org/wiki/Linkage_disequilibrium
 [lipase]: https://en.wikipedia.org/wiki/Lipase
+[lipid a]: https://en.wikipedia.org/wiki/Lipid_A
 [lipids]: http://goldbook.iupac.org/html/L/L03571.html
 [lipogenesis]: https://en.wikipedia.org/wiki/Lipogenesis
 [lipolysis]: https://en.wikipedia.org/wiki/Lipolysis
