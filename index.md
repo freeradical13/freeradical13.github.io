@@ -2936,6 +2936,7 @@ if (elements.length) {
 </script>
 
 <!-- References -->
+<!-- Use APA format within the links below. -->
 
 [1,2-diacylglycerol]: https://en.wikipedia.org/wiki/Diglyceride#Protein_kinase_C_activation
 [1,3-biphosphoglycerate]: https://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid
