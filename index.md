@@ -2331,6 +2331,8 @@ The collection of microorganisms living in and on the body is called the [microb
 
 The average human has about 1000 species of bacteria living in the gut, particularly because it's a sort of constant food. Approximately half of the dry weight of feces is commensal bacteria (10<sup>11</sup> bacteria per gram).
 
+[Probiotics][] are live microorganisms ingested to try to improve digestive microbiota. Probiotics may be effective for acute infectious diarrhea, antibiotic-associated diarrhea, Clostridium difficile-associated diarrhea, hepatic encephalopathy, ulcerative colitis, irritable bowel syndrome, functional gastrointestinal disorders, and necrotizing enterocolitis<sup>[a][Wilkins & Sequoia, 2017]</sup>.
+
 ##### Bile Acid
 
 [Bile acid][] is secreted in the duodenum and is used for digestion and absorption of fat from food. Bile acid emulsifies and breaks apart fat and lipid complexes. Bile acid is a large part of [bile][] which is secreted by the liver and stored and concentrated in the gallbladder.
@@ -4581,6 +4583,7 @@ if (elements.length) {
 [prime symbol]: https://en.wikipedia.org/wiki/Prime_(symbol)
 [primer]: https://en.wikipedia.org/wiki/Primer_(molecular_biology)
 [prions]: https://en.wikipedia.org/wiki/Prion
+[probiotics]: https://en.wikipedia.org/wiki/Probiotic
 [procambium]: https://en.wikipedia.org/wiki/Meristem#Primary_meristems
 [progesterone]: https://en.wikipedia.org/wiki/Progesterone
 [programmed cell death]: https://en.wikipedia.org/wiki/Programmed_cell_death
@@ -5111,6 +5114,7 @@ if (elements.length) {
 [white blood cells]: https://en.wikipedia.org/wiki/White_blood_cell
 [white matter]: https://en.wikipedia.org/wiki/White_matter
 [wild type]: https://en.wikipedia.org/wiki/Wild_type
+[Wilkins & Sequoia, 2017]: https://www.ncbi.nlm.nih.gov/pubmed/28762696 'Wilkins, T., & Sequoia, J. (2017). Probiotics for gastrointestinal conditions: a summary of the evidence. American Family Physician, 96(3), 170-178.'
 [wind]: https://en.wikipedia.org/wiki/Wind
 [wood]: https://en.wikipedia.org/wiki/Wood
 [x-ray crystallography]: https://en.wikipedia.org/wiki/X-ray_crystallography
