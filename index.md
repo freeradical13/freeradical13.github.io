@@ -1631,7 +1631,7 @@ Some epithelial cells have fatty or lactic acids that inhibit bacterial growth, 
 
 The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
-A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system. A [syndrome][] is a collection of diseases.
+A [disease][] (or sickness, or disorder, or morbidity, or pathology, or illness) is a condition that negatively affects normal structure or function of some part(s) of a host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system. An [idiopathic disease][] has an unknown cause. An [iatrogenic disease][] is one caused by someone trying to heal. A [syndrome][] is a collection of diseases.
 
 An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
 
@@ -3952,8 +3952,10 @@ if (elements.length) {
 [hyperpolarization]: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
+[iatrogenic disease]: https://en.wikipedia.org/wiki/Iatrogenesis
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[idiopathic disease]: https://en.wikipedia.org/wiki/Idiopathic_disease
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [imhibition]: https://en.wikipedia.org/wiki/Imbibition
 [immersion oil]: https://en.wikipedia.org/wiki/Oil_immersion#Immersion_oil
