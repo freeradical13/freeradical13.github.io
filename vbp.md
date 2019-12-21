@@ -8,7 +8,7 @@ A method is proposed to use value theory to select and quantitatively prioritize
 
 Keywords: meaning, values, work, prioritization, suffering
 
-[PDF Download](https://github.com/freeradical13/ValueBasedPrioritization/raw/master/value_based_prioritization.pdf)
+[PDF Download](https://github.com/freeradical13/ValueBasedPrioritization/raw/master/value_based_prioritization.pdf) ([Inline](https://docs.google.com/viewer?url=https://github.com/freeradical13/ValueBasedPrioritization/raw/master/value_based_prioritization.pdf))
 
 ## References
 
