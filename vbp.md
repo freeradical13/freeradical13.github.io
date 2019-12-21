@@ -32,7 +32,7 @@ Keywords: meaning, values, work, prioritization, suffering
 
 10. Lindsay G Oades, Michael Steger, Antonelle Delle Fave, and Jonathan Passmore. The Wiley Blackwell handbook of the psychology of positivity and strengths-based approaches at work. John Wiley & Sons, 2017.
 
-11. Michael F Steger and Bryan J Dik. If one is looking for meaning in life, does it help to find meaning in work? Applied Psychology: Health and Well-Being, 1(3):303–320, 2009. doi:[10.1111/j.1758-0854.2009.01018.x](http://dx.doi.org/10.1111/j.1758-0854.2009.01018.x).
+11. Michael F Steger and Bryan J Dik. If one is looking for meaning in life, does it help to find meaning in work?, Applied Psychology: Health and Well-Being, 1(3):303–320, 2009. doi:[10.1111/j.1758-0854.2009.01018.x](http://dx.doi.org/10.1111/j.1758-0854.2009.01018.x).
 
 12. Bryan J Dik and Ryan D Duffy. Make your job a calling: How the psychology of vocation can change your life at work. Templeton Foundation Press, 2012.
 
