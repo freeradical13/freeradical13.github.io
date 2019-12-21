@@ -1016,7 +1016,7 @@ The phenotype for a trait most commonly observed in a species is called the [wil
 
 An organism is [haploid][] if it has one instance of each chromosome. An organism is [diploid][] if it has two instances of each chromosome. An organism is [polyploid][] if it has three or more instances of each chromosome. Matching chromosomes in diploids and polyploids with the same number of genes are called [homologs][] (or homologous chromosomes). The number and appearance of chromosomes is called an organism's [karyotype][].
 
-A [microbe][] (or microorganism) is an organism that is sized in microns.
+A [microbe][] (or microorganism) is an organism that is sized in microns or lower. [Microbiology][] is the study of microbes.
 
 ### Phylogeny
 
@@ -1631,7 +1631,7 @@ Some epithelial cells have fatty or lactic acids that inhibit bacterial growth, 
 
 The [immune system][] in an organism provides a defense system against [pathogens][] (or germs) which are organisms that may cause various types of damage and/or disease, including bacteria, viruses, fungi, and [parasites][] (a heterogenous classification of unicellular protozoa and multicellular invertebrates such as worms).
 
-A [disease][] is a condition that negatively affects normal structure or function of some part(s) of the host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system. A [syndrome][] is a collection of diseases.
+A [disease][] (or sickness, or disorder, or morbidity, or pathology, or illness) is a condition that negatively affects normal structure or function of some part(s) of a host and may be caused by a pathogen or an internal dysfunction (such as an [autoimmune disease][] where the immune system attacks its own host). An [immunodeficiency disease][] is a genetic condition which introduces a defect in the immune system. An [idiopathic disease][] has an unknown cause. An [iatrogenic disease][] is one caused by someone trying to heal. A [syndrome][] is a collection of diseases.
 
 An [endemic disease][] is one that has a generally consistent prevalence in a population. An [epidemic disease][] spreads and increases significantly within two weeks. A [pandemic disease][] is an epidemic disease that spreads quickly across a very large area.
 
@@ -2819,6 +2819,14 @@ A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substa
 
 A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
+### Plating
+
+A [petri dish][] is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] with nutrients that microbes may use to grow.
+
+Common plates include [agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
+
+Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
+
 ### Staining
 
 Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative surface charge of bacteria. Such dyes may be used as a [negative stain][] where the background is stained and the organisms are not.
@@ -2829,7 +2837,7 @@ A differential stain uses multiple dyes to identify different classes of organis
 
 A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
 
-[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining
+[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
 
 ## Cancer
 
@@ -2982,6 +2990,9 @@ if (elements.length) {
 [adrenal glands]: https://en.wikipedia.org/wiki/Adrenal_gland
 [adrenaline]: https://en.wikipedia.org/wiki/Adrenaline
 [aerobic respiration]: https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration
+[agar]: https://en.wikipedia.org/wiki/Agar
+[agar plates]: https://en.wikipedia.org/wiki/Agar_plate
+[agaropectin]: https://en.wikipedia.org/wiki/Agaropectin
 [agarose]: https://en.wikipedia.org/wiki/Agarose
 [air]: https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 [albumin]: https://en.wikipedia.org/wiki/Albumin
@@ -3267,6 +3278,7 @@ if (elements.length) {
 [cdna library]: https://en.wikipedia.org/wiki/CDNA_library
 [cell]: https://en.wikipedia.org/wiki/Cell_(biology)
 [cell-mediated immune response]: https://en.wikipedia.org/wiki/Cell-mediated_immunity
+[cell culture]: https://en.wikipedia.org/wiki/Cell_culture
 [cell cycle]: https://en.wikipedia.org/wiki/Cell_cycle
 [cell cycle checkpoints]: https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
 [cell division]: https://en.wikipedia.org/wiki/Cell_division
@@ -3829,6 +3841,7 @@ if (elements.length) {
 [ground tissue]: https://en.wikipedia.org/wiki/Ground_tissue
 [growth factor]: https://en.wikipedia.org/wiki/Growth_factor
 [growth hormone]: https://en.wikipedia.org/wiki/Growth_hormone
+[growth medium]: https://en.wikipedia.org/wiki/Growth_medium
 [guanosine triphosphate]: https://en.wikipedia.org/wiki/Guanosine_triphosphate
 [guard cells]: https://en.wikipedia.org/wiki/Guard_cell
 [gulf stream]: https://en.wikipedia.org/wiki/Gulf_Stream
@@ -3940,8 +3953,10 @@ if (elements.length) {
 [hyperpolarization]: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)
 [hypothalamus]: https://en.wikipedia.org/wiki/Hypothalamus
 [hypotonic]: https://en.wikipedia.org/wiki/Tonicity#Hypotonicity
+[iatrogenic disease]: https://en.wikipedia.org/wiki/Iatrogenesis
 [id est]: https://en.wikipedia.org/wiki/List_of_Latin_phrases_(I)#id_est
 [ide suffix]: https://en.wikibooks.org/wiki/General_Chemistry/Naming_Substances
+[idiopathic disease]: https://en.wikipedia.org/wiki/Idiopathic_disease
 [ileum]: https://en.wikipedia.org/wiki/Small_intestine
 [imhibition]: https://en.wikipedia.org/wiki/Imbibition
 [immersion oil]: https://en.wikipedia.org/wiki/Oil_immersion#Immersion_oil
@@ -4186,6 +4201,7 @@ if (elements.length) {
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [michaelis-menten equation]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
 [microbe]: https://en.wikipedia.org/wiki/Microorganism
+[microbiology]: https://en.wikipedia.org/wiki/Microbiology
 [microbiome]: https://en.wikipedia.org/wiki/Microbiota
 [microfibrils]: https://en.wikipedia.org/wiki/Microfibril
 [microfilaments]: https://en.wikipedia.org/wiki/Microfilament
@@ -4475,6 +4491,7 @@ if (elements.length) {
 [peroxisomes]: https://en.wikipedia.org/wiki/Peroxisome
 [perpendicular]: https://en.wikipedia.org/wiki/Perpendicular
 [petals]: https://en.wikipedia.org/wiki/Petal
+[petri dish]: https://en.wikipedia.org/wiki/Petri_dish
 [ph scale]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/introduction-to-definition-of-ph
 [phagocytes]: https://en.wikipedia.org/wiki/Phagocyte
 [phagocytosis]: https://en.wikipedia.org/wiki/Phagocytosis
