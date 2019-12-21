@@ -1790,7 +1790,7 @@ There are five types of B cell antibodies (with Ig an abbreviation for immunoglo
 
 [Cytotoxic T cells][] are like specialized Natural Killer Cells and defend against intracellular pathogens by detecting class I MHC-bound proteins on infected cells using a protein called [CD8][]. After binding, the cytotoxic T cell secretes proteins such as [Perforin][] and [Granzymes][] that stimulate apoptosis of matching cells.
 
-[Helper T cells][] defend against extracellular pathogens by detecting class II MHC-bound proteins on antigen-presenting cells such as dendritic cells, macrophages, and B cells using a protein called [CD4][]. This binding releases cytokines which activates the T cell and stimulates cloning and cytokines which stimulate cloning of B cells. [Regulatory T Cells][] are Helper T cells that help control the activities of the other T cell types to limit potential damage.
+[Helper T cells][] defend against extracellular pathogens by detecting class II MHC-bound proteins on antigen-presenting cells such as dendritic cells, macrophages, and B cells using a protein called [CD4][] ([usually][Hashimoto et al., 2019] associated with Helper T Cells). This binding releases cytokines which activates the T cell and stimulates cloning and cytokines which stimulate cloning of B cells. [Regulatory T Cells][] are Helper T cells that help control the activities of the other T cell types to limit potential damage.
 
 B and T cell antigen receptors are encoded in immature lymphocyte DNA through [V(D)J recombination][] by V (variable) and J (joining) peptide sequences which are combined in random pre-mRNA combinations by [recombinase][].
 
@@ -3845,6 +3845,7 @@ if (elements.length) {
 [haploid]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid
 [haplotype]: https://en.wikipedia.org/wiki/Haplotype
 [hardy-weinberg principle]: https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle
+[Hashimoto et al., 2019]: https://www.pnas.org/content/pnas/early/2019/11/11/1907883116.full.pdf
 [hdl]: https://en.wikipedia.org/wiki/High-density_lipoprotein
 [heart]: https://en.wikipedia.org/wiki/Heart
 [heat]: https://en.wikipedia.org/wiki/Heat
