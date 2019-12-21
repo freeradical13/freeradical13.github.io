@@ -46,7 +46,7 @@ Keywords: meaning, values, work, prioritization, suffering
 
 17. Jelena Zikic and Alan M Saks. Job search and social cognitive theory: The role of career-relevant activities. Journal of Vocational Behavior, 74(1): 117–127, 2009. doi:[10.1016/j.jvb.2008.11.001](http://dx.doi.org/10.1016/j.jvb.2008.11.001).
 
-18. Mark Schroeder. Value theory. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, fall 2016 edition, 2016. [https://plato.stanford.edu/archi ves/fall2016/entries/value-theory/](https://plato.stanford.edu/archi ves/fall2016/entries/value-theory/).
+18. Mark Schroeder. Value theory. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, fall 2016 edition, 2016. [https://plato.stanford.edu/archives/fall2016/entries/value-theory/](https://plato.stanford.edu/archi ves/fall2016/entries/value-theory/).
 
 19. Katie Steele and H. Orri Stefánsson. Decision theory. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, winter 2016 edition, 2016. [https://plato.stanford.edu/archives/win2016/entries/decision-theory/](https://plato.stanford.edu/archives/win2016/entries/decision-theory/).
 
