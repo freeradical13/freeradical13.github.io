@@ -50,7 +50,7 @@ Keywords: meaning, values, work, prioritization, suffering
 
 19. Katie Steele and H. Orri Stefánsson. Decision theory. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, winter 2016 edition, 2016. [https://plato.stanford.edu/archives/win2016/entries/decision-theory/](https://plato.stanford.edu/archives/win2016/entries/decision-theory/).
 
-20. Michael Huemer. Ethical Intuitionism. Springer, 2007. [https://spot.colorado.edu/∼huemer/5.htm](https://spot.colorado.edu/∼huemer/5.htm).
+20. Michael Huemer. Ethical Intuitionism. Springer, 2007. [https://spot.colorado.edu/~huemer/5.htm](https://spot.colorado.edu/~huemer/5.htm).
 
 21. Walter Sinnott-Armstrong. Consequentialism. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, winter 2015 edition, 2015. [https://plato.stanford.edu/archives/win2015/entries/consequentialism/](https://plato.stanford.edu/archives/win2015/entries/consequentialism/).
 
@@ -64,7 +64,7 @@ Keywords: meaning, values, work, prioritization, suffering
 
 26. Leif Wenar. John rawls. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, spring 2017 edition, 2017. [https://plato.stanford.edu/archives/spr2017/entries/rawls/](https://plato.stanford.edu/archives/spr2017/entries/rawls/).
 
-27. Michael Huemer. The Problem of Political Authority. Springer, 2013. [https://spot.colorado.edu/∼huemer/1.htm](https://spot.colorado.edu/∼huemer/1.htm).
+27. Michael Huemer. The Problem of Political Authority. Springer, 2013. [https://spot.colorado.edu/~huemer/1.htm](https://spot.colorado.edu/~huemer/1.htm).
 
 28. Daniel Bell. Communitarianism. In Edward N. Zalta, editor, The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, summer 2016 edition, 2016. [https://plato.stanford.edu/archives/sum2016/entries/communitarianism/](https://plato.stanford.edu/archives/sum2016/entries/communitarianism/).
 
