@@ -1656,7 +1656,7 @@ Some organisms use an enzyme called [Lysozyme][] to break down pathogenic bacter
 
 #### Animals
 
-[Animals][] are a kingdom of multicellular, eukaryotic, aerobic, heterotrophic organisms that reproduce sexually, do not have cell walls (as in plants and fungi), and have specialized cells.
+[Animals][] are a kingdom of multicellular, eukaryotic, aerobic ([mostly][[Yahalomi et al., 2020]]), heterotrophic organisms that reproduce sexually, do not have cell walls (as in plants and fungi), and have specialized cells.
 
 Some animals are [bilaterians][] which have a two-sided symmetry and a digestive tract. Bilaterians have a [dorsal][] top side, [ventral][] bottom side, [anterior][] front side, and [posterior][] back side. Other animals have [radial symmetry][].
 
@@ -5140,6 +5140,8 @@ if (elements.length) {
 [xerophytes]: https://en.wikipedia.org/wiki/Xerophyte
 [xy sex determination system]: https://en.wikipedia.org/wiki/XY_sex-determination_system
 [xylem]: https://en.wikipedia.org/wiki/Xylem
+[Hashimoto et al., 2019]: https://www.pnas.org/content/pnas/early/2019/11/11/1907883116.full.pdf
+[Yahalomi et al., 2020]: https://doi.org/10.1073/pnas.1909907117
 [yeasts]: https://en.wikipedia.org/wiki/Yeast
 [yolk]: https://en.wikipedia.org/wiki/Yolk
 [zona pellucida]: https://en.wikipedia.org/wiki/Zona_pellucida

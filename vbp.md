@@ -152,3 +152,26 @@ systematic analysis for the global burden of disease study 2017. The Lancet, 392
 69. U.S. CDC. A Guide to State Implementation of ICD-10 for Mortality; Part II: Applying Comparability Ratios. [https://www.cdc.gov/nchs/data/statab/document-for-the-states.pdf](https://www.cdc.gov/nchs/data/statab/document-for-the-states.pdf), 2000. Accessed: 2019-03-01.
 
 70. U.N. WHO. WHO Mortality Database. [https://www.who.int/healthinfo/statistics/mortality_rawdata/en/](https://www.who.int/healthinfo/statistics/mortality_rawdata/en/), 2019. Accessed: 2019-03-01.
+
+<style>
+.page-header {
+  padding: 1rem;
+}
+
+.project-tagline {
+  display: none;
+}
+</style>
+
+<script>
+document.title = "Value-Based Prioritization";
+var elements = document.getElementsByClassName("project-name");
+if (elements.length) {
+  elements[0].innerHTML = "Value-Based Prioritization";
+}
+elements = document.getElementsByClassName("project-tagline");
+if (elements.length) {
+  elements[0].innerHTML = "";
+}
+</script>
+
