@@ -240,12 +240,13 @@ After the [Big Bang][], the universe was mostly made of hydrogen, helium, and li
 
 # Chemistry (Continued)
 
-Two or more atoms may be held together by [chemical bond][](s). The major types of bonds are:
+Two or more atoms may be held together by [chemical bond][](s). Some types of bonds are:
 
 1. A [covalent bond][] defines a [molecule][] and occurs when atoms share one or more pairs of electrons in their valence shells. For example, Hydrogen wants to gain an electron and Oxygen wants to gain two electrons, so it's common for two Hydrogens to each share their electron with one of the valence electrons in the Oxygen to form an Oxygen bonded with two Hydrogens, or water. A molecule is considered a [chemical compound][] if it's made of more than one type of element. The strongest form of a covalent bond is a [sigma bond][] (σ bond). Another, weaker form of a covalent bond is a [pi bond][] (π bond).
 1. A [coordinate covalent bond][] (or dative bond) defines a covalent bond in which one atom donates both electrons to the bond. Such bonds form a coordination complex. An example is a metal cation which has a coordinate covalent bond to an atom with a lone pair (also called a [ligand][]).
 1. An [ionic bond][] defines an [ionic compound][] or [salt][] when one atom transfers electron(s) to another, creating a cation and anion, which then causes electrostatic attraction of the oppositely charged ions. For example, the alkali metal Sodium (Na) wants to lose an electron, and the halogen Chlorine (Cl) wants to gain an electron, so Na may give its electron to Cl, thus making Na<sup>+</sup> and Cl<sup>-</sup> and then those two ions may bond due to the electrostatic force, forming NaCl (otherwise known as table salt).
 1. A [metallic bond][] amongst positively charged metal cations in a sea of shared electrons.
+1. [Chelation][] bonds ions or molecules to metal icons.
 
 A [chemical substance][] is a set of one or more elements, molecules or compounds of the same composition (i.e. "pure"). A substance cannot be separated through physical means other than breaking chemical bonds (interpret the [venn diagram][] by the location of the bond arrows):
 
@@ -2781,13 +2782,67 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
+### Microscopes
+
+[Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
+
+A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
+
+A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
+
+A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [condenser][] focuses light onto the stage. The [aperture][] controls how much light is emitted.
+
+A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
+
+A [confocal microscope][] uses point illumination to detect a small portion of a sample and this is repeated at different depths and points to create a 2D or 3D picture.
+
+An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
+
+A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
+
+A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
+
+An [inverted microscope][] has the light source and condensor on the top and lenses at the bottom. An inverted phase contrast microscope is often used to view cells with the phase contrast necessary to accentuate differences in densities since cells are mostly water and clear.
+
+The lenses of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
+
+When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), increase the aperture to turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. When increasing magnification, consider reducing the aperture to increase light intensity. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
+
+One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
+
+### Phosphate-buffered saline
+
+[Phosphate-buffered saline][] (PBS) is an isotonic, water-based salt solution with osmolarity and ion concentrations similar to those in a human. Therefore, PBS is non-toxic to most human cells and may be used to wash them.
+
+### Biosafety Cabinet
+
+A [biosafety cabinet][] (or biohazard hood) is a mostly enclosed workspace for working with sensitive biological materials. Air is circulated through the cabinet and exhaust air is filtered to remove biological material. At the area where the human puts their hands through, there is air flow to reduce particals from getting in or getting out. Latex gloves should be used inside the hood and they should be spritzed with 70% ethanol to clean them before putting them inside. Some hoods have an Ultraviolet light function to sterilize all materials of biological agents after use.
+
 ### Plating
 
-A [petri dish][] is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] with nutrients that microbes may use to grow.
+A [petri dish][] (or plate) is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] (or culture medium) with nutrients that microbes may use to grow.
 
-Common plates include [agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
+Common media include:
+
+* [Agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
+* Minimal Essential Medium ([MEM][]) and variants such as DMEM which has glucose, salts, amino acids, and vitamins.
+* DMEM + 5-20% animal serum such as fetal bovine serum (FBS) + antibiotic + antimycotic: The fetal serum includes growth factors and cytokines to help signal cells to grow (as if exposed to natural blood serum). The antibiotic and antimycotic reduce the chances of bacteria or mold to grow in the medium.
 
 Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
+
+#### Cell Feeding
+
+Depending on the cell type, cells may need to be fed, for example, every few days with new media.
+
+In general, mammalian cells grow (or incubate) best in a 37°C environment with 5% CO<sub>2</sub> concentration. Normal air CO<sub>2</sub> concentration is about 0.05%; however, in the microenvironment of an organism, CO<sub>2</sub> concentration is about 5%.
+
+#### Culture Splitting
+
+[Culture splitting][] (or subculturing or passaging) is used to reduce the cell concentration (or [confluency][]) in a culture and replace some of the media. This is required to reduce concentrations of toxic materials and dead cells, give space for cells to grow, reduce the chances of mutations due to space pressures, etc. The passage number is the number of times that the remnants of a culture have been split. In general, cultures should be split before confluency reaches 80%.
+
+#### Cell adherence
+
+Some cells adhere to the surface of the plate. To de-adhere cells, a solution is used of 0.25% trypsin with [Ethylenediaminetetraacetic acid][] (EDTA) in a balanced salt solution without Ca and Mg. EDTA chelates divalent cations such as Ca<sup>++</sup> and Mg<sup>++</sup> which are used as part of adherence. Trypsin acts as a membrane-impermeable enzyme that cleaves the cell membrane proteins that participate in adherence. This solution is stored in a refrigerator and thawed for about 10 minutes before use.
 
 ### Staining
 
@@ -2830,32 +2885,6 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 ### Enzyme-Linked Immunosorbent Assay
 
 An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase which removes a phosphate group from pNPP which causes it to turn yellow.
-
-### Microscopes
-
-[Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
-
-A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
-
-A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
-
-A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [condenser][] focuses light onto the stage. The [aperture][] controls how much light is emitted.
-
-A [parfocal lens][] stays in focus when manification or focal length are changed. When changing objective lenses, use the grip on the carousel instead of pushing the lenses themselves.
-
-The lenses of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
-
-When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), increase the aperture to turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. When increasing magnification, consider reducing the aperture to increase light intensity. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
-
-One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
-
-A [confocal microscope][] uses point illumination to detect a small portion of a sample and this is repeated at different depths and points to create a 2D or 3D picture.
-
-An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
-
-A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
-
-A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
 ### Practical Biology
 
@@ -3247,6 +3276,7 @@ if (elements.length) {
 [biology numbers]: http://bionumbers.hms.harvard.edu/
 [biomes]: https://en.wikipedia.org/wiki/Biome
 [biomolecule]: https://en.wikipedia.org/wiki/Biomolecule
+[biosafety cabinet]: https://en.wikipedia.org/wiki/Biosafety_cabinet
 [biosphere]: https://en.wikipedia.org/wiki/Biosphere
 [bipolar cells]: https://en.wikipedia.org/wiki/Bipolar_neuron
 [birth]: https://en.wikipedia.org/wiki/Birth
@@ -3352,6 +3382,7 @@ if (elements.length) {
 [cervix]: https://en.wikipedia.org/wiki/Cervix
 [chalcogens]: https://en.wikipedia.org/wiki/Chalcogen
 [chaparral]: https://en.wikipedia.org/wiki/Chaparral
+[chelation]: https://en.wikipedia.org/wiki/Chelation
 [chemical bond]: https://en.wikipedia.org/wiki/Chemical_bond
 [chemical compound]: https://en.wikipedia.org/wiki/Chemical_compound
 [chemical element]: https://en.wikipedia.org/wiki/Chemical_element
@@ -3455,6 +3486,7 @@ if (elements.length) {
 [condensation reaction]: https://en.wikipedia.org/wiki/Condensation_reaction
 [condenser]: https://en.wikipedia.org/wiki/Condenser_(optics)
 [cone cells]: https://en.wikipedia.org/wiki/Cone_cell
+[confluency]: https://en.wikipedia.org/wiki/Confluency
 [confocal microscope]: https://en.wikipedia.org/wiki/Confocal_microscopy
 [conformations]: https://en.wikipedia.org/wiki/Conformational_isomerism
 [conidiophore]: https://en.wikipedia.org/wiki/Conidium
@@ -3501,6 +3533,7 @@ if (elements.length) {
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
 [crustaceans]: https://en.wikipedia.org/wiki/Crustacean
 [culture]: https://en.wikipedia.org/wiki/Culture
+[culture splitting]: https://en.wikipedia.org/wiki/Subculture_(biology)
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
 [cyanide]: https://en.wikipedia.org/wiki/Cyanide
 [cyanobacteria]: https://en.wikipedia.org/wiki/Cyanobacteria
@@ -3714,6 +3747,7 @@ if (elements.length) {
 [estuary]: https://en.wikipedia.org/wiki/Estuary
 [ethanol]: https://en.wikipedia.org/wiki/Ethanol
 [ethylene]: https://en.wikipedia.org/wiki/Ethylene
+[ethylenediaminetetraacetic acid]: https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid
 [etiolation]: https://en.wikipedia.org/wiki/Etiolation
 [euchromatin]: https://en.wikipedia.org/wiki/Euchromatin
 [eudicots]: https://en.wikipedia.org/wiki/Eudicots
@@ -4058,6 +4092,7 @@ if (elements.length) {
 [introns]: https://en.wikipedia.org/wiki/Intron
 [inversely proportional]: https://en.wikipedia.org/wiki/Proportionality_(mathematics)#Inverse_proportionality
 [invertebrates]: https://en.wikipedia.org/wiki/Invertebrate
+[inverted microscope]: https://en.wikipedia.org/wiki/Inverted_microscope
 [ion]: https://en.wikipedia.org/wiki/Ion
 [ion channels]: https://en.wikipedia.org/wiki/Ion_channel
 [ion transporters]: https://en.wikipedia.org/wiki/Ion_transporter
@@ -4224,6 +4259,7 @@ if (elements.length) {
 [meiosis ii]: https://en.wikipedia.org/wiki/Meiosis#Meiosis_II
 [melanocyte-stimulating hormone]: https://en.wikipedia.org/wiki/Melanocyte-stimulating_hormone
 [melatonin]: https://en.wikipedia.org/wiki/Melatonin
+[MEM]: https://en.wikipedia.org/wiki/Eagle%27s_minimal_essential_medium
 [membrane-attack complex]: https://en.wikipedia.org/wiki/Complement_membrane_attack_complex
 [membrane cofactor protein]: https://en.wikipedia.org/wiki/CD46
 [membrane potential]: https://en.wikipedia.org/wiki/Membrane_potential
@@ -4558,6 +4594,7 @@ if (elements.length) {
 [phloem]: https://en.wikipedia.org/wiki/Phloem
 [phloem loading]: https://en.wikipedia.org/wiki/Phloem_loading
 [phosphate]: https://en.wikipedia.org/wiki/Phosphate
+[phosphate-buffered saline]: https://en.wikipedia.org/wiki/Phosphate-buffered_saline
 [phosphodiester bond]: https://en.wikipedia.org/wiki/Phosphodiester_bond
 [phospholipids]: https://en.wikipedia.org/wiki/Phospholipid
 [phosphorylation]: https://en.wikipedia.org/wiki/Phosphorylation
