@@ -2765,13 +2765,57 @@ The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biog
 
 ## Laboratory Techniques
 
+### General Techniques
+
 An [assay][] is a scientific analysis of some substance(s).
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
 
-[Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
+A [Bunsen burner][] creates a flame of about 1,000 °C which is used for sterilization and heating. Expanding air around the bunsen burner also drives some microorganisms in the air away from the work area, which is about 1-2 feet in radius around the burner. An [inoculation loop][] may be used to transfer microorganisms in a liquid: first, sterilizing the loop in the bunsen burner, letting the loop cool near the burner, then using the loop for transfer, and then sterilizing the loop again.
 
 Double stranded DNA may be split into two, single-stranded DNA molecules often by increasing temperature. The process of complementary strands of DNA or RNA combining together under proper conditions (e.g. temperature) is called [nucleic acid hybridization][] or annealing.
+
+A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
+
+[Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
+
+[X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
+
+### Plating
+
+A [petri dish][] is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] with nutrients that microbes may use to grow.
+
+Common plates include [agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
+
+Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
+
+### Staining
+
+Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative surface charge of bacteria. Such dyes may be used as a [negative stain][] where the background is stained and the organisms are not.
+
+Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue) to visualize size, shape, arrangement, and structure of any organisms on a plate.
+
+A differential stain uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
+
+A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
+
+[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
+
+### Hemocytometer
+
+A [hemocytometer][] is used to estimate the number of cells in a fluid (originally created for blood cells and thus the heme- prefix). It is a glass plate with a chamber designed for a specific amount of fluid and thus a fixed volume. The glass normally has laser-etched squares of dimensions of, for example, 1mm wide x 1mm tall x 0.1mm depth, or 0.1 mm<sup>3</sup>, or 10<sup>-4</sup> mL. Estimate the number of cells per mL:
+
+1. Count the number of cells per square in a few of the squares.
+1. Take the average of these counts.
+1. Multiply the average by 10<sup>4</sup> to calculate the approximate number of cells per mL.
+
+### Electrophoresis
+
+[Gel electrophoresis][] determines the size of DNA, RNA, or proteins by moving them through a gel and buffer using electricity. A solid but porous gel (e.g. [Agarose][] or [Polyacrylamide][]) is hardened in a container with a comb that is removed after solidification and leaves small wells in a row where the target substances will begin. The gel is submerged in a liquid buffer (e.g. [TAE][] or [TBE][]) which can carry electrical current. A negative electrode (cathode) is placed on one side of the container and a positive electrode (anode) on the other side. Target substances are injected into the wells, each defining a lane. A reference substance called a ladder is placed in the first lane which will present known sizes as reference for the other lanes. When an electrical current is turned on for a period of time, target substances will travel towards their opposite charge through the gel (e.g. negatively charged DNA and RNA travel toward the anode). Target substances are dyed for visualization with a UV light. The location of the substances in each lane, and relative to the ladder, allow for estimation of the length of the substances (e.g. number of base pairs for DNA). Larger molecules move more slowly through the gel than smaller molecules. Double stranded DNA tends to be linear and simple to analyze whereas single-stranded nucleic acids or proteins need to be denatured with substances such as NaOH for single stranded RNA or DNA, and [SDS][] (or SLS) for proteins (which also gives a predictable negative charge).
+
+An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
+
+### Blots
 
 A [Southern blot][] is used to detect if a mixture of DNA contains a specific DNA sequence. Restriction enzymes are used to break the DNA into pieces. The DNA mixture is separated by size using gel electrophoresis. The gel is combined with a sheet of positively charged [Nylon][] or [Nitrocellulose][] using pressure and baked. A [hybridization probe][] is a complementary DNA strand that is used to search for the specific sequence. It is made fluorescent or radioactive for detection. The hybridization probe is applied to the gel and Nitrocellulose plate and time is given for any potential annealing. The plate is then washed and if the probe is detected, then annealing occurred and the sequence was present in the original sample.
 
@@ -2779,19 +2823,13 @@ A [Northern blot][] is similar to a Southern blot, but it's for RNA.
 
 A [Western blot][] is similar to a Southern or Northern blot, but it's for proteins, and antibodies are used as the hybridization probe.
 
+### Polymerase Chain Reaction
+
 [Polymerase chain reaction][] (PCR) exponentially replicates DNA sequences using heat cycles. Synthesized DNA primers target the beginning and end sequences of the desired DNA for replication. Heat is increased until double-stranded DNA is split into single strands. Heat is lowered and the primers anneal to the 3' ends of the single strands. DNA polymerase (such as [Taq][]) duplicates the two primed strands. Heat is increased to start the cycle again, and given enough nucleotide materials, the sequences keep doubling through each cycle.
 
-An [electrophoretic mobility shift assay][] determines if certain proteins can bind to certain DNA or RNA molecules. This uses gel electrophoresis with a control sample without proteins as the ladder, and in the other lanes, if proteins bind to the nucleic acids, then the substance will be large and move more slowly through the gel.
-
-[X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
-
-A [DNA Library][] is a collection of DNA framents stored in a population of organisms (e.g. DNA plasmids in yeasts). A [cDNA Library][] is a DNA library of mRNA (without introns) which has been converted into [Complementary DNA][] (cDNA) using reverse transcriptase.
-
-[Replica Plating][] is a technique that transfers cells from one plate to another in the same spot as the last plate with different growth media on each plate and the plates can be compared to each other to determine which growth media cells can and cannot grow on.
+### Enzyme-Linked Immunosorbent Assay
 
 An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase which removes a phosphate group from pNPP which causes it to turn yellow.
-
-A [Bunsen burner][] creates a flame of about 1,000 °C which is used for sterilization and heating. Expanding air around the bunsen burner also drives some microorganisms in the air away from the work area, which is about 1-2 feet in radius around the burner. An [inoculation loop][] may be used to transfer microorganisms in a liquid: first, sterilizing the loop in the bunsen burner, letting the loop cool near the burner, then using the loop for transfer, and then sterilizing the loop again.
 
 ### Microscopes
 
@@ -2819,25 +2857,39 @@ A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substa
 
 A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
-### Plating
+### Practical Biology
 
-A [petri dish][] is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] with nutrients that microbes may use to grow.
+#### Companies/Projects
 
-Common plates include [agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
+* [eGenesis](https://www.egenesisbio.com/): Dr. George Church's company that uses edited porcine stem lines for human xenotransplantation
+* [Twist Bio](https://www.twistbioscience.com/): Synthetic biology for applications ranging from novel materials to data storage
+* [Denali](https://www.denalitherapeutics.com/): Age related neurodegenerative disorders such as Parkinson’s and Alzheimer’s
+* [Benchling](https://benchling.com/): Molecular biology and gene editing design software
+* [Synthego](https://www.synthego.com/): Gene knockout kits
+* [The ODIN](http://www.the-odin.com/): Biohacking gear
+* [Calico](https://www.calicolabs.com/): Research and development company to increase our understanding of the biology that controls lifespan
+* [Infinome](https://www.infino.me/): Citizen science experiment bringing together data to understand the interactions between genetics and lifestyle for the good of science
+* [SENS](http://www.sens.org/): transforming the way the world researches and treats age-related disease
+* [Ginkgo Bioworks](https://www.ginkgobioworks.com/): using genetic engineering to produce bacteria with industrial applications
 
-Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
+#### Research
 
-### Staining
+* [Correction of a pathogenic gene mutation in human embryos](https://doi.org/10.1038/nature23305)
+* [How the immune system could stymie some CRISPR gene therapies](https://doi.org/10.1038/d41586-018-00335-8)
 
-Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative surface charge of bacteria. Such dyes may be used as a [negative stain][] where the background is stained and the organisms are not.
+#### Funding
 
-Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue) to visualize size, shape, arrangement, and structure of any organisms on a plate.
+* [Newbio Tech](https://newbio.tech/)
 
-A differential stain uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
+#### Bioinformatics
 
-A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
+* [Biostars](https://www.biostars.org/): Bioinformatics Q&A site
 
-[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
+#### Purchasing
+
+* [Lab Spend](https://labspend.com/)
+* [P212121](https://store.p212121.com/)
+* [eBay](https://ebay.com/)
 
 ## Cancer
 
@@ -3875,6 +3927,7 @@ if (elements.length) {
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
+[hemocytometer]: https://en.wikipedia.org/wiki/Hemocytometer
 [hemoglobin]: https://en.wikipedia.org/wiki/Hemoglobin
 [henry's law]: https://en.wikipedia.org/wiki/Henry%27s_law
 [hepatic portal vein]: https://en.wikipedia.org/wiki/Portal_vein
