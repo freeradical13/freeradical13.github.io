@@ -286,6 +286,8 @@ Reduction is the process of gaining electrons. Oxidation is the process of losin
 1. [Van der Waals forces][]
     1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
 
+[Intercalation][] is the reversible inclusion of a substance into layered material.
+
 ## Moles
 
 A [mole][] (mol) is defined as the number of elementary entities in a substance as there are atoms in 12g of <sup>12</sup>C. Moles are essentially a way to convert between <code>amu</code>s and grams. There are ~6.022140857×10<sup>23</sup> ([Avogadro constant][]) atoms in 12g of <sup>12</sup>C. Therefore, <code>1 mol <sup>12</sup>C = 12g</code>.
@@ -2788,7 +2790,7 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 A [light microscope][] focuses light through a substance which refracts through a glass lense so that it's magnified. Light microscopes cannot resolve substances less than ~200nm.
 
-A [compound light microscope][] uses multiply lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
+A [compound light microscope][] uses multiple lenses to sequentially magnify an image. The microscope eyepieces, the [ocular lenses][], typically magnify 4X - 10X. Another lense called the [objective lens][] typically magnifies 4X - 100X. The total magnification is the product of these two magnifications. Typically, compound light microscopes have a magnification up to 1,000X.
 
 A light microscope's [iris diaphragm][] may be used to create contrast between an object and its background by controlling the amount of light passing through. The [condenser][] focuses light onto the stage. The [aperture][] controls how much light is emitted.
 
@@ -2796,19 +2798,25 @@ A [parfocal lens][] stays in focus when manification or focal length are changed
 
 A [confocal microscope][] uses point illumination to detect a small portion of a sample and this is repeated at different depths and points to create a 2D or 3D picture.
 
+A [Bright-field microscope][] uses illumination from below and observation from above with a white light and contrast is created by attenuating light in dense areas.
+
+An [inverted microscope][] has the light source and condensor on the top and lenses at the bottom. An inverted phase contrast microscope is often used to view cells with the phase contrast necessary to accentuate differences in densities since cells are mostly water and clear.
+
+A [fluorescence microscope][] detects the fluorescence of [fluorophores][] (or reporter molecules, or probes) in a material.
+
 An [electron microscope][] (EM) focuses a beam of electrons through a substance onto a surface and use a magnetic field to have a similar effect as the bending of light in a light microscope. Typically, electron microscopes have a magnification up to 1000,000X. Electron microscopes cannot resolve substances less than ~2nm.
 
 A [scanning electron microscope][] (SEM) focuses a beam of electrons on a substance and detects the interaction of atoms of the substance with the electron beam to create a 3D view.
 
 A [transmission electron microscope][] (TEM) focuses a beam of electrons through a thin substance and onto a surface to understand the internal structure of a substance.
 
-An [inverted microscope][] has the light source and condensor on the top and lenses at the bottom. An inverted phase contrast microscope is often used to view cells with the phase contrast necessary to accentuate differences in densities since cells are mostly water and clear.
-
 The lenses of a microscope should be cleaned by a sterile cotton swab dipped in isopropanol and then dried with lens paper.
 
 When looking through a microscope with two lenses, use both eyes, open them wide, try to move eyelashes away, and then adjust the distance between the two oculars so that both lenses are in view at the same time. When first looking at a slide, drop the stage as far down as possible using the coarse adjustment knob, start with the lowest objective lens (typically, 4X for eukaryotes, and 10X for bacteria), increase the aperture to turn the light intensity down, then bring the stage up using the coarse adjustment knob until the object comes into focus, and then use the fine adjustment knob to finish focusing. If it is a parfocal microscope, next, switch objective lenses to increase magnification and only use the fine adjustment knob to fine-tune the focus. When increasing magnification, consider reducing the aperture to increase light intensity. Before switching to the 100X objective lens, move the 40X lens away mid-way to the 100X lens and then use a dropper to add a drop of immersion oil onto the slide which eliminates the air gap between the slide and lens that could scatter light, pass the 100X lens through the oil past the lock point and back to help spread the oil, and then adjust the fine adjustment knob. To finish, use the coarse adjustment knob to bring the stage down and clean the oil off the lenses.
 
 One of the microscope lenses will have a built-in [ocular micrometer][] that shows a ruled scale with 100 divisions. These divisions have a different length depending on total magnification: 40X = 25 microns, 100X = 10 microns, 400X = 2.5 microns, 1000X = 1 micron.
+
+A [microscope slide][] is a thin piece of glass used with microscopes and a slide is typically 75mm long x 26mm high x 1 mm thick.
 
 ### Phosphate-buffered saline
 
@@ -2842,7 +2850,15 @@ In general, mammalian cells grow (or incubate) best in a 37°C environment with 
 
 #### Cell adherence
 
-Some cells adhere to the surface of the plate. To de-adhere cells, a solution is used of 0.25% trypsin with [Ethylenediaminetetraacetic acid][] (EDTA) in a balanced salt solution without Ca and Mg. EDTA chelates divalent cations such as Ca<sup>++</sup> and Mg<sup>++</sup> which are used as part of adherence. Trypsin acts as a membrane-impermeable enzyme that cleaves the cell membrane proteins that participate in adherence. This solution is stored in a refrigerator and thawed for about 10 minutes before use.
+Some cells adhere to the surface of the plate. To de-adhere cells, a solution is used of 0.25% trypsin with [Ethylenediaminetetraacetic acid][] (EDTA) in a balanced salt solution without Ca and Mg. EDTA chelates divalent cations such as Ca<sup>++</sup> and Mg<sup>++</sup> which are used as part of adherence. Trypsin acts as a membrane-impermeable enzyme that cleaves the cell membrane proteins that participate in adherence.
+
+This solution is stored in a refrigerator and thawed for about 10 minutes before use. After removing media from a solution and before applying trypsin, wash cells with PBS to remove material that may inhibit trypsin. After adding trypsin, incubate in 37°C / 5% CO<sub>2</sub> for about 5 minutes to complete the de-adherence.
+
+#### Fixing Cells
+
+Fixing cells is the process of putting cells into a state to reduce their degradation in preparation for staining. This may be done by washing with PBS and then adding 95% ethanol solution for about 10 minutes.
+
+Mounting media may be used on a microscope slide to solidify cells' positions. Examples include Permount, glutaraldehyde fixative solution, aqueous mounting medium (Anti-Fade), etc.
 
 ### Staining
 
@@ -2850,11 +2866,13 @@ Acidic dyes (e.g. nigrosin) have a negative charge which repels the negative sur
 
 Basic dyes are positively charged and attracted to most bacteria. A [simple stain][] uses a single dye (e.g. methylene blue) to visualize size, shape, arrangement, and structure of any organisms on a plate.
 
-A differential stain uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
+A [differential stain][] uses multiple dyes to identify different classes of organisms. An [acid-fast stain][] identifies bacteria with a waxy outer coating (e.g. <i>Mycobacterium</i>, <i>Nocardia</i>).
 
 A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
 
 [Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
+
+A Coplin jar has grooves to hold microscope slides.
 
 ### Hemocytometer
 
@@ -2863,6 +2881,28 @@ A [hemocytometer][] is used to estimate the number of cells in a fluid (original
 1. Count the number of cells per square in a few of the squares.
 1. Take the average of these counts.
 1. Multiply the average by 10<sup>4</sup> to calculate the approximate number of cells per mL.
+
+### Hematotoxylin and Eosin staining
+
+[Hematotoxylin and Eosin (H&E) staining][] is used to visualize tissues (or adherent, spread out cells) with bright-field microscopes and often used on biopsies. Hematoxylin binds to nucleic acids and stains purple. Eosin (combined with Orange G) stains cytoplasmic material in a lighter purple. This stain helps to visualize the concentration of cells.
+
+A Papanicolaou stain ([pap stain][]) is an H&E stain used as part of a pap smear to help detect cancerous cells. The stain is evaluated by comparing the concentration of cells to an expected concentration.
+
+### Lipid Fluorescent Dye Labeling
+
+Lipid fluorescent dye labeling is a staining procedure which uses lipophillic, fluorescent dyes that preferentially intercalate into different organelle membranes. [Carbocyanine][] is a fluorophore that preferentially intercalates in membranes such as the Endoplasmic Reticulum.
+
+### Immunohistochemistry
+
+[Immunohistochemistry][] (IHC, or [immunofluorescence][]) uses an antibody that targets something in the cell and couples the antibody to a fluorophore (together called a fluorescent antibody). Example fluorophores are Alexa488 (emits green when excited by blue), Alexa568 (emits red when excited by yellow/green), fluorescein (emits red when excited by yellow/green), and rhodamine (emits red when excited by yellow/green).
+
+Indirect immunohistochemistry uses a "primary antibody" or anti-A (with anti- standing for antibody and A being the antigen or target cellular structure) along with a "secondary antibody" that binds to the primary antibody. The secondary antibody has the fluorophore attached. This technique is popular because the process of creating an antibody with fluorophore is not simple and yet that fluorescent antibody has a generic target of the primary antibody rather than the specific antigen targeted with the primary antibody which may be separately made.
+
+Direct immunohistochemistry uses a single antibody with fluorophore. Although it lacks some of the benefits of indirect immunohistochemistry and generally shows a dimmer image, it is generally faster.
+
+[Immunocytochemistry][] (ICC) is immunohistochemistry applied to cultures with most of the extracellular matrix removed.
+
+[Bovine Serum Albumin][] (BSA) is a protein used as a blocking buffer which binds non-specific binding sites and increases the chances that antibodies will only bind to antigens of interest.
 
 ### Electrophoresis
 
@@ -3294,6 +3334,7 @@ if (elements.length) {
 [bone]: https://en.wikipedia.org/wiki/Bone
 [both chloroplasts and mitochondria]: https://doi.org/10.1007/s10265-017-0947-z
 [bottleneck effect]: https://en.wikipedia.org/wiki/Population_bottleneck
+[bovine serum albumin]: https://en.wikipedia.org/wiki/Bovine_serum_albumin
 [bowman's capsule]: https://en.wikipedia.org/wiki/Bowman%27s_capsule
 [brain]: https://en.wikipedia.org/wiki/Brain
 [brainstem]: https://en.wikipedia.org/wiki/Brainstem
@@ -3303,6 +3344,7 @@ if (elements.length) {
 [brca1]: https://en.wikipedia.org/wiki/BRCA1
 [brca2]: https://en.wikipedia.org/wiki/BRCA2
 [breathing]: https://en.wikipedia.org/wiki/Breathing
+[bright-field microscope]: https://en.wikipedia.org/wiki/Bright-field_microscopy
 [bronchi]: https://en.wikipedia.org/wiki/Bronchus
 [bronchioles]: https://en.wikipedia.org/wiki/Bronchiole
 [brønsted-lowry]: https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/bronsted-lowry-acid-base-theory
@@ -3336,6 +3378,7 @@ if (elements.length) {
 [capsid]: https://en.wikipedia.org/wiki/Capsid
 [capsomeres]: https://en.wikipedia.org/wiki/Capsomere
 [capsule]: https://en.wikipedia.org/wiki/Bacterial_capsule
+[carbocyanine]: https://en.wikipedia.org/wiki/Cyanine
 [carbohydrates]: https://en.wikipedia.org/wiki/Carbohydrate
 [carbon fixation]: https://en.wikipedia.org/wiki/Carbon_fixation
 [carbon skeleton]: https://en.wikipedia.org/wiki/Skeletal_formula
@@ -3581,6 +3624,7 @@ if (elements.length) {
 [diastole]: https://en.wikipedia.org/wiki/Diastole
 [dicots]: https://en.wikipedia.org/wiki/Dicotyledon
 [differential gene expression]: https://en.wikipedia.org/wiki/Gene_expression
+[differential stain]: https://en.wikipedia.org/wiki/Differential_staining
 [differentiate]: https://en.wikipedia.org/wiki/Cellular_differentiation
 [digestion]: https://en.wikipedia.org/wiki/Digestion
 [diglyceride]: https://en.wikipedia.org/wiki/Diglyceride
@@ -3814,6 +3858,7 @@ if (elements.length) {
 [flatworms]: https://en.wikipedia.org/wiki/Flatworm
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
 [flower]: https://en.wikipedia.org/wiki/Flower
+[fluorophores]: https://en.wikipedia.org/wiki/Fluorophore
 [fmn]: https://en.wikipedia.org/wiki/Flavin_mononucleotide
 [focal point]: https://en.wikipedia.org/wiki/Focus_(optics)
 [focus]: https://en.wikipedia.org/wiki/Focus_(optics)
@@ -3827,6 +3872,7 @@ if (elements.length) {
 [fossils]: https://en.wikipedia.org/wiki/Fossil
 [founder effect]: https://en.wikipedia.org/wiki/Founder_effect
 [fovea]: https://en.wikipedia.org/wiki/Fovea_centralis
+[fluorescence microscope]: https://en.wikipedia.org/wiki/Fluorescence_microscope
 [fluorescent]: https://en.wikipedia.org/wiki/Fluorescent
 [frameshift mutation]: https://en.wikipedia.org/wiki/Frameshift_mutation
 [free fatty acids]: https://en.wikipedia.org/wiki/Fatty_acid#Free_fatty_acids
@@ -3958,6 +4004,7 @@ if (elements.length) {
 [hematopoiesis]: https://en.wikipedia.org/wiki/Haematopoiesis
 [hematopoietic cells]: https://en.wikipedia.org/wiki/Blood_cell
 [hematopoietic stem cells]: https://en.wikipedia.org/wiki/Hematopoietic_stem_cell
+[hematotoxylin and eosin (H&E) staining]: https://en.wikipedia.org/wiki/H%26E_stain
 [heme]: https://en.wikipedia.org/wiki/Heme
 [hemiacetal]: https://en.wikipedia.org/wiki/Hemiacetal
 [hemimetabolism]: https://en.wikipedia.org/wiki/Hemimetabolism
@@ -4048,7 +4095,10 @@ if (elements.length) {
 [imhibition]: https://en.wikipedia.org/wiki/Imbibition
 [immersion oil]: https://en.wikipedia.org/wiki/Oil_immersion#Immersion_oil
 [immune system]: https://en.wikipedia.org/wiki/Immune_system
+[immunocytochemistry]: https://en.wikipedia.org/wiki/Immunocytochemistry
 [immunodeficiency disease]: https://en.wikipedia.org/wiki/Immunodeficiency
+[immunofluorescence]: https://en.wikipedia.org/wiki/Immunofluorescence
+[immunohistochemistry]: https://en.wikipedia.org/wiki/Immunohistochemistry
 [implant into the endometrium]: https://en.wikipedia.org/wiki/Blastocyst#Implantation
 [imprinting]: https://en.wikipedia.org/wiki/Imprinting_(psychology)
 [in vitro]: https://en.wikipedia.org/wiki/In_vitro
@@ -4075,6 +4125,7 @@ if (elements.length) {
 [integrin]: https://en.wikipedia.org/wiki/Integrin
 [integument]: https://en.wikipedia.org/wiki/Integument
 [integumentary system]: https://en.wikipedia.org/wiki/Integumentary_system
+[intercalation]: https://en.wikipedia.org/wiki/Intercalation_(chemistry)
 [interferons]: https://en.wikipedia.org/wiki/Interferons
 [intermediate filament]: https://en.wikipedia.org/wiki/Intermediate_filament
 [intermetallic compound]: https://en.wikipedia.org/wiki/Intermetallic_compounds
@@ -4298,6 +4349,7 @@ if (elements.length) {
 [micron]: https://en.wikipedia.org/wiki/Micrometre
 [microphylls]: https://en.wikipedia.org/wiki/Microphylls_and_megaphylls
 [micropyle]: https://en.wikipedia.org/wiki/Ovule#Integuments,_micropyle_and_chalaza
+[microscope slide]: https://en.wikipedia.org/wiki/Microscope_slide
 [microsporangia]: https://en.wikipedia.org/wiki/Sporangium
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
@@ -4527,6 +4579,7 @@ if (elements.length) {
 [pancreas]: https://en.wikipedia.org/wiki/Pancreas
 [pandemic disease]: https://en.wikipedia.org/wiki/Pandemic
 [pangaea]: https://en.wikipedia.org/wiki/Pangaea
+[pap stain]: https://en.wikipedia.org/wiki/Pap_test
 [papillomavirus]: https://en.wikipedia.org/wiki/Human_papillomavirus_infection
 [parabasalids]: https://en.wikipedia.org/wiki/Parabasalid
 [paracrine signals]: https://en.wikipedia.org/wiki/Paracrine_signalling
