@@ -2886,7 +2886,7 @@ A [hemocytometer][] is used to estimate the number of cells in a fluid (original
 
 [Hematotoxylin and Eosin (H&E) staining][] is used to visualize tissues (or adherent, spread out cells) with bright-field microscopes and often used on biopsies. Hematoxylin binds to nucleic acids and stains purple. Eosin (combined with Orange G) stains cytoplasmic material in a lighter purple. This stain helps to visualize the concentration of cells.
 
-A Papanicolaou stain ([pap stain][]) is an H&E stain used as part of a pap smear to help detect cancerous cells. The stain is evaluated by comparing the concentration of cells to an expected concentration.
+A Papanicolaou stain ([pap stain][]) is an H&E stain used as part of a pap smear to help detect cancerous cells. The stain is evaluated by comparing the concentration and/or structure of cells as compared to non-cancerous baselines.
 
 ### Lipid Fluorescent Dye Labeling
 
