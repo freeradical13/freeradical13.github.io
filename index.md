@@ -2790,6 +2790,10 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 A [serial dilution][] starts with a solution and iteratively dilutes the solution by a constant factor from the previous dilution to create a logarithmically decreasing concentration of the original solution. For example, if the starting solution is some amount of something per XmL (e.g. 500,000 cells / mL in 100mL), and the dilution factor is 10, then the second solution should be 50,000 cells / mL in 100mL, the third solution should be 5,000 cells / mL in 100mL, and so on. To achieve this, each subsequent solution starts with (X - X/10) base solution (e.g. water, media, etc.) with nothing in it. For example, the second solution starts with (100mL - 10mL) = 90mL of base solution. Then, X/10 of the first solution is withdrawn and placed into the second solution. For example, 10mL of the first solution is taken and put into the second solution. Before every transfer, the source solution should be mixed (e.g. by pipetting up and down). Next, 10mL of the second solution is put into the third solution, and so on.
 
+### Standard Curve
+
+A [standard curve][] plots multiple points of known quantities (e.g. a logarithmic concentration on the x-axis and some value on the y-axis) and then may be used to estimate a y-value based on some x-value by curve-fitting and extrapolation.
+
 ### Microscopes
 
 [Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
@@ -5020,6 +5024,7 @@ if (elements.length) {
 [src cancer]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303596/pdf/nihms359269.pdf
 [stabilizing selection]: https://en.wikipedia.org/wiki/Stabilizing_selection
 [stamens]: https://en.wikipedia.org/wiki/Stamen
+[standard curve]: https://en.wikipedia.org/wiki/Standard_curve
 [staphylococcus aureus]: https://en.wikipedia.org/wiki/Staphylococcus_aureus
 [star]: https://en.wikipedia.org/wiki/Star
 [starch]: https://en.wikipedia.org/wiki/Starch
