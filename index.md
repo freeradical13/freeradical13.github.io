@@ -51,7 +51,11 @@ Examples of electrically charged matter are protons, which are positively charge
 
 An electromagnetic field creates [electromagnetic radiation][] which is a [wave][] of its force traveling (radiating) through space. A wave represents something that repeats over time at a [frequency][] which is how often it repeats a cycle per unit time (e.g. one cycle per second). If the unit of time is one second, the unit of frequency is [Hertz][] (Hz). [Wavelength][] is the distance a wave covers over one cycle.
 
-The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths), where white is a combination of all colors and black is the lack of all colors. [Fluorescent][] substances absorb ultraviolet radiation (~10nm to ~400nm wavelengths) and emit visible light.
+The [force carrier][] for electromagnetic radiation is a [photon][]. Photons are considered [particles][] (which may also refer to objects) even though photons are [massless][]. In a [vacuum][] (space without matter), photons travel at the [maximum speed of light][] (c), or approximately 3×10<sup>8</sup> m/s. [Light][] is simply electromagnetic radiation; although, colloquially, light usually refers to [visible light][] which is the subset of light that humans see (~390 to ~700nm wavelengths), where white is a combination of all colors and black is the lack of all colors.
+
+[Pigment][] is matter that absorbs certain wavelengths of light. Unabsorbed wavelengths are reflected giving the matter a color to observers. For example, a black pigment means all wavelengths were absorbed, a white pigment means none were absorbed, and a green pigment means all wavelengths but green were absorbed.
+
+[Fluorescent][] matter absorbs ultraviolet radiation (~10nm to ~400nm wavelengths) and emits visible light.
 
 [Refraction][] is the bending of a wave as it moves between areas of different densities (and thus different speeds). The [refractive index][] is a ratio expressing the degree light is refracted from one density to another with a higher index meaning higher bending.
 
@@ -287,6 +291,8 @@ Reduction is the process of gaining electrons. Oxidation is the process of losin
     1. [London dispersion forces][] occur transiently at short distances as electrons happen to be in parts of their orbitals which create partial charges and create temporary dipole-dipole interactions.
 
 [Intercalation][] is the reversible inclusion of a substance into layered material.
+
+A [dye][] is matter that chemically bonds to a substrate and, like a pigment, abosrbs certain wavelengths of light.
 
 ## Moles
 
@@ -1220,7 +1226,7 @@ The basic formula for photosynthesis is: <code>6CO<sub>2</sub> + 12H<sub>2</sub>
 Steps of photosynthesis:
 
 1. Light reactions:
-    1. Substances that absorb certain wavelengths of light (photons) are called [pigments][] (or photopigments), and unabsorbed wavelengths are reflected giving the substance a color to observers (a black pigment means all wavelengths were absorbed; a white pigment means none were absorbed). Most collections of pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. [Chlorophyll][] molecules contain pigments such as chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
+    1. Most collections of pigments absorb everything except for green, giving photosynthetic organisms their green color to observers. [Chlorophyll][] molecules contain pigments such as chlorophyll a (blue green pigment), chlorophyll b (olive green pigment), and [carotenoids][] (yellow, orange, or red pigment), which absorb different wavelengths.
     1. Chlorophyll and proteins combine in the into [photosystems][]. A photon strikes a chlorophyll molecule and this energy is passed through multiple chlorophyll molecules in the light-harvesting complex until reaching a pair of chlorophyll molecules in the [reaction-center complex][] where the electron is delivered to an electron acceptor in a redox reaction. The two different kinds of photosystems are [Photosystem II][] (or P680 for the 680nm red pigment at which absorption is best) and Photosystem I (or P700), named in order of discovery, although Photosystem II partly drives Photosystem I.
         1. As the electron acceptor is reduced, an enzyme catalyzes the splitting of H<sub>2</sub>O, recharging the electrons in the pair of chlorophyll molecules that gave their electrons to the electron acceptor, H<sup>+</sup> protons accumulate, and O bonds with another O and releases as O<sub>2</sub>.
     1. The electron acceptor passes its electron through an electron transport chain to Photosystem I using Plastoquinone ([Pq][]), a cytochrome complex, and the protein Plastgocyanin (Pc). This energy is used to pump H<sup>+</sup> across a membrane, creating a proton gradient which is used to make ATP through chemiosmosis ([photophosphorylation][]).
@@ -4688,7 +4694,7 @@ if (elements.length) {
 [phytoplankton]: https://en.wikipedia.org/wiki/Phytoplankton
 [phytoremediation]: https://en.wikipedia.org/wiki/Phytoremediation
 [pi bond]: https://en.wikipedia.org/wiki/Pi_bond
-[pigments]: https://en.wikipedia.org/wiki/Photopigment
+[pigment]: https://en.wikipedia.org/wiki/Photopigment
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pinocytosis]: https://en.wikipedia.org/wiki/Pinocytosis
