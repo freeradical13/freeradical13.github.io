@@ -373,6 +373,8 @@ A [solution][] is a homogenous mixture with [solute(s)][solute] dissolved into a
 
 A [saturated solution][] is a solution with a solute that dissolves until it is unable to dissolve anymore, leaving the undissolved substances at the bottom. An unsaturated solution is a solution with less solute than a saturated solution which completely dissolves, leaving no remaining substances at the bottom. A supersaturated solution is a solution with more undissolved solute than a saturated solution because of its tendency to crystallize and precipitate.
 
+[Precipitation][] is the process of converting a substance from a solution into a solid. The precipitate is the solid and the remaining solution is the supernate (or supernatant).
+
 A [litre][] (L) is a unit of volume equal to <code>1m<sup>3</sup>/1000</code>. [1 litre of water][water L kg] is approximately 1 kg under standard conditions (e.g. 25°C).
 
 The amount of a substance is usually measured in mass, moles or volume (e.g. 1g of salt in water). The [concentration][] of substance A mixed into substance B is the amount of substance A divided by the total volume of substance B. [Molarity][] (or molar concentration) (M) is the number of moles of a solute per liter of solution, abbreviated with square brackets around the solute (e.g. [Cl<sup>-</sup>]). [Molality][] is the number of moles of solute per kg of solvent.
@@ -2784,6 +2786,10 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
+### Serial Dilution
+
+A [serial dilution][] starts with a solution and iteratively dilutes the solution by a constant factor from the previous dilution to create a logarithmically decreasing concentration of the original solution. For example, if the starting solution is some amount of something per XmL (e.g. 500,000 cells / mL in 100mL), and the dilution factor is 10, then the second solution should be 50,000 cells / mL in 100mL, the third solution should be 5,000 cells / mL in 100mL, and so on. To achieve this, each subsequent solution starts with (X - X/10) base solution (e.g. water, media, etc.) with nothing in it. For example, the second solution starts with (100mL - 10mL) = 90mL of base solution. Then, X/10 of the first solution is withdrawn and placed into the second solution. For example, 10mL of the first solution is taken and put into the second solution. Before every transfer, the source solution should be mixed (e.g. by pipetting up and down). Next, 10mL of the second solution is put into the third solution, and so on.
+
 ### Microscopes
 
 [Magnification][] is the process of increasing the apparent size of something such as by focusing through the use of [optics][] by using a lens to bend light rays and focus them on a [focal point][] thus enlarging an image.
@@ -2894,15 +2900,21 @@ Lipid fluorescent dye labeling is a staining procedure which uses lipophillic, f
 
 ### Immunohistochemistry
 
-[Immunohistochemistry][] (IHC, or [immunofluorescence][]) uses an antibody that targets something in the cell and couples the antibody to a fluorophore (together called a fluorescent antibody). Example fluorophores are Alexa488 (emits green when excited by blue), Alexa568 (emits red when excited by yellow/green), fluorescein (emits red when excited by yellow/green), and rhodamine (emits red when excited by yellow/green).
+[Immunohistochemistry][] (IHC, or [immunofluorescence][]) uses an antibody that targets something in the cell and couples the antibody to a fluorophore (together called a fluorescent antibody) or another chemical (e.g. [HRP][]) that creates a colored dye when stained. Example fluorophores are Alexa488 (emits green when excited by blue), Alexa568 (emits red when excited by yellow/green), fluorescein (emits red when excited by yellow/green), and rhodamine (emits red when excited by yellow/green).
 
-Indirect immunohistochemistry uses a "primary antibody" or anti-A (with anti- standing for antibody and A being the antigen or target cellular structure) along with a "secondary antibody" that binds to the primary antibody. The secondary antibody has the fluorophore attached. This technique is popular because the process of creating an antibody with fluorophore is not simple and yet that fluorescent antibody has a generic target of the primary antibody rather than the specific antigen targeted with the primary antibody which may be separately made.
+Indirect immunohistochemistry uses a "primary antibody" or anti-A (with anti- standing for antibody and A being the antigen or target cellular structure) along with a "secondary antibody" that binds to the primary antibody. The secondary antibody has the fluorophore or dye-related substance attached. This technique is popular because the process of creating the secondary antibody is not simple and yet it has a generic target of the primary antibody rather than the specific antigen targeted with the primary antibody which may be separately made. This may reduce costs and the targeting of a more pronounced primary antibody may amplify the microscopy signal.
 
-Direct immunohistochemistry uses a single antibody with fluorophore. Although it lacks some of the benefits of indirect immunohistochemistry and generally shows a dimmer image, it is generally faster.
+Direct immunohistochemistry uses a single antibody with fluorophore or dye-related substance attached. It lacks some of the benefits of indirect immunohistochemistry and generally shows a dimmer image, although it tends to be a simpler procedure.
 
-[Immunocytochemistry][] (ICC) is immunohistochemistry applied to cultures with most of the extracellular matrix removed.
+[Immunocytochemistry][] (ICC) is like immunohistochemistry but focused on just the cells without anything else such as extracellular matrix.
 
 [Bovine Serum Albumin][] (BSA) is a protein used as a blocking buffer which binds non-specific binding sites and increases the chances that antibodies will only bind to antigens of interest.
+
+### Viability assay
+
+A [viability assay][] studies cells and tissues under experimental conditions. Examples include observing proliferation and death depending on growth factors (proliferation assay), toxicity (cytotoxicity assay), drug effectiveness, etc. These assays generally work by introducing a reagent that interacts with metabolic chemicals produced by living cells such as ATP, NADH, etc. The reacted product has fluro- or chemiluminescence that may be observed by microscopy. The amount of color change is an approximation of the amount of cells and their liveliness.
+
+One common assay is the [MTT assay][]. A similar assay is the MTS assay (same as WST) in which MTS tetrazolium is reduced by NADH-dependent dehydrogenase enzymes in metabolically active cells and generates a formazan dye which can be measured in the 490-500nm range.
 
 ### Electrophoresis
 
@@ -4057,6 +4069,7 @@ if (elements.length) {
 [host]: https://en.wikipedia.org/wiki/Host_(biology)
 [hotspots]: https://en.wikipedia.org/wiki/Hotspot_(geology)
 [hour]: https://en.wikipedia.org/wiki/Hour
+[hrp]: https://en.wikipedia.org/wiki/Horseradish_peroxidase
 [htlv-i]: https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
 [human immunodeficiency virus]: https://en.wikipedia.org/wiki/HIV
 [humans]: https://en.wikipedia.org/wiki/Humans
@@ -4412,6 +4425,7 @@ if (elements.length) {
 [mouth]: https://en.wikipedia.org/wiki/Mouth
 [movement]: https://en.wikipedia.org/wiki/Motion_(physics)
 [mtdna]: https://en.wikipedia.org/wiki/Mitochondrial_DNA
+[mtt assay]: https://en.wikipedia.org/wiki/MTT_assay
 [mucus]: https://en.wikipedia.org/wiki/Mucus
 [muscle]: https://en.wikipedia.org/wiki/Muscle
 [muscle tissue]: https://en.wikipedia.org/wiki/Muscle_tissue
@@ -4729,6 +4743,7 @@ if (elements.length) {
 [power stroke]: https://en.wikipedia.org/wiki/Myosin#Power_stroke
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
+[precipitation]: https://en.wikipedia.org/wiki/Precipitation_(chemistry)
 [precocial species]: https://en.wikipedia.org/wiki/Precociality
 [predator]: https://en.wikipedia.org/wiki/Predation
 [pressure]: https://en.wikipedia.org/wiki/Pressure
@@ -4922,6 +4937,7 @@ if (elements.length) {
 [sepals]: https://en.wikipedia.org/wiki/Sepal
 [septa]: https://en.wikipedia.org/wiki/Septum
 [septic shock]: https://en.wikipedia.org/wiki/Septic_shock
+[serial dilution]: https://bio.libretexts.org/Bookshelves/Biotechnology/Lab_Manual%3A_Introduction_to_Biotechnology/01%3A_Techniques/1.08%3A_Serial_Dilutions_and_Standard_Curve
 [serum albumin]: https://en.wikipedia.org/wiki/Serum_albumin
 [sex hormones]: https://en.wikipedia.org/wiki/Sex_steroid
 [sexes]: https://en.wikipedia.org/wiki/Sex
@@ -5242,6 +5258,7 @@ if (elements.length) {
 [vertebrates]: https://en.wikipedia.org/wiki/Vertebrate
 [vesicle]: https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)
 [vessel element cells]: https://en.wikipedia.org/wiki/Vessel_element
+[viability assay]: https://en.wikipedia.org/wiki/Viability_assay
 [vibration]: https://en.wikipedia.org/wiki/Vibration
 [vibrio]: https://en.wikipedia.org/wiki/Vibrio
 [villi]: https://en.wikipedia.org/wiki/Intestinal_villus
