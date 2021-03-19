@@ -2948,6 +2948,10 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand such as a protein (e.g. an antibody or antigen) in a liquid. First, an antibody is bound to the target ligand and also bound to the enzyme [Alkaline Phosphatase][]. Next, the substrate [P-Nitrophenyl Phosphate][] (pNPP) is added which bind to Alkaline Phosphatase which removes a phosphate group from pNPP which causes it to turn yellow.
 
+### Methotrexate
+
+[Methotrexate][] has a structure similar to folic acid and thus blocks enzymes that require folic acid as a co-factor. For example, folic acid is a key co-factor for enzymes involved in tetrahydrofolate synthesis which is required to synthesize thymidine. Inhibiting thymidine production reduces DNA replication. Therefore, methotrexate may be used to reduce cell division (and it's sometimes used as an anti-cancer drug).
+
 ### Practical Biology
 
 #### Companies/Projects
@@ -4359,6 +4363,7 @@ if (elements.length) {
 [meters]: https://en.wikipedia.org/wiki/Metre
 [methane]: https://en.wikipedia.org/wiki/Methane
 [methanogens]: https://en.wikipedia.org/wiki/Methanogen
+[methotrexate]: https://en.wikipedia.org/wiki/Methotrexate
 [methyl]: https://en.wikipedia.org/wiki/Methyl_group
 [metric prefixes]: https://en.wikipedia.org/wiki/Metric_prefix
 [michaelis-menten constant]: https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
