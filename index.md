@@ -940,7 +940,7 @@ A [protease][] (or peptidase or proteinase) is an enzyme that helps proteolysis 
 
 ## Nucleic Acids
 
-[Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A [nucleotide][] is made of a [nucleoside][] and one to three Phosphate groups. A [nucleoside][] is made of a Nitrogen-containing, [nitrogenous base][] and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
+[Nucleic acids][] (or polynucleotides) are biomacromolecule polymers made of nucleotide monomers. A [nucleotide][] is made of a [nucleoside][] and one to three Phosphate groups. A [nucleoside][] is made of a Nitrogen-containing, [nitrogenous base][] (or nucleobase) and a five-Carbon pentose sugar. The Nitrogenous molecules are called bases because the Nitrogen atoms tend to take up H<sup>+</sup> from solution, thus acting as bases. There are five Nitrogenous bases:
 
 * Group: [Pyrimidines][] (one ring)
   * Cytosine (C)
@@ -2778,7 +2778,7 @@ The [Island Equilibrium Model][] (or the MacArthur-Wilson Model, or Insular Biog
 
 ### General Techniques
 
-An [assay][] is a scientific analysis of some substance(s).
+An [assay][] is a scientific analysis of some substances.
 
 [In vitro][] describes an experiment run in or on glass and outside an organism's normal environment, whereas [in vivo][] describes an experiment run on an organism in its normal environment.
 
@@ -2792,9 +2792,22 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
-### Serial Dilution
+### Dilution
+
+#### Serial Dilution
 
 A [serial dilution][] starts with a solution and iteratively dilutes the solution by a constant factor from the previous dilution to create a logarithmically decreasing concentration of the original solution. For example, if the starting solution is some amount of something per XmL (e.g. 500,000 cells / mL in 100mL), and the dilution factor is 10, then the second solution should be 50,000 cells / mL in 100mL, the third solution should be 5,000 cells / mL in 100mL, and so on. To achieve this, each subsequent solution starts with (X - X/10) base solution (e.g. water, media, etc.) with nothing in it. For example, the second solution starts with (100mL - 10mL) = 90mL of base solution. Then, X/10 of the first solution is withdrawn and placed into the second solution. For example, 10mL of the first solution is taken and put into the second solution. Before every transfer, the source solution should be mixed (e.g. by pipetting up and down). Next, 10mL of the second solution is put into the third solution, and so on.
+
+#### Ratio Dilution
+
+If you start with a solution with a concentration of some substance C<sub>1</sub> and you want to get to concentration C<sub>2</sub> in volume V<sub>2</sub>, then use the formula <code>C<sub>1</sub> × V<sub>1</sub> = C<sub>2</sub> × V<sub>2</sub></code> and solve for V<sub>1</sub> to figure out how much to take out of the original solution and put into V<sub>2</sub>.
+
+If the resulting volume would be too small to accurately extract (e.g. <code>&lgt; 1μL</code>), then perform a serial dilution with a maximum dilution of 1,000 fold at every step:
+
+1. Find the ratio of concentrations using <code>C<sub>1</sub> / C<sub>2</sub></code>.
+2. Iteratively divide this ratio by 1,000 to create the dilution steps. For example, if the ratio is 40,000, then the first dilution is by 1,000 fold and the next dilution is by 40 fold.
+3. For each dilution step, remove X amount of the previous solution and put into a solution of <code>Y - X</code> solution (e.g. PBS, etc.) where <code>X + Y = ratio</code>. For example, if a dilution step is to dilute by 40 fold and the starting concentration is <code>100 μg/mL</code>, then take 1μL (X) of this solution and add to 39μL (Y-X) to create 40μL of <code>100 / 40 = 2.5μg/mL</code> solution.
+4. At any point, use the <code>C<sub>1</sub> × V<sub>1</sub> = C<sub>2</sub> × V<sub>2</sub></code> formula. In the above example, to perform the last 1,000 fold dilution, C<sub>1</sub> = 2.5μg/mL, C<sub>2</sub> = 2.5ng/mL (divide by 1,000), and V<sub>2</sub> = 10mL (for example), then V<sub>1</sub> = 10μL.
 
 ### Standard Curve
 
@@ -2838,19 +2851,31 @@ A [microscope slide][] is a thin piece of glass used with microscopes and a slid
 
 [Phosphate-buffered saline][] (PBS) is an isotonic, water-based salt solution with osmolarity and ion concentrations similar to those in a human. Therefore, PBS is non-toxic to most human cells and may be used to wash them.
 
+### Dimethyl sulfoxide
+
+[Dimethyl sulfoxide][] (DMSO) is frequently used as a solvent in biology.
+
 ### Biosafety Cabinet
 
 A [biosafety cabinet][] (or biohazard hood) is a mostly enclosed workspace for working with sensitive biological materials. Air is circulated through the cabinet and exhaust air is filtered to remove biological material. At the area where the human puts their hands through, there is air flow to reduce particals from getting in or getting out. Latex gloves should be used inside the hood and they should be spritzed with 70% ethanol to clean them before putting them inside. Some hoods have an Ultraviolet light function to sterilize all materials of biological agents after use.
 
 ### Plating
 
-A [petri dish][] (or plate) is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes. Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] (or culture medium) with nutrients that microbes may use to grow.
+A [petri dish][] (or plate) is a glass or plastic covered plate used to grow (or [culture][cell culture]) microbes.
+
+Common experimental cells include:
+
+* Fibroblast cells which create the extracellular matrix and are migratory, adhesive, and relatively easy to grow because they must naturally be able to live, divide, and function in a multitude of environments in a body.
+
+Petri dishes may be coated with a solid, liquid, or semi-solid [growth medium][] (or culture medium) with nutrients that microbes may use to grow.
 
 Common media include:
 
 * [Agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
 * Minimal Essential Medium ([MEM][]) and variants such as DMEM which has glucose, salts, amino acids, and vitamins.
 * DMEM + 5-20% animal serum such as fetal bovine serum (FBS) + antibiotic + antimycotic: The fetal serum includes growth factors and cytokines to help signal cells to grow (as if exposed to natural blood serum). The antibiotic and antimycotic reduce the chances of bacteria or mold to grow in the medium.
+
+
 
 Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
 
@@ -2870,11 +2895,23 @@ Some cells adhere to the surface of the plate. To de-adhere cells, a solution is
 
 This solution is stored in a refrigerator and thawed for about 10 minutes before use. After removing media from a solution and before applying trypsin, wash cells with PBS to remove material that may inhibit trypsin. After adding trypsin, incubate in 37°C / 5% CO<sub>2</sub> for about 5 minutes to complete the de-adherence.
 
-#### Fixing Cells
+### Hemocytometer
 
-Fixing cells is the process of putting cells into a state to reduce their degradation in preparation for staining. This may be done by washing with PBS and then adding 95% ethanol solution for about 10 minutes.
+A [hemocytometer][] is used to estimate the number of cells in a fluid (originally created for blood cells and thus the heme- prefix). It is a glass plate with a chamber designed for a specific amount of fluid and thus a fixed volume. The glass normally has laser-etched squares of dimensions of, for example, 1mm wide x 1mm tall x 0.1mm depth, or 0.1 mm<sup>3</sup>, or 10<sup>-4</sup> mL. Estimate the number of cells per mL:
+
+1. Count the number of cells per square in a few of the squares.
+1. Take the average of these counts.
+1. Multiply the average by 10<sup>4</sup> to calculate the approximate number of cells per mL.
+
+### Fixation
+
+[Fixation][] is the process of preserving biological cells and tissues by introducing a substance that minimizes biological reactions. It is generally done in preparation for staining (discussed in the next section). Fixation may be done by washing with PBS and then adding 95% ethanol solution for about 10 minutes.
 
 Mounting media may be used on a microscope slide to solidify cells' positions. Examples include Permount, glutaraldehyde fixative solution, aqueous mounting medium (Anti-Fade), etc.
+
+[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
+
+Formalin-fixed paraffin and paraformaldehyde are often used to fix antigens.
 
 ### Staining
 
@@ -2886,19 +2923,11 @@ A [differential stain][] uses multiple dyes to identify different classes of org
 
 A structural stain helps visualize bacterial structures such as flagella, endospores, and capsules.
 
-[Heat-fixing][] is used to dessicate and kill bacteria to preserve their shape and size, and firmly attach them to the slide to withstand the wash steps during staining.
+[DAPI][] is a fluorescent dye (presenting as blue) that binds to Adenine and Thymine rich regions such as DNA. It can pass through cell membranes and the nuclear membrane.
 
 A Coplin jar has grooves to hold microscope slides.
 
-### Hemocytometer
-
-A [hemocytometer][] is used to estimate the number of cells in a fluid (originally created for blood cells and thus the heme- prefix). It is a glass plate with a chamber designed for a specific amount of fluid and thus a fixed volume. The glass normally has laser-etched squares of dimensions of, for example, 1mm wide x 1mm tall x 0.1mm depth, or 0.1 mm<sup>3</sup>, or 10<sup>-4</sup> mL. Estimate the number of cells per mL:
-
-1. Count the number of cells per square in a few of the squares.
-1. Take the average of these counts.
-1. Multiply the average by 10<sup>4</sup> to calculate the approximate number of cells per mL.
-
-### Hematotoxylin and Eosin staining
+#### Hematotoxylin and Eosin staining
 
 [Hematotoxylin and Eosin (H&E) staining][] is used to visualize tissues (or adherent, spread out cells) with bright-field microscopes and often used on biopsies. Hematoxylin binds to nucleic acids and stains purple. Eosin (combined with Orange G) stains cytoplasmic material in a lighter purple. This stain helps to visualize the concentration of cells.
 
@@ -2910,7 +2939,7 @@ Lipid fluorescent dye labeling is a staining procedure which uses lipophillic, f
 
 ### Immunohistochemistry
 
-[Immunohistochemistry][] (IHC, or [immunofluorescence][]) uses an antibody that targets something in the cell and couples the antibody to a fluorophore (together called a fluorescent antibody) or another chemical (e.g. [HRP][]) that creates a colored dye when stained. Example fluorophores are Alexa488 (emits green when excited by blue), Alexa568 (emits red when excited by yellow/green), fluorescein (emits red when excited by yellow/green), and rhodamine (emits red when excited by yellow/green).
+[Immunohistochemistry][] (IHC, or [immunofluorescence][]) uses an antibody that targets something in the cell and couples the antibody to a fluorophore (together called a fluorescent antibody) or another chemical (e.g. [HRP][]) that creates a colored dye when stained. Example fluorophores are Alexa488 (emits green when excited by blue), Alexa568 (emits red when excited by yellow/green), fluorescein (emits red when excited by yellow/green), rhodamine (emits red when excited by yellow/green), [FITC][], and [Texas red][].
 
 Indirect immunohistochemistry uses a "primary antibody" or anti-A (with anti- standing for antibody and A being the antigen or target cellular structure) along with a "secondary antibody" that binds to the primary antibody. The secondary antibody has the fluorophore or dye-related substance attached. This technique is popular because the process of creating the secondary antibody is not simple and yet it has a generic target of the primary antibody rather than the specific antigen targeted with the primary antibody which may be separately made. This may reduce costs and the targeting of a more pronounced primary antibody may amplify the microscopy signal.
 
@@ -2918,13 +2947,15 @@ Direct immunohistochemistry uses a single antibody with fluorophore or dye-relat
 
 [Immunocytochemistry][] (ICC) is like immunohistochemistry but focused on just the cells without anything else such as extracellular matrix.
 
-[Bovine Serum Albumin][] (BSA) is a protein used as a blocking buffer which binds non-specific binding sites and increases the chances that antibodies will only bind to antigens of interest.
+[Bovine Serum Albumin][] (BSA), Normal Goat Serum (NGS) and others are proteins used as a blocking buffer which bind non-specific binding sites and increases the chances that antibodies will only bind to antigens of interest.
+
+A positive control is used to test a protocol without introducing an experimental variable. A negative control is used to test the specificity of an antibody.
 
 ### Viability assay
 
 A [viability assay][] studies cells and tissues under experimental conditions. Examples include observing proliferation and death depending on growth factors (proliferation assay), toxicity (cytotoxicity assay), drug effectiveness, etc. These assays generally work by introducing a reagent that interacts with metabolic chemicals produced by living cells such as ATP, NADH, etc. The reacted product has fluro- or chemiluminescence that may be observed by microscopy. The amount of color change is an approximation of the amount of cells and their liveliness.
 
-One common assay is the [MTT assay][]. A similar assay is the MTS assay (same as WST) in which MTS tetrazolium is reduced by NADH-dependent dehydrogenase enzymes in metabolically active cells and generates a formazan dye which can be measured in the 490-500nm range.
+One common viability assay is the MTS assay (or WST-8) in which MTS tetrazolium is reduced by NADH-dependent dehydrogenase enzymes in metabolically active cells (NADH production) and generates a formazan dye which can be measured in the 490-500nm range (orange). A similar assay is the [MTT assay][] which has additional lysis and washing steps.
 
 ### Electrophoresis
 
@@ -2950,7 +2981,11 @@ An [Enzyme-Linked Immunosorbent Assay][] (ELISA) measures amounts of a ligand su
 
 ### Methotrexate
 
-[Methotrexate][] has a structure similar to folic acid and thus blocks enzymes that require folic acid as a co-factor. For example, folic acid is a key co-factor for enzymes involved in tetrahydrofolate synthesis which is required to synthesize thymidine. Inhibiting thymidine production reduces DNA replication. Therefore, methotrexate may be used to reduce cell division (and it's sometimes used as an anti-cancer drug).
+[Methotrexate][] (or amethopterin, MTX, trexall, rheumatrex, otrexup) has a structure similar to folic acid and blocks enzymes that require folic acid as a co-factor. For example, folic acid is a key co-factor for enzymes involved in tetrahydrofolate synthesis which is required to synthesize the nucleoside thymidine (which includes the nucleobase thymine). Inhibiting thymidine production reduces or eliminates DNA replication. Therefore, methotrexate may be used to reduce cell division (and thus sometimes used as a chemotherapy drug).
+
+### Cryosectioning
+
+[Cryosectioning][] is preparation of thin cross-sections (generally ~10 microns deep) from frozen tissue samples onto slides. The sections are cut from the tissue using a [microtome][] slicer mounted in a [cryostat][]. The tissue is first placed within a mold and into a jell-like [Optimal Cutting Temperature (OCT) compound][] which preserves the tissue when frozen (generally at -20°C; same as dry ice). When ready for cryosectioning, the mold and tissue are secured into the cryostat (generally at -15°C to -20°C) in a chuck.
 
 ### Practical Biology
 
@@ -3010,6 +3045,16 @@ Examples of tumor-suppressor genes:
 Some viruses may cause cancer such as the [Epstein-Barr Virus][], [Papillomavirus][], and [HTLV-I][].
 
 The [Ames Test][] applies a chemical to a Salmonella Typhimurium bacteria which is auxotrophic for Histidines to see if the chemical causes excessive mutations be creating mutants that are prototrophic.
+
+## Deep Dives
+
+### Fibroblast Cells
+
+Fibroblast migration, proliferation, differentiation, and distribution of extracellular matrix can be stimulated by various cytokines such as:
+
+* Transforming growth factor-beta 1 (TGF-β1): Activates the genes for fibronectin and [alpha smooth muscle actin][] (α-SMA). The PPAR gamma agonist, Rosiglitazone, [prevents TGF-β1 induced fibrosis secretion of fibronectin and α-SMA][Nuwormegbe et al., 2017].
+
+[Fibrosis][] (and fibrotic scarring) is a disease in which excess fibroblast cell activity leads to excess deposition of extracellular matrix components such as collagin or fibronectin. This may impede the functioning of nearby tissues because of excess thickening around the tissue affecting growth and healing or due to excess tension in connective tissue.
 
 ## Appendix
 
@@ -3170,6 +3215,7 @@ if (elements.length) {
 [allosteric modulator]: https://en.wikipedia.org/wiki/Allosteric_regulation#Allosteric_modulation
 [allosteric sites]: https://en.wikipedia.org/wiki/Allosteric_regulation
 [alpha cells]: https://en.wikipedia.org/wiki/Alpha_cell
+[alpha smooth muscle actin]: https://en.wikipedia.org/wiki/ACTA2
 [alternation of generations]: https://en.wikipedia.org/wiki/Alternation_of_generations
 [alternative pathway]: https://en.wikipedia.org/wiki/Alternative_complement_pathway
 [alternative rna splicing]: https://en.wikipedia.org/wiki/Alternative_splicing
@@ -3601,6 +3647,8 @@ if (elements.length) {
 [cristae]: https://en.wikipedia.org/wiki/Crista
 [crop rotation]: https://en.wikipedia.org/wiki/Crop_rotation
 [crustaceans]: https://en.wikipedia.org/wiki/Crustacean
+[cryosectioning]: https://en.wikipedia.org/wiki/Frozen_section_procedure
+[cryostat]: https://en.wikipedia.org/wiki/Cryostat
 [culture]: https://en.wikipedia.org/wiki/Culture
 [culture splitting]: https://en.wikipedia.org/wiki/Subculture_(biology)
 [cuticle]: https://en.wikipedia.org/wiki/Cuticle
@@ -3619,6 +3667,7 @@ if (elements.length) {
 [cytoskeleton]: https://en.wikipedia.org/wiki/Cytoskeleton
 [cytosol]: https://en.wikipedia.org/wiki/Cytosol
 [cytotoxic t cells]: https://en.wikipedia.org/wiki/Cytotoxic_T_cell
+[DAPI]: https://en.wikipedia.org/wiki/DAPI
 [day]: https://en.wikipedia.org/wiki/Day
 [day-neutral plants]: https://en.wikipedia.org/wiki/Photoperiodism
 [debate multiple bacteria chromosomes]: https://www.ncbi.nlm.nih.gov/pubmed/20080407
@@ -3658,6 +3707,7 @@ if (elements.length) {
 [dikaryotic]: https://en.wikipedia.org/wiki/Dikaryon
 [dilation]: https://en.wikipedia.org/wiki/Dilation#Physiology_or_medicine
 [dimensional analysis]: https://www.khanacademy.org/math/algebra/units-in-modeling/rate-conversion/v/dimensional-analysis-units-algebraically
+[dimethyl sulfoxide]: https://en.wikipedia.org/wiki/Dimethyl_sulfoxide
 [dimers]: https://en.wikipedia.org/wiki/Dimer_(chemistry)
 [diploid]: https://en.wikipedia.org/wiki/Ploidy#Diploid
 [diplomonads]: https://en.wikipedia.org/wiki/Diplomonad
@@ -3873,13 +3923,16 @@ if (elements.length) {
 [fetus]: https://en.wikipedia.org/wiki/Fetus
 [fibroblast cells]: https://en.wikipedia.org/wiki/Fibroblast
 [fibronectin]: https://en.wikipedia.org/wiki/Fibronectin
+[fibrosis]: https://en.wikipedia.org/wiki/Fibrosis
 [fight against entropy]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255588/
 [filament]: https://en.wikipedia.org/wiki/Stamen
 [filtrate]: https://en.wikipedia.org/wiki/Filtration
 [filtration]: https://en.wikipedia.org/wiki/Filtration
+[fixation]: https://en.wikipedia.org/wiki/Fixation_(histology)
 [fixed action pattern]: https://en.wikipedia.org/wiki/Fixed_action_pattern
 [fimbriae]: https://en.wikipedia.org/wiki/Fimbria_(bacteriology)
 [fischer projections]: https://www.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates/v/fischer-projections
+[FITC]: https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate
 [flagella]: https://en.wikipedia.org/wiki/Flagella
 [flatworms]: https://en.wikipedia.org/wiki/Flatworm
 [flavin adenine dinucleotide]: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide
@@ -4380,6 +4433,7 @@ if (elements.length) {
 [microscope slide]: https://en.wikipedia.org/wiki/Microscope_slide
 [microsporangia]: https://en.wikipedia.org/wiki/Sporangium
 [microrna]: https://en.wikipedia.org/wiki/MicroRNA
+[microtome]: https://en.wikipedia.org/wiki/Microtome
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
 [microvilli]: https://en.wikipedia.org/wiki/Microvillus
 [mid-ocean ridges]: https://en.wikipedia.org/wiki/Mid-ocean_ridge
@@ -4562,6 +4616,7 @@ if (elements.length) {
 [opsonization]: https://en.wikipedia.org/wiki/Opsonin
 [optic nerve]: https://en.wikipedia.org/wiki/Optic_nerve
 [optics]: https://en.wikipedia.org/wiki/Optics
+[optimal cutting temperature (oct) compound]: https://en.wikipedia.org/wiki/Optimal_cutting_temperature_compound
 [orbitalmax2e]: https://en.wikipedia.org/wiki/Electron_configuration#Shells_and_subshells
 [orbitals]: https://en.wikipedia.org/wiki/Atomic_orbital
 [orders]: https://en.wikipedia.org/wiki/Order_(biology)
@@ -4756,6 +4811,7 @@ if (elements.length) {
 [posterior]: https://en.wikipedia.org/wiki/Anatomical_terms_of_location#Anterior_and_posterior
 [potential energy]: https://en.wikipedia.org/wiki/Potential_energy
 [power stroke]: https://en.wikipedia.org/wiki/Myosin#Power_stroke
+[Nuwormegbe et al., 2017]: https://doi.org/10.1167/iovs.17-22203
 [pq]: https://en.wikipedia.org/wiki/Plastoquinone
 [pre-messenger rna]: https://en.wikipedia.org/wiki/Primary_transcript
 [precipitation]: https://en.wikipedia.org/wiki/Precipitation_(chemistry)
@@ -5143,6 +5199,7 @@ if (elements.length) {
 [tetramers]: https://en.wikipedia.org/wiki/Tetramer
 [tetrahydride]: https://en.wikipedia.org/wiki/Group_14_hydride
 [tetrapods]: https://en.wikipedia.org/wiki/Tetrapod
+[texas red]: https://en.wikipedia.org/wiki/Texas_Red
 [thalamus]: https://en.wikipedia.org/wiki/Thalamus
 [therapsids]: https://en.wikipedia.org/wiki/Therapsid
 [thermal conduction]: https://en.wikipedia.org/wiki/Thermal_conduction
@@ -5189,6 +5246,7 @@ if (elements.length) {
 [transferases]: https://en.wikipedia.org/wiki/Transferase
 [transform boundary]: https://en.wikipedia.org/wiki/Transform_fault
 [transform faults]: https://en.wikipedia.org/wiki/Transform_fault
+[transforming growth factor-beta 1]: https://en.wikipedia.org/wiki/TGF_beta_1
 [transformation]: https://en.wikipedia.org/wiki/Transformation_%28genetics%29
 [transgenes]: https://en.wikipedia.org/wiki/Transgene
 [transition metal]: https://en.wikipedia.org/wiki/Transition_metal
