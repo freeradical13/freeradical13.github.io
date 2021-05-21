@@ -1015,7 +1015,7 @@ An organism is an object with the properties of life.
 
 A [species][] is a somewhat ambiguous term that describes a group of closely related organisms across time and space, and species are generally differentiated by groups of organisms that may reproduce sexually with each other, or by physical and genetic similarities for asexual organisms. A [population][] is a group of organisms of the same species in the same area. A [community][] is a group of populations of different species. A [metapopulation][] is a group of populations of the same species in some area that may immigrate and emmigrate between each other.
 
-[Symbiosis][] is a condition where multiple species (smallest ones called [symbionts][]) live in close contact with a larger species (the [host][]). In [mutualism][], the species benefit each other. In [commensalism][], one species benefits and the others are not significantly affected. In [parasitism][], one species benefits and the other is hurt.
+[Symbiosis][] is when one species (the [symbiont][]) lives in close contact with another species (the [host][]). In [mutualism][], the species benefit each other. In [commensalism][], one species benefits and the others are not significantly affected. In [parasitism][], one species (the parasite) exploits the host. In [mutualistic parasitism][McKay, D. M. (2009). The therapeutic helminth?. Trends in parasitology, 25(3), 109-114.], the parasite exploits and benefits the host.
 
 An [autotroph][] (or producer) is a self-feeding organism and produces its own organic compounds needed for survival (also called nutrition or food) from simple elementary entities and chemicals from its environment. A [heterotroph][] (or consumer) cannot produce its own food so it must consume autotrophs or their products. A [mixotroph][] can be either autotrophic and/or heterotrophic.
 
@@ -2792,6 +2792,23 @@ A [DNA Library][] is a collection of DNA framents stored in a population of orga
 
 [X-Ray Crystallography][] focuses an X-ray beam through a substance on a detector that creates a 3D structures from the defraction of the X-ray beams by the atoms of the substance.
 
+### Aliquot
+
+An [aliquot][] is a sample of a larger whole, usually an exact divisor. For example, a 10mL sample of a 100mL solution is an aliquot.
+
+### Pipette
+
+A [pipette][] (or pipet) is used to transfer a measured volume of liquid. Disposable tips are used to reduce cross-contamination. Common pipette ranges are: P10 = 0.5μL - 10μL, P20 = 2μL - 20μL, P200 = 20μL - 200μL, P1000 = 200μL - 1000μL, and P5000 = 1000μL - 5000μL.
+
+Procedure:
+
+1. If necessary, set the dial of the pipette to the desired volume.
+2. Add a disposable tip.
+3. Press down to the first "stop".
+4. Put the pipette in the source solution.
+5. Release the pipette stopper to take up the configured amount of solution.
+6. Put the pipette in the target location and press down past the first stop and all the way to the second stop.
+
 ### Dilution
 
 #### Serial Dilution
@@ -2805,8 +2822,8 @@ If you start with a solution with a concentration of some substance C<sub>1</sub
 If the resulting volume would be too small to accurately extract (e.g. <code>&lgt; 1μL</code>), then perform a serial dilution with a maximum dilution of 1,000 fold at every step:
 
 1. Find the ratio of concentrations using <code>C<sub>1</sub> / C<sub>2</sub></code>.
-2. Iteratively divide this ratio by 1,000 to create the dilution steps. For example, if the ratio is 40,000, then the first dilution is by 1,000 fold and the next dilution is by 40 fold.
-3. For each dilution step, remove X amount of the previous solution and put into a solution of <code>Y - X</code> solution (e.g. PBS, etc.) where <code>X + Y = ratio</code>. For example, if a dilution step is to dilute by 40 fold and the starting concentration is <code>100 μg/mL</code>, then take 1μL (X) of this solution and add to 39μL (Y-X) to create 40μL of <code>100 / 40 = 2.5μg/mL</code> solution.
+2. Iteratively divide this ratio by 1,000 to create the dilution steps. For example, if the ratio is 40,000, then the first dilution is by 40 fold and the next dilution is by 1,000 fold.
+3. For each dilution step, remove X amount of the previous solution and put into a solution of <code>Y - X</code> solution (e.g. PBS, etc.) where <code>X + Y = ratio</code>. For example, if a dilution step is to dilute by 40 fold and the starting concentration is <code>100 μg/mL</code>, then take 1μL (X) of this solution and add to 39μL (ratio-X) to create 40μL of <code>100 / 40 = 2.5μg/mL</code> solution.
 4. At any point, use the <code>C<sub>1</sub> × V<sub>1</sub> = C<sub>2</sub> × V<sub>2</sub></code> formula. In the above example, to perform the last 1,000 fold dilution, C<sub>1</sub> = 2.5μg/mL, C<sub>2</sub> = 2.5ng/mL (divide by 1,000), and V<sub>2</sub> = 10mL (for example), then V<sub>1</sub> = 10μL.
 
 ### Standard Curve
@@ -2874,8 +2891,6 @@ Common media include:
 * [Agar plates][] with a high melting point of 85°C ([agar][] is a jelly from red algae made of 70% agarose [a polymer of galactose] and 30% [agaropectin][] [various small molecules such as sulfates and pyruvates]).
 * Minimal Essential Medium ([MEM][]) and variants such as DMEM which has glucose, salts, amino acids, and vitamins.
 * DMEM + 5-20% animal serum such as fetal bovine serum (FBS) + antibiotic + antimycotic: The fetal serum includes growth factors and cytokines to help signal cells to grow (as if exposed to natural blood serum). The antibiotic and antimycotic reduce the chances of bacteria or mold to grow in the medium.
-
-
 
 Use a marker to write on the outside of the non-cover part (in case the cover falls off) before use with a date, time, and description. When not in use, tape the lid to the plate and write the same information on the tape. Plates are stored "upside down" (agar up; lid down) to avoid condensation (e.g. from temperature changes or microbe metabolism) falling back down on the plate.
 
@@ -2973,7 +2988,15 @@ A [Western blot][] is similar to a Southern or Northern blot, but it's for prote
 
 ### Polymerase Chain Reaction
 
-[Polymerase chain reaction][] (PCR) exponentially replicates DNA sequences using heat cycles. Synthesized DNA primers target the beginning and end sequences of the desired DNA for replication. Heat is increased until double-stranded DNA is split into single strands. Heat is lowered and the primers anneal to the 3' ends of the single strands. DNA polymerase (such as [Taq][]) duplicates the two primed strands. Heat is increased to start the cycle again, and given enough nucleotide materials, the sequences keep doubling through each cycle.
+[Polymerase chain reaction][] (PCR) exponentially replicates DNA sequences using heat cycles. Each product (or source) of a replication is called an [amplicon][]. Synthesized DNA primers target the beginning and end sequences of the desired DNA for replication. Heat is increased until double-stranded DNA is split into single strands. Heat is lowered and the primers anneal to the 3' ends of the single strands. DNA polymerase (such as [Taq][]) duplicates the two primed strands. Heat is increased to start the cycle again, and given enough nucleotide materials, the sequences keep doubling through each cycle.
+
+#### Quantitative Real-Time PCR
+
+[Quantitative Real-Time PCR][] (qPCR) monitors the rate of amplication of PCR in real-time by detecting fluorescence of a fluorophore that binds to double-stranded DNA (e.g. [SYBR Green][]). If done in combination with a housekeeping gene with a known rate of amplification, then the relative amount of DNA can be estimated.
+
+#### Reverse Transcription PCR
+
+[Reverse Transcription PCR][] (RT-PCR) uses reverse transcriptase to create cDNA from RNA which is then processed through PCR. RT-PCR may also be used with qPCR (qRT-PCR) for quantitative real-time reverse transcriptase PCR. Generally, "RT" in this context is reserved for use as an acronym only for Reverse Transcription rather than Real Time as that may cause confusion.
 
 ### Enzyme-Linked Immunosorbent Assay
 
@@ -3196,6 +3219,7 @@ if (elements.length) {
 [algebra]: https://www.khanacademy.org/math/algebra
 [alimentary canal]: https://en.wikipedia.org/wiki/Gastrointestinal_tract
 [aliphatic]: https://en.wikipedia.org/wiki/Aliphatic_compound
+[aliquot]: https://en.wikipedia.org/wiki/Sample_(material)#Aliquot_part
 [alkali]: https://en.wikipedia.org/wiki/Alkali
 [alkali metals]: https://en.wikipedia.org/wiki/Alkali_metal
 [alkaline phosphatase]: https://en.wikipedia.org/wiki/Alkaline_phosphatase
@@ -3240,6 +3264,7 @@ if (elements.length) {
 [amphibians]: https://en.wikipedia.org/wiki/Amphibians
 [amphipathic]: https://en.wikipedia.org/wiki/Amphiphile
 [amphoteric]: https://en.wikipedia.org/wiki/Amphoterism
+[amplicon]: https://en.wikipedia.org/wiki/Amplicon
 [amygdala]: https://en.wikipedia.org/wiki/Amygdala
 [amylopectin]: https://en.wikipedia.org/wiki/Amylopectin
 [amylose]: https://en.wikipedia.org/wiki/Amylose
@@ -4380,6 +4405,7 @@ if (elements.length) {
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
+[McKay, D. M. (2009). The therapeutic helminth?. Trends in parasitology, 25(3), 109-114.]: https://doi.org/10.1016/j.pt.2008.11.008
 [mechanoreceptors]: https://en.wikipedia.org/wiki/Mechanoreceptor
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [megakaryocytes]: https://en.wikipedia.org/wiki/Megakaryocyte
@@ -4758,6 +4784,7 @@ if (elements.length) {
 [pili]: https://en.wikipedia.org/wiki/Pilus
 [pineal gland]: https://en.wikipedia.org/wiki/Pineal_gland
 [pinocytosis]: https://en.wikipedia.org/wiki/Pinocytosis
+[pipette]: https://en.wikipedia.org/wiki/Pipette
 [pistil]: https://en.wikipedia.org/wiki/Gynoecium#Pistils
 [pith]: https://en.wikipedia.org/wiki/Pith
 [pituitary gland]: https://en.wikipedia.org/wiki/Pituitary_gland
@@ -4886,6 +4913,7 @@ if (elements.length) {
 [pyrimidines]: https://en.wikipedia.org/wiki/Pyrimidine
 [pyruvate oxidation]: https://en.wikipedia.org/wiki/Pyruvate_decarboxylation
 [pyy]: https://en.wikipedia.org/wiki/Peptide_YY
+[Quantitative Real-Time PCR]: https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction
 [quaternary structure]: https://en.wikipedia.org/wiki/Biomolecular_structure#Quaternary_structure
 [quorum sensing]: https://en.wikipedia.org/wiki/Quorum_sensing
 [r and s configurations]: https://en.wikipedia.org/wiki/Absolute_configuration#By_absolute_configuration:_R-_and_S-
@@ -5149,7 +5177,8 @@ if (elements.length) {
 [suspension feeders]: https://en.wikipedia.org/wiki/Filter_feeder
 [suspensor]: https://en.wikipedia.org/wiki/Suspensor#Plants
 [swallowing]: https://en.wikipedia.org/wiki/Swallowing
-[symbionts]: https://en.wikipedia.org/wiki/Symbiosis
+[SYBR Green]: https://en.wikipedia.org/wiki/SYBR_Green_I
+[symbiont]: https://en.wikipedia.org/wiki/Symbiosis
 [symbiosis]: https://en.wikipedia.org/wiki/Symbiosis
 [sympathetic nervous system]: https://en.wikipedia.org/wiki/Sympathetic_nervous_system
 [sympatric speciation]: https://en.wikipedia.org/wiki/Sympatric_speciation
