@@ -4405,7 +4405,7 @@ if (elements.length) {
 [matter]: https://en.wikipedia.org/wiki/Matter
 [maturation-promoting factor]: https://en.wikipedia.org/wiki/Maturation_promoting_factor
 [maximum speed of light]: https://en.wikipedia.org/wiki/Speed_of_light
-[McKay, D. M. (2009). The therapeutic helminth?. Trends in parasitology, 25(3), 109-114.]: https://doi.org/10.1016/j.pt.2008.11.008
+[McKay, D. M. (2009). The therapeutic helminth?. Trends in parasitology, 25(3), 109-114.]: https://doi.org/10.1016/j.pt.2008.11.008 'McKay, D. M. (2009). The therapeutic helminth?. Trends in parasitology, 25(3), 109-114.'
 [mechanoreceptors]: https://en.wikipedia.org/wiki/Mechanoreceptor
 [medulla oblongata]: https://en.wikipedia.org/wiki/Medulla_oblongata
 [megakaryocytes]: https://en.wikipedia.org/wiki/Megakaryocyte
